@@ -1,5 +1,5 @@
 var NOT_EXIST = 'https://chandravigs.github.io/404.html';
-
+var capstoneData;
 (function ($, document) {
 
     var Student = function (id, fName, lName, profilePicture, title, description, keywords, certificate, images, presentation, video, brochure, contact) {
@@ -31,6 +31,7 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
             if (status == 'success') {
                 //creates student profile and project 
                 createMain(data.studentData)
+		capstoneData = data.studentData;
 
                 //creates the remaining content of the page
                 createRemaining(data.other);
@@ -170,7 +171,6 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
             keys.append(`<span class='chip'>${element.keywords[i]}</span>`);
         }
 
-        console.log(element.brochure);
         //creates resource button=> presentation, brochure, video
         var reso = $('<div>', { class: 'resources' })
             .append(`<button class='res-box' onclick="location.href='${element.brochure.link}'">Brochure</button>`)
@@ -203,7 +203,6 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
     }
     //creates bottom page elements (class photos, outstanding section, presenter section, graduate assistant section)
     function createRemaining(data) {
-        console.log(data)
 
         var stuRecognition = $("<div>", {
             class: "student-recognition"
@@ -237,7 +236,6 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
     //handles previous button click
     $(document).on("click", "#previous_button", function () {
         var id = $(this).parent().attr('id');
-        console.log('old id ' + id)
         nextORprev('prev', id);
     });
 
@@ -253,7 +251,7 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
     img_id = find current image id so it can be updated when looping to another image
     */
     function nextORprev(button, id) {
-        var images = cap_project.studentData.find(stu => stu.id == id)['images'];
+        var images = capstoneData.find(stu => stu.id == id)['images'];
         var imgId = $(`#${id}.images`).find('img').attr('id');
         var imgIndex = imgId.substring(imgId.lastIndexOf('_') + 1);
 
