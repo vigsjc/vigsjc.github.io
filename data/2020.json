@@ -1,0 +1,576 @@
+{
+  "studentData": [
+    {
+      "id": 202001,
+      "firstName": "Adam",
+      "lastName": "Jeffries",
+      "projectTitle": "Cat-Feedertron 3000",
+      "projectDesc": "This Project aims to answer the question: “Who will feed my cat when I’m not home?” The goal of the project is to create a pet feeder that is fully automated, so your pet will be fed on time every time. The Raspberry Pi micro computer will control a motor that is connected to a dispensor that will dispense food either on a timer, or by the push of a virtual button.",
+      "keywords": "Raspberry Pi, IoT, Pet Feeder, MQTT, SSH, Python",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1a-kr_iCUP24_iz4qTgme5QAsjbBkUeRZ",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1Ijq1M4bGFZDA4kqpt1H9603TC2DoId-h",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1IrXIxXTenH0-wdNTSDtielTqFxILssyC",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=19-8RK1995sCR50Ewi_Htc0W2PQsB1JBS",
+      "contact": "https://www.linkedin.com/in/jeffriesadam"
+    },
+    {
+      "id": 202002,
+      "firstName": "Arnold",
+      "lastName": "Alley",
+      "projectTitle": "The Alley Home Automation Project",
+      "projectDesc": "This Project aimed to improve and facilitate daily activities and routines.The goal of the project was to create a home automation hub on a Raspberry Pi micro-computer and allow it to control a light.It should be controllable from a PC, notepad, or smart phone and from in the home or anywhere in the world with a connection to the internet. The journal article I found in the International Journal of Business and Social Science about project management help in my planning for this project (Almgren, 2014, p. 84-91).",
+      "keywords": "Raspberry Pi, IoT, Home Assistant, MQTT, DuckDNS, Shelly 1",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1mCMKx76P-sg3zihQ4vWYZ_RnzgWJJPzu",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1mCMKx76P-sg3zihQ4vWYZ_RnzgWJJPzu",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1nYCR2KnUyL5Jti88w7-whCnX2k8e1y4s",
+      "video": [
+        "https://www.youtube.com/watch?v=TqAdMgXxKZY&feature=youtu.be",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1YzCdW_XzlCNQwdcToDidb2dQSYwpXRsy",
+      "contact": "arnold_alley6@mymail.eku.edu"
+    },
+    {
+      "id": 202003,
+      "firstName": "Bereket",
+      "lastName": "Degefa",
+      "projectTitle": "Restock: Flutter Based Mobile APP",
+      "projectDesc": "This project help tackle an issue presented by a company that manufactures polypropylene bags. The problem arises from the process taken to prepare a raw list of supplied materials and spare parts. The company creates a spreadsheet of the items they would like to restock and send that to their supplier. However, this process is lenghtly and time consuming as they currently have to make measurements of each item individually, take photoes and identity them by name. My app is designed to bring ease to this process and also provide good friendly user interface. As much as this project is designed based on the noted company, the app will work with any company or individuals who would like to have an easy restocking process for shops, markets or any parts that is regularly ordered in bulk.",
+      "keywords": "Flutter, Dart, Firebase, Firebase MLKit",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1TyFW8BM4ddMI7_4kA8g0lnkLaic98dZs",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1TyFW8BM4ddMI7_4kA8g0lnkLaic98dZs",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1dyal4dXTnd9NOocS7I-_-krXJpsi3xQZ",
+      "video": ["https://youtu.be/YfjYlPxxEEU", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1SakyV1CG8ZCIlKPEL7yY7yv0Tzm0xasW",
+      "contact": "https://www.linkedin.com/in/bereketdegefa"
+    },
+    {
+      "id": 202004,
+      "firstName": "Derek",
+      "lastName": "Russell",
+      "projectTitle": "Pi Bridge",
+      "projectDesc": "I live on a farm with several barns that are within line of sight of my house. My house has internet but none of the barns do. Often times when we are at these barns, we are working on things that require research that we do on our phones. The cellular service isn’t the best, so I proposed setting up a wireless bridge that will allow access to my home network from the barn. This bridge will have two parts; the access point (a device sending a wireless signal) and a bridge (a device that receives a signal, then passes that signal on to another device through an Ethernet interface or another Wi-Fi interface.)",
+      "keywords": "Access point, Bridge, Home network, internet",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ROY5WuX_pNlBl772SgitFQlGBAWmnpH9",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1BmLwEas1h4SxTW9z_FkExDfUwXe9iEkE",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1pI1o2eEjLtphaBHfoY_3EAgyyI7XlMr4",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1KT24dOgib2OND2ygFOhFeo2B_es_uvkj",
+      "contact": "https://www.linkedin.com/in/derek-a-russell"
+    },
+    {
+      "id": 202005,
+      "firstName": "Erich",
+      "lastName": "Wellemeyer",
+      "projectTitle": "The Prickly Project",
+      "projectDesc": "Due to Covid-19 and the unavailability of resources needed to complete my capstone project an \n alternative project has been created. This new Project (The Prickly Project) is a WIFI bridging \n project between a Caribbean hotel and a small island located just off the shore. This island \n (Prickly Pear Island) does not receive reliable cell signal and has no internet or cellular \n connectivity. The Island of Prickly Pear is used by hundreds of cruise ship passengers per year \n and used by the hotel as a small excursion for guests. The WIFI bridge aims to bring high speed \n reliable internet connectivity where it has never existed before.",
+      "keywords": "Wi-Fi bridging, Internet connectivity",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1-8LBGv5KYijO25gJF9f8UTvqOV-yc3Zz",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1-8LBGv5KYijO25gJF9f8UTvqOV-yc3Zz",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=18YK4fcAC-abXTEPK47LisPnHWrqk5Fl0",
+      "video": ["https://youtu.be/NdzI8czitj4", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1KNT0Mf2vd39BBJ-xIos5BWAPquMK20xx",
+      "contact": "Erich@Wellemeyer.com"
+    },
+    {
+      "id": 202006,
+      "firstName": "Hunter",
+      "lastName": "West",
+      "projectTitle": "HTML Web Scraping with AWS and Python",
+      "projectDesc": "This project’s purpose is to create a solution that resolves the problem of scraping crucial HTML (Hyper Text Markup Language) data and exporting said data into a cloud environment. The goal of my project is to create a Python script that will scrape various HTML (Hyper Text Markup Language) websites and export the data into an AWS (Amazon Web Service) cloud environment. A Python script that calls upon the Beautiful Soup module, runs within an AWS (Amazon Web Service) EC2 (Elastic Compute Cloud) instance. This script then parses the data and exports it into a CSV File for ease of access.",
+      "keywords": "AWS, Python, HTML, EC2, Beautiful Soup, Web Scraping",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1zLgWW-gJkZ4WIHl58Xj3KBCKzgIKiG4g",
+      "certificates": {
+        "CCNA": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
+        "AWS CSA": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1zLgWW-gJkZ4WIHl58Xj3KBCKzgIKiG4g",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1tCsaOBsqy5RlHXxNGSxZ-iVttkNRUHAY",
+      "video": ["https://www.youtube.com/watch?v=cyjpwHM0qP0", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1h2PIYMRLqBtjTFXzQ0PD0L54XLE5xd5Z",
+      "contact": "https://www.linkedin.com/in/william-h-west"
+    },
+    {
+      "id": 202007,
+      "firstName": "Jack",
+      "lastName": "Mills",
+      "projectTitle": "Homemade Wi-Fi Booster",
+      "projectDesc": "One key goal of my capstone project, my custom-built Wi-Fi booster, is to be able to obtain and detect Wi-Fi signals and to amplify those signals so that they can be extended beyond the usual range of the Wi-Fi signals. I also want the Wi-Fi signals to retain the same signal strength while being amplified at a farther distance. \n Another key goal of my custom-built Wi-Fi booster is to provide a cheaper alternative for a Wi-Fi booster that also works just as well as a commercially available Wi-Fi booster and provide the same service at cheaper costs. \n The current status of my custom-built Wi-Fi booster is that I have just recently finished building it. I am about to test it and record the results of the Wi-Fi booster.",
+      "keywords": "Wi-Fi booster, custom alternative",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1KCyYpG23GYUkCyu9d2dgHK7BuEWl0lEW",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1KCyYpG23GYUkCyu9d2dgHK7BuEWl0lEW",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1RcqWz43CfkLWlHsJ9O23Enb59yFpEbdD",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1VZyaMTkh3T__CLMR6pdlGEURDfDXq_43",
+        "https://drive.google.com/uc?export=view&id=1Z1v-qACGLGEkhBbXiPZ4XCK7-pp4I5_c"
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1QDCNvIXsYYct2Zo8ZTqxS8TlSo2dC1ki",
+      "contact": null
+    },
+    {
+      "id": 202008,
+      "firstName": "Jacob",
+      "lastName": "Able",
+      "projectTitle": "Home file server",
+      "projectDesc": "This project is being created to give purpose to some of my old computer hardware in a way that is useful to myself and others around the house. The goal is to create a working system from old, retired computer hardware in order to create a home file server or NAS (Network Attached Storage). The computer will run independently and out of site but will be accessible by any computer on the home network, as long as they have the password. It was also a goal to do this entire project on a budget of $0.",
+      "keywords": "FreeNAS, File Server, Repurposed Parts, NAS",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Yoj_8wh2sCttzFSX4YoG40rrkM-Q9f06",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1I7Fi-qHzxO58AK7_ZfTxXLrpVs0ds21a",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1jBUrtMnibc_FmhhKYUisbp0V9P36fSra",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1Q8STfmGL58LiMh_6p-pOf_trDTZVtbKm",
+      "contact": "jacob_able1@mymail.eku.edu"
+    },
+    {
+      "id": 202009,
+      "firstName": "Jacob",
+      "lastName": "Rainey",
+      "projectTitle": "Bluetooth 3 LED Control",
+      "projectDesc": "This project is to control 3 LED lights over Bluetooth. This is achieved by using an Arduino and an HC-05 Bluetooth module. One could easily apply this to create a system of lights to signify different meanings, such as a traffic light, without having to have a mess of cables and wires running from computer to light.",
+      "keywords": "Arduino, LED, Bluetooth",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1EgxgtkEOxw_maS3AgD-Itdq6DeotBsCQ",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=17miVV82yIbUtx5fXSd6iCSpmGJyUTaam",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=14Ihe6_rBJ4X71fxlogueKc9pfRO2na6u",
+        null
+      ],
+      "brochure": null,
+      "contact": "jacob_rainey8@mymail.eku.edu"
+    },
+    {
+      "id": 202010,
+      "firstName": "James",
+      "lastName": "Jones",
+      "projectTitle": "RetroPie Gaming Console",
+      "projectDesc": "The technical problem is that video game consoles and certain arcade machines are not that easy to modify and put any game you want on them. So my solution to this problem is to build a Retro Pi on a Raspberry Pi so that I can play any game that I want at any time that I want, especially right now during the pandemic where I can get out and buy new or old games.",
+      "keywords": "Raspberry Pi, Retro Pi, Arcade",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1CKnxfzWmeF-iwMnbWWoNg3CeuFIMgoO1",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1rxhxuA8UYAuSyGhMaQ68vJa13U1wq1m-",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1xfoJspUCwULLWHCwAsO8XBCmZFuauzBt",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1U4LEw6b9wyfdoAaso4HxAsBpEh7_2FDz",
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1KMQzbcyWV8hY2Xsgn14FHHnxp7ny0iBg",
+      "contact": "james_jones412@mymail.eku.edu"
+    },
+    {
+      "id": 202011,
+      "firstName": "Jared",
+      "lastName": "Hunt",
+      "projectTitle": "Raspberry Pi WPA2 Password Cracker",
+      "projectDesc": "The technical problem I am attempting to tackle with this project is testing strengths of different passwords to see how long it would take to brute force crack your password. My proposed solution is rigging a Raspberry Pi up with the ability to brute force crack a Wi-Fi password. If you have forgotten your password to your Wi-Fi network, you can use this for personal use. For commercial use it can be created and replicated for an IT worker.",
+      "keywords": "Wi-Fi, Password, Security, Hacking, Raspberry Pi",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=13nVdWVUEEH9bwx0_2I1z3LMQmgh-cyUT",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1duoiU7xzAvQvRf6o8bqQDLYcd4eZxaDH",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1AdUYRRUmhp98zUWJrHm3ACoDkDMonq4F",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1gzxYsSobOHL9dvSQ1VPBzyZq2x8-ZGin",
+      "contact": "jared_hunt60@mymail.eku.edu"
+    },
+    {
+      "id": 202012,
+      "firstName": "Jeremy",
+      "lastName": "Kelly",
+      "projectTitle": "CNC Whittler",
+      "projectDesc": "The purpose of this project is to build and upgrade a hobbyist CNC (computer numerical control) router/engraver that is independent from a personal computer. To do this, a Raspberry Pi 4 has been integrated with the 3018 Pro CNC Router DIY kit to provide the dedicated user interface instead of a PC. The Raspberry Pi 4, with the use of free-license software bCNC, interprets the 3D machining G-code (geometry code) commands to the CNC router’s GRBL controller, which then engraves or 3D mills a workpiece by way of controlling the spindle and X, Y, and Z axis motors. This project also has the capability of creating a mini web server and complete machining user interface by way of free-license software CNCJS, which allows the user to access the CNC router remotely within the network. Limit switches will also be added to use for homing, and to provide machine safety from axis over-travel.",
+      "keywords": "CNC, Raspberry Pi, Engraver, 3D Router",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1udMvmgOOMYCSgoYxQirUUR7fDn0hScdw",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1udMvmgOOMYCSgoYxQirUUR7fDn0hScdw",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1bXA4jVizQ3qOtNXzbWoiFomMHJdHtVXg",
+      "video": ["https://youtu.be/6A8ERU1NSKM", null],
+      "brochure": null,
+      "contact": "jeremy_kelly32@mymail.eku.edu"
+    },
+    {
+      "id": 202013,
+      "firstName": "Jon",
+      "lastName": "Goode",
+      "projectTitle": "Supercapacitor Power Bank",
+      "projectDesc": "Most cars on the road today use a lead acid battery to power the starter. Lead acid batteries are affected by the cold and are extremely heavy. My objective with my project is to build a supercapacitor bank that is powerful enough to start a car. Supercapacitors are not affected by the cold like lead acid or even lithium ion batteries, are not affected by charge/discharge cycles, and will be much lighter than a lead acid battery. In an addition to being able to start a vehicle I would like to make the enclosure include 12v outlets for use outside of a vehicle, perhaps while camping.",
+      "keywords": "Capacitor, Supercapacitor, Farad, Volt, Amp",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": {
+        "CompTIA": "https://www.comptia.org/home",
+        "ITF+": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1QCyrsMuDeDwnwnlJKtCJKGGXOToBbIhw",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1jDcqVqYbjDU4zydmujMnp8gSKtkNd5e9",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1HSAEhmE4WzfnYQTtzJru6Cym06TCvjpY",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1klic8A5PpHh9XpaGgxu8t6OX-LAY8jik",
+      "contact": "jon_goode11@eku.edu"
+    },
+    {
+      "id": 202014,
+      "firstName": "Julie",
+      "lastName": "Hadley",
+      "projectTitle": "MiPi Network Suite",
+      "projectDesc": "The purpose of this project was to assist individuals in setting up a home network monitoring system. The primary core, was to implement Nagios (network monitoring software), using a Raspberry Pi 4, to enable home network monitoring services with NEMS. My secondary goal was to setup a VPN server. This would allow users to access their home network from anywhere. An extension of this system is the addition of an ad-blocking agent, such as Pi-Hole. This would allow users to block ads over their entire network and even outside of their network, via connecting through the above-mentioned VPN server. This is a major benefit because not only is there no need to install apps or extensions on every device connected to the network, but additionally this service can be accessed outside of their home network.",
+      "keywords": "Nagios, Raspberry Pi, NEMS, VPN, Pi-Hole",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1qAi137kXokIcBjA8KPEJZr709aRoFxX-",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1qAi137kXokIcBjA8KPEJZr709aRoFxX-",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1BFfYCgQ_6SXtTdRjultmq8aZtUdSIwPM",
+      "video": ["https://youtu.be/w3rW-jeKhVo", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1BHv_xlBXiWFAECerXah1jwReBQ0b4-qc",
+      "contact": "https://www.linkedin.com/in/julie-hadley"
+    },
+    {
+      "id": 202015,
+      "firstName": "Justin",
+      "lastName": "Rose",
+      "projectTitle": "Setting Up A Home Camera System",
+      "projectDesc": "The technical problem that I am dealing with is away to monitor my parent’s property and keep track of movement inside of it. My parents have no current monitoring system so I plan to implement a camera system on their property connected to a computer that will store captured video onto it. Later into the project my plan is to implement a system to send notifications when it captures motion and allow remote viewing of the cameras.",
+      "keywords": "Security, motion-capture, Camera-monitoring, IP camera",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1iDBu9-7LQfbz93duo-7wMAjp_wJQwFSm",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1iDBu9-7LQfbz93duo-7wMAjp_wJQwFSm",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1g6rlzcEGjlPSAoat08urbCKfvnegcIOq",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=19VBZw6Kck50cTmhjRqWTGOxiP3k0yR0H",
+        null
+      ],
+      "brochure": null,
+      "contact": "justin_rose98@mymail.eku.edu"
+    },
+    {
+      "id": 202016,
+      "firstName": "Logan",
+      "lastName": "Abner",
+      "projectTitle": "Mind Control Headset: Using Brainwaves to Control Devices",
+      "projectDesc": "The goal of this project is to show how many of our everyday toys and tech we have laying around can be used in different and creative ways rather than collecting dust and being wasted. In this project I modify an old Mindflex toy headset that has an EEG chip to measure my brainwaves through an Arduino to turn an LED and a small DC motor powered fan on as my focus increases and off when my focus decreases. The goals of the project have been successfully met and I can use the headset to turn an LED and a small fan on or off using only",
+      "keywords": "Arduino, Mindflex, Brainwaves, EEG, Repurposing, Electronics",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dJvOU7EYADyi-o9xbdFP1pJGxt4xG-0L",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1e1bOAqHfDGXl3lD47Jom_f2GQOs_BPnb",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1TFCGQ1jn-bdvcCT1dxu1ffS80fKvMhkR",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1248AzSf-seehs2ORhA7_MlEN8kUx3EYF",
+      "contact": "logan_abner8@mymail.eku.edu"
+    },
+    {
+      "id": 202017,
+      "firstName": "Makaylee",
+      "lastName": "Adams",
+      "projectTitle": "RetroPie Video Game Emulator Using Raspberry Pi",
+      "projectDesc": "There are many games that I used to play as a child that I cannot anymore due to how old the consoles are. There are also games that I never got to play because we did not have access to certain gaming consoles. I found a solution for this: game emulators. A game emulator is a type of emulator that allows a computing device to act as a gaming console’s hardware and play its games. You can do this for many different consoles: SNES, Genesis, Game Boy, Atari, PlayStation 1 and 2, and many others. So, I decided that using a Raspberry Pi to emulate these consoles was the best and cheapest option for me.",
+      "keywords": "RetroPie, emulator, Raspberry PI",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1sml_tT3UymfL2b46jzS4KpYqymj4fVjL",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1sml_tT3UymfL2b46jzS4KpYqymj4fVjL",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1mz2lAUwIrhK6ZzzMBRuDXH4L-rRqQqjR",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1aNoBK9nRa2Z4jHvIiX7v1es2VVfRVDg2",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1PWJ1SkdDb4FmurOBEg3THRVBmkmHNFck",
+      "contact": "https://www.linkedin.com/in/makaylee-adams"
+    },
+    {
+      "id": 202018,
+      "firstName": "Mark",
+      "lastName": "Barsalona",
+      "projectTitle": "Arduino Powered Self-Contained Gate Opener",
+      "projectDesc": "The purpose of my project was to modify the manufacturer’s design of a gate opener by: making improvements to the linear actuator, converting it to be self-contained, and adding an automatic function for the user. The automatic function utilizes an Arduino and a 433MHz transmitter to reproduce the signal required to open and close the gate. The Arduino and transmitter were placed into a small case designed to be used in any vehicle and powered by a USB port or by the included 9 volt battery inside the case. This device is able to provide secure automatic functionality for homeowners who have a gated driveway entrance.",
+      "keywords": "Gate Opener, Automatic, Arduino, Self-contained, SDR",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1nuGoXMFznp9kqDv6dO5cFP71_D0N-uJC",
+      "certificates": {
+        "CSWA": "https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1nuGoXMFznp9kqDv6dO5cFP71_D0N-uJC",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1A9n7SsN1DD_Ic3B04lFSwfn6gpOp_2jc",
+      "video": ["https://www.youtube.com/watch?v=tfeujdHb8nc", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1Gd1iHRN5svy3En7_Wc5BX9zhT3J0UhvZ",
+      "contact": "https://www.linkedin.com/in/mark-barsalona"
+    },
+    {
+      "id": 202019,
+      "firstName": "Matthew",
+      "lastName": "Biggs",
+      "projectTitle": "Arduino Uno RFID Lockbox",
+      "projectDesc": "The technical problem at hand is security and wanting to store items and belongings in a more secure place rather than leaving them just sitting around your room or house. I have decided to build a lock box to store your items in that requires an RFID badge to swiped across the reader in order to unlock the lockbox. This lockbox will have enough room to store keys and a wallet or other small items that you want to keep secured and safer than just sitting them out in the open. This is going to be a fully customized and built wooden box with a 12v solenoid door lock on it that will unlock when the badge is swiped. This project has given me a better understanding of radio frequency badges as well as some key concepts of my electronics courses.",
+      "keywords": "RFID, Arduino, Lockbox",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dn6GWHShoQKY8eOGeCBA9pdZ5Ea9VwT_",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dn6GWHShoQKY8eOGeCBA9pdZ5Ea9VwT_",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=16QD95LSbbKrYQ99wFi1UdOoOvRo9y2Ny",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1yqVAwrNoOagpK5XI5YUQ2MdoJujmYmGN",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1rDjt0Pakc7QPUWoYjvBPqRRd9mtD9QIW",
+      "contact": "matthew_biggs2@yahoo.com"
+    },
+    {
+      "id": 202020,
+      "firstName": "Matthew",
+      "lastName": "Donahue",
+      "projectTitle": "Network Monitoring Server",
+      "projectDesc": "The purpose of this project was to upgrade the current network monitoring server for the Madison County Public Schools system. The current system was not consistently providing real-time data indicating if the system was functioning properly or not. Additionally, the network administrators were not able to properly monitor the network at work or from home. I will be using Nagios.core on a virtual machine running Ubuntu Server. This was provided by the Technology Department of the Madison County Public Schools system.",
+      "keywords": "Nagios.Core, Ubuntu Server, Network Monitoring",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1pe1VcdYGI29Z4kRXwLijGcxThZn_QZmR",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1wJpYDTFadG2lE2Z5619YFq2-YP4OigQh",
+      "video": [null, null],
+      "brochure": null,
+      "contact": "matthew_donahue1@mymail.eku.edu"
+    },
+    {
+      "id": 202021,
+      "firstName": "Matthew",
+      "lastName": "Robbins",
+      "projectTitle": "Raspberry Pi Based Networker Adblocker Progress Report",
+      "projectDesc": "The practice of adblocking has become more and more commonplace in internet usage. Generally, the usage of browser-based extensions can effectively handle this task, however, some browsers and/or devices are incapable of running these extensions. However, there are hardware solutions capable of covering both devices and browsers unable to handle adblocking on their own. This project aims to setup and provide an example of network-based adblocking via the usage of hardware devices running a DNS sinkhole. Currently, my project has been successful in both Core 1 and Core 2 objectives. Core 1 (with adjustments) provided proof-of-concept while Core 2 proved the concept successful with usage of a Raspberry Pi device. The extension phase implementation remains dependent on time constraints.",
+      "keywords": "Browser extensions, DNS sinkhole, Raspberry Pi",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=11NUCGxnxV_tGzYQCrA3FNYZwfJv_HI8h",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1VZpFARXSBqqie3mMeDsqOLFvxV-fk1RY",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1QFh9Rlzy2oj0kGjn2w15T-I5DTsCy6M_",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1VyYSayP49n9dldKUkTRwy8ft-HroZypJ",
+      "contact": "https://www.linkedin.com/in/matthew-d-robbins"
+    },
+    {
+      "id": 202022,
+      "firstName": "Nicholas ",
+      "lastName": "Dunn",
+      "projectTitle": "Raspberry Pi as a Security Camera",
+      "projectDesc": "My project was started to help my sister who was wanting some form of security cameras set up outside of her house. I decided I could do my project and help her out at the same time. I wanted to be able to remotely be able to view camera footage that was monitoring the outside of my sister’s house. I will be using a Raspberry Pi Zero W board as the cameras. This will increase the amount of security at her house while keeping it low cost.",
+      "keywords": "IP Camera, Raspberry Pi, Security",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1OIevC9syrY0LqxGG-FirCKVd_J3GbIU7",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1tUGqAwVOAHGHhaL239WOKWdR6hX7IMyy",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1JhtwajTJzSxkpKVbt3C-9n9PBqS0kzcn",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1jIEiwHN3ym2oi-0eoeF9_T1jQha1j-9Z",
+      "contact": "njdunn89@gmail.com"
+    },
+    {
+      "id": 202023,
+      "firstName": "Sunny",
+      "lastName": "Patel",
+      "projectTitle": "Networking Camera Security",
+      "projectDesc": "This project is about Network camera security. We tend to buy a camera and install a camera at our home, but we do not realize the risk assessed with default settings. In this paper, I will coverimportant details about network security. I will also cover some ideas to build powerful firewall protection. There will be some tips on how to protect your login information and securely access your camera remotely.",
+      "keywords": "pfsense, dyndns, DMZ",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1pAA-wC8XN-fX4D0tU76M_iNZ-zuErYqh",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1pAA-wC8XN-fX4D0tU76M_iNZ-zuErYqh",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1JtGt8tVOU0k337ecWNDETVwc4_8TcrfX",
+      "video": ["https://youtu.be/X_f4iqOvbXU", null],
+      "brochure": "https://drive.google.com/uc?export=view&id=1uMwYJ7WeXNctPv-wvc0rlzo1nPmAPHmG",
+      "contact": null
+    },
+    {
+      "id": 202024,
+      "firstName": "Taquan",
+      "lastName": "Evans",
+      "projectTitle": "Made Easy as Pi: Home Automaton with Raspberry P",
+      "projectDesc": "With the creation of the Raspberry Pi 4, it has developed a way for people to do feasible DIY projects with the Internet of Things (IoT).  The IoT is growing at an exponential rate, the IoT market is on pace to grow to over $3 trillion annually by 2026, and home automation is leading that charge. Wouldn’t it be great if we made people’s lives easier with home automation? Face recognition and motion detection can be for use in the home, it can be used as a single functional unit or as an element of a much bigger system, connected to the IoT. To create a complex system, the Raspberry Pi 4 and OpenCV was used together to \nrecognize faces and detect motion on a Pi camera. The outputs are saved into cloud storage, for further training and recognition. To make our home system even larger, we will connect speakers to the Raspberry Pi via Bluetooth. ",
+      "keywords": "Home Automation, Face Detection, Raspberry Pi, OpenCV, Bluetooth",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1sCoy4jKPKZ4wSv-bRdAnBzlH5PrzwQ-A",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1sCoy4jKPKZ4wSv-bRdAnBzlH5PrzwQ-A",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1pSVZa2V4D1qiR6morHdKJVd7Lue7zyz0",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1cRwxmLoJ6atZ9c1Wb1hYNm5E9CVR_EV1",
+        "https://drive.google.com/uc?export=view&id=112bKHRIbsYO3ch15Ail7E2uZWzn_JjlL"
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1OGNkM3erhuXNyeha7ORMmCqm3IfSypiE",
+      "contact": null
+    },
+    {
+      "id": 202025,
+      "firstName": "Tyler",
+      "lastName": "Branham",
+      "projectTitle": "Integrating Citrix Casting into NComputing with Raspberry Pi 3",
+      "projectDesc": "This project is based on Citrix Casting done through the NComputing Raspberry Pi 3. Citrix Casting is when you are able to login to the Citrix Workspace app on a phone or tablet, launch a virtual desktop, and then scan a QR code to get the session transferred onto Raspberry Pi.  You can then use your device as the mouse to navigate to anything you need to on the monitor you are casting to. Companies are starting to use this technology in meetings where they can just have PowerPoint loaded up on their virtual desktop session and throw it onto the monitor that is connected to the Raspberry Pi, give the presentation, and throw the session back onto their phone when they are done.  This is a fairly new technology that is starting to see more and more use the more Citrix updates it and promotes it",
+      "keywords": "Citrix, Pi, Workspace",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Vw7CNXSQbKOdkbAYhR1_roMlFjaHQ8fk",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1ij5vFm4xLQF9UxiWQ3cf8BaBWO3aWWw4",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1Z1v-qACGLGEkhBbXiPZ4XCK7-pp4I5_c",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1UZTC6jO4strT4cTPRDhymOhN5KMJOZy1",
+      "contact": "tyler_branham@mymail.eku.edu"
+    }
+  ],
+  "other": {
+    "classPhoto": [],
+    "outstanding": [
+      {
+        "title": "Outstanding Network Security & Electronics (NET) Senior 2019-20",
+        "name": "Mark Barsalona",
+        "url": "https://drive.google.com/uc?export=view&id=15Eldg6906ATGrJTES23FaxdpTNZIeWEW"
+      }
+    ],
+    "presenter": [],
+    "ga": []
+  }
+}
