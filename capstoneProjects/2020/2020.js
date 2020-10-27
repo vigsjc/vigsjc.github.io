@@ -21,7 +21,7 @@ var NOT_EXIST = 'https://chandravigs.github.io/404.html';
     function getUrlData() {
         var dynamicData = {};
         return $.ajax({
-            url: "https://chandravigs.github.io/data/2020.json",
+            url: "https://vigsjc.github.io/data/2020.json",
             type: "get",
             data: dynamicData
         });
