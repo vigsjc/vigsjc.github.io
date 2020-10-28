@@ -339,11 +339,14 @@ nav li:first-child a,
   background-color: #fff;
   font-size: 14px;
 }
-
 /* .res-box a,
 a:visited {
   text-decoration: none;
 } */
+
+.res-box[disabled]:hover {
+  pointer-events: none;
+}
 
 .res-box:hover {
   cursor: pointer;

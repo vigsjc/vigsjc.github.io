@@ -1,4 +1,4 @@
-var NOT_EXIST = 'https://chandravigs.github.io/404.html';
+var NOT_EXIST = 'https://vigsjc.github.io/404.html';
 var capstoneData;
 (function ($, document) {
 
@@ -31,7 +31,7 @@ var capstoneData;
             if (status == 'success') {
                 //creates student profile and project 
                 createMain(data.studentData)
-		capstoneData = data.studentData;
+                capstoneData = data.studentData;
 
                 //creates the remaining content of the page
                 createRemaining(data.other);
@@ -67,11 +67,11 @@ var capstoneData;
             value.presentation != null ?
                 presentation = {
                     'link': value.presentation,
-                    'color': '#394867'
+                    'status': ''
                 } :
                 presentation = {
                     'link': NOT_EXIST,
-                    'color': '#D3D3D3'
+                    'status': 'disabled'
                 }
 
             value.video.filter(x => { return x }).length > 0 ?
@@ -84,11 +84,11 @@ var capstoneData;
             value.brochure != null ?
                 brochure = {
                     'link': value.brochure,
-                    'color': '#394867'
+                    'status': ''
                 } :
                 brochure = {
                     'link': NOT_EXIST,
-                    'color': '#D3D3D3'
+                    'status': 'disabled'
                 }
 
             value.contact != null ?
@@ -171,14 +171,15 @@ var capstoneData;
             keys.append(`<span class='chip'>${element.keywords[i]}</span>`);
         }
 
+        console.log(element.brochure.status)
         //creates resource button=> presentation, brochure, video
         var reso = $('<div>', { class: 'resources' })
-            .append(`<button class='res-box' onclick="location.href='${element.brochure.link}'">Brochure</button>`)
-            .append(`<button class='res-box' onclick="location.href='${element.presentation.link}'">Presentation</button>`)
+            .append(`<button class='res-box' ${element.brochure.status} onclick="location.href='${element.brochure.link}'">Brochure</button>`)
+            .append(`<button class='res-box' ${element.presentation.status} onclick="location.href='${element.presentation.link}'">Presentation</button>`)
 
         //show only 1 video button is there is less than 2 video link available
         if (element.video == null) {
-            reso.append(`<span class='res-box'"><a style="color: #d3d3d3" href=${NOT_EXIST}>Video</a></span>`);
+            reso.append("<button class='res-box' disabled>Video </button");
         } else if (element.video.link.filter(x => {
             return x
         }).length > 1) {
@@ -283,20 +284,21 @@ var capstoneData;
         $(`#${imgId}`).attr('id', `${newId}_${currentIndex}`);
     }
 
+    //makes nav bar responsive (mainly down arrow next to year menu)
+    $(document).on("click", "#navButton", function () {
+        var element = $("#myTopnav");
+        if (element.attr('class') === "topnav") {
+            element.addClass('topnav responsive');
+        } else {
+            console.log('top only '+element.attr('class'));
+            element.attr('class', 'topnav');
+        }
+    });
+
+    //handles year menu when clicked
+    $(document).on("click", ".dropbtn", function() {
+        console.log('chec k')
+        document.getElementById("myDropdown").classList.toggle("show");
+    });
+    
 }(window.jQuery, document));
-
-//makes nav bar responsive (mainly down arrow next to year menu)
-function makeNavResponsive() {
-    var element = $("#myTopnav");
-    if (element.className === "topnav") {
-        element.className += " responsive";
-    } else {
-        xelement.className = "topnav";
-    }
-}
-
-//handles year menu when clicked
-function toggleYearMenu() {
-    //was unable to accomplish this uring jquery so I used a js function
-    document.getElementById("myDropdown").classList.toggle("show");
-}
