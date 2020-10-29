@@ -171,7 +171,6 @@ var capstoneData;
             keys.append(`<span class='chip'>${element.keywords[i]}</span>`);
         }
 
-        console.log(element.brochure.status)
         //creates resource button=> presentation, brochure, video
         var reso = $('<div>', { class: 'resources' })
             .append(`<button class='res-box' ${element.brochure.status} onclick="location.href='${element.brochure.link}'">Brochure</button>`)
@@ -290,14 +289,12 @@ var capstoneData;
         if (element.attr('class') === "topnav") {
             element.addClass('topnav responsive');
         } else {
-            console.log('top only '+element.attr('class'));
             element.attr('class', 'topnav');
         }
     });
 
     //handles year menu when clicked
     $(document).on("click", ".dropbtn", function() {
-        console.log('chec k')
         document.getElementById("myDropdown").classList.toggle("show");
     });
     
