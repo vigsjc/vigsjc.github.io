@@ -141,6 +141,15 @@ nav li:first-child a,
   text-align: left;
 }
 
+.searchBox input {
+  padding: 8px 12px;
+  background-color: #6b7893;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  margin-right: 3px;
+}
 /* ----------------------------- */
 #wrapper {
   margin-bottom: 20px;
@@ -182,6 +191,12 @@ nav li:first-child a,
   display: flex;
   align-items: center;
   margin: 0 5px;
+}
+
+.student_profile #details .fa {
+  text-decoration: none;
+  margin-right: 5px;
+  color: #394867;
 }
 
 #previous_button,
@@ -430,7 +445,10 @@ a:visited {
 .social-media {
   text-align: center;
   font-size: 30px;
+  
 }
+
+
 
 footer {
   background-color: #394867;
