@@ -57,7 +57,7 @@
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1uMBTwnyBnTqOLG4rM_g7hsGIErYVsHhy",
-        "",
+        null,
         null,
         null
       ],
@@ -80,7 +80,7 @@
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
-        "",
+        null,
         null,
         null
       ],
@@ -182,29 +182,6 @@
         null
       ],
       "brochure": "https://drive.google.com/uc?export=view&id=1pyEEcrEV7UziJcDdrro_hyFGaaYC1Cn5",
-      "contact": null
-    },
-    {
-      "id": 201909,
-      "firstName": "Cody",
-      "lastName": "Stone",
-      "projectTitle": "Linux Ultralight OS",
-      "projectDesc": "It isn’t always convenient or even possible to use an already present operating system as a technician in the field. Likewise, technicians may not have their complete toolkit available for their use. Having a “swiss army knife” available would be a useful solution to a wide variety of these situations. Multiple “Systems On a Stick” that are pre-configured for various uses and ultra-light is the approach taken in this project to achieve this solution.And that’s what I’ve done. On one USB stick, there is an FTP server and multiple possible clients, and they all run from RAM they are so small.",
-      "keywords": "Light operating system, Multiboot, Linux Distribution, RAM, Live operating system, Persistence",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1OazlmPXlr1-HcEkxjWyE2pzO1UiKnRFe",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1OazlmPXlr1-HcEkxjWyE2pzO1UiKnRFe",
-        "https://drive.google.com/uc?export=view&id=1OszBvZAWRoWWmEerz9nIRgVTwAIxj9Pl",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1Doe2NpwOccjNjJ8NrBjLY7usG9m6OavD",
-      "video": [
-        null,
-        null
-      ],
-      "brochure": null,
       "contact": null
     },
     {
@@ -470,7 +447,7 @@
       "profilePicture": "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
       "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-",
+        "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
         "https://drive.google.com/uc?export=view&id=1igmfkw_MWA_dKF-nsRxjoS6AUNxSlW3n",
         null,
         null

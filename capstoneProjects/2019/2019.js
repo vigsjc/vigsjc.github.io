@@ -149,7 +149,11 @@ var newStudents = [];
         //creates student project images and image buttons
         var stuProject = $("<div>", { class: "project_visuals" });
         var projImages = $("<div>", { class: "images", id: '' + element.id });
-        projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        if(element.images[0] == null){
+            projImages.append($("<img>", { src: "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq", id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        }else {
+            projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        }
         stuProject.append(projImages);
 
         //creates next and prev button for project images 
@@ -329,6 +333,20 @@ var newStudents = [];
         } else {
             element.attr('class', 'topnav');
         }
+    });
+
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            $("#myBtn").css({"display": "block"});
+        } else {
+            $("#myBtn").css({"display": "none"});
+        }
+      }
+
+    $(document).on("click", "#myBtn", function(){
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
     });
 
     //handles year menu when clicked
