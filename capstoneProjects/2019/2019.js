@@ -1,6 +1,6 @@
 var NOT_EXIST = 'https://vigsjc.github.io/404.html';
 var capstoneData;
-var newStudents = [];
+// var newStudents = [];
 (function ($, document) {
 
     var Student = function (id, fName, lName, profilePicture, title, description, keywords, certificate, images, presentation, video, brochure, contact) {
@@ -52,8 +52,6 @@ var newStudents = [];
     function sortStudentProject(studentData, searchTerm){
         $.each(studentData, function(index, value){
             if(value.firstName+value.lastName == searchTerm.slice(1)){
-                // console.log("contains: "+value.lastName);
-                // console.log(data.studentData[0]);
                 var temp = studentData[0];
                 studentData[0] = studentData[index];
                 studentData[index] = temp;
@@ -253,27 +251,27 @@ var newStudents = [];
 
     }
 
-    //handle search input inside nav 
-    $(document).on("keyup", "#searchStudent", function(){
-        if($(this).val() == ""){
-            $(".container").empty();
-            createMain(capstoneData);
-        }else {
-            console.log('this shouldnt');
-            searchForStudent($(this).val());
-        }
-    })
+    // //handle search input inside nav 
+    // $(document).on("keyup", "#searchStudent", function(){
+    //     if($(this).val() == ""){
+    //         $(".container").empty();
+    //         createMain(capstoneData);
+    //     }else {
+    //         console.log('this shouldnt');
+    //         searchForStudent($(this).val());
+    //     }
+    // })
 
-    function searchForStudent(term){
-        newStudents = [];
-        $.each(capstoneData, function(index, student){
-            if((student.firstName+" "+student.lastName).toLowerCase().includes(term)){
-                newStudents.push(student);
-            }
-        } );
-        $(".container").empty();
-        createMain(newStudents);
-    }
+    // function searchForStudent(term){
+    //     newStudents = [];
+    //     $.each(capstoneData, function(index, student){
+    //         if((student.firstName+" "+student.lastName).toLowerCase().includes(term)){
+    //             newStudents.push(student);
+    //         }
+    //     } );
+    //     $(".container").empty();
+    //     createMain(newStudents);
+    // }  q
 
     //handles previous button click
     $(document).on("click", "#previous_button", function () {

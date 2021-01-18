@@ -29,11 +29,16 @@ var capstoneData;
     $(function () {
         getUrlData().done(function (data, status) {
             if (status == 'success') {
-                //creates student profile and project 
-                createMain(data.studentData)
-                capstoneData = data.studentData;
+                var studentSearch = window.location.hash;
 
-                //creates the remaining content of the page
+                //check if link has specific student and sort if true
+                if (studentSearch || studentSearch.length > 0) {
+                    sortStudentProject(data.studentData, studentSearch)
+                } else {
+                    createMain(data.studentData)
+                }
+
+                capstoneData = data.studentData;
                 createRemaining(data.other);
             } else {
                 console.log('Something went wrong, data is corrupt');
@@ -41,13 +46,21 @@ var capstoneData;
             }
         });
     });
-
-
-
-    /*
-    function to build student project section, includes student profile, project
-    
-    */
+    //moves anchored student to the top of list
+    function sortStudentProject(studentData, searchTerm) {
+        $.each(studentData, function (index, value) {
+            if (value.firstName + value.lastName == searchTerm.slice(1)) {
+                // console.log("contains: "+value.lastName);
+                // console.log(data.studentData[0]);
+                var temp = studentData[0];
+                studentData[0] = studentData[index];
+                studentData[index] = temp;
+            }
+        });
+        $(".container").empty();
+        createMain(studentData)
+    }
+    //function to build student project section, includes student profile, project
     function createMain(studentData) {
         $.each(studentData, function (index, value) {
             var keywords, presentation, video, brochure, contact;
@@ -117,6 +130,7 @@ var capstoneData;
         var stuProfile = $('<div>', { class: 'student_profile', id: `${element.fName}${element.lName}` });
         var stuDetails = $("<div>", { id: "details" });
         stuDetails.append(`<img src=${element.profilePicture} alt="${element.fName} ${element.lName}'s image" loading="lazy">`)
+        stuDetails.append(` <a id="shareLink" href="#${element.fName+element.lName}" class="fa fa-share" aria-hidden="true"></a>`);
         stuDetails.append($("<a>").text(element.fName + ' ' + element.lName))
         stuProfile.append(stuDetails);
 
@@ -133,7 +147,11 @@ var capstoneData;
         //creates student project images and image buttons
         var stuProject = $("<div>", { class: "project_visuals" });
         var projImages = $("<div>", { class: "images", id: '' + element.id });
-        projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        if(element.images[0] == null){
+            projImages.append($("<img>", { src: "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq", id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        }else {
+            projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
+        }
         stuProject.append(projImages);
 
         //creates next and prev button for project images 
@@ -293,9 +311,24 @@ var capstoneData;
         }
     });
 
+    //scroll to top button
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            $("#myBtn").css({"display": "block"});
+        } else {
+            $("#myBtn").css({"display": "none"});
+        }
+      }
+
+    $(document).on("click", "#myBtn", function(){
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    });
+
     //handles year menu when clicked
-    $(document).on("click", ".dropbtn", function() {
+    $(document).on("click", ".dropbtn", function () {
         document.getElementById("myDropdown").classList.toggle("show");
     });
-    
+
 }(window.jQuery, document));
