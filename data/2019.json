@@ -1,558 +1,575 @@
 {
   "studentData": [
-    {
-      "id": 201901,
-      "firstName": "Aaron",
-      "lastName": "Voynar",
-      "projectTitle": "Modified Fender 5E3 Deluxe Clone Vacuum Tube Guitar Amp Project",
-      "projectDesc": "The project includes the design and development of a vacuum tube guitar amp. This project is completely hand built and hand wired, including the aluminum amp chassis, circuit board, design/layout of components, and the wood cabinets to enclose the amp and speaker. The amp uses tube rectification, and employs a push-pull (Class AB) power amp section. The design is based on a Fender Deluxe 5E3 model amp circa 1957, but is updated to include modern safety features and functionality. The amp is also designed to allow for post-tube-preamp analog-digital signal conversion for processing in an external laptop computer, followed by digital-analog signal conversion which is then fed into the tube power amp section. The amp has been tested for safety as well as proper operation, tone, and usability. Special attention was given to safety, both in operation as well as in future repair and maintenance, due to the extremely high AC and DC voltages and large capacitors found in such a vacuum tube circuit.",
-      "keywords": "Vacuum tube, tube rectifier, analog audio amplification, analog electronics",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1yTTJhxZD7SH--qTOxR0hKx-JamEWVRoq",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1yTTJhxZD7SH--qTOxR0hKx-JamEWVRoq",
-        "https://drive.google.com/uc?export=view&id=10stynLG0XlXVcTRzAjtSuh5DYZ6sEUq7",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=18aRSFXrC0COx97bnCVEuC0nubHlMC9Ev",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1fXuxRLak3qEqXLDar5t1sVoL22M-bWb5",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=19nXWPBceauieDvIe8r45lk9xsQdnYeiU",
-      "contact": null
-    },
-    {
-      "id": 201902,
-      "firstName": "Alex",
-      "lastName": "Rally",
-      "projectTitle": "Feeding Frenzy Automated Cat Feeder",
-      "projectDesc": "Automation can benefit people and an endless number of ways. I have always had a fascination with automation and eliminating the need for human oversight or labor in tasks. These tasks can be large scale such as factory and manufacturing environments as well as small tasks in everyday household chores. In this project I was aiming to automate the feeding of my cat Mira. The problem I have found with these products on the market are there price and functionality. I could not find one that fit what I was looking for and wanted to create my own.To create this project I used a microcomputer, in this case a raspberry pi, and connected it to a servo motor. I designed code that allows for the scheduling of a specified amount of food to be dispensed at the times you set. This is housed in a custom made frame that protects the wires, devices, and motor.",
-      "keywords": "Automation, non-continous servo motor, Raspberry Pi",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1V0yI4wbXCni4G4D7wEJ_8WOTS_FVnFIS",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1V0yI4wbXCni4G4D7wEJ_8WOTS_FVnFIS",
-        "https://drive.google.com/uc?export=view&id=1Cqm5AFXrc-AnSnQjoYLYLck4jUifSPWE",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1eA-rEzZ7PR-vZvRu0EC68T3tsT30ItZR",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1QfFLLFLRGOD45YV7AAmk9-0nwdLNGVCe",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1LxfmAYOGmC02N_0kn6c6S6vG89VGv54M",
-      "contact": null
-    },
-    {
-      "id": 201903,
-      "firstName": "Allen",
-      "lastName": "Baker",
-      "projectTitle": "All-in-one Computer Network",
-      "projectDesc": "Through the use of Electronics, Networking, and computer systems an All-In-One Computer Network has been created to provide a single device to improve small business cyber systems. Since small businesses have little resources to maintain adequate cyber systems, security is often neglected. As more systems are becoming digital it is ever important for businesses to adjust to this reality. Using the open source router software Pfsense, the use of intrusion detection and firewall features are available. Also, using Docker containerization the use of multiple applications on a single server is possible. Providing a smart switch with VLAN network segmentation capabilities allows for further control of a network. In developing this project anyone, including businesses, can have a turn-key network in a single case. 3D modeling and printing may be used to easily develop and prototype a single case for an All-In-One Network. In developing this project anyone, including businesses, can have a turn-key network in a single case. Overall, there are several areas in which small business networking could be improved through the effective use of cyber systems.",
-      "keywords": "Docker, containerization, Pfsense, All-In-One, Turn-Key, Business, SBC, Single Board Computer, Security, Networking, Intrusion detection, E-commerce, NextCloud, Cloud, Linux, Smart Switch, Cyber Security\"",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1slmEJLFW0V31w_YQf5S4R4M2HiIDUuso",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1uMBTwnyBnTqOLG4rM_g7hsGIErYVsHhy",
-        null,
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1NaoP-4cgV1Fsulul3CCORT9amArCS14x",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=10FEREUmNcZ9HKvn0aOnEnqox0xeHlShJ",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1l_TTShYgDN-W75xZVGEPn7Hwm5pWDQmn",
-      "contact": null
-    },
-    {
-      "id": 201904,
-      "firstName": "Anthony",
-      "lastName": "Ellison",
-      "projectTitle": "Seven Layer Cisco Security: CCNA Security Physical and Virtual L",
-      "projectDesc": "The issue addressed by this project is making an effective physical lab to prepare for the CCNA Security certification exam. The goals in taking on this project were to expand skills and knowledge related to network security with an emphasis on securing Cisco routers, Cisco switches, and Cisco Adaptable Security Appliances (ASAs) more commonly referred to simply as firewalls.",
-      "keywords": "Cisco, CCNA, Security, ASA, Firewall, Network Hardening, Home Lab, Packet Tracer",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
-        null,
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1yvQorrpK9sbdXXk-Etawtt-S-Qbx7yta",
-      "video": [
-        "https://youtu.be/uLiZSfqE0II",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1D01dDFuCVGp49esVoKDfvTRoJSklI3IZ",
-      "contact": null
-    },
-    {
-      "id": 201905,
-      "firstName": "Brian",
-      "lastName": "Preece",
-      "projectTitle": "Brian's Biometric Box",
-      "projectDesc": "The purpose for this project is very simple, security. Safes can be expensive or easy to break into, so this project aims to be a cheap alternative. Since security is the focus, I decided to use a fingerprint scanner as a method of unlocking the safe. I planned to spend no more than $50 and ended up using $35 since I already had most of the pieces. This safe has the purpose of securing the contents placed inside by the creator and whoever else they would like to have access using an Arduino, a magnetic lock, and the fingerprint sensor. It also uses opensource software from the Arduino manufacturer for programming.",
-      "keywords": "Arduino, Safe, Magnetic Lock, Fingerprint scanner",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
-        "https://drive.google.com/uc?export=view&id=1bciYFCCSO85zXTPs_fnvJsvqWflVl7JN",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1o-THaudE5GqDCxRSeWV94fQIHr-pOhCs",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=14YYErcnioXnIZqHusNx3jotflYJkDrWW",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1LX5UF1RsDxBP-ug2FtWPxvSzSqFts05k",
-      "contact": null
-    },
-    {
-      "id": 201906,
-      "firstName": "Bryan",
-      "lastName": "Labicki",
-      "projectTitle": "Wireless Deadbolt Controlled by Arduino",
-      "projectDesc": "The problem that I wanted to address was the cost of implementing an in-home security solution. For this project, I went with creating a wireless door lock using an ArduinoMega, servo motor,Bluetooth module,and an android smart phone. Many other door locks that perform the same cost upwards of $100and over, but theproject that I created costed much less, roughly $75. It canbe made even cheaper by being more space efficient, such as using an Arduino Uno and a smaller breadboard.",
-      "keywords": "Arduino, Security, Wireless, Deadbolt",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
-        "https://drive.google.com/uc?export=view&id=1pjnqJ4LoA8h_dnJXlbNbJ5aCY-Vu3J6A",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=11inNPVfBvqgTUJIiwVbRuRWwPp6CHEHT",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1GgnvRuk7V8z1Ntf6nr-PvEOnO56AGkww",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1E2SrHsYrbFnQhCV2sF2u6473ZbAjsKkj",
-      "contact": null
-    },
-    {
-      "id": 201907,
-      "firstName": "Bruce",
-      "lastName": "Farris",
-      "projectTitle": "Retro Gaming Console",
-      "projectDesc": "The capstone project consists of my own adaptation of a retro gaming console. My goal is to create a device that can emulate classic gaming consoles to relive youryounger years of gaming. The concept involves use of a Raspberry Pi 3 encased in a miniature SNES console, either bought online or 3D printed, using a software called RetroPie. The skills needed for this project are gained from self-gained knowledge/research outside of class as well as a variety of courses in EET from Eastern Kentucky University’s NET program. The finished product should allow the user to install and play any classic video game ROM from a large selection of emulation software. However, the goal for this project is to imitate the SNES.",
-      "keywords": "RetroPi, Raspberry Pi 3, classic/retro, SNES, console",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
-        "https://drive.google.com/uc?export=view&id=1TGwVW23xYjxRNTfvmHWIF07bQHcCYZiU",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1qbKIGRvSh0UF1nNOGrappV6a3TX64xYs",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1j_n0sF-WvjD9sKTBwPPRl1MvIfxs6A32",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1suN9VH5U1NwMTqBjAqFt9cIrtIC9IKLj",
-      "contact": null
-    },
-    {
-      "id": 201908,
-      "firstName": "Caleb",
-      "lastName": "Caudill",
-      "projectTitle": "Handyman Tool Tracker",
-      "projectDesc": "This project is defined by an inventory application written in C# that is protected against SQL injection on user input. The purpose of this project is to perform all basic inventory maintenance functions such as add, remove, search, and edit items in order to keep track of an inventory of either games, books, or tools. Another aspect of the purpose of the project is to prevent malicious users from affecting the database in negative ways though SQL injection. This means a malicious user cannot drop tables or select information they are not supposed to. Prevention of SQL injection is an often looked over aspect, but it is very important as it is one of the most common attack types in cybersecurity and database security.",
-      "keywords": "Inventory, C#, MySQL, SQL Injection, Visual Studio, Database",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
-        "https://drive.google.com/uc?export=view&id=1zVXTsvHBxwhqZloRy5ckslSONLdyGX34",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1uy7CO3sAV_GTFfc__lHehb0nEB89uzfC",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1XoMRYJAr3is8yrTPhdkOgct9C2uj8OVU",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1pyEEcrEV7UziJcDdrro_hyFGaaYC1Cn5",
-      "contact": null
-    },
-    {
-      "id": 201910,
-      "firstName": "Coleman",
-      "lastName": "Stephenson",
-      "projectTitle": "Ubuntu Database Server Utilizing MySQL",
-      "projectDesc": "This project was designed with the intention of developing an inexpensive option for database storage and management for small businesses or private individuals. With these constraints in mind, it was decided that virtualization of the server using VirtualBox was desired in order to minimize construction and operation costs. The server itself is loaded with the open source Linux distribution, Ubuntu Server 18.04 and installed with MySQL Server to add database functionality. Database management is achieved using MySQL Workbench, chosen for its extremely effective usage paired with MySQL Server.",
-      "keywords": "Linux, Ubuntu Server 18.04, MySQL Server, MySQL Workbench",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
-        "https://drive.google.com/uc?export=view&id=17oKGThN72Hjtuz5lnfK4koAFXp1HoTWv",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=10_yYiqQ3TsS6eCbK-sKmAik2ZJ9NHtXX",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1RNMh1jsF55MMWWGtPJ5USHGZxOc_D1HY",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1XAd41BAVbE3--Ix0BvuX_7hg8B1JkKJu",
-      "contact": null
-    },
-    {
-      "id": 201911,
-      "firstName": "Evan",
-      "lastName": "Martin",
-      "projectTitle": "Arduino \\\"Tron\\\"\\\" Bike",
-      "projectDesc": "The technical problem approached in this Capstone project is the safety of bicycling at night time. Bicyclists, professional or hobbyists, must take extra precautions when riding at darker hours, wearing reflective gear and installing reflective panels on their bicycle. This project aims to provide a clearer signal to everyone on the road that the cyclist is present. Using an Arduino Mega 2560, a 1M strip of LEDs, and an Infrared Receiver/Remote, this project creates a safe and clear sign to motorists that there is a cyclist in their vicinity, hopefully reducing the amount of accidents that can happen during a night-time ride.",
-      "keywords": "Arduino, Bicycle, Safety, Infrared, Receiver, Remote, LED, Battery",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
-        "https://drive.google.com/uc?export=view&id=1Lu1uCAj_bX7_ObGYp0YUMRr16Wu-nLbh",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=16BPNHdweaw22X1aLPiOxHDJSsujGPl6J",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1546ukcu7jV6vU-qKJwIoq7_U_h1N2ZJ-",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=17sgKYdccskEJIBuUWGxMnxGNRLDMw_W_",
-      "contact": null
-    },
-    {
-      "id": 201912,
-      "firstName": "Jacob",
-      "lastName": "Laber",
-      "projectTitle": "Harnessing the Power of the Sun",
-      "projectDesc": "For my project I have created a basic charge solar panel system. This system in its most basic form consists ofthe means to harness energy from the sun and store in a battery(DC power), and convert this energy into 120 volt AC power to power most normal in home electronic devices.The will help to reduce the cost of using grid power. However in its current state my solar system is very limited in the amount of energy is can store, and its output once stored. So to assist with these limitation, using an Allen Bradley PLC I have created a program that will monitor the state of charge of the battery and automatically switch between using the solar energy and the existing grid energy, with the hope that I can utilize the solar energy to reduce my monthly grid electric bill.",
-      "keywords": "Solar panel, PLC, grid power",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
-        "https://drive.google.com/uc?export=view&id=19Xd-NttV6vskjGB_rxh2sT8HckJcpNUi",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=11KOAqOXO-vjgfea-V1lls42nb729LE7v",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1j_kxIwvOpCXPn5lGo2_lBCo2ePBS7zQk",
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
-      "id": 201913,
-      "firstName": "John",
-      "lastName": "Cooksey",
-      "projectTitle": "PLC Practice Bench",
-      "projectDesc": "I wanted to create a project that solves the problem of improving PLC programming skills without the use of an expensive laboratory environment. I want to build a cheap, easy to use practice bench that would allow one to practice their skills without worrying about the cost or location. I’m buying the cheapest PLC on the market, which includes its own programming software, and combining it with cheap switches and LED’s to simulate digital inputs and outputs. The user will have access to 6 separate switches and 6 different colored LED’s to give them the greatest number of tools to create desired programs.",
-      "keywords": "PLC, Digital I/O",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1yop6AAvJRSBYOeqjUCgC2GnvzAMpZofJ",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1yop6AAvJRSBYOeqjUCgC2GnvzAMpZofJ",
-        "https://drive.google.com/uc?export=view&id=15JceGLSzx65q1ImgUOEC5_I2h3g8yWDt",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1Svet67KRs0IKrcEqfQvSbSlz8BWIzbXF",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1EbnJztkGE1XspkiWL14Z49MeAxtdFr_L",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1cPrj_1vi4aeYh9ElIUjH2sNjjH3fbYuP",
-      "contact": null
-    },
-    {
-      "id": 201914,
-      "firstName": "John",
-      "lastName": "Strong",
-      "projectTitle": "RetroPie Emulation Station and Library Backup",
-      "projectDesc": "The purpose of this project was to improve project management abilities, create an affordable alternative to the class game consoles, reduce space used by classic games, and preserve a hobby that is dying. My primary purpose in this project was to reduce the space used by collections of classic games and consoles and preserving my collection from the hazards of aging electrical contacts. The secondary purpose for my project was to create a portable classic library to take on trips to enjoy games of my childhood. The results of this project were exceptional and exceeded my expectations going into a technology I had never used as well as realizing how compact the device turned out making it an excellent travel companion.",
-      "keywords": "Raspberry Pi, RetroPie, Emulation",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=19rBVKL2SuHXu41FQBldu-eOa5-LaruGt",
-      "certificates": null,
-      "images": [
-        null,
-        null,
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1ZsNxs_iRz4z3zmMDAWaxNRcjRSylDutw",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1wHdgWM8AEKB7Ej2Bmb42_wSaJJhTFBtO",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=186Yxbh7WQ5BXkJJfxz8HwDNR1qzsyMy8",
-      "contact": null
-    },
-    {
-      "id": 201915,
-      "firstName": "Jonathan",
-      "lastName": "Ferrell",
-      "projectTitle": "Air Quality Essentials: Arduino based HVAC Diagnostic System",
-      "projectDesc": "The issue addressed by this project was the fact that a lot of HVAC companies and their clients waste a lot of time, money and resources when it comes to their HVAC systems and their maintenance.My main purpose was to build adevice that would make an HVAC unit more self-sufficient and reliable using and Arduino based anemometer system. A significant amount of time was spent researchingArduino systems along with HVAC usage. I also researched how weather stations used anemometers for wind measurements.I was able to build a functioning device that tracks wind speed and average wind speed in a HVAC system. By using these two measurements I can determine the health of the overall system.",
-      "keywords": "HVAC, Arduino, self-sufficient, Anemometer",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
-        "https://drive.google.com/uc?export=view&id=1guR3ldNJzhUDzWioDey8pl8_Nz6wBEVl",
-        null,
-        null
-      ],
-      "presentation": null,
-      "video": [
-        null,
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
-      "id": 201916,
-      "firstName": "Joshua",
-      "lastName": "Dunn",
-      "projectTitle": "Using a Raspberry Pi for Network Protection and Data Collection",
-      "projectDesc": "The overall objective of this project is to allow a home or small business owner to be able to monitor their network and for them to be able to observe trends in their network. The project will be using a Raspberry Pi as the delivery vehicle for the monitoring of network traffic, location of where traffic is originating from and where the traffic is going. The security provided by the Pi can also serve as another layer in the “defense in depth” concept which was laid out in other coursework for this degree. Also, this concept could be scaled up to allow for the monitoring of larger networks or as a company expands into new offices or hardware. Specialized security tools will be used for generating reports which can be used to make an informed decision about what the next steps should be in securing the network and what risks the users need to be aware of. This project could also be used to provide early detection for risks associated with out-of-date software or uninstalled patches to the operating systems on the network that anti-virus or anti-malware products may not yet be updated to detect.",
-      "keywords": "Raspberry Pi, Network Defense, Open source software, security, network monitoring",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
-        "https://drive.google.com/uc?export=view&id=1CDEv_iseOjIxGUFtb02y5qq7WQ0kYdmw",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1xH746dglW3aiUk2vUWN_VBLLYmmXH9vn",
-      "video": [
-        null,
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
-      "id": 201917,
-      "firstName": "Justin",
-      "lastName": "Waugh",
-      "projectTitle": "Pi Lock",
-      "projectDesc": "A problem facing many computer users is the thought of unauthorized access. In addition to the possibility of a malicious user accessing your files and data, you may not even be aware that any activity has taken place. That is why I introduced the PiLock. The PiLock, using an ultrasonic sensor, detects a person’s distance from a computer, and if the person is too close, the Raspberry Pi will restart and shutdown, then prompting for a user’s password upon restart. Before its shutdown procedure, the RaspberryPi sends an email to the user stating that an intruder has been detected.",
-      "keywords": "Raspberry Pi, Ultrasonic Sensor, SMTP, Security",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
-        "https://drive.google.com/uc?export=view&id=1QdjpzgXVbfjAi6RnOHXKUlxgKGm1vZzE",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1bM2uR3XgjWgHp2aFNaaIEXt0Y51QlNBr",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=19LiHGDKk63CzkBaqjxEuoh8uvg1sbnzo",
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
-      "id": 201918,
-      "firstName": "Lazim",
-      "lastName": "Islam",
-      "projectTitle": "Pi Security: A Simpler and Inexpensive Home Security System",
-      "projectDesc": "The purpose of this project was to create a simple and inexpensive security system able to give the big guys a run for their money. With skills in electronics and programming, it is possible to create a security system that rivals those that are considered the best and main stream in security systems. This project aims to create a security system for a one-time cost of roughly $100. The system should be able to do everything the main stream rival can do if it is to be considered as a serious competition. So, this device will have the ability to inform about security breaches and also be able to provide real-time surveillance.\\nThe device chosen to accomplish all these functions was a Raspberry Pi, a small linux-based computer. This small PC allows amateurs and even professionals to play with and recreate electronic devices and also learn how to program them.\\nWith the PI, it is also possible to use sensors to detect changes in temperature, humidity, sounds, proximity, control robots, use as a server, and even turn on live streams required for a home security system.",
-      "keywords": "Raspberry pi, Home security, Cheap security systems, Do it yourself security systems.",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1JlxuK1OAaUzb3BzW-blEYKDTLfitmA0m",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=17zvbzSUW5_0FzTx36w-dEAQlho2sxCFw",
-        "https://drive.google.com/uc?export=view&id=1DZNL5PJ6Ch8DIm4arVIL6xWexiIp00px",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1HrIjNeGHiq34_SyNdv5KMkoeEHYD2GFw",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1e-grJDaaWNts2efNcdXYC3SmOX6sXDi3",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1kvpImUa8OL5AYJMXl9RvTPjh95btibCn",
-      "contact": null
-    },
-    {
-      "id": 201919,
-      "firstName": "Matthew",
-      "lastName": "Erwin",
-      "projectTitle": "Bluetooth Controlled Power Outlet",
-      "projectDesc": "This project is the creation of a universal Bluetooth controlling feature for any powered device. Any electrical device that simply plugs into the wall can now be controlled via Bluetooth with the steps taken from my design. All easily controlled in app on your smart device. The app controls the Arduino, which in turn, opens and closes the power to the outlet. The result of this is easy control over any device that plugs into an outlet.",
-      "keywords": "Bluetooth, Arduino, Power Outlet",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
-        "https://drive.google.com/uc?export=view&id=1YXwG_wHD5zuCNJSc5-56727ITNewc2rW",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1cFd3s0rq-vBxer62TqE2-nF1r1QIJcv_",
-      "video": [
-        null,
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1ISTxcDYU8fJEiaxO3G00N9VhDNMQJLRB",
-      "contact": null
-    },
-    {
-      "id": 201920,
-      "firstName": "Richard",
-      "lastName": "Clark",
-      "projectTitle": "Raspberry Pi 3 FM Transmitter",
-      "projectDesc": "The goal of this project is to become well versed within Raspberry Pi 3 and to improve my LInux skills by creating a FM transmitter. By utilizing the Raspbian operating system and coding found on the internet, I am creating my own in-home FM transmitter. The goal is to be able to broadcast some sort of transmission across a specific frequency and receive that transmission with a hand-held FM receiver. Ultimately, the plan is to make this design efficient enought that it can be done remotely from an outside network by utilizing a VPN in the future.",
-      "keywords": "FM transmissions, AM transmissions, VHF, attenuation, Raspberry Pi",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
-        "https://drive.google.com/uc?export=view&id=1YbLlI2CORgy8h97YyUbQcQagEiekxMA3",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1xaSlo4sakIwcPH5amb1kYC9CCfX1zheZ",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=13wbNyaOw5eYJPkOS3ty6AZZnlEy3ZosW",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1BM6Ik6w4_gxm1pZP3m1rYOyj7ItOf303",
-      "contact": null
-    },
-    {
-      "id": 201921,
-      "firstName": "Richard",
-      "lastName": "Stone",
-      "projectTitle": "Linux Ultralight OS",
-      "projectDesc": "It isn’t always convenient or even possible to use an already present operating system as a technician in the field. Likewise, technicians may not have their complete toolkit available for their use. Having a “swiss army knife” available would be a useful solution to a wide variety of these situations. Multiple “Systems On a Stick” that are pre-configured for various uses and ultra-light is the approach taken in this project to achieve this solution.And that’s what I’ve done. On one USB stick, there is an FTP server and multiple possible clients, and they all run from RAM they are so small.\"",
-      "keywords": "Light operating system, Multiboot, Linux Distribution, RAM, Live operating system, Persistence",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
-        "https://drive.google.com/uc?export=view&id=1igmfkw_MWA_dKF-nsRxjoS6AUNxSlW3n",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1hFfVZXaCkFdA-RcPsCAO9_qhwomCSt9-",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1jA3x8RXTRu-zmD5TGOUDZUj8Atb69wkS",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1GGFsQik68vwVEJswVvVMFcA3Ka7imRnw",
-      "contact": null
-    },
-    {
-      "id": 201922,
-      "firstName": "Seaton",
-      "lastName": "Combs",
-      "projectTitle": "DIY Remotable Sleeper PC",
-      "projectDesc": "Transplanting computer components into any non-traditional housing to hide a computer in plain sight. While this may not serve a general-purpose audience, there are niche applications for such an unconventional computing device, which will be touched on further in depth later. The problems to be addressed include the technical challenges of gutting and replacing TV components with computer components, disassembly and reassembly, fitting our components, and then making our computer remotely accessible.",
-      "keywords": "Sleeper computer, Wake-on-LAN",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1QHrX2NVo9jOojU73JazhmGuLYsrwsFRU",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1QHrX2NVo9jOojU73JazhmGuLYsrwsFRU",
-        "https://drive.google.com/uc?export=view&id=1JbVbAvQhFGz1a04v6Ypn-aEg44ezszvF",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=19pkS-ycCZRQn4l46jesqP1YCkX26nKDw",
-      "video": [
-        "https://youtu.be/ArTRZTYOGdc",
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
-      "id": 201923,
-      "firstName": "Stephen",
-      "lastName": "Brewer",
-      "projectTitle": "Implementation of an OpenFlow Switching Security Solution via the Zodiac FX",
-      "projectDesc": "The nature of IT is ever in constant flux with new technologies and practices replacing the old. Staying at the forefront of this ever advancing wave is crucial in adapting to the unique demands imposed upon IT infrastructure both in terms of internal and external forces. One of the most defining advancements for networking devices is that of Software Defined Networking.\\nUnique in the fact that management and control is held by a centralized controller, SDN seeks to alter the traditional IT paradigm. OpenFlow, a recently released network protocol serves as the de facto spearhead to this revolution, having been adopted already in production environments despite its relative infancy.\\n\\nThe Zodiac FX as a device is a prototyping switch that utilized SDN through OpenFlow in order to allow enthusiast and research driven individuals opportunity to experiment and develop applications without more traditional, costly networking equipment.\\nIn exploration of SDN and OpenFlow as a potential source of in-built security, I seek the construction of a simple network prototype consisting of a small handful of host machines utilizing the Zodiac FX.\\n\\nDivided into a multi-phase schedule the project is oriented around a two core methodology with the proposal of a pre-meditated extension; each core representing a standalone state of the project wholly capable of existing within its own right. The first of these cores representing a stable state through which the Zodiac FX is configured and capable of handling closely monitored, or even simulated traffic. The second introducing its role as a security device, most notably as the network’s standing firewall – were previously simulated traffic is brought into a hand tailored network through which this performance may be monitored. The final, optional, extension further expanding upon the network serviced by the device – through the introduction of a second Zodiac FX, and the implementation of a wireless access point.\\nKeywords: OpenFlow, Zodiac FX, Open Source, Network Security",
-      "keywords": "OpenFlow, Zodiac FX, Open Source, Network Security",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
-        "https://drive.google.com/uc?export=view&id=1BMXXE1veznuAjgYnDXj-FtDIdFgP6gNm",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=13IqQ5t_H71nDzdDrI-W2iUXNXOVBo9GZ",
-      "video": [
-        null,
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1bOiUgughT4MjhyyGuAvdZ8WDxR-LyIDX",
-      "contact": null
-    },
-    {
-      "id": 201924,
-      "firstName": "Tony",
-      "lastName": "Sanzone",
-      "projectTitle": "Applied Pi: Network Services Using Raspberry Pi",
-      "projectDesc": "Cloud storage, for remote data backups, subscriptions can be a hassle. One has to deal with expenses dependent on amount of storage and the duration of the subscription, as well as issues arising from privacy laws that differ from location to location. But, by having a personal cloud server, one is in control of who has access to the data and where the data is located; and if working from a business standpoint, all important data can be backed up into a secure location completely managed in-house. The issue that arises from this method of storage though is that it has to be able to be built and maintained for a lower cost than a subscription based service and be remotely accessible while retaining security during transmissions. In order to accomplish this the task, I turned to the use of two Raspberry Pis. One Raspberry Pi will act as a cloud server and the other will act as a VPN server. The VPN will encrypt all the data being transmitted to and from the cloud storage server to ensure the security of the data.",
-      "keywords": "Raspberry Pi, VPN, OpenVPN, cloud server, NextCloud, secure tunnel",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
-        "https://drive.google.com/uc?export=view&id=13zS0T8FHW228U1Xbzoy37ERw8rHqj4Sb",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1LQeWGjzyJve_vaLlc2wtUGd9_6HMNNEt",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1A5slu9__OjhUN5-Yct6Hbkp2HTprWUE8",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1tsrbCb1yaxPkJ_JzT6ICMxzOOPHhEwDr",
-      "contact": null
-    },
-    {
-      "id": 201925,
-      "firstName": "William",
-      "lastName": "Sloan",
-      "projectTitle": "REPSS, a password encryption tool",
-      "projectDesc": "Cyber security is an ever evolving field with dozens of points and pieces to wield together to make a cohesive protected system, server, and data distribution. Encryption is but one of these pieces to merge together, but an important part, as well as a first step in protecting the overall collection of plaintext passcodes that could normally be hacked within seconds. Verified encryption policies, as well as the programming skills behind it to make a reversible (or non-reversible hash) encryption for average users. Aiming to become a first step defence for average users, this project hopes to create a more secure society.",
-      "keywords": "Cyber Security, Encryption, Programming",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1SFMYxAA_4LnwqMTejtTIyFH3ea2xa90U",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1SFMYxAA_4LnwqMTejtTIyFH3ea2xa90U",
-        "https://drive.google.com/uc?export=view&id=1zKeaEayFIA8tuSB0AX5VhV-_jP0Jo6o9",
-        null,
-        null
-      ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1FdtHkIct9c9uYyDBxxbbqne3C46nPvag",
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1uVJw9cLS_g8dJIW-dm5AijyvRqdvcNRp",
-        null
-      ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1_IzQgMfOx0oUuOBYetsYWLvCxIUp4VWh",
-      "contact": null
-    }
-  ],
+ {
+   "id": 201901,
+   "firstName": "Aaron",
+   "lastName": "Voynar",
+   "projectTitle": "Modified Fender 5E3 Deluxe Clone Vacuum Tube Guitar Amp Project",
+   "projectDesc": "The project includes the design and development of a vacuum tube guitar amp. This project is completely hand built and hand wired, including the aluminum amp chassis, circuit board, design/layout of components, and the wood cabinets to enclose the amp and speaker. The amp uses tube rectification, and employs a push-pull (Class AB) power amp section. The design is based on a Fender Deluxe 5E3 model amp circa 1957, but is updated to include modern safety features and functionality. The amp is also designed to allow for post-tube-preamp analog-digital signal conversion for processing in an external laptop computer, followed by digital-analog signal conversion which is then fed into the tube power amp section. The amp has been tested for safety as well as proper operation, tone, and usability. Special attention was given to safety, both in operation as well as in future repair and maintenance, due to the extremely high AC and DC voltages and large capacitors found in such a vacuum tube circuit.",
+   "keywords": "Vacuum tube, tube rectifier, analog audio amplification, analog electronics",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1yTTJhxZD7SH--qTOxR0hKx-JamEWVRoq",
+   "certificates": {
+     "CWTS":"https://www.cwnp.com/certifications/cwts", 
+     "CompTIA A+":"https://www.comptia.org/certifications/a"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1yTTJhxZD7SH--qTOxR0hKx-JamEWVRoq",
+      "https://drive.google.com/uc?export=view&id=10stynLG0XlXVcTRzAjtSuh5DYZ6sEUq7",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=18aRSFXrC0COx97bnCVEuC0nubHlMC9Ev",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1fXuxRLak3qEqXLDar5t1sVoL22M-bWb5",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=19nXWPBceauieDvIe8r45lk9xsQdnYeiU",
+   "contact": "aaron.voynar@gmail.com"
+},
+ {
+   "id": 201902,
+   "firstName": "Alex",
+   "lastName": "Rally",
+   "projectTitle": "Feeding Frenzy Automated Cat Feeder",
+   "projectDesc": "Automation can benefit people and an endless number of ways. I have always had a fascination with automation and eliminating the need for human oversight or labor in tasks. These tasks can be large scale such as factory and manufacturing environments as well as small tasks in everyday household chores. In this project I was aiming to automate the feeding of my cat Mira. The problem I have found with these products on the market are there price and functionality. I could not find one that fit what I was looking for and wanted to create my own.To create this project I used a microcomputer, in this case a raspberry pi, and connected it to a servo motor. I designed code that allows for the scheduling of a specified amount of food to be dispensed at the times you set. This is housed in a custom made frame that protects the wires, devices, and motor.",
+   "keywords": "Automation, non-continous servo motor, Raspberry Pi",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1V0yI4wbXCni4G4D7wEJ_8WOTS_FVnFIS",
+   "certificates": {
+     "CompTIA Network+":"https://www.comptia.org/certifications/network"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1V0yI4wbXCni4G4D7wEJ_8WOTS_FVnFIS",
+      "https://drive.google.com/uc?export=view&id=1Cqm5AFXrc-AnSnQjoYLYLck4jUifSPWE",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1eA-rEzZ7PR-vZvRu0EC68T3tsT30ItZR",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1QfFLLFLRGOD45YV7AAmk9-0nwdLNGVCe",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1LxfmAYOGmC02N_0kn6c6S6vG89VGv54M",
+   "contact": "alexander_rally@mymail.eku.edu"
+},
+ {
+   "id": 201903,
+   "firstName": "Allen",
+   "lastName": "Baker",
+   "projectTitle": "All-in-one Computer Network",
+   "projectDesc": "Through the use of Electronics, Networking, and computer systems an All-In-One Computer Network has been created to provide a single device to improve small business cyber systems. Since small businesses have little resources to maintain adequate cyber systems, security is often neglected. As more systems are becoming digital it is ever important for businesses to adjust to this reality. Using the open source router software Pfsense, the use of intrusion detection and firewall features are available. Also, using Docker containerization the use of multiple applications on a single server is possible. Providing a smart switch with VLAN network segmentation capabilities allows for further control of a network. In developing this project anyone, including businesses, can have a turn-key network in a single case. 3D modeling and printing may be used to easily develop and prototype a single case for an All-In-One Network. In developing this project anyone, including businesses, can have a turn-key network in a single case. Overall, there are several areas in which small business networking could be improved through the effective use of cyber systems.",
+   "keywords": "Docker, containerization, Pfsense, All-In-One, Turn-Key, Business, SBC, Single Board Computer, Security, Networking, Intrusion detection, E-commerce, NextCloud, Cloud, Linux, Smart Switch, Cyber Security",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1slmEJLFW0V31w_YQf5S4R4M2HiIDUuso",
+   "certificates": {
+     "CompTIA Cloud Essentials":"https://www.comptia.org/certifications/cloud-essentials"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1uMBTwnyBnTqOLG4rM_g7hsGIErYVsHhy",
+      null,
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1NaoP-4cgV1Fsulul3CCORT9amArCS14x",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=10FEREUmNcZ9HKvn0aOnEnqox0xeHlShJ",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1l_TTShYgDN-W75xZVGEPn7Hwm5pWDQmn",
+   "contact": "bakerae493@gmail.com"
+},
+ {
+   "id": 201904,
+   "firstName": "Anthony",
+   "lastName": "Ellison",
+   "projectTitle": "Seven Layer Cisco Security: CCNA Security Physical and Virtual L",
+   "projectDesc": "The issue addressed by this project is making an effective physical lab to prepare for the CCNA Security certification exam. The goals in taking on this project were to expand skills and knowledge related to network security with an emphasis on securing Cisco routers, Cisco switches, and Cisco Adaptable Security Appliances (ASAs) more commonly referred to simply as firewalls.",
+   "keywords": "Cisco, CCNA, Security, ASA, Firewall, Network Hardening, Home Lab, Packet Tracer",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
+   "certificates": {
+     "CCNA":"https://www.cisco.com/c/en/us/training-events/trainin-certifications/certifications/associate/ccna-routing-switching.html",
+     "CCENT":"https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html", 
+     "CompTIA A+":"https://www.comptia.org/certifications/a"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
+      null,
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1yvQorrpK9sbdXXk-Etawtt-S-Qbx7yta",
+   "video": [
+      "https://youtu.be/uLiZSfqE0II",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1D01dDFuCVGp49esVoKDfvTRoJSklI3IZ",
+   "contact": "anthony_ellison1@eku.edu"
+},
+ {
+   "id": 201905,
+   "firstName": "Brian",
+   "lastName": "Preece",
+   "projectTitle": "Brian's Biometric Box",
+   "projectDesc": "The purpose for this project is very simple, security. Safes can be expensive or easy to break into, so this project aims to be a cheap alternative. Since security is the focus, I decided to use a fingerprint scanner as a method of unlocking the safe. I planned to spend no more than $50 and ended up using $35 since I already had most of the pieces. This safe has the purpose of securing the contents placed inside by the creator and whoever else they would like to have access using an Arduino, a magnetic lock, and the fingerprint sensor. It also uses opensource software from the Arduino manufacturer for programming.",
+   "keywords": "Arduino, Safe, Magnetic Lock, Fingerprint scanner",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
+   "certificates": {
+     "2nd Highest dept. exit exam score":"https://technology.eku.edu/"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
+      "https://drive.google.com/uc?export=view&id=1bciYFCCSO85zXTPs_fnvJsvqWflVl7JN",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1o-THaudE5GqDCxRSeWV94fQIHr-pOhCs",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=14YYErcnioXnIZqHusNx3jotflYJkDrWW",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1LX5UF1RsDxBP-ug2FtWPxvSzSqFts05k",
+   "contact": "brian_preece3@mymail.eku.edu"
+},
+ {
+   "id": 201906,
+   "firstName": "Bryan",
+   "lastName": "Labicki",
+   "projectTitle": "Wireless Deadbolt Controlled by Arduino",
+   "projectDesc": "The problem that I wanted to address was the cost of implementing an in-home security solution. For this project, I went with creating a wireless door lock using an ArduinoMega, servo motor,Bluetooth module,and an android smart phone. Many other door locks that perform the same cost upwards of $100and over, but theproject that I created costed much less, roughly $75. It canbe made even cheaper by being more space efficient, such as using an Arduino Uno and a smaller breadboard.",
+   "keywords": "Arduino, Security, Wireless, Deadbolt",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
+      "https://drive.google.com/uc?export=view&id=1pjnqJ4LoA8h_dnJXlbNbJ5aCY-Vu3J6A",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=11inNPVfBvqgTUJIiwVbRuRWwPp6CHEHT",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1GgnvRuk7V8z1Ntf6nr-PvEOnO56AGkww",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1E2SrHsYrbFnQhCV2sF2u6473ZbAjsKkj",
+   "contact": "bryan_labicki@mymail.eku.edu"
+},
+ {
+   "id": 201907,
+   "firstName": "Bruce",
+   "lastName": "Farris",
+   "projectTitle": "Retro Gaming Console",
+   "projectDesc": "The capstone project consists of my own adaptation of a retro gaming console. My goal is to create a device that can emulate classic gaming consoles to relive youryounger years of gaming. The concept involves use of a Raspberry Pi 3 encased in a miniature SNES console, either bought online or 3D printed, using a software called RetroPie. The skills needed for this project are gained from self-gained knowledge/research outside of class as well as a variety of courses in EET from Eastern Kentucky University’s NET program. The finished product should allow the user to install and play any classic video game ROM from a large selection of emulation software. However, the goal for this project is to imitate the SNES.",
+   "keywords": "RetroPi, Raspberry Pi 3, classic/retro, SNES, console",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
+   "certificates": {"CompTIA A+": "https://www.comptia.org/certifications/a"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
+      "https://drive.google.com/uc?export=view&id=1TGwVW23xYjxRNTfvmHWIF07bQHcCYZiU",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1qbKIGRvSh0UF1nNOGrappV6a3TX64xYs",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1j_n0sF-WvjD9sKTBwPPRl1MvIfxs6A32",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1suN9VH5U1NwMTqBjAqFt9cIrtIC9IKLj",
+   "contact": "bruce_farris7@mymail.eku.edu"
+},
+ {
+   "id": 201908,
+   "firstName": "Caleb",
+   "lastName": "Caudill",
+   "projectTitle": "Handyman Tool Tracker",
+   "projectDesc": "This project is defined by an inventory application written in C# that is protected against SQL injection on user input. The purpose of this project is to perform all basic inventory maintenance functions such as add, remove, search, and edit items in order to keep track of an inventory of either games, books, or tools. Another aspect of the purpose of the project is to prevent malicious users from affecting the database in negative ways though SQL injection. This means a malicious user cannot drop tables or select information they are not supposed to. Prevention of SQL injection is an often looked over aspect, but it is very important as it is one of the most common attack types in cybersecurity and database security.",
+   "keywords": "Inventory, C#, MySQL, SQL Injection, Visual Studio, Database",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
+   "certificates": {
+     "CompTIA A+":"https://www.comptia.org/certifications/a", 
+     "Strata IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals", 
+     "Highest dept. exit exam score":"https://technology.eku.edu/"
+   },
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
+      "https://drive.google.com/uc?export=view&id=1zVXTsvHBxwhqZloRy5ckslSONLdyGX34",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1uy7CO3sAV_GTFfc__lHehb0nEB89uzfC",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1XoMRYJAr3is8yrTPhdkOgct9C2uj8OVU",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1pyEEcrEV7UziJcDdrro_hyFGaaYC1Cn5",
+   "contact": "caleb_caudill53@mymail.eku.edu"
+},
+ {
+   "id": 201910,
+   "firstName": "Coleman",
+   "lastName": "Stephenson",
+   "projectTitle": "Ubuntu Database Server Utilizing MySQL",
+   "projectDesc": "This project was designed with the intention of developing an inexpensive option for database storage and management for small businesses or private individuals. With these constraints in mind, it was decided that virtualization of the server using VirtualBox was desired in order to minimize construction and operation costs. The server itself is loaded with the open source Linux distribution, Ubuntu Server 18.04 and installed with MySQL Server to add database functionality. Database management is achieved using MySQL Workbench, chosen for its extremely effective usage paired with MySQL Server.",
+   "keywords": "Linux, Ubuntu Server 18.04, MySQL Server, MySQL Workbench",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
+   "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
+      "https://drive.google.com/uc?export=view&id=17oKGThN72Hjtuz5lnfK4koAFXp1HoTWv",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=10_yYiqQ3TsS6eCbK-sKmAik2ZJ9NHtXX",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1RNMh1jsF55MMWWGtPJ5USHGZxOc_D1HY",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1XAd41BAVbE3--Ix0BvuX_7hg8B1JkKJu",
+   "contact": "coleman_stephenso30@mymail.eku.edu"
+},
+ {
+   "id": 201911,
+   "firstName": "Evan",
+   "lastName": "Martin",
+   "projectTitle": "Arduino \\\"Tron\\\"\\\" Bike",
+   "projectDesc": "The technical problem approached in this Capstone project is the safety of bicycling at night time. Bicyclists, professional or hobbyists, must take extra precautions when riding at darker hours, wearing reflective gear and installing reflective panels on their bicycle. This project aims to provide a clearer signal to everyone on the road that the cyclist is present. Using an Arduino Mega 2560, a 1M strip of LEDs, and an Infrared Receiver/Remote, this project creates a safe and clear sign to motorists that there is a cyclist in their vicinity, hopefully reducing the amount of accidents that can happen during a night-time ride.",
+   "keywords": "Arduino, Bicycle, Safety, Infrared, Receiver, Remote, LED, Battery",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
+   "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
+      "https://drive.google.com/uc?export=view&id=1Lu1uCAj_bX7_ObGYp0YUMRr16Wu-nLbh",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=16BPNHdweaw22X1aLPiOxHDJSsujGPl6J",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1546ukcu7jV6vU-qKJwIoq7_U_h1N2ZJ-",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=17sgKYdccskEJIBuUWGxMnxGNRLDMw_W_",
+   "contact": "evan_martin46@mymail.eku.edu"
+},
+ {
+   "id": 201912,
+   "firstName": "Jacob",
+   "lastName": "Laber",
+   "projectTitle": "Harnessing the Power of the Sun",
+   "projectDesc": "For my project I have created a basic charge solar panel system. This system in its most basic form consists ofthe means to harness energy from the sun and store in a battery(DC power), and convert this energy into 120 volt AC power to power most normal in home electronic devices.The will help to reduce the cost of using grid power. However in its current state my solar system is very limited in the amount of energy is can store, and its output once stored. So to assist with these limitation, using an Allen Bradley PLC I have created a program that will monitor the state of charge of the battery and automatically switch between using the solar energy and the existing grid energy, with the hope that I can utilize the solar energy to reduce my monthly grid electric bill.",
+   "keywords": "Solar panel, PLC, grid power",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
+   "certificates": {"2nd Highest dept. exit exam score":"https://technology.eku.edu/"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
+      "https://drive.google.com/uc?export=view&id=19Xd-NttV6vskjGB_rxh2sT8HckJcpNUi",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=11KOAqOXO-vjgfea-V1lls42nb729LE7v",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1j_kxIwvOpCXPn5lGo2_lBCo2ePBS7zQk",
+      null
+   ],
+   "brochure": null,
+   "contact": "jacob_laber@mymail.eku.edu"
+},
+ {
+   "id": 201913,
+   "firstName": "John",
+   "lastName": "Cooksey",
+   "projectTitle": "PLC Practice Bench",
+   "projectDesc": "I wanted to create a project that solves the problem of improving PLC programming skills without the use of an expensive laboratory environment. I want to build a cheap, easy to use practice bench that would allow one to practice their skills without worrying about the cost or location. I’m buying the cheapest PLC on the market, which includes its own programming software, and combining it with cheap switches and LED’s to simulate digital inputs and outputs. The user will have access to 6 separate switches and 6 different colored LED’s to give them the greatest number of tools to create desired programs.",
+   "keywords": "PLC, Digital I/O",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1yop6AAvJRSBYOeqjUCgC2GnvzAMpZofJ",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1yop6AAvJRSBYOeqjUCgC2GnvzAMpZofJ",
+      "https://drive.google.com/uc?export=view&id=15JceGLSzx65q1ImgUOEC5_I2h3g8yWDt",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1Svet67KRs0IKrcEqfQvSbSlz8BWIzbXF",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1EbnJztkGE1XspkiWL14Z49MeAxtdFr_L",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1cPrj_1vi4aeYh9ElIUjH2sNjjH3fbYuP",
+   "contact": "john_cooksey3@mymail.eku.edu"
+},
+ {
+   "id": 201914,
+   "firstName": "John",
+   "lastName": "Strong",
+   "projectTitle": "RetroPie Emulation Station and Library Backup",
+   "projectDesc": "The purpose of this project was to improve project management abilities, create an affordable alternative to the class game consoles, reduce space used by classic games, and preserve a hobby that is dying. My primary purpose in this project was to reduce the space used by collections of classic games and consoles and preserving my collection from the hazards of aging electrical contacts. The secondary purpose for my project was to create a portable classic library to take on trips to enjoy games of my childhood. The results of this project were exceptional and exceeded my expectations going into a technology I had never used as well as realizing how compact the device turned out making it an excellent travel companion.",
+   "keywords": "Raspberry Pi, RetroPie, Emulation",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=19rBVKL2SuHXu41FQBldu-eOa5-LaruGt",
+   "certificates": {"CCENT":"https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html"},
+   "images": [
+      null,
+      null,
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1ZsNxs_iRz4z3zmMDAWaxNRcjRSylDutw",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1wHdgWM8AEKB7Ej2Bmb42_wSaJJhTFBtO",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=186Yxbh7WQ5BXkJJfxz8HwDNR1qzsyMy8",
+   "contact": "john_f_strong@outlook.com"
+},
+ {
+   "id": 201915,
+   "firstName": "Jonathan",
+   "lastName": "Ferrell",
+   "projectTitle": "Air Quality Essentials: Arduino based HVAC Diagnostic System",
+   "projectDesc": "The issue addressed by this project was the fact that a lot of HVAC companies and their clients waste a lot of time, money and resources when it comes to their HVAC systems and their maintenance.My main purpose was to build adevice that would make an HVAC unit more self-sufficient and reliable using and Arduino based anemometer system. A significant amount of time was spent researchingArduino systems along with HVAC usage. I also researched how weather stations used anemometers for wind measurements.I was able to build a functioning device that tracks wind speed and average wind speed in a HVAC system. By using these two measurements I can determine the health of the overall system.",
+   "keywords": "HVAC, Arduino, self-sufficient, Anemometer",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
+      "https://drive.google.com/uc?export=view&id=1guR3ldNJzhUDzWioDey8pl8_Nz6wBEVl",
+      null,
+      null
+   ],
+   "presentation": null,
+   "video": [
+      null,
+      null
+   ],
+   "brochure": null,
+   "contact": "jonathan_ferrell@mymail.eku.edu"
+},
+ {
+   "id": 201916,
+   "firstName": "Joshua",
+   "lastName": "Dunn",
+   "projectTitle": "Using a Raspberry Pi for Network Protection and Data Collection",
+   "projectDesc": "The overall objective of this project is to allow a home or small business owner to be able to monitor their network and for them to be able to observe trends in their network. The project will be using a Raspberry Pi as the delivery vehicle for the monitoring of network traffic, location of where traffic is originating from and where the traffic is going. The security provided by the Pi can also serve as another layer in the “defense in depth” concept which was laid out in other coursework for this degree. Also, this concept could be scaled up to allow for the monitoring of larger networks or as a company expands into new offices or hardware. Specialized security tools will be used for generating reports which can be used to make an informed decision about what the next steps should be in securing the network and what risks the users need to be aware of. This project could also be used to provide early detection for risks associated with out-of-date software or uninstalled patches to the operating systems on the network that anti-virus or anti-malware products may not yet be updated to detect.",
+   "keywords": "Raspberry Pi, Network Defense, Open source software, security, network monitoring",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
+   "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
+      "https://drive.google.com/uc?export=view&id=1CDEv_iseOjIxGUFtb02y5qq7WQ0kYdmw",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1xH746dglW3aiUk2vUWN_VBLLYmmXH9vn",
+   "video": [
+      null,
+      null
+   ],
+   "brochure": null,
+   "contact": "joshua_dunn35@mymail.eku.edu"
+},
+ {
+   "id": 201917,
+   "firstName": "Justin",
+   "lastName": "Waugh",
+   "projectTitle": "Pi Lock",
+   "projectDesc": "A problem facing many computer users is the thought of unauthorized access. In addition to the possibility of a malicious user accessing your files and data, you may not even be aware that any activity has taken place. That is why I introduced the PiLock. The PiLock, using an ultrasonic sensor, detects a person’s distance from a computer, and if the person is too close, the Raspberry Pi will restart and shutdown, then prompting for a user’s password upon restart. Before its shutdown procedure, the RaspberryPi sends an email to the user stating that an intruder has been detected.",
+   "keywords": "Raspberry Pi, Ultrasonic Sensor, SMTP, Security",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
+      "https://drive.google.com/uc?export=view&id=1QdjpzgXVbfjAi6RnOHXKUlxgKGm1vZzE",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1bM2uR3XgjWgHp2aFNaaIEXt0Y51QlNBr",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=19LiHGDKk63CzkBaqjxEuoh8uvg1sbnzo",
+      null
+   ],
+   "brochure": null,
+   "contact": "justin_waugh@mymail.eku.edu"
+},
+ {
+   "id": 201918,
+   "firstName": "Lazim",
+   "lastName": "Islam",
+   "projectTitle": "Pi Security: A Simpler and Inexpensive Home Security System",
+   "projectDesc": "The purpose of this project was to create a simple and inexpensive security system able to give the big guys a run for their money. With skills in electronics and programming, it is possible to create a security system that rivals those that are considered the best and main stream in security systems. This project aims to create a security system for a one-time cost of roughly $100. The system should be able to do everything the main stream rival can do if it is to be considered as a serious competition. So, this device will have the ability to inform about security breaches and also be able to provide real-time surveillance.\\nThe device chosen to accomplish all these functions was a Raspberry Pi, a small linux-based computer. This small PC allows amateurs and even professionals to play with and recreate electronic devices and also learn how to program them.\\nWith the PI, it is also possible to use sensors to detect changes in temperature, humidity, sounds, proximity, control robots, use as a server, and even turn on live streams required for a home security system.",
+   "keywords": "Raspberry pi, Home security, Cheap security systems, Do it yourself security systems.",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1JlxuK1OAaUzb3BzW-blEYKDTLfitmA0m",
+   "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=17zvbzSUW5_0FzTx36w-dEAQlho2sxCFw",
+      "https://drive.google.com/uc?export=view&id=1DZNL5PJ6Ch8DIm4arVIL6xWexiIp00px",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1HrIjNeGHiq34_SyNdv5KMkoeEHYD2GFw",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1e-grJDaaWNts2efNcdXYC3SmOX6sXDi3",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1kvpImUa8OL5AYJMXl9RvTPjh95btibCn",
+   "contact": "lazim.sharar@gmail.com"
+},
+ {
+   "id": 201919,
+   "firstName": "Matthew",
+   "lastName": "Erwin",
+   "projectTitle": "Bluetooth Controlled Power Outlet",
+   "projectDesc": "This project is the creation of a universal Bluetooth controlling feature for any powered device. Any electrical device that simply plugs into the wall can now be controlled via Bluetooth with the steps taken from my design. All easily controlled in app on your smart device. The app controls the Arduino, which in turn, opens and closes the power to the outlet. The result of this is easy control over any device that plugs into an outlet.",
+   "keywords": "Bluetooth, Arduino, Power Outlet",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
+      "https://drive.google.com/uc?export=view&id=1YXwG_wHD5zuCNJSc5-56727ITNewc2rW",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1cFd3s0rq-vBxer62TqE2-nF1r1QIJcv_",
+   "video": [
+      null,
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1ISTxcDYU8fJEiaxO3G00N9VhDNMQJLRB",
+   "contact": "matthrew_erwin1@mymail.eku.edu"
+},
+ {
+   "id": 201920,
+   "firstName": "Richard",
+   "lastName": "Clark",
+   "projectTitle": "Raspberry Pi 3 FM Transmitter",
+   "projectDesc": "The goal of this project is to become well versed within Raspberry Pi 3 and to improve my LInux skills by creating a FM transmitter. By utilizing the Raspbian operating system and coding found on the internet, I am creating my own in-home FM transmitter. The goal is to be able to broadcast some sort of transmission across a specific frequency and receive that transmission with a hand-held FM receiver. Ultimately, the plan is to make this design efficient enought that it can be done remotely from an outside network by utilizing a VPN in the future.",
+   "keywords": "FM transmissions, AM transmissions, VHF, attenuation, Raspberry Pi",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
+   "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
+      "https://drive.google.com/uc?export=view&id=1YbLlI2CORgy8h97YyUbQcQagEiekxMA3",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1xaSlo4sakIwcPH5amb1kYC9CCfX1zheZ",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=13wbNyaOw5eYJPkOS3ty6AZZnlEy3ZosW",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1BM6Ik6w4_gxm1pZP3m1rYOyj7ItOf303",
+   "contact": "richard_clark100@mymail.eku.edu"
+},
+ {
+   "id": 201921,
+   "firstName": "Richard",
+   "lastName": "Stone",
+   "projectTitle": "Linux Ultralight OS",
+   "projectDesc": "It isn’t always convenient or even possible to use an already present operating system as a technician in the field. Likewise, technicians may not have their complete toolkit available for their use. Having a “swiss army knife” available would be a useful solution to a wide variety of these situations. Multiple “Systems On a Stick” that are pre-configured for various uses and ultra-light is the approach taken in this project to achieve this solution.And that’s what I’ve done. On one USB stick, there is an FTP server and multiple possible clients, and they all run from RAM they are so small.\"",
+   "keywords": "Light operating system, Multiboot, Linux Distribution, RAM, Live operating system, Persistence",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1LaBQ1KRuQ90E3z_kEJfkTnFBAXItvN-L",
+      "https://drive.google.com/uc?export=view&id=1igmfkw_MWA_dKF-nsRxjoS6AUNxSlW3n",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1hFfVZXaCkFdA-RcPsCAO9_qhwomCSt9-",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1jA3x8RXTRu-zmD5TGOUDZUj8Atb69wkS",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1GGFsQik68vwVEJswVvVMFcA3Ka7imRnw",
+   "contact": "richard_stone@mymail.eku.edu"
+},
+ {
+   "id": 201922,
+   "firstName": "Seaton",
+   "lastName": "Combs",
+   "projectTitle": "DIY Remotable Sleeper PC",
+   "projectDesc": "Transplanting computer components into any non-traditional housing to hide a computer in plain sight. While this may not serve a general-purpose audience, there are niche applications for such an unconventional computing device, which will be touched on further in depth later. The problems to be addressed include the technical challenges of gutting and replacing TV components with computer components, disassembly and reassembly, fitting our components, and then making our computer remotely accessible.",
+   "keywords": "Sleeper computer, Wake-on-LAN",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1QHrX2NVo9jOojU73JazhmGuLYsrwsFRU",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1QHrX2NVo9jOojU73JazhmGuLYsrwsFRU",
+      "https://drive.google.com/uc?export=view&id=1JbVbAvQhFGz1a04v6Ypn-aEg44ezszvF",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=19pkS-ycCZRQn4l46jesqP1YCkX26nKDw",
+   "video": [
+      "https://youtu.be/ArTRZTYOGdc",
+      null
+   ],
+   "brochure": null,
+   "contact": "seaton_combs67@mymail.eku.edu"
+},
+ {
+   "id": 201923,
+   "firstName": "Stephen",
+   "lastName": "Brewer",
+   "projectTitle": "Implementation of an OpenFlow Switching Security Solution via the Zodiac FX",
+   "projectDesc": "The nature of IT is ever in constant flux with new technologies and practices replacing the old. Staying at the forefront of this ever advancing wave is crucial in adapting to the unique demands imposed upon IT infrastructure both in terms of internal and external forces. One of the most defining advancements for networking devices is that of Software Defined Networking.\\nUnique in the fact that management and control is held by a centralized controller, SDN seeks to alter the traditional IT paradigm. OpenFlow, a recently released network protocol serves as the de facto spearhead to this revolution, having been adopted already in production environments despite its relative infancy.\\n\\nThe Zodiac FX as a device is a prototyping switch that utilized SDN through OpenFlow in order to allow enthusiast and research driven individuals opportunity to experiment and develop applications without more traditional, costly networking equipment.\\nIn exploration of SDN and OpenFlow as a potential source of in-built security, I seek the construction of a simple network prototype consisting of a small handful of host machines utilizing the Zodiac FX.\\n\\nDivided into a multi-phase schedule the project is oriented around a two core methodology with the proposal of a pre-meditated extension; each core representing a standalone state of the project wholly capable of existing within its own right. The first of these cores representing a stable state through which the Zodiac FX is configured and capable of handling closely monitored, or even simulated traffic. The second introducing its role as a security device, most notably as the network’s standing firewall – were previously simulated traffic is brought into a hand tailored network through which this performance may be monitored. The final, optional, extension further expanding upon the network serviced by the device – through the introduction of a second Zodiac FX, and the implementation of a wireless access point.\\nKeywords: OpenFlow, Zodiac FX, Open Source, Network Security",
+   "keywords": "OpenFlow, Zodiac FX, Open Source, Network Security",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
+      "https://drive.google.com/uc?export=view&id=1BMXXE1veznuAjgYnDXj-FtDIdFgP6gNm",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=13IqQ5t_H71nDzdDrI-W2iUXNXOVBo9GZ",
+   "video": [
+      null,
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1bOiUgughT4MjhyyGuAvdZ8WDxR-LyIDX",
+   "contact": "stephen_brewer@mymail.eku.edu"
+},
+ {
+   "id": 201924,
+   "firstName": "Tony",
+   "lastName": "Sanzone",
+   "projectTitle": "Applied Pi: Network Services Using Raspberry Pi",
+   "projectDesc": "Cloud storage, for remote data backups, subscriptions can be a hassle. One has to deal with expenses dependent on amount of storage and the duration of the subscription, as well as issues arising from privacy laws that differ from location to location. But, by having a personal cloud server, one is in control of who has access to the data and where the data is located; and if working from a business standpoint, all important data can be backed up into a secure location completely managed in-house. The issue that arises from this method of storage though is that it has to be able to be built and maintained for a lower cost than a subscription based service and be remotely accessible while retaining security during transmissions. In order to accomplish this the task, I turned to the use of two Raspberry Pis. One Raspberry Pi will act as a cloud server and the other will act as a VPN server. The VPN will encrypt all the data being transmitted to and from the cloud storage server to ensure the security of the data.",
+   "keywords": "Raspberry Pi, VPN, OpenVPN, cloud server, NextCloud, secure tunnel",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
+   "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network"},
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
+      "https://drive.google.com/uc?export=view&id=13zS0T8FHW228U1Xbzoy37ERw8rHqj4Sb",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1LQeWGjzyJve_vaLlc2wtUGd9_6HMNNEt",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1A5slu9__OjhUN5-Yct6Hbkp2HTprWUE8",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1tsrbCb1yaxPkJ_JzT6ICMxzOOPHhEwDr",
+   "contact": "tony.sanzone@live.com"
+},
+ {
+   "id": 201925,
+   "firstName": "William",
+   "lastName": "Sloan",
+   "projectTitle": "REPSS, a password encryption tool",
+   "projectDesc": "Cyber security is an ever evolving field with dozens of points and pieces to wield together to make a cohesive protected system, server, and data distribution. Encryption is but one of these pieces to merge together, but an important part, as well as a first step in protecting the overall collection of plaintext passcodes that could normally be hacked within seconds. Verified encryption policies, as well as the programming skills behind it to make a reversible (or non-reversible hash) encryption for average users. Aiming to become a first step defence for average users, this project hopes to create a more secure society.",
+   "keywords": "Cyber Security, Encryption, Programming",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1SFMYxAA_4LnwqMTejtTIyFH3ea2xa90U",
+   "certificates": null,
+   "images": [
+      "https://drive.google.com/uc?export=view&id=1SFMYxAA_4LnwqMTejtTIyFH3ea2xa90U",
+      "https://drive.google.com/uc?export=view&id=1zKeaEayFIA8tuSB0AX5VhV-_jP0Jo6o9",
+      null,
+      null
+   ],
+   "presentation": "https://drive.google.com/uc?export=view&id=1FdtHkIct9c9uYyDBxxbbqne3C46nPvag",
+   "video": [
+      "https://drive.google.com/uc?export=view&id=1uVJw9cLS_g8dJIW-dm5AijyvRqdvcNRp",
+      null
+   ],
+   "brochure": "https://drive.google.com/uc?export=view&id=1_IzQgMfOx0oUuOBYetsYWLvCxIUp4VWh",
+   "contact": "williamlsloan007@gmail.com"
+}
+],
   "other": {
     "classPhoto": [
       {
