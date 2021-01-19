@@ -1,520 +1,557 @@
 {
-    "studentData": [
+  "studentData": [
+    {
+      "id": 201601,
+      "firstName": "Anthony",
+      "lastName": "Mills",
+      "projectTitle": "Coldest Boom Box Ever",
+      "projectDesc": "This project was to make a working solar powered stereo that is also built into a cooler for easy travel and to keep your drinks cold while enjoying good music. It will be useful for a hot summer day at the beach or lake or even just while cooking out in your backyard. The Coldest Solar Stereo is built to be a less expensive version of the ones that companies are selling for $200 or more.",
+      "keywords": "Solar, Panels, Stereo, Amplifier, Speakers, Cooler, Circuits, Wiring, Waterproofing",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1TK-h0YwK-oosNs98Nz29RwS6ycWnhiNL",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1TK-h0YwK-oosNs98Nz29RwS6ycWnhiNL",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1DUpySIqnG1TAZTa9R27AKgLSSl8SVeez",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1CMowjEKTaTPOgEOPMf8E_A0MGTgIbcJx",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=12eEgBcTYzv8VU95033Pfb7QpE_hgaY0v",
+      "contact": "anthony_mills33@mymail.eku.edu"
+    },
+    {
+      "id": 201602,
+      "firstName": "Cameron ",
+      "lastName": "Adkisson",
+      "projectTitle": "How to Guide: Inexpensive Internet Protocol Telephony Solution",
+      "projectDesc": "This is an in depth guide to creating an IP (internet protocol) telephony solution that can meet all your corporations needs at a minimal cost. I created this guide because I manage a very expensive IP telephone system that is only possible to obtain by large corporations and wanted to create a system that can be created for small companies. Throughout this guide I will lead you through the requirements and steps needed to create a great reliable solution that will exceed all your companies needs and wants.",
+      "keywords": "Internet Protocol (IP), IP Address, Port, Voice Over Internet Protocol (VoIP), Session Initiation Protocol (SIP), Private Branch Exchange (PBX)",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1mr4G5XxEiLmP1gHuqnF9LIVw9WZDPSkd",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1mr4G5XxEiLmP1gHuqnF9LIVw9WZDPSkd",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1Rjcr3T1mX9Yf39aNPXfN563n7dyJZyIz",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1PL-sGn2i3_wCF2OAtWo7lhEX_hfejbdF",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=16fpHiEip1LEeFypP1F8RCHgNqYKGkAHq",
+      "contact": "cameron.adkisson1@mymail.eku.edu"
+    },
+    {
+      "id": 201603,
+      "firstName": "Christopher",
+      "lastName": "Bundy",
+      "projectTitle": "Network Security for Non-Profits and Small Businesses",
+      "projectDesc": "The purpose of this project was to educate small organizations on how they too can have information technology work for them and not cost them. The project is a quarter direct technical implementation and the rest is education on best practices that every organization should have. The International Standards Organization has a set of recommendations, 27002, that has every practice businesses should have for information security. Unfortunately, small organizations have not the need nor the manpower and resources to implement the entirety of best practices. The organizations best chance is then to parse the information. The accompanying guide is that parsed information.",
+      "keywords": "Network security, small business, ISO",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=181Tax_4Uk39NMi9pgxY5hmpG0nyMqG_D",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=181Tax_4Uk39NMi9pgxY5hmpG0nyMqG_D",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1N5SeNgz8B6YNznR3zvAHOvTh3Ko6xBiP",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1NXDB9oPIQNnmoDHUS1GdCFeVdOzfE_NN",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1qTkuuEEIx-2_MEvgbEvbitBofrlPGGuK",
+      "contact": "christopher_bundy3@eku.edu"
+    },
+    {
+      "id": 201604,
+      "firstName": "David ",
+      "lastName": "Hinely",
+      "projectTitle": "The MagneLock Keyless Access System: A Low Power Wireless Door Lock",
+      "projectDesc": "This project was created to gain a better understanding of magnets, Arduino coding, and RFID technologies. The questions I hoped to solve were could I create such a system for less than $100, could I create a system that held its position in the event of a power failure, and if so could it be manually overridden from the outside. I worked alone towards the completion of the product, although I did receive advice from several colleagues of mine, and where reasonable implemented said advice. All three of the questions were answered in the affirmative, although it took a larger than expected amount of time, effort, and money to reach that point. Upon completion of the project, I wish I had more time in order to improve the functionality and design of the final product beyond its concluding state.",
+      "keywords": "Arduino, Circuits, Code, Lock, RFID, Wireless",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1CCOLxKhgkL4CFNZjRCpzHlo6wcnlAqrA",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "CompTIA Network+": "https://www.comptia.org/certifications/network",
+        "CompTIA Security+": "https://www.comptia.org/certifications/security"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1CCOLxKhgkL4CFNZjRCpzHlo6wcnlAqrA",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=13F4rN1KRcttHxpoFr1EdIWu-MIwI-llL",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=11wgAWPsO7oOZ0p2IxN1NaaHhoxgb8MTE",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1OXZVzhej_xiz3zeY4MCoQ7VT-nnf946F",
+      "contact": "dhinely@live.com"
+    },
+    {
+      "id": 201605,
+      "firstName": "Drake",
+      "lastName": "Woods",
+      "projectTitle": "The Unforgettable Feeder",
+      "projectDesc": "The main issue addressed by this project was the want to build an automatic dog feeder to feed my dogs while I was away. Beyond just feeding the dogs while I was gone from the house, the feeder will help feed the dogs if I forget to feed them. While having two dogs will require a need for a larger feeder, research for this larger scale feeder was extensive. Although the feeder I built was smaller scale, with a little modification I can adapt the feeder to feed the dogs for more than one day. I am very pleased with how this project turned out. The project is running smoothly and my dogs are loving it.",
+      "keywords": "Arduino, Dog Feeder, custom",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1u8IKj-1ApuuHNytYtr8iiqJ-2M4poQ3A",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1u8IKj-1ApuuHNytYtr8iiqJ-2M4poQ3A",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1UVzfNxSyR89lGx6PaU6jHbD38Lf2GDyu",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1s40YmNL_xTyMasC5KaUmorvZHYFZAGrX",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1fChN9jtuQsnXY4_cQQwrktkAwAKv5KPB",
+      "contact": "drake_woods28@mymail.eku.edu"
+    },
+    {
+      "id": 201606,
+      "firstName": "Eli ",
+      "lastName": "Taylor",
+      "projectTitle": "Secure Raspberry Pi Cloud Server",
+      "projectDesc": "The target issue addressed in this project is to have complete control over storage capacity and security over my data while having the convince of accessing it anywhere (with internet connection). There are cloud services available for storing data, but those services typically only allow a small amount of free storage space. On top of this, you have trust these services to not infringe on privacy as well as have strong security to keep your data from being stolen. When creating a personal cloud storage service, the user can have ease of mind about privacy concerns. Furthermore, a personal cloud storage service gives the user the ability to heighten the security to ensure the data is as safe as it can be from attackers.",
+      "keywords": "Cloud storage, cloud server, Raspberry Pi, server security, IDS, Firewall",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1DUiZlxkN8KOhNUU4oKykIMQKM0LLdh9m",
+      "certificates": {
+        "3rd Highest dept. exit exam score 2016-17": "https://technology.eku.edu/"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1DUiZlxkN8KOhNUU4oKykIMQKM0LLdh9m",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1iXHAlEUzpcJyqhWREAuzWvpLdxfMkIh3",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1HgridwMYHq_wz6C3eXtPI-xVud1E3VWw",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1_AYkEP0U2YpAwHnKQgMdlyA5svTE7TRB",
+      "contact": "e.taylor@outlook.com"
+    },
+    {
+      "id": 201607,
+      "firstName": "Eric",
+      "lastName": "Fields",
+      "projectTitle": "The WoodBox Game Console",
+      "projectDesc": "The WoodBox game emulator is a retro game console built from an old laptop that has been salvaged and parted out so I could rebuild the needed pieces into a nice looking case that resembles a console. The WoodBox emulator runs a version of Linux called Lakka, which is built from the LibRetro Linux build. The console was the solution that was came to not being able to play some of the best games in my childhood. When I was younger there were about 5 consoles I had and loved to play, however no longer do I have them and most are very hard to find or would cost a fortune to replace. Therefore the best thing to do would be to use technical knowledge I have gained in order to build my own console to play the games all in one place.",
+      "keywords": "Game console, Retro gaming, Lakka, Linux",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1f0nr26FFUlHhKD0EjshdgVctBNuHrody",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1f0nr26FFUlHhKD0EjshdgVctBNuHrody",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1AZSj8ifV5avn40xoU8PEBuHEhi8-Q2U6",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1uf91i1CBXBcYJxWqzIQozqYQJJU_KWQu",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=158bqswuPDPZgSYQtrUnZiZP4V3Dr3tTG",
+      "contact": "eric_fields17@mymail.eku.edu"
+    },
+    {
+      "id": 201608,
+      "firstName": "Jacob",
+      "lastName": "Bates",
+      "projectTitle": "I-Server 2016",
+      "projectDesc": "I am doing this Capstone because in the future, I want to be able to start and keep up with a Windows Server at the company for which I work. I have always wanted to run an actual server when I started this major and took the class over Windows Server 2012 R2. I also wanted to be completely updated on the newest technology, and be able to operate the Windows Server 2012. When I decided to build my own computer, I decided I would need to need to add an Operating System to that newly built computer. When I checked on the newest and (somewhat) most updated server, I then decided to go with Windows Server 2016 Technical Preview 3 & Technical Preview 4.",
+      "keywords": "Windows Server 2016",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1tbuoKjqNC92uD3XlQeN11L4t8j6WU_7v",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1tbuoKjqNC92uD3XlQeN11L4t8j6WU_7v",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1WGumsDng8csz9yETIpjYtnwL7lzm4tk0",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1zsfBzTm7G-IW9_aJS1qK7yMewh72rv1y",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1LBtSY4JRHp_1B31JL5w-ssgmKlQn1a-0",
+      "contact": "jbatesOx649@outlook.com"
+    },
+    {
+      "id": 201609,
+      "firstName": "Jonathan",
+      "lastName": "Ramsey",
+      "projectTitle": "Ping & Print",
+      "projectDesc": "In the workplace we have to print reports or files but technology can go down or we are not properly connected to the device in our server. These problems when it comes to troubleshooting can be extensive and when there are a multitude of problems it makes the process from twenty minutes to maybe about two hours, with an unknown problem there is not a guaranteed solution. With my application it doesn’t completely remove the need of extensive troubleshooting, but it does allow a starting point to what can be done in addition to helping people who have little to no experience with printing technology be able to add their printers without having to go through several window prompts trying to gather information and then have to start again if one piece of information is inaccurate.",
+      "keywords": "Visual Studio, Batch File, Rundll32, Print Server, Ping, Troubleshooting, File Sharing, and Networking",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1iHFBJ6Lw7DGS7r_AOkK7lgGKUyzPU10l",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1iHFBJ6Lw7DGS7r_AOkK7lgGKUyzPU10l",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=114rvao3OqVOnHV-yuQ7mGuc3uB3DyIFO",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1qXJbN79oQmxEkMBdZa6h2hApRxz2jGTl",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1ZL81j8RgM15hcTvtMMteWcLKVM6mp8j4",
+      "contact": "jonathan_ramsey39@mymail.eku.edu"
+    },
+    {
+      "id": 201610,
+      "firstName": "Joshua",
+      "lastName": "Dunn",
+      "projectTitle": "Using a Raspberry Pi as a Water Presence Sensor",
+      "projectDesc": "This project is for the Networking Electronics and Security program capstone at Eastern Kentucky University. This project will use a Raspberry Pi, a miniature computer, to detect the presence of water in a certain area and alert the user to the water. This project aims to include all relevant fields, including Computer Science, Networking, and Electrical Engineering.",
+      "keywords": "Raspberry Pi, Water Sensor, Flood",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1jR7mDvsZyrl2FpKBFxdIYQVb0TFElA-X",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1jR7mDvsZyrl2FpKBFxdIYQVb0TFElA-X",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1GUkxdID12L9SEySw-fIZc62WC79JSBPp",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1ntDoYE3WJvT4l6QiuZw6zNJQj4OzaLlR",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=14qxAs0OYCTgDkRRZFXft61UofvcDWcxe",
+      "contact": "joshua_dunn35@mymail.eku.edu"
+    },
+    {
+      "id": 201611,
+      "firstName": "Justin",
+      "lastName": "Goldstein",
+      "projectTitle": "Flexible Security: Wirelessly Networked, Solar Powered, and Cloud Storage Configured IP Camera System",
+      "projectDesc": "IP Cameras have been available since the late 90’s and have slowly replaced the CCTV standard for camera security systems. Within the last few years, wireless IP cameras have become common in the market. They are easier to install due to not having to pull hard-wire network to the camera location; something that can be time-consuming and expensive depending on the location. Even with the convenience of wireless networking technology, there are still constraints to the environments these cameras can be deployed in. One example is an area where the Wifi-signal is weak or completely non-existent due to the distance from the nearest Wireless Access Point, or environments that interfere with or block RF signals. Another potentially limiting factor is the location of the nearest power outlet. The “wireless” component of the wireless cameras system is strictly wireless internet and cameras typically require some wired power to function. My system enhances the deployment range of wireless IP cameras using a combination of an external, disconnect-able antenna that can be installed distances from the IP camera and a solar power battery charging system that uses the Sun’s energy to power the camera and charge the battery during the day and runs off battery power at night.",
+      "keywords": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1SOpEdSapN3MCj17_Sr8xEZ4VYKqN-E_6",
+      "certificates": {
+        "Dr. Glen Kleine College of Biz & Tec (CB&T) Presentations": "https://technology.eku.edu/insidelook/aet-wins-award-capstone-presentations",
+        "2nd place winner": "https://technology.eku.edu/insidelook/aet-wins-award-capstone-presentations",
+        "Certified Technology Specialist (CTS)": "https://www.avixa.org/"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1SOpEdSapN3MCj17_Sr8xEZ4VYKqN-E_6",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1GiXuS8v3PX0enFx_N804jTDgQehdMZai",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1Wb7sM8hr7JorPS44ii8swfWBsJPi-oqZ",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1E8_HVeD-dtOxu7X1NTmJ_516ujhI27YS",
+      "contact": "justin.goldstein@eku.edu"
+    },
+    {
+      "id": 201612,
+      "firstName": "Justin",
+      "lastName": "Miracle",
+      "projectTitle": "GPS Pi",
+      "projectDesc": "When one doesn’t want to burn through their phone’s battery or invest in a standalone GPS device, there’s making your own GPS device. With the ubiquity of GPS Navigation on Smartphone devices, it only makes sense for one to want to make this a standalone device so that it won’t waste valuable battery life from their phone. Most standalone GPS devices don’t have live traffic updates or their maps are old. Worse still, standalone GPS devices often times use a subscription service to keep maps up to date. This project aims to create a standalone device using a Raspberry Pi 2 that’s kept up to date as frequently as the user wishes and won’t use up a smartphone’s battery to keep geolocation running.",
+      "keywords": "Raspberry Pi, GPS, Portable, Standalone",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Second Highest BS(NET) Exit Exam Score 2015-16": "https://technology.eku.edu/"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1HtNPlqF1N4Qmz1ftCtDVkvAwPb2tD4eM",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1Kv8CJaj5p3Nt2uWO0N0aqd8_mi1n9ZBj",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1rjAmJr1r2AaRHc6hk84GUmjnq845m1Kx",
+      "contact": "jd.miracle2@gmail.com"
+    },
+    {
+      "id": 201613,
+      "firstName": "Justin ",
+      "lastName": "Smyth",
+      "projectTitle": "The Claw Alert Feline Training Assistant",
+      "projectDesc": "The issue addressed by this project was the need to train my cat Jinx to stop scratching the arm of my couch. My main purpose was to build a pressure sensitive alarm circuit using piezo sensors and incorporate an Arduino device to notify me when Jinx was scratching my furniture. The alarm circuit diagrams were readily available and easy to construct. Learning to write program code for the Arduino was very time consuming and I had to downscale the entire project so I would have a working prototype for the final presentation. I was able to complete the scaled down prototype and I plan to complete this project and improve upon it in the near future.",
+      "keywords": "alarm, circuit, piezo, Arduino, program code",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1tAfcejvTv6IBzQNMgBM9Ds_apGgijCJd",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": null,
+      "contact": "justin_smyth3@mymail.eku.edu"
+    },
+    {
+      "id": 201614,
+      "firstName": "Lucas",
+      "lastName": "Maupin",
+      "projectTitle": "Secure Lab: Creating a Cisco 3550 VLSM Network",
+      "projectDesc": "This project was created to gain a greater understanding of the intricacies of Cisco networking technologies as well as gain skill in performing wiring of Ethernet cable. I also have gained proficiency in backup, deletion and installation of new Cisco firmware. The main goal to be achieved was to create a secure home office network though the use of a Cisco Catalyst 3550 switch. The use of VLANs, access lists, port security, Secure Shell, DHCP and personal firewall configuration have resulted in a very secure network. Upon the completion of this project I have concluded that the results are pleasing. I was able to confirm the networking of all devices was optimal and rules put in place for security were working as designed.",
+      "keywords": " Cisco, Catalyst, Layer 3, switching technologies, Ethernet, network security, office network, cabling, routing technologies, VLAN, interVLAN routing, 3550",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
+      "certificates": {
+        "Cisco Interconnecting Cisco Network Devices 1": "https://learningnetwork.cisco.com/s/ccna"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1QJygnjPyiQv-2IgvK0JdLRnhLf5nDjFG",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=15xDNAjOoOBF_EoLAFxfY6U8xqAT6mM8N",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1uq8YF4Uc8QLwzcpxMOvnUQ1mMqG-Tfb9",
+      "contact": "lucas.maupin@eku.edu"
+    },
+    {
+      "id": 201615,
+      "firstName": "Marquise",
+      "lastName": "Piton",
+      "projectTitle": "Mickey Hand: Changing the Way How we use a mouse!",
+      "projectDesc": "I’m doing this capstone because I believe that the mickey hand is more than just idea but it can revolutionize how we you a mouse todays computers electronics. Computers are involving to more of a living machine and the mouse should do same. Also, I wanted to build something that was unique and not talked about a lot. This device should even attract the gamers out there that want something that can be more than just a mouse but something that will enhance your gaming experience. It is amazing how we look at something that have already been made by someone else and we start to think, what can we do to not change the main function of the device but upgrade. This is how I feel about the mouse but there is nothing wrong with the basic mouse. When I think about the people that want something perfect for gaming and the people that have certain disabilities, I want this invention to be something that will help these type of people without changing the voltage.",
+      "keywords": "electronics, mouse, voltage",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Y657KqLo2BXHQTpUq9MoNx1bP6CahBet",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Y657KqLo2BXHQTpUq9MoNx1bP6CahBet",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1CPYL-G0PBOsLeVaWZ0jyjlBx_bEZyJH9",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1oghVyzclFfUMpDI4ULTAiboapo5_fFBv",
+        "https://drive.google.com/uc?export=view&id=1SusIv1dzjYKdlDOzG6opOsfadhwGrf3p"
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1zz5UZX26aW9ba4UAazzMEFV3MVfY5bJM",
+      "contact": "marquise_piton@mymail.eku.edu"
+    },
+    {
+      "id": 201616,
+      "firstName": "Mohamad ",
+      "lastName": "Bin Hassan",
+      "projectTitle": "Macrium Reflect: Imaging a Computer System",
+      "projectDesc": "Taking an image or clone of a computer hard drive is a relatively easy process when you use the software and technology available to aid you in the imaging process. When you take an image of a hard drive, the image is an exact copy of your computer at the time the image was taken. The project required researching suitable software for creating a reliable image that can work with the 25 laptop's and have them ready to be used.",
+      "keywords": "Imaging, Macrium Reflect, disk tools",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ncxWYfUzjhH2KN4A_SHXH4CYLePtgBf_",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ncxWYfUzjhH2KN4A_SHXH4CYLePtgBf_",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=19SrvIDdsTg2DG3i4zXNHgbpYrhcGzOlX",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1gU87XYUbufoO8PJ3-vlrsSG-zMCKFr2Y",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1CC67NUZk_IfwBPCXJXwFYmkwZiz9-1IN",
+      "contact": "mohamad_binhassan@mymail.eku.edu"
+    },
+    {
+      "id": 201617,
+      "firstName": "Phillip",
+      "lastName": "Wilson",
+      "projectTitle": "Tranquil Home: A Multi-Camera Home Security System",
+      "projectDesc": "The issue addressed by this project was that my parents’ home had a faulty, insufficient security system with only two wired cameras. The purpose of this project was to replace their current security system with a far improved system consisting of a larger monitor, remote access, double the amount of cameras that were high definition, and an all wireless system. Time was spent mostly on trial and error to determine the best four zones to cover with the cameras, testing in all weather and lighting conditions, and optimizing the application for remote viewing. Overall, the project turned out very well even though I ended up not implementing my Core II plan due to both the wishes of my parents and legitimate concerns for overall quality of the system. I can proudly say that my parents have a secure home now with an easy to use system that they enjoy.",
+      "keywords": "camera, security system, home, electricity, wireless",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1HhZyjthK_ufn5Rmar6jWj8ZedNdmBFl7",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1HhZyjthK_ufn5Rmar6jWj8ZedNdmBFl7",
+        null,
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1d7x2EnAvYWweBG9ROdM0LV_3Eygjijxg",
+      "contact": "phil.wilson.it@gmail.com"
+    },
+    {
+      "id": 201618,
+      "firstName": "Roger",
+      "lastName": "Smith",
+      "projectTitle": "Developing an Automated Chute System for Small Industrial Presses",
+      "projectDesc": "This project demonstrates the ability to increase production and efficiency in an industrial automotive stamping plant setting through automation. My specific goal was to remove the down-time caused by the need to replace a full bin of parts with an empty bin. The solution I developed is a stand-alone chute system designed to direct parts into one of two bins based on if the bins are present and/or full; this allows the press to continue to produce parts, feeding into the empty bin, while the operator replaces the full one.",
+      "keywords": "automotive, automation, press, HMI, PLC, Connected Components Workbench, Rockwell, Allen-Bradley",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1RDlEodMKluVlLYaaiWpzOAAmV1BKl5qk",
+      "certificates": {
+        "2nd Highest dept. exit exam score 2016-2017": "https://technology.eku.edu/"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1RDlEodMKluVlLYaaiWpzOAAmV1BKl5qk",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=14XnrwH19ehNzUKhOSSx1wf-uKu7Usxdd",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1I1AsMZ3rrPwC8p96viBnO_McB8MmrI1U",
+        null
+      ],
+      "brochure": null,
+      "contact": "rsmith9685@gmail.com"
+    },
+    {
+      "id": 201619,
+      "firstName": "Sanket",
+      "lastName": "Patel",
+      "projectTitle": "Raspberry Car-Pi",
+      "projectDesc": "The purpose of this Capstone Project is to modify and keep up to date with the latest releases for the Raspberry. I decided to do the Raspberry Car-Pi project on the Raspberry due to the attention the web provided of making your very own car computer. The Car-Pi showed a greater advantage then buying an aftermarket stereo system. I wanted to be able to sync through Bluetooth, watch the latest movies, surf through the web, use the navigation system, and much more. When I decided to build my first car computer, I decided to build it in my 2010 Nissan Altima. I would need to configure the sound system to where it can be compatible with the Raspberry Pi 3 Model B which was the newest model available which hasn’t been tested for Car-Pi. After the research, I went ahead and purchased the product to build my Raspberry Car-Pi.",
+      "keywords": "Raspberry Pi, Car-Pi",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1q8S10T977Pjsd80v04FylmYoaP6aVwBW",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1q8S10T977Pjsd80v04FylmYoaP6aVwBW",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=14Xqyi27bbAZIx2frhdGZ2y-ifRIJtxZI",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=17cnr8_25TuGZGsDI_p2Tm_csB-bZ7r09",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1kmPzbRlXId1UX1AIatEEJzjL7xn0DBZt",
+      "contact": "sanket_patel9@mymail.eku.edu"
+    },
+    {
+      "id": 201620,
+      "firstName": "Virgil",
+      "lastName": "Edwards",
+      "projectTitle": "High End Desktop PC without the High End Cost",
+      "projectDesc": "It is almost impossible for someone to spend less than one thousand dollars and have a desktop system that allows you the capability of using it for things from a high performance gaming system to a high capacity media center to a powerful multi-virtual machine environment.This project will endeavor to do just that.I will show in this report precisely why it is most advantageous for you to build your own performance dream.This project build produced for me a computer that will keep me happy in all my computing needs for years to come.This project also solidified my confidence in handling, installing, and working with computer parts.Its performance, storage, expandability, and cost all comes together to ensure that I never spend my money on another pre-built desktop system ever again.Sorry Best Buy.",
+      "keywords": "Desktop, computer, PC, AMD, performance, cost, price, virtualization, Media Center, gaming",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=12G4MPZ3grTwlSHBnrHEmia6vseWzOrD-",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=12G4MPZ3grTwlSHBnrHEmia6vseWzOrD-",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1UE357fEDocqnffbZXL-VAeOlpgllwtPd",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=10VQJokjXNgBeMrcJBVrtE5Qv4dtO6Q6W",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1GTmGZoJtyvdXf4YiO29tyIUQeosz97Ag",
+      "contact": "virgil_edwards@mymail.eku.edu"
+    },
+    {
+      "id": 201621,
+      "firstName": "Zachary",
+      "lastName": "Bol",
+      "projectTitle": "The Sinking Ship: A real life application and understanding of the buffer overflow exploit",
+      "projectDesc": "This resource is an undertaking to discover the inner working’s of an exploit technique known as a buffer overflow. The buffer overflow takes advantage of computer software in order to gain access to unintended data that is stored in a computer system’s RAM (Random Access Memory). The technique is the result of discovering how the computer processor needs to break down operations for the success of the computer system. The basic operation is when the user requests a computer program to be executed, the program will be pulled from the hard drive and then be stored into the system’s RAM. The buffer overflow, however, will take advantage of the systematic ordering of computer code execution. This technique will allow a user to hijack when and what kind code will be executed next.",
+      "keywords": "The Stack, Vulnerability, Register, Assembly, Exploit",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
+      "certificates": {
+        "CompTIA Security+": "https://www.comptia.org/certifications/security"
+      },
+      "images": [
+        "https://drive.google.com/uc?export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1XlPUbXrh3NMtskpp9ByuraYXHffU6YnM",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1NOLw0nZAAsZ4WYUzroF6bQTrhIhqGrJ2",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1JCMRy7TU43hl_C2LfU3WLM9G9gtGVjhy",
+      "contact": "zachary_bol@mymail.eku.edu"
+    }
+  ],
+  "other": {
+    "classPhoto": [
       {
-        "id": 201601,
-        "firstName": "Anthony",
-        "lastName": "Mills",
-        "projectTitle": "Coldest Boom Box Ever",
-        "projectDesc": "This project was to make a working solar powered stereo that is also built into a cooler for easy travel and to keep your drinks cold while enjoying good music. It will be useful for a hot summer day at the beach or lake or even just while cooking out in your backyard. The Coldest Solar Stereo is built to be a less expensive version of the ones that companies are selling for $200 or more.",
-        "keywords": "Solar, Panels, Stereo, Amplifier, Speakers, Cooler, Circuits, Wiring, Waterproofing",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1TK-h0YwK-oosNs98Nz29RwS6ycWnhiNL",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1TK-h0YwK-oosNs98Nz29RwS6ycWnhiNL",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1DUpySIqnG1TAZTa9R27AKgLSSl8SVeez",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1CMowjEKTaTPOgEOPMf8E_A0MGTgIbcJx",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=12eEgBcTYzv8VU95033Pfb7QpE_hgaY0v",
-        "contact": "anthony_mills33@mymail.eku.edu"
+        "title": "Spring(BS/AAS) 2016 students",
+        "name": "(back) Mohamad, Drake, Zac, David, Quise, Lucas, Justin Miracle, and Justin Smyth; (front) Sanket, Eric, Jacob, Jon, Justin Goldstein, and Josh; Spring 2016 grads not in photo: Cameron Adkisson, Anthony Mills, Virgil Edwards",
+        "url": "https://drive.google.com/uc?export=view&id=1-Gfw49544QgBoenkugOMrPAoqNdNF3OI"
       },
       {
-        "id": 201602,
-        "firstName": "Cameron ",
-        "lastName": "Adkisson",
-        "projectTitle": "How to Guide: Inexpensive Internet Protocol Telephony Solution",
-        "projectDesc": "This is an in depth guide to creating an IP (internet protocol) telephony solution that can meet all your corporations needs at a minimal cost. I created this guide because I manage a very expensive IP telephone system that is only possible to obtain by large corporations and wanted to create a system that can be created for small companies. Throughout this guide I will lead you through the requirements and steps needed to create a great reliable solution that will exceed all your companies needs and wants.",
-        "keywords": "Internet Protocol (IP), IP Address, Port, Voice Over Internet Protocol (VoIP), Session Initiation Protocol (SIP), Private Branch Exchange (PBX)",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1mr4G5XxEiLmP1gHuqnF9LIVw9WZDPSkd",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1mr4G5XxEiLmP1gHuqnF9LIVw9WZDPSkd",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1Rjcr3T1mX9Yf39aNPXfN563n7dyJZyIz",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1PL-sGn2i3_wCF2OAtWo7lhEX_hfejbdF",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=16fpHiEip1LEeFypP1F8RCHgNqYKGkAHq",
-        "contact": "cameron.adkisson1@mymail.eku.edu"
+        "title": "Spring/Summer Computer Electronics Programs (BS/AAS) 2016 grads.",
+        "name": "(back) Drake, Quise, and Mohamad; (front) Sanket, Eric, Jacob, Jon, Lucas, and Justin Miracle; Spring 2016 grads not in photo: Cameron Adkisson, Anthony Mills, Virgil Edwards",
+        "url": "https://drive.google.com/uc?export=view&id=1FauCNoM3ybIswQZbARaVFjal8ggpnbkc"
       },
       {
-        "id": 201603,
-        "firstName": "Christopher",
-        "lastName": "Bundy",
-        "projectTitle": "Network Security for Non-Profits and Small Businesses",
-        "projectDesc": "The purpose of this project was to educate small organizations on how they too can have information technology work for them and not cost them. The project is a quarter direct technical implementation and the rest is education on best practices that every organization should have. The International Standards Organization has a set of recommendations, 27002, that has every practice businesses should have for information security. Unfortunately, small organizations have not the need nor the manpower and resources to implement the entirety of best practices. The organizations best chance is then to parse the information. The accompanying guide is that parsed information.",
-        "keywords": "Network security, small business, ISO",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=181Tax_4Uk39NMi9pgxY5hmpG0nyMqG_D",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=181Tax_4Uk39NMi9pgxY5hmpG0nyMqG_D",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1N5SeNgz8B6YNznR3zvAHOvTh3Ko6xBiP",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1NXDB9oPIQNnmoDHUS1GdCFeVdOzfE_NN",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1qTkuuEEIx-2_MEvgbEvbitBofrlPGGuK",
-        "contact": "christopher_bundy3@eku.edu"
+        "title": "Fall Computer Electronics Programs (BS/AAS) 2016 grads.",
+        "name": "David, Zac, Josh, Justin Goldstein, and Justin Smyth",
+        "url": "https://drive.google.com/uc?export=view&id=192_8TAiE-pgUyvt4cdAVCECPxo_TrB4V"
       },
       {
-        "id": 201604,
-        "firstName": "David ",
-        "lastName": "Hinely",
-        "projectTitle": "The MagneLock Keyless Access System: A Low Power Wireless Door Lock",
-        "projectDesc": "This project was created to gain a better understanding of magnets, Arduino coding, and RFID technologies. The questions I hoped to solve were could I create such a system for less than $100, could I create a system that held its position in the event of a power failure, and if so could it be manually overridden from the outside. I worked alone towards the completion of the product, although I did receive advice from several colleagues of mine, and where reasonable implemented said advice. All three of the questions were answered in the affirmative, although it took a larger than expected amount of time, effort, and money to reach that point. Upon completion of the project, I wish I had more time in order to improve the functionality and design of the final product beyond its concluding state.",
-        "keywords": "Arduino, Circuits, Code, Lock, RFID, Wireless",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1CCOLxKhgkL4CFNZjRCpzHlo6wcnlAqrA",
-        "certificates": "CompTIA A+, CompTIA Network+, CompTIA Security+",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1CCOLxKhgkL4CFNZjRCpzHlo6wcnlAqrA",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=13F4rN1KRcttHxpoFr1EdIWu-MIwI-llL",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=11wgAWPsO7oOZ0p2IxN1NaaHhoxgb8MTE",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1OXZVzhej_xiz3zeY4MCoQ7VT-nnf946F",
-        "contact": "dhinely@live.com"
-      },
-      {
-        "id": 201605,
-        "firstName": "Drake",
-        "lastName": "Woods",
-        "projectTitle": "The Unforgettable Feeder",
-        "projectDesc": "The main issue addressed by this project was the want to build an automatic dog feeder to feed my dogs while I was away. Beyond just feeding the dogs while I was gone from the house, the feeder will help feed the dogs if I forget to feed them. While having two dogs will require a need for a larger feeder, research for this larger scale feeder was extensive. Although the feeder I built was smaller scale, with a little modification I can adapt the feeder to feed the dogs for more than one day. I am very pleased with how this project turned out. The project is running smoothly and my dogs are loving it.",
-        "keywords": "Arduino, Dog Feeder, custom",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1u8IKj-1ApuuHNytYtr8iiqJ-2M4poQ3A",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1u8IKj-1ApuuHNytYtr8iiqJ-2M4poQ3A",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1UVzfNxSyR89lGx6PaU6jHbD38Lf2GDyu",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1s40YmNL_xTyMasC5KaUmorvZHYFZAGrX",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1fChN9jtuQsnXY4_cQQwrktkAwAKv5KPB",
-        "contact": "drake_woods28@mymail.eku.edu"
-      },
-      {
-        "id": 201606,
-        "firstName": "Eli ",
-        "lastName": "Taylor",
-        "projectTitle": "Secure Raspberry Pi Cloud Server",
-        "projectDesc": "The target issue addressed in this project is to have complete control over storage capacity and security over my data while having the convince of accessing it anywhere (with internet connection). There are cloud services available for storing data, but those services typically only allow a small amount of free storage space. On top of this, you have trust these services to not infringe on privacy as well as have strong security to keep your data from being stolen. When creating a personal cloud storage service, the user can have ease of mind about privacy concerns. Furthermore, a personal cloud storage service gives the user the ability to heighten the security to ensure the data is as safe as it can be from attackers.",
-        "keywords": "Cloud storage, cloud server, Raspberry Pi, server security, IDS, Firewall",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1DUiZlxkN8KOhNUU4oKykIMQKM0LLdh9m",
-        "certificates": "3rd Highest dept. exit exam score 2016-17",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1DUiZlxkN8KOhNUU4oKykIMQKM0LLdh9m",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1iXHAlEUzpcJyqhWREAuzWvpLdxfMkIh3",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1HgridwMYHq_wz6C3eXtPI-xVud1E3VWw",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1_AYkEP0U2YpAwHnKQgMdlyA5svTE7TRB",
-        "contact": "e.taylor@outlook.com"
-      },
-      {
-        "id": 201607,
-        "firstName": "Eric",
-        "lastName": "Fields",
-        "projectTitle": "The WoodBox Game Console",
-        "projectDesc": "The WoodBox game emulator is a retro game console built from an old laptop that has been salvaged and parted out so I could rebuild the needed pieces into a nice looking case that resembles a console. The WoodBox emulator runs a version of Linux called Lakka, which is built from the LibRetro Linux build. The console was the solution that was came to not being able to play some of the best games in my childhood. When I was younger there were about 5 consoles I had and loved to play, however no longer do I have them and most are very hard to find or would cost a fortune to replace. Therefore the best thing to do would be to use technical knowledge I have gained in order to build my own console to play the games all in one place.",
-        "keywords": "Game console, Retro gaming, Lakka, Linux",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1f0nr26FFUlHhKD0EjshdgVctBNuHrody",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1f0nr26FFUlHhKD0EjshdgVctBNuHrody",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1AZSj8ifV5avn40xoU8PEBuHEhi8-Q2U6",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1uf91i1CBXBcYJxWqzIQozqYQJJU_KWQu",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=158bqswuPDPZgSYQtrUnZiZP4V3Dr3tTG",
-        "contact": "eric_fields17@mymail.eku.edu"
-      },
-      {
-        "id": 201608,
-        "firstName": "Jacob",
-        "lastName": "Bates",
-        "projectTitle": "I-Server 2016",
-        "projectDesc": "I am doing this Capstone because in the future, I want to be able to start and keep up with a Windows Server at the company for which I work. I have always wanted to run an actual server when I started this major and took the class over Windows Server 2012 R2. I also wanted to be completely updated on the newest technology, and be able to operate the Windows Server 2012. When I decided to build my own computer, I decided I would need to need to add an Operating System to that newly built computer. When I checked on the newest and (somewhat) most updated server, I then decided to go with Windows Server 2016 Technical Preview 3 & Technical Preview 4.",
-        "keywords": "Windows Server 2016",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1tbuoKjqNC92uD3XlQeN11L4t8j6WU_7v",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1tbuoKjqNC92uD3XlQeN11L4t8j6WU_7v",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1WGumsDng8csz9yETIpjYtnwL7lzm4tk0",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1zsfBzTm7G-IW9_aJS1qK7yMewh72rv1y",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1LBtSY4JRHp_1B31JL5w-ssgmKlQn1a-0",
-        "contact": "jbatesOx649@outlook.com"
-      },
-      {
-        "id": 201609,
-        "firstName": "Jonathan",
-        "lastName": "Ramsey",
-        "projectTitle": "Ping & Print",
-        "projectDesc": "In the workplace we have to print reports or files but technology can go down or we are not properly connected to the device in our server. These problems when it comes to troubleshooting can be extensive and when there are a multitude of problems it makes the process from twenty minutes to maybe about two hours, with an unknown problem there is not a guaranteed solution. With my application it doesn’t completely remove the need of extensive troubleshooting, but it does allow a starting point to what can be done in addition to helping people who have little to no experience with printing technology be able to add their printers without having to go through several window prompts trying to gather information and then have to start again if one piece of information is inaccurate.",
-        "keywords": "Visual Studio, Batch File, Rundll32, Print Server, Ping, Troubleshooting, File Sharing, and Networking",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1iHFBJ6Lw7DGS7r_AOkK7lgGKUyzPU10l",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1iHFBJ6Lw7DGS7r_AOkK7lgGKUyzPU10l",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=114rvao3OqVOnHV-yuQ7mGuc3uB3DyIFO",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1qXJbN79oQmxEkMBdZa6h2hApRxz2jGTl",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1ZL81j8RgM15hcTvtMMteWcLKVM6mp8j4",
-        "contact": "jonathan_ramsey39@mymail.eku.edu"
-      },
-      {
-        "id": 201610,
-        "firstName": "Joshua",
-        "lastName": "Dunn",
-        "projectTitle": "Using a Raspberry Pi as a Water Presence Sensor",
-        "projectDesc": "This project is for the Networking Electronics and Security program capstone at Eastern Kentucky University. This project will use a Raspberry Pi, a miniature computer, to detect the presence of water in a certain area and alert the user to the water. This project aims to include all relevant fields, including Computer Science, Networking, and Electrical Engineering.",
-        "keywords": "Raspberry Pi, Water Sensor, Flood",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1jR7mDvsZyrl2FpKBFxdIYQVb0TFElA-X",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1jR7mDvsZyrl2FpKBFxdIYQVb0TFElA-X",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1GUkxdID12L9SEySw-fIZc62WC79JSBPp",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1ntDoYE3WJvT4l6QiuZw6zNJQj4OzaLlR",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=14qxAs0OYCTgDkRRZFXft61UofvcDWcxe",
-        "contact": "joshua_dunn35@mymail.eku.edu"
-      },
-      {
-        "id": 201611,
-        "firstName": "Justin",
-        "lastName": "Goldstein",
-        "projectTitle": "Flexible Security: Wirelessly Networked, Solar Powered, and Cloud Storage Configured IP Camera System",
-        "projectDesc": "IP Cameras have been available since the late 90’s and have slowly replaced the CCTV standard for camera security systems. Within the last few years, wireless IP cameras have become common in the market. They are easier to install due to not having to pull hard-wire network to the camera location; something that can be time-consuming and expensive depending on the location. Even with the convenience of wireless networking technology, there are still constraints to the environments these cameras can be deployed in. One example is an area where the Wifi-signal is weak or completely non-existent due to the distance from the nearest Wireless Access Point, or environments that interfere with or block RF signals. Another potentially limiting factor is the location of the nearest power outlet. The “wireless” component of the wireless cameras system is strictly wireless internet and cameras typically require some wired power to function. My system enhances the deployment range of wireless IP cameras using a combination of an external, disconnect-able antenna that can be installed distances from the IP camera and a solar power battery charging system that uses the Sun’s energy to power the camera and charge the battery during the day and runs off battery power at night.",
-        "keywords": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1SOpEdSapN3MCj17_Sr8xEZ4VYKqN-E_6",
-        "certificates": "Dr. Glen Kleine College of Biz & Tec (CB&T) Presentations, 2nd place winnder, Certified Technology Specialist (CTS)",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1SOpEdSapN3MCj17_Sr8xEZ4VYKqN-E_6",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1GiXuS8v3PX0enFx_N804jTDgQehdMZai",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1Wb7sM8hr7JorPS44ii8swfWBsJPi-oqZ",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1E8_HVeD-dtOxu7X1NTmJ_516ujhI27YS",
-        "contact": "justin.goldstein@eku.edu"
-      },
-      {
-        "id": 201612,
-        "firstName": "Justin",
-        "lastName": "Miracle",
-        "projectTitle": "GPS Pi",
-        "projectDesc": "When one doesn’t want to burn through their phone’s battery or invest in a standalone GPS device, there’s making your own GPS device. With the ubiquity of GPS Navigation on Smartphone devices, it only makes sense for one to want to make this a standalone device so that it won’t waste valuable battery life from their phone. Most standalone GPS devices don’t have live traffic updates or their maps are old. Worse still, standalone GPS devices often times use a subscription service to keep maps up to date. This project aims to create a standalone device using a Raspberry Pi 2 that’s kept up to date as frequently as the user wishes and won’t use up a smartphone’s battery to keep geolocation running.",
-        "keywords": "Raspberry Pi, GPS, Portable, Standalone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
-        "certificates": "CompTIA Strata IT Fundamentals,  Second Highest BS(NET) Exit Exam Score 2015-16",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1HtNPlqF1N4Qmz1ftCtDVkvAwPb2tD4eM",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1Kv8CJaj5p3Nt2uWO0N0aqd8_mi1n9ZBj",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1rjAmJr1r2AaRHc6hk84GUmjnq845m1Kx",
-        "contact": "jd.miracle2@gmail.com"
-      },
-      {
-        "id": 201613,
-        "firstName": "Justin ",
-        "lastName": "Smyth",
-        "projectTitle": "The Claw Alert Feline Training Assistant",
-        "projectDesc": "The issue addressed by this project was the need to train my cat Jinx to stop scratching the arm of my couch. My main purpose was to build a pressure sensitive alarm circuit using piezo sensors and incorporate an Arduino device to notify me when Jinx was scratching my furniture. The alarm circuit diagrams were readily available and easy to construct. Learning to write program code for the Arduino was very time consuming and I had to downscale the entire project so I would have a working prototype for the final presentation. I was able to complete the scaled down prototype and I plan to complete this project and improve upon it in the near future.",
-        "keywords": "alarm, circuit, piezo, Arduino, program code",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1tAfcejvTv6IBzQNMgBM9Ds_apGgijCJd",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": "justin_smyth3@mymail.eku.edu"
-      },
-      {
-        "id": 201614,
-        "firstName": "Lucas",
-        "lastName": "Maupin",
-        "projectTitle": "Secure Lab: Creating a Cisco 3550 VLSM Network",
-        "projectDesc": "This project was created to gain a greater understanding of the intricacies of Cisco networking technologies as well as gain skill in performing wiring of Ethernet cable. I also have gained proficiency in backup, deletion and installation of new Cisco firmware. The main goal to be achieved was to create a secure home office network though the use of a Cisco Catalyst 3550 switch. The use of VLANs, access lists, port security, Secure Shell, DHCP and personal firewall configuration have resulted in a very secure network. Upon the completion of this project I have concluded that the results are pleasing. I was able to confirm the networking of all devices was optimal and rules put in place for security were working as designed.",
-        "keywords": " Cisco, Catalyst, Layer 3, switching technologies, Ethernet, network security, office network, cabling, routing technologies, VLAN, interVLAN routing, 3550",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
-        "certificates": "Cisco Interconnecting Cisco Network Devices 1",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1QJygnjPyiQv-2IgvK0JdLRnhLf5nDjFG",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=15xDNAjOoOBF_EoLAFxfY6U8xqAT6mM8N",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1uq8YF4Uc8QLwzcpxMOvnUQ1mMqG-Tfb9",
-        "contact": "lucas.maupin@eku.edu"
-      },
-      {
-        "id": 201615,
-        "firstName": "Marquise",
-        "lastName": "Piton",
-        "projectTitle": "Mickey Hand: Changing the Way How we use a mouse!",
-        "projectDesc": "I’m doing this capstone because I believe that the mickey hand is more than just idea but it can revolutionize how we you a mouse todays computers electronics. Computers are involving to more of a living machine and the mouse should do same. Also, I wanted to build something that was unique and not talked about a lot. This device should even attract the gamers out there that want something that can be more than just a mouse but something that will enhance your gaming experience. It is amazing how we look at something that have already been made by someone else and we start to think, what can we do to not change the main function of the device but upgrade. This is how I feel about the mouse but there is nothing wrong with the basic mouse. When I think about the people that want something perfect for gaming and the people that have certain disabilities, I want this invention to be something that will help these type of people without changing the voltage.",
-        "keywords": "electronics, mouse, voltage",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Y657KqLo2BXHQTpUq9MoNx1bP6CahBet",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1Y657KqLo2BXHQTpUq9MoNx1bP6CahBet",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1CPYL-G0PBOsLeVaWZ0jyjlBx_bEZyJH9",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1oghVyzclFfUMpDI4ULTAiboapo5_fFBv",
-          "https://drive.google.com/uc?export=view&id=1SusIv1dzjYKdlDOzG6opOsfadhwGrf3p"
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1zz5UZX26aW9ba4UAazzMEFV3MVfY5bJM",
-        "contact": "marquise_piton@mymail.eku.edu"
-      },
-      {
-        "id": 201616,
-        "firstName": "Mohamad ",
-        "lastName": "Bin Hassan",
-        "projectTitle": "Macrium Reflect: Imaging a Computer System",
-        "projectDesc": "Taking an image or clone of a computer hard drive is a relatively easy process when you use the software and technology available to aid you in the imaging process. When you take an image of a hard drive, the image is an exact copy of your computer at the time the image was taken. The project required researching suitable software for creating a reliable image that can work with the 25 laptop's and have them ready to be used.",
-        "keywords": "Imaging, Macrium Reflect, disk tools",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1ncxWYfUzjhH2KN4A_SHXH4CYLePtgBf_",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1ncxWYfUzjhH2KN4A_SHXH4CYLePtgBf_",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=19SrvIDdsTg2DG3i4zXNHgbpYrhcGzOlX",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1gU87XYUbufoO8PJ3-vlrsSG-zMCKFr2Y",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1CC67NUZk_IfwBPCXJXwFYmkwZiz9-1IN",
-        "contact": "mohamad_binhassan@mymail.eku.edu"
-      },
-      {
-        "id": 201617,
-        "firstName": "Phillip",
-        "lastName": "Wilson",
-        "projectTitle": "Tranquil Home: A Multi-Camera Home Security System",
-        "projectDesc": "The issue addressed by this project was that my parents’ home had a faulty, insufficient security system with only two wired cameras. The purpose of this project was to replace their current security system with a far improved system consisting of a larger monitor, remote access, double the amount of cameras that were high definition, and an all wireless system. Time was spent mostly on trial and error to determine the best four zones to cover with the cameras, testing in all weather and lighting conditions, and optimizing the application for remote viewing. Overall, the project turned out very well even though I ended up not implementing my Core II plan due to both the wishes of my parents and legitimate concerns for overall quality of the system. I can proudly say that my parents have a secure home now with an easy to use system that they enjoy.",
-        "keywords": "camera, security system, home, electricity, wireless",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1HhZyjthK_ufn5Rmar6jWj8ZedNdmBFl7",
-        "certificates": "CompTIA Strata IT Fundamentals ",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1HhZyjthK_ufn5Rmar6jWj8ZedNdmBFl7",
-          null,
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1d7x2EnAvYWweBG9ROdM0LV_3Eygjijxg",
-        "contact": "phil.wilson.it@gmail.com"
-      },
-      {
-        "id": 201618,
-        "firstName": "Roger",
-        "lastName": "Smith",
-        "projectTitle": "Developing an Automated Chute System for Small Industrial Presses",
-        "projectDesc": "This project demonstrates the ability to increase production and efficiency in an industrial automotive stamping plant setting through automation. My specific goal was to remove the down-time caused by the need to replace a full bin of parts with an empty bin. The solution I developed is a stand-alone chute system designed to direct parts into one of two bins based on if the bins are present and/or full; this allows the press to continue to produce parts, feeding into the empty bin, while the operator replaces the full one.",
-        "keywords": "automotive, automation, press, HMI, PLC, Connected Components Workbench, Rockwell, Allen-Bradley",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1RDlEodMKluVlLYaaiWpzOAAmV1BKl5qk",
-        "certificates": "2nd Highest dept. exit exam score 2016-2017",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1RDlEodMKluVlLYaaiWpzOAAmV1BKl5qk",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=14XnrwH19ehNzUKhOSSx1wf-uKu7Usxdd",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1I1AsMZ3rrPwC8p96viBnO_McB8MmrI1U",
-          null
-        ],
-        "brochure": null,
-        "contact": "rsmith9685@gmail.com"
-      },
-      {
-        "id": 201619,
-        "firstName": "Sanket",
-        "lastName": "Patel",
-        "projectTitle": "Raspberry Car-Pi",
-        "projectDesc": "The purpose of this Capstone Project is to modify and keep up to date with the latest releases for the Raspberry. I decided to do the Raspberry Car-Pi project on the Raspberry due to the attention the web provided of making your very own car computer. The Car-Pi showed a greater advantage then buying an aftermarket stereo system. I wanted to be able to sync through Bluetooth, watch the latest movies, surf through the web, use the navigation system, and much more. When I decided to build my first car computer, I decided to build it in my 2010 Nissan Altima. I would need to configure the sound system to where it can be compatible with the Raspberry Pi 3 Model B which was the newest model available which hasn’t been tested for Car-Pi. After the research, I went ahead and purchased the product to build my Raspberry Car-Pi.",
-        "keywords": "Raspberry Pi, Car-Pi",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1q8S10T977Pjsd80v04FylmYoaP6aVwBW",
-        "certificates": "CompTIA Strata IT Fundamentals ",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1q8S10T977Pjsd80v04FylmYoaP6aVwBW",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=14Xqyi27bbAZIx2frhdGZ2y-ifRIJtxZI",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=17cnr8_25TuGZGsDI_p2Tm_csB-bZ7r09",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1kmPzbRlXId1UX1AIatEEJzjL7xn0DBZt",
-        "contact": "sanket_patel9@mymail.eku.edu"
-      },
-      {
-        "id": 201620,
-        "firstName": "Virgil",
-        "lastName": "Edwards",
-        "projectTitle": "High End Desktop PC without the High End Cost",
-        "projectDesc": "It is almost impossible for someone to spend less than one thousand dollars and have a desktop system that allows you the capability of using it for things from a high performance gaming system to a high capacity media center to a powerful multi-virtual machine environment.This project will endeavor to do just that.I will show in this report precisely why it is most advantageous for you to build your own performance dream.This project build produced for me a computer that will keep me happy in all my computing needs for years to come.This project also solidified my confidence in handling, installing, and working with computer parts.Its performance, storage, expandability, and cost all comes together to ensure that I never spend my money on another pre-built desktop system ever again.Sorry Best Buy.",
-        "keywords": "Desktop, computer, PC, AMD, performance, cost, price, virtualization, Media Center, gaming",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=12G4MPZ3grTwlSHBnrHEmia6vseWzOrD-",
-        "certificates": "CompTIA Strata IT Fundamentals ",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=12G4MPZ3grTwlSHBnrHEmia6vseWzOrD-",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1UE357fEDocqnffbZXL-VAeOlpgllwtPd",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=10VQJokjXNgBeMrcJBVrtE5Qv4dtO6Q6W",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1GTmGZoJtyvdXf4YiO29tyIUQeosz97Ag",
-        "contact": "virgil_edwards@mymail.eku.edu"
-      },
-      {
-        "id": 201621,
-        "firstName": "Zachary",
-        "lastName": "Bol",
-        "projectTitle": "The Sinking Ship: A real life application and understanding of the buffer overflow exploit",
-        "projectDesc": "This resource is an undertaking to discover the inner working’s of an exploit technique known as a buffer overflow. The buffer overflow takes advantage of computer software in order to gain access to unintended data that is stored in a computer system’s RAM (Random Access Memory). The technique is the result of discovering how the computer processor needs to break down operations for the success of the computer system. The basic operation is when the user requests a computer program to be executed, the program will be pulled from the hard drive and then be stored into the system’s RAM. The buffer overflow, however, will take advantage of the systematic ordering of computer code execution. This technique will allow a user to hijack when and what kind code will be executed next.",
-        "keywords": "The Stack, Vulnerability, Register, Assembly, Exploit",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
-        "certificates": "CompTIA Security+",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1XlPUbXrh3NMtskpp9ByuraYXHffU6YnM",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1NOLw0nZAAsZ4WYUzroF6bQTrhIhqGrJ2",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1JCMRy7TU43hl_C2LfU3WLM9G9gtGVjhy",
-        "contact": "zachary_bol@mymail.eku.edu"
+        "title": "Grads at Fall 2016 ceremony.",
+        "name": "Chris, Eli, Phillip, Justin, Zac, Josh and David",
+        "url": "https://drive.google.com/uc?export=view&id=1iIw6jbJCpWvVp0bR4cMhIs5Dp_JsEvZp"
       }
     ],
-    "other": {
-      "classPhoto": [
-        {
-          "title": "Spring(BS/AAS) 2016 students",
-          "name": "(back) Mohamad, Drake, Zac, David, Quise, Lucas, Justin Miracle, and Justin Smyth; (front) Sanket, Eric, Jacob, Jon, Justin Goldstein, and Josh; Spring 2016 grads not in photo: Cameron Adkisson, Anthony Mills, Virgil Edwards",
-          "url": "https://drive.google.com/uc?export=view&id=1-Gfw49544QgBoenkugOMrPAoqNdNF3OI"
-        },
-        {
-          "title": "Spring/Summer Computer Electronics Programs (BS/AAS) 2016 grads.",
-          "name": "(back) Drake, Quise, and Mohamad; (front) Sanket, Eric, Jacob, Jon, Lucas, and Justin Miracle; Spring 2016 grads not in photo: Cameron Adkisson, Anthony Mills, Virgil Edwards",
-          "url": "https://drive.google.com/uc?export=view&id=1FauCNoM3ybIswQZbARaVFjal8ggpnbkc"
-        },
-        {
-          "title": "Fall Computer Electronics Programs (BS/AAS) 2016 grads.",
-          "name": "David, Zac, Josh, Justin Goldstein, and Justin Smyth",
-          "url": "https://drive.google.com/uc?export=view&id=192_8TAiE-pgUyvt4cdAVCECPxo_TrB4V"
-        },
-        {
-          "title": "Grads at Fall 2016 ceremony.",
-          "name": "Chris, Eli, Phillip, Justin, Zac, Josh and David",
-          "url": "https://drive.google.com/uc?export=view&id=1iIw6jbJCpWvVp0bR4cMhIs5Dp_JsEvZp"
-        }
-      ],
-      "outstanding": [
-        {
-          "title": "Outstanding Network Security & Electronics (NET) Senior 2015-2016",
-          "name": "Charles Judd",
-          "url": "https://drive.google.com/uc?export=view&id=1ioCbbbcjq_X-z8f-MmAIK5IKXyM5POXS"
-        }
-      ],
-      "presenter": [],
-      "ga": []
-    }
+    "outstanding": [
+      {
+        "title": "Outstanding Network Security & Electronics (NET) Senior 2015-2016",
+        "name": "Charles Judd",
+        "url": "https://drive.google.com/uc?export=view&id=1ioCbbbcjq_X-z8f-MmAIK5IKXyM5POXS"
+      }
+    ],
+    "presenter": [],
+    "ga": []
   }
+}
