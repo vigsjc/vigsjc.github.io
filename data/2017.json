@@ -1,0 +1,412 @@
+{
+    "studentData": [
+      {
+        "id": 201701,
+        "firstName": "Aaron ",
+        "lastName": "Roark",
+        "projectTitle": "ROAM.IO : A Smart Home Security Rover",
+        "projectDesc": "The goal of this project was to not only further my understanding of both networking and electronics, but to provide myself with a device that I could use on a day to day basis. I have spent quite a bit of time researching and refreshing my programming, networking, and electricity & electronics skills for this project. Throughout the duration of this project, I have found myself reminding myself of all of the skills that I have learned throughout my college career, and being able to create something tangible with those skills has inspired me to push myself until completion of the project. The end results of the project have been very satisfactory for me and have re-ignited the desire to invent and create using the technology we have around us every day.",
+        "keywords": "rover, raspberry-pi, pi, camera, security, application, phone, android, raspberry, rpi",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1mZUYmLALjLphlMeZezLWynzh3lSiXUtt",
+        "certificates": "CompTIA Security+",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1mZUYmLALjLphlMeZezLWynzh3lSiXUtt",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1df4MMHs0VFpXvKKRrRweJe9ilIVaOmuy",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1kCE532ZM1rnT7gnsR5eJL6YUeXz8O1SD",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=15Iez30A7mrvdQiJcLNNxUK4nzTUEA7Qk",
+        "contact": "aaron_roark15@mymail.eku.edu"
+      },
+      {
+        "id": 201702,
+        "firstName": "Anthony",
+        "lastName": "Mills",
+        "projectTitle": "The Retron Pi",
+        "projectDesc": "This project was designed to a working retro video game box for cheap. The device is built onto a Raspberry Pi V3 that runs for 35$ and the case for the device was 3D printed for free from EKU library. It was built for the consumer that has fond memories of playing older video games but does not have the space to keep all those old systems and games in their home. This was a project of love because I am in that situation myself right now as we just had our first child and her stuff takes up our space now.",
+        "keywords": "Raspberry Pi, Flash Memory, SD Card, HDMI, Power Supply, O/S Flashing",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1gBOPiVNk4QyhmcvD3u03IDqoCCH-Pg4D",
+        "certificates": "Dr. Glen Kleine College of Biz & Tec (CB&T) Presentations, Honorable Mention, CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1gBOPiVNk4QyhmcvD3u03IDqoCCH-Pg4D",
+          "https://drive.google.com/uc?export=view&id=1YEpYa0Y0whPzkDcPkev3EfHILqxzpxSO",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1qyhPKgUTeDBkt8s9CFQAx2bTedtZRk5k",
+        "video": [
+          null,
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1NfPImkYnEYHfNcNok5VoEiTAHlHGF6UW",
+        "contact": "Anthony_mills33@eku.edu"
+      },
+      {
+        "id": 201703,
+        "firstName": "William (Austin)",
+        "lastName": "Cheek",
+        "projectTitle": "Home Computer/Network Lab",
+        "projectDesc": "The purpose of the project was to implement a home lab environment for testing and furthering the understanding of network devices and computer systems. As a technician, there will be times where new equipment is brought in and will need to be tested. Most technology work environments will supply a lab for doing this but you generally will have to share that space with other employees that could potentially mess up configuration or cause unexpected issues. Having a lab at home that you can work with is great for overcoming this. This project also aimed at accomplishing the task at hand on a college student's budget. The project was broken up into four different phases which include: the Building phase, Core 1, Core 2, and the Presentation phase. Before beginning a project, research is required to get an understanding of what is needed and how much the build will cost. Core 1 was the networking phase in which the router, switch, and hosts were setup and tested. Core 2 covered the setup of the server and the ability to communicate with a host. The final phase, presentation, covered concluding, documenting, and creating a visual representation of the project as a whole. Upon completing this project, I was able to reflect on the tasks that were accomplished and the skills that were needed to complete it. Technical skills/knowledge such as hardware or software configuration, networking, and computer systems were essential but personal/professional skills were needed as well. Professional skills such as time management, stress management, and organization were very important to the completion of the project.",
+        "keywords": "network administration, lab, server, router, switch, computers, repurposing, file share, remote connection",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1af9ifY8QWj-bs1KMUYmiRrGtx82g4-yf",
+        "certificates": "Cisco's Interconnecting Cisco Networking Devices 1",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1af9ifY8QWj-bs1KMUYmiRrGtx82g4-yf",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=12L58qCMiiC7FHSdM31HegXMn6Aqed-bh",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1SU0yCR5Fbf-ru3-JTGxc8OpSISb4nZPA",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1w00f83BEHjygH-rtlnGNUti_jGmk42i-",
+        "contact": "william_cheek4@mymail.eku.edu"
+      },
+      {
+        "id": 201704,
+        "firstName": "Bishow",
+        "lastName": "Pandey",
+        "projectTitle": "Loonteers: We are Students' Teachers",
+        "projectDesc": "This project does have a very high potential to attract and help users who are just starting in networking or computer science field. This website(project) has entry level knowledge to even expert knowledge for those interested in how web programming and networking system works. In case they are not able to find the answers, they are looking for, this section called \"Question and Answer\" in this page should help users to interact with each other and get the quality result and solutions. This project has helped me sharpen my interest and show my talents and built confidence. It was my desire to gain a better, more comprehensive knowledge of website development and different project thoughts that I needed to make it a success. In this project my main purpose was to build a website using different scripting and programming software. A significant amount of time was spent studying proper coding techniques to improve efficiency and the user friendliness. I believe that this project has been a sense of satisfaction and success, something I can and will brag about for a long time. This project concluded with me being able to build an entry level website for college students to help them with their computer science and networking questions.",
+        "keywords": "Web development, scripting, programming, networking, HTML, CSS, WordPress, JavaScript, mobile friendly, routing, subnets",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Ht28nXBy4Yo9mNZAM_tW8t5Gy_wcdiJn",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Ht28nXBy4Yo9mNZAM_tW8t5Gy_wcdiJn",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1MPLi6mr7cYJp46_VgQD4iHrZlNf3Zj16",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1h3XGSm4QZzb5Xu9vJ400UD-Qm7c1mCIt",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1wS6HF0ZLALPHf3Mr4idtnOnMs90dV-v4",
+        "contact": "bishow_pandey@mymail.eku.edu"
+      },
+      {
+        "id": 201705,
+        "firstName": "Michael (Dillon) ",
+        "lastName": "Chaney",
+        "projectTitle": "The Immortal Case/ Mini Generator (DC Motor)",
+        "projectDesc": "The Immortal Smartphone Case is designed to self-charge a smartphone without the use of a backup battery. Instead, the phone will manually generate its own power from a pair of mini generators that generate electricity when a crank is turned. The power generated from this will be directed into the battery at about 10 volts, 2 amps. This is enough power to supercharge the phones battery.",
+        "keywords": "generator, dc motor, 3D print, iPhone, SketchUP, hand crank",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1xmf1TjmMifLX3Y2X6WPgKqTDIOLsBrfp",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1xmf1TjmMifLX3Y2X6WPgKqTDIOLsBrfp",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1MLrDKFX1kIOuhQHoDQggTNsBXvwJ4nP4",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1cTOEjAx1iVinQT-kE4iA5anNEIoDbEuk",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1Le0v8-rsl5LO-3uCn0ioHrymASFUTi0O",
+        "contact": "michael_chaney13@mymail.eku.edu"
+      },
+      {
+        "id": 201706,
+        "firstName": "Dylan",
+        "lastName": "Keller",
+        "projectTitle": "Motion Controlled Servo Motors",
+        "projectDesc": "The project is a simple one that only has three major parts to it. The objective of this project is to design an program a circuit that will accept input signals from a device much like a motion sensor or other trigger device. This objective is needed because this project is a small stepping stone into a larger project that is roughly five years in the making. The main core functionality is have a servo motor be programmed and follow a specified code to follow when an input device tells the servo to activate.",
+        "keywords": "Servo motor, Raspberry Pi, sensor",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=11G3-xUSypCVLMpD__kXh2SnK6Xh0CK8y",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=11G3-xUSypCVLMpD__kXh2SnK6Xh0CK8y",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1vDls5UrAdwrxr0enm2wZUjbemwAMCtIf",
+        "video": [
+          null,
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1M73-r8j6Ww4kndmtrrDWLtfb2IxQmSna",
+        "contact": "dylankeller1995@gmail.com"
+      },
+      {
+        "id": 201707,
+        "firstName": "Elijah",
+        "lastName": "Lane",
+        "projectTitle": "Rover Photos: A Mars Viewport",
+        "projectDesc": "In 2003, NASA Launched the Spirit Rover into space in hope of reaching and landing on Mars. Shortly after the launch, the Spirit rover had landed on Mars and beginning documenting its journey through photos taken by multiple cameras located on the rover. Since then, NASA has launched an additional two rovers to Mars and each has had its share in documenting the planet. NASA keeps these photos in a database and provides developers with an API to access these photos. But an interface is required for non-developers to be able to view these photos. I plan on solving this problem by developing a web app and web page to easily access NASA's database of Mars photos.",
+        "keywords": "database, API, web development, server side technology, web design",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1727g6yHrtifD72rZBZNI90mUdGXdn7OB",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1727g6yHrtifD72rZBZNI90mUdGXdn7OB",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1iwbVWV5NkSbdJEcHmvkhGE99k4xjruL3",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=11rmO2PnpeJqzcaCT1z_DGVcat53CFNfa",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1OqfpjGIFtMqIgS6GJOIzpCnvOZzmU9bJ",
+        "contact": "elijahdlane@gmail.com"
+      },
+      {
+        "id": 201708,
+        "firstName": "Jose",
+        "lastName": "Garcia-Macias",
+        "projectTitle": "The Worry-Free Coffee Maker",
+        "projectDesc": "The goal I had in mind with this project was to take an everyday routine and make it more efficient. After some brainstorming, I found that making a smart coffee pot was something that could make mornings easier for some people. I had experience working with Raspberry Pi's and my existing knowledge in Javascript helped write the code that would be necessary to control the moving parts. I mainly focused on researching ways to my coffee pot small enough to replace an existing coffee pot. I was successful in automating the amount of water needed for a brew. I am satisfied with being able to control the water required for a fresh pot of coffee. In the future, I plan on designing and implementing a coffee grind dispenser to truly automate the entire coffee brewing process.",
+        "keywords": "coffee, smart coffee machine, automation, programming",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1W6jnbbr-WAXFiBqvrR1G_zPASBxmt10N",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1W6jnbbr-WAXFiBqvrR1G_zPASBxmt10N",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1T-nYC6rAP8_qDI7ai-yfkdN8n9xuYnep",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=16a16d8JhLL8bouL2lH2Zk-ziN-72J5U0",
+          null
+        ],
+        "brochure": null,
+        "contact": "jose_garciamacias@mymail.eku.edu"
+      },
+      {
+        "id": 201709,
+        "firstName": "Joshua",
+        "lastName": "Scott",
+        "projectTitle": "The Nostalgia Machine: A Raspberry Pi Video Game Emulator",
+        "projectDesc": "This project – The Nostalgia Machine – aims to provide a reliable and convenient means to provide gamers access to a retro-gaming experience, realized on a versatile hardware platform in a compact form factor. As an extension, this platform will also be accessible from anywhere in the world via web browser (remote shell) and will feature HTTP hosting and reverse proxy capabilities. This will be accomplished with a Raspberry Pi coupled with EmulationStation, RetroPie, DataPlicity, and NGINX.",
+        "keywords": "DIY emulation, Raspberry Pi, retro-gaming, DataPlicity",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1ycLGgInS85P9-WSoCimCK2--Ab0YcfIt",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1ycLGgInS85P9-WSoCimCK2--Ab0YcfIt",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1kF0heKDF7s3_7RgRMFTqopqdpdj7AC4y",
+        "video": [
+          null,
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=19TzSzrumqCshq4A73KNOwsf4IaAP7eKv",
+        "contact": "joshua_scott61@mymail.eku.edu"
+      },
+      {
+        "id": 201710,
+        "firstName": "Nicholas ",
+        "lastName": "Graves",
+        "projectTitle": "Flood Pi: Home Flood Prevention",
+        "projectDesc": "Growing up I was always at my grandparent's house. It was a nice little home that had a single garage and an old basement with concrete walls. With me growing up young and wild every time they needed something out of the basement they sent me down there to retrieve it, because they were not able to go up and down the stairs. This was the main purpose for my project and that is to make a flood detection system that would detect water and start to pump the water out of the area, while sending an alert to the owner of the product notifying that there is water in the house. Eventually I want to be able make this more of a permanent solution by creating a housing unit for the bread board and all the components combined. This is helpful for when the residents aren't home and they can alert someone that is watching their house or a neighbour to check the problem so the structure doesn't cave in.",
+        "keywords": "Raspberry Pi, General-purpose input/output (GPIO) Pins, Circuit, Direct Current (DC)",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1W_2GOsmdA1CsC6pZPBrc441I2YsWgL7o",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1W_2GOsmdA1CsC6pZPBrc441I2YsWgL7o",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1aq-kSqhbs_yz1-EHxWdov4PkOAEJaaTt",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1_57JUfcIQLnqenJB6VYNPvnJtjHckHkN",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1W2BzHZls1D9bWshwDgypI_3tHdxs2SIg",
+        "contact": "nicholas_graves5@mymail.eku.edu"
+      },
+      {
+        "id": 201711,
+        "firstName": "Ryan",
+        "lastName": "Rutheford",
+        "projectTitle": "Solar Green: The Green Energy Providing Power Bank",
+        "projectDesc": "My project was created from my recent iPhone having a faulty battery which could not maintain a charge. This caused me to sit by and be restricted to an outlet in order to keep my phone alive and running. Even when I had a power bank that would allow me to be away from an outlet for some time would eventually bring me back to it since the power bank also need an outlet of some kind to charge. Thus the solar energy providing power bank was created and the results that came from it were both beneficial for my phone and me on a mechanical and an informational/educational level.",
+        "keywords": "power bank, solar power, voltage, current, amps, soldering",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Me9eyYcPZpTzTXKm8ijUAsb71K7DOnBU",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Me9eyYcPZpTzTXKm8ijUAsb71K7DOnBU",
+          null,
+          null,
+          null
+        ],
+        "presentation": null,
+        "video": [
+          null,
+          null
+        ],
+        "brochure": null,
+        "contact": "joseph_rutheford1@mymail.eku.edu"
+      },
+      {
+        "id": 201712,
+        "firstName": "Stephen ",
+        "lastName": "Brewer",
+        "projectTitle": "Techno Necromancy: Raising a Web Server from the Dead",
+        "projectDesc": "Throughout the course of this project I addressed the problems pertaining to the construction of a locally hosted webserver utilizing recycled components from a scavenged home PC. In doing so I utilized a number of freely available and open sourced software, XAMPP and Simple Machines Forum, within a Windows Server 2012 R2 environment. In doing so I created a publicly addressable forum based community upon the reclaimed server. While simple in design and presentation, the modularity of XAMPP and public forums associated with the Simple Machines software heightens the web server's ability to expand to meet the user's requirements in future deployments.",
+        "keywords": "Networking, Server Configuration, Local Server Management, Web Server, Web Design",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1MdIoTSS4Q1wstulvDA0xBP44ab8y5dQt",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1MdIoTSS4Q1wstulvDA0xBP44ab8y5dQt",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1Y7SMwRN1zLiS7zMrBtgjAfg7ienfU1A6",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1dRV65EXENSj2uvqtvStVx1CXZhxumpmS",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1cErCMX_gqmYKJ7rWiWljZyW0HS3kZvOO",
+        "contact": "stephen_brewer@mymail.eku.edu"
+      },
+      {
+        "id": 201713,
+        "firstName": "Stephen ",
+        "lastName": "Thomas",
+        "projectTitle": "Windows Server 2016",
+        "projectDesc": "The problem that I want to help reach a conclusion on is I want small businesses to be in control of their own server, and not have to pay for some other company to take care of their information. Giving these people an option that they have more control on, but also have their information being protected by someone that they know. Most days companies use cloud printing, this can be good except that you don't know who is taking care of your things. My solution is to help people create servers so that they can have someone on site that will manage their information.",
+        "keywords": "Server security, IIS, domain services",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1JCQcZG-_rbodrZ_BWWMBsMg-9NU8aMSm",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1JCQcZG-_rbodrZ_BWWMBsMg-9NU8aMSm",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1TCP7JVWmkEfNBSE39RlxQLCi_jtJ6W93",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1aSlAEkQdvwk9jknBVpzXWo-4OmrSke63",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1fDj_DW6B4MhW_q0XB-cEJ-7o8HPP1qxe",
+        "contact": "stephen_thomas91@mymail.eku.edu"
+      },
+      {
+        "id": 201714,
+        "firstName": "Treavor",
+        "lastName": "Denney",
+        "projectTitle": "Fresh and Local Florida",
+        "projectDesc": "The overall issue that my project attempts to alleviate is that there are no web applications that aid in the purchase and distribution of local food products in the state of Florida. The purpose of my project was to aid individuals in the state of Florida in obtaining fresh produce, seafood, and other food products from their local state; without relying heavily on foreign food sources. Most of the time I spent on the project was trying to understand what the different folders within a tree in the project's directory structure were supposed to do (their overall purpose and what code goes in the directory), along with what different strings of code's functionality (such as posting data or running a server instance) were being implemented into my project. In the end, I constructed a login page with validation along with a simple chat application that I plan to implement in various areas of my application in the near future.",
+        "keywords": "web development, JavaScript, Socket.io, bootstrap, CSS, directory, server, (MongoDB, Express.js, Angular, Node.js - MEAN stack)",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1HlHxQY_w0IGie6KHo6PjrCsrupQqskCT",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1HlHxQY_w0IGie6KHo6PjrCsrupQqskCT",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1ZQ8bhB6qL7Aei30Vi7JdpTEPRE3Y5Eoc",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1xyE1y78IAn3ZIUJdtOmpVkexS-h3CvcD",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=15xMHqbBAfseFaEhP2UVFHqu2Dqgzlhvu",
+        "contact": "treavord@gmail.com"
+      },
+      {
+        "id": 201715,
+        "firstName": "Tristan",
+        "lastName": "Burchell",
+        "projectTitle": "PI for Dogs: A Smart Pet Care System",
+        "projectDesc": "This project was designed to be a smart pet device that is capable of feeding your pet from a remote location with the help of a Raspberry PI. This device also has the ability to monitor your pet's activity through a network camera that can be accessed through a mobile device. The main reason for building this device was to make it easier on pet owners that might be gone for long hours of the day that need assurance that their friend at home is being taken care of. The final product of the pet feeder worked as expected, but only through a local network connection as of now. I think that the overall project was a success for the intended use.",
+        "keywords": "Raspberry PI, Python, DC Stepper motors, pet feeder, networking, GPIO",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1_xxCWI2MVpOq9UznXYk3-sVno-cKa5YV",
+        "certificates": null,
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1_xxCWI2MVpOq9UznXYk3-sVno-cKa5YV",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1MbNr0Ersems3afldOAJvhjAPrWgxSCqC",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1EBU-oRDdn6IV2H5OGZV00bgaCcP9gNfh",
+          null
+        ],
+        "brochure": null,
+        "contact": "tristan_burchell5@mymail.eku.edu"
+      },
+      {
+        "id": 201716,
+        "firstName": "Wyatt",
+        "lastName": "Brookshier",
+        "projectTitle": "Autonomous Media Management, Acquisition, and Playback",
+        "projectDesc": "The purpose of this project was to demonstrate a reliable, and affordable method of acquiring television and movie media through the internet as an alternative to the exorbitant price of cable tv. My primary purpose of this project was to create a media server by which content that I already owned could be placed, in digital form, onto a network share and then streamed within my household on various devices. The secondary purpose was to create a system of services which would not only acquire items which were requested, but be intuitive enough to gather future episodes or shows without user input and make them readily available on the server. The results of this project met and potentially exceed my expectations because I created a working media server which is not only accessible in my home, but also anywhere with access to the internet allowing me to stream my media outside of my home on my devices.",
+        "keywords": "media server, media management, media acquisition, Usenet, plex",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=11qt-qIrgxCTpzq6o4MjDidpRzzGMsKRp",
+        "certificates": "CompTIA Network+, Highest NET dept. exit exam score 2017-2018",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=11qt-qIrgxCTpzq6o4MjDidpRzzGMsKRp",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1g6JEvCdx8XrnCbPBsCe_4ZbZj17RqfBb",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1sxsOx_J4V8ow5qzF85QsU01skNjhzlrd",
+          null
+        ],
+        "brochure": "https://drive.google.com/uc?export=view&id=1qHRyQulPe2mDh_ZIeZp1J1-ka9UaPFUj",
+        "contact": "wsbrookshier@mymail.eku.edu"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": " Spring/Summer Graduates",
+          "name": "Stephen, Elijah, Ryan, Tristan, Austin",
+          "url": "https://drive.google.com/uc?export=view&id=1wpngDao3N3m2_WDeqpGGM05l2BYBNwuS"
+        },
+        {
+          "title": "2017 Fall Graduates",
+          "name": "Aaron, Dylan, Bishow, Anthony, Dillon, Stephen T.",
+          "url": "https://drive.google.com/uc?export=view&id=10Mpqh6sS1wI8dSuowQloKbnqzCGbkwyt"
+        },
+        {
+          "title": "Computer Electronics Programs (BS/AAS) 2017 grads and beyond.",
+          "name": "Jose, Stephen B., Aaron, Nich, Dylan, Austin, Bishow, Anthony, Ryan, Dillon, Tristan, Stephen T., Treavor, Elijah",
+          "url": "https://drive.google.com/uc?export=view&id=1kcVu4Ku8tBMJN_eKVc7OkiqM00AGE0mB"
+        },
+        {
+          "title": "Computer Electronics Programs (BS/AAS) 2017 Pizza-n-presentations",
+          "name": null,
+          "url": "https://drive.google.com/uc?export=view&id=1dT5_CpBpfwRCXVOtSYbeMqMEGFdOMXF8"
+        }
+      ],
+      "outstanding": [
+        {
+          "title": "Outstanding Network Security & Electronics (NET) Senior 2016-17",
+          "name": "Austin Cheek",
+          "url": "https://drive.google.com/uc?export=view&id=1vJJofqwUEBjNt5LH96fTX5tS5LdADGqc"
+        }
+      ],
+      "presenter": [
+        {
+          "title": "College of Business & Technology Glen Kleine Capstone Presenter NET Senior 2016-17",
+          "name": "Anthony Mills",
+          "group": "presenter",
+          "url": "https://drive.google.com/uc?export=view&id=1Oxn9mucdb54znAZug6ZENPlPlRUcygmU"
+        }
+      ],
+      "ga": []
+    }
+  }

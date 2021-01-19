@@ -1,0 +1,336 @@
+{
+    "studentData": [
+      {
+        "id": 201401,
+        "firstName": "Aaron ",
+        "lastName": "Eastham",
+        "projectTitle": "EngreaveIT",
+        "projectDesc": "I have always enjoyed building things that are challenging, so for my project I wanted to create a low cost laser engraver because even the intro level ones cost almost $1,000. I want this to be built around either a Raspberry Pi or an Arduino microcontroller, as they both can support the hardware and software needed to build the engraver. To accomplish this I will need to build the frame, which will have an x and y-axis. The machine will move on threaded rods that are powered by two motors that are controlled by two different motor drivers, which are connected to the microcontroller. The laser will be mounted on the x-axis and is powered by the laser circuit that is also connected to the microcontroller. Once the machine is complete, I will be able to make designs to engrave in a program called Inkscape that is able to convert it into gcode. The gcode file is then sent to the engraver to make a finished product.",
+        "keywords": "laser engraver, Arduino, Raspberry Pi, stepper motor, gcode",
+        "certificates": "Best NET Capstone Project 2013-14",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1wSnev2GiXiKr3UDsRa3Jmv0i76ZJT-z2",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1wSnev2GiXiKr3UDsRa3Jmv0i76ZJT-z2",
+          "https://drive.google.com/uc?export=view&id=1nzDhBLy_loY-hNmdB_6pqQLgvHEU0BvX",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=12i8ryjBuzEWp-kd4w6xXBd3U4oBq_v17",
+        "brochure": "https://drive.google.com/uc?export=view&id=17FC56tg1WEKL729OkPGnJHekQ4qJKsrk",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1KROYo0PGjL0ET7rYdoIK2QWWYradHTpX",
+          null
+        ],
+        "contact": "aaron_eastham2@mymail.eku.edu"
+      },
+      {
+        "id": 201402,
+        "firstName": "Anthony",
+        "lastName": "Friend",
+        "projectTitle": "Emailing Security System With Arduino",
+        "projectDesc": "This paper explains the process and research in building a security system that will email someone when triggered. The email that the email sends will have the subject “Arduino Security System” along with one of two messages depending on which one of the two triggers is activated. The first message will read, “The human sensor is active” and will be sent when a PIR sensor sees movement. The second message will read, “The door is open” and will be sent when a magnetic switch, which is placed on a door, is separated. This signal is sent to an Arduino which will telnet to an SMTP server called SMTP2Go, using the telnet commands, the Arduino will tell SMTP2Go to email me at my personal email at gmail.com with one of the two messages mentioned above. The actual triggers will consist of one single pull single throw (SPST) switch, one acting as a master switch to block the emails from accidentally going off, the other is a single pull double throw magnetic switch placed on a door. The last trigger will be a PIR human sensor which will go to a TTL logic AND gate, which will in turn lead to the microcontroller. When this setup is completed, the security system will be able to send an email when activated.",
+        "keywords": "DIY Security, Arduino Email, Microcontroller Security, Arduino SMTP",
+        "certificates": "CompTIA Strata IT Fundamentals",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=121BjmyvdDiK7k-HS2dXoJ2YaghSKfgr_",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1h_A6yu1njTrS_zczqyVJdMIBF_cgvXjP",
+          "https://drive.google.com/uc?export=view&id=121BjmyvdDiK7k-HS2dXoJ2YaghSKfgr_",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=159iQzJawB6osp1OoC6KjcFh7W-u64Jt4",
+        "brochure": "https://drive.google.com/uc?export=view&id=1hLsr1D9CLmaFKkfNU2oJXc3EmFp_vHiV",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1LNG3fJZN5xVwpCY6YcwQaZBvd8QYehme",
+          null
+        ],
+        "contact": "tony_Friend07@yahoo.com"
+      },
+      {
+        "id": 201403,
+        "firstName": "Michael(Blake)",
+        "lastName": "Pawley",
+        "projectTitle": null,
+        "projectDesc": null,
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": null,
+        "images": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "presentation": null,
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1VxnJIeM5QCUSTvK-0eQENA6-lc6aCCJo",
+          null
+        ],
+        "contact": "blake2043@gmail.com"
+      },
+      {
+        "id": 201404,
+        "firstName": "Charles ",
+        "lastName": "Hayden",
+        "projectTitle": "MMC: Mini Media Center: A Simple and Inexpensive Solution to Home Media",
+        "projectDesc": "There are millions of televisions and movie viewers. These media consumers have a growing desire for on demand content. There is also a high demand for portability and smart applications to control everything. With a mini computer, a few peripherals, a smart phone, and some software applications, this is all possible for under one hundred dollars. This project seeks to address the video on demand trend by integrating a Raspberry Pi into a wireless home network. The Pi is small, portable, and able to output video to any television with an HDMI or component video port. The smart phone, in this case an iPhone, is not only used to control the Raspberry Pi remotely for convenience, but to stream media itself if a few options are added.",
+        "keywords": "Raspberry Pi, XBMC, media center, Plex",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1YQbvOqorbbztmYGp3K9va-NMb2r1tq2E",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1YQbvOqorbbztmYGp3K9va-NMb2r1tq2E",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1cABI0Reebw15nEXsD4VD-Ple50aFv0Ju",
+        "brochure": "https://drive.google.com/uc?export=view&id=14cTTXJDAQcaGy1nW-HbZYHwd1GwKd7la",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1o0GNqkDvnmOou_CT5e7vzbEUKMVSJmay",
+          null
+        ],
+        "contact": "charles_hayden14@mymail.eku.edu"
+      },
+      {
+        "id": 201405,
+        "firstName": "David ",
+        "lastName": "Dick",
+        "projectTitle": "Practical Network Attached Storage",
+        "projectDesc": "My project covers the hardware setup and design alongside the proper operating system and networking configuration to stand up a file server on a local computer network in a business environment. All the steps to setup the hardware, software, network configuration and account management are addressed. I also talk about the overall need based design and compatibility of everything.",
+        "keywords": "Local Area Network, network attached storage, redundant array of inexpensive disk, CIFS, Windows shares, PC construction, OpenBSD, backup and restore",
+        "certificates": "Certificate of Merit -- NET Capstone Project 2013-14",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1iEovT-7rOyRPJwzZk61Ni3A0IdLU4-0Q",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1DQqLqg1f7dHY7nGxLar4IAwOQHzacRsR",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1dGOAQYHXQzEscaTrjqXpvJ7YcxhiPzpa",
+        "brochure": "https://drive.google.com/uc?export=view&id=1S9bBnc3DyBNkMKAEWNW_FezW_3QzW0eO",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1HCLBvFL3sEHr85YDwiYZgZ_JxuZ0WKa9",
+          null
+        ],
+        "contact": "david_dick5@mymail.eku.edu"
+      },
+      {
+        "id": 201406,
+        "firstName": "Jared",
+        "lastName": "Powell",
+        "projectTitle": "Media Catch and Release",
+        "projectDesc": "The goal of this project was to come up with a solution to a lack of media availability. This solution should include a way to legally acquire television shows along with streaming downloaded media. My proposed solution was to create a DVR system and to setup a media server in order to stream my media. The DVR was created by modifying a desktop computer with a capture card to interface with an incoming TV signal while using Windows Media Center to manage and initiate recordings. After a lot of research on what type of media server to download, Plex was determined to be the best option due to the flexibility, price, and streaming options. In order to manage my server away from home, I chose to install TeamViewer as my remote desktop tool.",
+        "keywords": "Plex Media Server, Windows Media Center, TeamViewer, DVR",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
+        "brochure": "https://drive.google.com/uc?export=view&id=1Gf9hSDQowMyZ8BBnBgXzrIOVzAPxZDOc",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1IEv0Rw4yt3Pocvw4uYfAraB6wallYeOJ",
+          null
+        ],
+        "contact": "Jared_Powell62@mymail.eku.edu"
+      },
+      {
+        "id": 201407,
+        "firstName": "Justin",
+        "lastName": "Addison",
+        "projectTitle": "A Do-It-Yourself Home Networking Experience",
+        "projectDesc": "My project was to create an at home network. It needed to support multiple users at the same time without sacrificing speed. It also needed to be secure and I wanted to implement virtualization into my network. I set out to network several laptops, a printer, and some virtual machines together to create my network. Once that was accomplished I set up wireless access and then hardened the network with several layers of security. In the end I had a stable, secure, wireless network, with multiple virtual machines running on it.",
+        "keywords": "Computer Networking, Wireless (Wi-Fi), Shared Resources, Virtualization, Network Security (Hardening)",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1fjzMxuSbm1k6XoWUegfeW8x52IT6EePC",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1fjzMxuSbm1k6XoWUegfeW8x52IT6EePC",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1VdqEqp9gjXkQKGjyX_q9lvLnZjsh8I0X",
+        "brochure": "https://drive.google.com/uc?export=view&id=1_kV51MpqsqdBLiZw11itaEGVaZ8uCg_u",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=16f5eDiAIflvbtn2YZIhyDuLJHQ63EDHz",
+          null
+        ],
+        "contact": "justin_addison3@mymail.edu.edu"
+      },
+      {
+        "id": 201408,
+        "firstName": "Lenin",
+        "lastName": "Vera",
+        "projectTitle": "Open Source Remote Garage Door Opener",
+        "projectDesc": "This is a Do-It-Yourself project for building an android smartphone accessible remote garage door opener. The resources used are online blogs, videos, tutorials and reference websites covering a variety of the subject matter involved to complete the project. I will summarize the software and hardware required to complete the project, as well as any issues that arose and the steps taken to troubleshoot them. I will conclude with the final results of the project as well as refer to future improvements I would like to implement.",
+        "keywords": "Raspberry Pi, Android, open-source, do-it-yourself, garage door opener",
+        "certificates": "Certificate of Merit -- NET Capstone Project 2013-14",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1CnXzjS1LfEaHlBPSt08ujP7_M9yNz1PX",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1CnXzjS1LfEaHlBPSt08ujP7_M9yNz1PX",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1GWBXkYDW_MHmyngExXu9cJpBsx_NKuH6",
+        "brochure": "https://drive.google.com/uc?export=view&id=1JicSs91CkmO_e1fzQ2AhRUIYpjRFZgN0",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=123CIPjBcl6l-SO7rxo9bKGirtV_FKKmT",
+          null
+        ],
+        "contact": "lenin_vera@mymail.eku.edu"
+      },
+      {
+        "id": 201409,
+        "firstName": "Matthew",
+        "lastName": "Maples",
+        "projectTitle": "DIY SOHO Secure Wireless",
+        "projectDesc": "The current generation of technology is moving more towards mobile technology and companies need to be prepared for both the connectivity needs of their users but the security needs of their system. This project will demonstrate how to easily and effectively create a secure wireless network for both sensitive information and guests without spending a lot of money.",
+        "keywords": "secure, wireless, home networking",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=13xpxXimZ4Z-c60g85emkjet4wci8EvNl",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=13xpxXimZ4Z-c60g85emkjet4wci8EvNl",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1QF-OigTIq5xqIXcjDlVFSEXjV20wPjRA",
+        "brochure": "https://drive.google.com/uc?export=view&id=1N4_3d_4fk_B2VLFzRHQp8CB0XrFAAl1c",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1dAYDjQQhDYQI2x7jTOWIM6p2Aw4d6QcJ",
+          null
+        ],
+        "contact": "matthew_maples@outlook.com"
+      },
+      {
+        "id": 201410,
+        "firstName": "Matthew",
+        "lastName": "Marrs",
+        "projectTitle": "Home Media Server with PLEX",
+        "projectDesc": "My family and I have a huge collection of media content, whether it is music, videos, and photographs with the content being spread out over different computer, hard drives, and other devices. Our problem was trying to remember where the content we were looking for was, and then transferring it to the computer, hard drive, or device we wanted it on. It was a major pain and hassle to go through this process, so my objective was to find a way to have all our media content on one system than have away to access it from any device or computer we wanted by streaming it over our home network. I did some research and I found the PLEX application. It can do everything I want it to do, and it has a faithful following so it is be updated regularly. With PLEX I will be able to access all the media content on the PLEX Server as long as there is internet access, and I have a powerful enough computer to process the data that is going to be streamed through the network.",
+        "keywords": "Media Server, PLEX, streaming, Roku, computer build",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1bYXRWam_jP_UwpB7jTAsfVNoMxgTnxvZ",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1bYXRWam_jP_UwpB7jTAsfVNoMxgTnxvZ",
+          "https://drive.google.com/uc?export=view&id=14snzgZwxXn52mNS4EvwzQ1kDoFxeP6mW",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=18fmE_Y_L19wLnE8GBReRiCD9cLkW9yZO",
+        "brochure": "https://drive.google.com/uc?export=view&id=1awgwzBHyubXV9c3Yyd2oqFKpPzUvK6tu",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1jxNMfn6gudbGCM_V0n89MU4vzdzBDeBc",
+          null
+        ],
+        "contact": "Matthew_Marrs1@mymail.eku.edu"
+      },
+      {
+        "id": 201411,
+        "firstName": "Michael",
+        "lastName": "Hoskins",
+        "projectTitle": "Raspberry Pi Media Center",
+        "projectDesc": "This project involves the use of a raspberry pi as a media center client for any display that can accept a HDMI connection. using the OpenELEC, XBMC platform to transform the pi into a media client to deliver content and be highly customizable. along with the raspberry pi client a Ubuntu based media server had to be setup to supply the Raspberry Pi with Media.",
+        "keywords": "XBMC, OpenELEC, Raspberry Pi",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Nw8FEjplIMaXhKpgxBKTFsyOXUkj2Zdj",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Nw8FEjplIMaXhKpgxBKTFsyOXUkj2Zdj",
+          "https://drive.google.com/uc?export=view&id=1hoJ6T01Wztnk-877IBstqt1QR8PordTF",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1qMJiK8MHEviHmBCRBV-qip78Fl3OFtP8",
+        "brochure": "https://drive.google.com/uc?export=view&id=1tih4eGkCtSyZ22SMT4uqCjNSbUNyUYur",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=18QrQ_xPeYoWulSh-YTfZOS6KokmscWyO",
+          null
+        ],
+        "contact": "mikehosk098@hotmail.com"
+      },
+      {
+        "id": 201412,
+        "firstName": "Nathan",
+        "lastName": "Sweet",
+        "projectTitle": "PC360 Media Center",
+        "projectDesc": "This project aims to solve overheating problems experienced by the first generation Xbox 360 in order to create a functional media center. This will be attempted by transplanting all of the Xbox components into a full size ATX computer case with additional ventilation and adding externally powered cooling fans. This project will also involve adding wireless capabilities to the Xbox via 3rd party hardware.",
+        "keywords": "Xbox 360, Gaming Console, Media Center, Client Bridge, Wi-Fi, Overheating",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1tQ4eszBHwb72bZpBGy-3hqSYDKngYEMC",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1tQ4eszBHwb72bZpBGy-3hqSYDKngYEMC",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1jIKIgRpXHA16COq7AX6n0nT7wjYqUUka",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1oR8KqIwOmkfUytdPcpVT3K_OeSSvZDH5",
+          null
+        ],
+        "contact": "nathan_sweet1@mymail.eku.edu"
+      },
+      {
+        "id": 201413,
+        "firstName": "Zack",
+        "lastName": "Fowler",
+        "projectTitle": "Revolights™ Arduino Clone",
+        "projectDesc": "As more people look to bicycling as a healthy and cost-effective method of transportation, tackling safety concerns becomes even more important. The Revolights™ system is a great way to help improve bike riders’ visibility at night but does not come cheap. This is my economical Arduino-based clone of the Revolights™ system that offers life-saving technology to more people.",
+        "keywords": "Revolights, Arduino, bicycle, Hall effect sensor",
+        "certificates": "CompTIA Network+, Highest BS(NET) Exit Exam Score 2013-14, Certificate of Merit -- NET Capstone Project 2013-14",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1uBOCdl0klOQRzrxX16srtnE-fJJQKDk1",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1uBOCdl0klOQRzrxX16srtnE-fJJQKDk1",
+          "https://drive.google.com/uc?export=view&id=1Kj9fu9Ry4w7LQZLKN3DEeoV0cCEptRl3",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1tS_c-LiYoVw6aORjAudSQrgGsh9IOepl",
+        "brochure": "https://drive.google.com/uc?export=view&id=1qkimoPBNzUJxZX9qk7uJ6k2G5_Uvyp3G",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1e_W77TiOFirsMfxtA2Cf5_sYezQjhRLF",
+          null
+        ],
+        "contact": "zack_fowler1@mymail.eku.edu"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": "Spring/Summer Computer Electronics/Networking Programs (BS/AAS) 2014 class.",
+          "name": "Lenin, Anthony, Jared, David, Aaron, Michael, Matthew Marrs, Justin, Zack, Blake",
+          "url": "https://drive.google.com/uc?export=view&id=10y43L99oB526jIURamtIedQbLVDU6MZp"
+        },
+        {
+          "title": "Spring/Summer Computer Electronics/Networking Programs (BS/AAS) 2014 grads.",
+          "name": "Lenin, David, Aaron, Matthew, Zack",
+          "url": "https://drive.google.com/uc?export=view&id=1TEy_n78dN-hA2vLQuBSz8cNi0al_3g7b"
+        },
+        {
+          "title": "Fall Computer Electronics/Networking Programs (BS/AAS) 2013 grads.",
+          "name": "Michael, Jared, Justin, Blake",
+          "url": "https://drive.google.com/uc?export=view&id=1FbnecD-2Ie0BLNAs8753QXllJnL5HI5P"
+        },
+        {
+          "title": "Computer Electronics/Networking Programs (BS/AAS) 2013 grads and beyond.",
+          "name": "Charles and Matthew Maples",
+          "url": "https://drive.google.com/uc?export=view&id=1AiUrwbEaaqcIahrC2O9S_JFa3WiAm7Ns"
+        }
+      ],
+      "outstanding": [
+        {
+          "title": "Outstanding Network Security & Electronics (NET) Senior 2013-14",
+          "name": "Tom Etherington",
+          "url": "https://drive.google.com/uc?export=view&id=1EuZe_ZGF5I79tdivIVEZ2x6XSvj94FdI"
+        }
+      ],
+      "presenter": [],
+      "ga": []
+    }
+  }
