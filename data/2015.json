@@ -1,740 +1,798 @@
 {
-    "studentData": [
+  "studentData": [
+    {
+      "id": 201501,
+      "firstName": "Aaron",
+      "lastName": "Fore",
+      "projectTitle": "Windows Tools",
+      "projectDesc": "Many times, while working in the field as a Network Technician, or Network Administrator, you may come across problems that are rather difficult to solve. Some of these problems may take lots of time and research to solve. Even when solving the problem after you know what you're doing can take lots of time because the process to solve the problem is so convoluted. My application takes two very specific problems and fixes them with the click of a button. Not only that, but my application makes solving other problems much easier by providing the user with system shortcuts that lead to various parts of the Windows operating system that control many different aspects of the computer. This application is a \"one-stop-shop\" if you will for a Network Administrator.",
+      "keywords": "Reimaging, System Center Configuration Manager (SCCM), Group Policy, Windows Registry, Form-load",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "CompTIA Network+": "https://www.comptia.org/certifications/network"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Famx75NxILHiLhFdD6ChaFLqRSmeDqhu",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Famx75NxILHiLhFdD6ChaFLqRSmeDqhu",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1hBGyXhDMGSON9rhEDHRaUNFFgdFD5R_k",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1aHcLeBo4eeDoTEgssoJXExDuhspw9jES",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1WZnGep4sLgpftz9wWFgdGnZ3KCkXWcIy",
+      "contact": "aaron_fore1@mymail.eku.edu"
+    },
+    {
+      "id": 201502,
+      "firstName": "Adam",
+      "lastName": "Turner",
+      "projectTitle": "Autonomous Sentry",
+      "projectDesc": "Sometimes persons may enter rooms in my home and mess with my stuff without permission. My home does not have many doors downstairs where most of my cool stuff lives. A sentry turret that fires plastic 6mm airsoft pellets should hopefully keep people away from my stuff. A turret will be constructed and installed in one of my rooms without a door. The turret should not cause real physical harm to persons or animals, only keep them away from my stuff. Current technologies can help realize a working sentry gun. A developer (rudolphlabs.com) has created open source code based in java to run in conjunction with the Arduino microcontroller. I will use this code and microcontroller to control three tower pro mg995 servos.",
+      "keywords": "Sentry Gun, Arduino, Open Source",
+      "certificates": {
+        "Dell Certified Systems Expert(DCSE)": "https://deltechcs.com/",
+        "Certificate of Merit --NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1U7Wnrvaxed4xu7xzYzSyXbWmIEK3GloF",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1U7Wnrvaxed4xu7xzYzSyXbWmIEK3GloF",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1CC60mjusovCzvS35iaoabwfwAE9V08mu",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1ePBw90a8leT1_Lh5X1bjj1jdL6KQv56k",
+      "contact": "adam_turner38@mymail.eku.edu"
+    },
+    {
+      "id": 201503,
+      "firstName": "Andrew",
+      "lastName": "Bjorkman",
+      "projectTitle": "Litter Box Ventilation System",
+      "projectDesc": "Many people have pets with cats and dogs making up the largest percentage. 30 percent of U.S. households have cats with the cat population reaching almost 70 million(American Veterinary Medical Association ). Many people like cats because they don't need constant attention and they pretty much take care of themselves. Cats don't have to be walked but that means dealing with cat waste inside of the home. This includes biological waste as well as cat litter itself. Cat litter toxicity has been a hot topic for a while now. \"In 1997, the International Agency for Research on Cancer classified silica as a human carcinogen yet it is estimated that roughly 95 percent of U.S. cat litter is a form of silica\" (Grillo). To keep the air in your house as fresh and healthy as possible I designed an improved automated cat litter box ventilation system. The clear air uses a computer controlled exhaust fan to ventilate a litter box after each use sending the bad smells out of a house or apartment. The system also keeps tabs on how many times the litter box has been used and sends a friendly text message reminder to change the litter.",
+      "keywords": "Python, Networking, SMS Messages, Electronic Circuit",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1YPZMgw9j3ZU46NLeKPcYgflJL-kpQC7b",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1YPZMgw9j3ZU46NLeKPcYgflJL-kpQC7b",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1cx5zbFMZ0QR2_KLm7MVyoV5RIDjIfNoT",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1wZPGWs4cu91OYWEOlKQfa_RsEEhHwALQ",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1P_P0cxNGitg4TivvkEmGfhizwWFEdVJS",
+      "contact": "andrew_bjorkman@mymail.eku.edu"
+    },
+    {
+      "id": 201504,
+      "firstName": "Anthony",
+      "lastName": "Creech",
+      "projectTitle": "NIXIE Display for a Modern World",
+      "projectDesc": "The capstone involved developing and implementing a high voltage display, creating a digital display using Neon Numeric Indicator tubes which are controlled by a small micro controller. This includes the hardware development for the board, as well as software running on the micro controller. which can interface with additional software on a Linux based PC. The original design began in the Spring of 2013, and has been successfully completed over the course of my degree program at Eastern Kentucky University.",
+      "keywords": "NIXIE, microcontroller, PCB, schematic",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "CompTIA Network+": "https://www.comptia.org/certifications/network",
+        "Linux+": "https://www.comptia.org/certifications/linux",
+        "Runner-up Dr Glen Kleine Capstone Presentations 2014-2015": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1iHz6UIyQ97mUXDwIBHnCs-a52stlxq88",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1iHz6UIyQ97mUXDwIBHnCs-a52stlxq88",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1eCfZK59wQY5JZr6AAVEYD9CFMaeV1kRa",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1HgECTXbMCi5bexAZudYYbZnSxYnd1Gii",
+      "contact": "anthony_creech22@mymail.eku.edu"
+    },
+    {
+      "id": 201505,
+      "firstName": "Anthony",
+      "lastName": "Warner",
+      "projectTitle": "Cabsec:Arcade security system",
+      "projectDesc": "Despite the fact that most arcade cabinets are located inside of enclosed spaces, very little thought is actually given to the security of the arcade cabinet itself this is where Cabsec comes in. Cabsec is an integrated simple solution to arcade security beyond the locked doors. Simple installation in any unit and simple configuration lead to an easy to manage inbuilt security add-on to any arcade cabinet. The unit once installed and configured comes with a monitoring system for coin door, coin receptacle, and back access intrusion detection system. This combined with the notification system will help alleviate all issues when it comes to arcade security outside the simple locked doors.",
+      "keywords": "Arcade security, Raspberry Pi, tilt sensor, Python, Linux",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1AMU1vuyWJNGRqJpcxqp3iks1pg51dp1Q",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1AMU1vuyWJNGRqJpcxqp3iks1pg51dp1Q",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=15d0frlmhCZUxaHtXhwOfj_grryNQEZx_",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1AyozyXw7AbYf3jHIIB3Y7v1DZcd_a53i",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1AyozyXw7AbYf3jHIIB3Y7v1DZcd_a53i",
+      "contact": "anthony_warner2@mymail.eku.edu"
+    },
+    {
+      "id": 201506,
+      "firstName": "Arielynn",
+      "lastName": "Rollins",
+      "projectTitle": "Integrating a Small Business with the Internet",
+      "projectDesc": "This project was born out of simple need-a small business owner needed to bring his business into the modern world and advertise it online via a website, social media, and an ecommerce site.Those three digital components would need tobe connected with each other to create a fully functional business network, where potential clients could easily be exposed to the business and interact with the owner via social media, email, and by purchasing his work through his website. Since the business owner did not have time to set up a website and all the additional components himself, I chose to take this project on as my capstone project. I tackled this project by first creating a plan and deciding on a timeline, figuring out what tools I wanted to use, and researching to find good references for learning how to build the website I wanted to create. Although this project is still a 'work in progress', I am very pleased to have been able to learn a number of new and useful skills over the course of this semester and help a small business owner gain a platform from which he can reach the world.",
+      "keywords": "Social media, small business, website design, Adobe Muse",
+      "certificates": {
+        "Adobe Certified Expert(ACE)": "https://www.adobe.com/",
+        "Muse CC": "https://www.adobe.com/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=149mpdas1wmIwdwz2ps7E_ZcPGjIU-VcL",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=149mpdas1wmIwdwz2ps7E_ZcPGjIU-VcL",
+        null,
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1K7cUL24gPcdyPY8ezxof-0S5KDZ3Ee1l",
+      "contact": "arielynn.rollins@yahoo.com"
+    },
+    {
+      "id": 201507,
+      "firstName": "Benjamin",
+      "lastName": "Lester",
+      "projectTitle": "The Home Pi-larm",
+      "projectDesc": "In the past few weeks the amounts of break-ins in my neighborhood have gone up significantly. I currently have a home alarm system however; I would like to find a way to make my alarm system work better than the ADT system I am currently using. Especially since most of the break-ins have occurred in houses with alarm systems and with no video cameras they have no way of identifying the perpetrators. With this alarm system it can be customized to the liking of the home owner. My system will include door alarms, motion sensors, and a glass break alarm. Another key advantage to my Pi-larm is the fact that it will be able to send push messages alerting of what type of alarm has gone off.",
+      "keywords": "Raspberry Pi, Home Alarm, Push message alert, Camera system",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1jC8ilEH2snVa1oQexEfEDbjQy_-OkXpX",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1jC8ilEH2snVa1oQexEfEDbjQy_-OkXpX",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1l4a0vymOgCAda5kuESFdnYHcOgcXiYZp",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1JyLe4PEsvtTjmZMT5b2k6iubyC-VsFk4",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1meCHKsPHXPTb_MTYCughTwxnkpyvWeqa",
+      "contact": "benjamin_lester3@mymail.eku.edu"
+    },
+    {
+      "id": 201508,
+      "firstName": "Brandon",
+      "lastName": "McGee",
+      "projectTitle": "Arduio-graph",
+      "projectDesc": "The \"Arduio-graph\" is a micro-controller used to measure speeds of real-world objects. This project involved areas of study within the Network Security and Electronics major, taking elements from all classes taught in the degree field. When the Arduio-graph was completed it was able to fulfil the goals set-forth by the guidelines presented from the design aspect. It used sensors to read an object's presence, record a time, calculate the velocity and output it to an LCD screen. There were only minor issues like debugging and troubleshooting but they were solved by trial-and-error runs along with the strive to succeed. Within the enclosure it can be transported and have protection from outside forces, keeping it safe from abnormal objects that could interfere with the inner workings or possibly disconnect wires.",
+      "keywords": "Arduino Arduio-graph Infrared Chronograph Micro-controller C++ Capstone",
+      "certificates": {
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1yrIYjcgxmqBAiFIurFmrDxQDQk0TqH6u",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1yrIYjcgxmqBAiFIurFmrDxQDQk0TqH6u",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1m6Y_H4KxqLPZLlbz5sAh933knVRhEkn6",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1ktT_VWshqs5JUWTCSMYk6p8Jmsi_DKba",
+      "contact": "brandon_mcgee3@mymail.eku.edu"
+    },
+    {
+      "id": 201509,
+      "firstName": "Brandon",
+      "lastName": "Verhoeven",
+      "projectTitle": "Car Computer",
+      "projectDesc": "Infotainment systems are becoming a common feature in new cars today. These systems have radio, navigation, hands free calling, and some of them can be used by the dealer for vehicle diagnostics. These systems are highly integrated into the car and often cannot be replaced once they're obsolete. Unfortunately, not all of us can afford a newer car. An alternative to OEM systems are aftermarket radios. You can get these radios with many of the same features; without the vehicle diagnostics. Aftermarket units won't have the ability to be upgraded without replacing the whole unit. My solution for this is to build a car computer. A car computer is a computer that mounts somewhere hidden in the car and is controlled via a touchscreen in place of the radio. It adds features through software and peripherals. It can have all of the abilities of an OEM infotainment system and will be upgradable due to its modularity.",
+      "keywords": "Car Computer Infotainment System OBDII",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1J2CtrOaRs8yUA4vrhxFIpdMQx5qrpNhn",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1J2CtrOaRs8yUA4vrhxFIpdMQx5qrpNhn",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1xkQFw2LPCbb4eLqk-77Px_15sPdPWFbG",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1TQSPiBRN4WMBc1TZ3tgE1dZRQOVVwZaH",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1UBQT269Tg27BFOanJf2xYPQ-iZ2Macl1",
+      "contact": "brandon_verhoeven@mymail.eku.edu"
+    },
+    {
+      "id": 201510,
+      "firstName": "Bryan ",
+      "lastName": "Roark",
+      "projectTitle": "3D C&P Machine MK. I",
+      "projectDesc": "The cost of purchasing a CNC (Computer Numerical Control) machine or 3D printer that produces materials at a decent quality can easily go into thousands of dollars. Having a local business cut materials or print objects on their 3D printer can also be quite costly. What if there is a way around this problem? THERE IS! Introducing the 3D C&P Machine MK I! It can cut wood, metal, and plastics. Are you needing to print a PCB for a new circuit design but the cost of having boards printed is out of your budget? No problem! This machine is also perfect for creating isolation milled circuit boards for prototyping or production! Need a 3D printer? No problem! Replace the cutting attachment with the print head and VIOLA! Begin 3D printing right away. This machine can be used to cut or fabricate nearly all of the parts needed in order to make a second 3D C&P Machine MK I.",
+      "keywords": "Computer Numerical Control (CNC), PCB, RPi",
+      "certificates": {
+        "CompTIA Security+": "https://www.comptia.org/certifications/security",
+        "Highest BS(NET) Exit Exam score 2014-2015": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1u1MBBX9WrtWS3KxfoSvlsTU94P1e0UQX",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1u1MBBX9WrtWS3KxfoSvlsTU94P1e0UQX",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1yniUSzGIDb-tEZvQ0NgHxcWP-kEexSJi",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1xtcnk-jX2ntwL5Ufyedj76aRhV23V-rr",
+      "contact": "bryan_roark11@mymail.eku.edu"
+    },
+    {
+      "id": 201511,
+      "firstName": "Casey",
+      "lastName": "Spires",
+      "projectTitle": "Technology Resource Management Portal",
+      "projectDesc": "This project addresses the problem of collecting data within and office environment on a mass scale. The office has the issue of not having a central repository for Dell Service Tags, tags that allow for the company to inquire about warranties. This is accomplished through the use of Microsoft SQL Server as well as ASP.NET a Microsoft open source framework for creating websites.",
+      "keywords": "ASP.NET, SQL, C#, Bootstrap, API, Visual Studio, Programming, Web Design",
+      "certificates": {
+        "Microsoft MTA": "https://support.microsoft.com/en-us/topic/earn-a-microsoft-technology-associate-mta-certification-357215d0-31ce-0620-feba-1bb60165b770"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=19wlELwXP_-7FZhfdJ3J3g1rbeGOtJArg",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=19wlELwXP_-7FZhfdJ3J3g1rbeGOtJArg",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1pDWImFxzE63MfRHH-wBbmcQOSrcMZh7-",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=10JkvEq_2wiJ3u0oeJCctdYv0m25E4pSJ",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1T8_qfDch6CMfA8UmMD_KzfRxD2tX-3s0",
+      "contact": "casey_spires@mymail.eku.edu"
+    },
+    {
+      "id": 201512,
+      "firstName": "Charles",
+      "lastName": "Judd",
+      "projectTitle": "Project Ocean Water: A Custom DIY Electric Guitar Build",
+      "projectDesc": "The issue addressed by this project was my desire to gain a better, more intimate knowledge of electric guitar construction. My main purpose was to build a completely unique guitar, implementing custom hardware and electronics components. Much time was spent researching electrical diagrams and cross-checking component compatibility, as well as studying techniques to improve the mechanical playability of the instrument. The results of the completed project have been extremely satisfactory. I was able to build a professional-grade instrument for a fraction of the price that purchasing a similar guitar would have cost.",
+      "keywords": "electric guitar, custom, luthier, pickups, potentiometers, toggle switches, soldering, wiring harness",
+      "certificates": {
+        "CCENT": "ttps://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html",
+        "CCNA": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html",
+        "Highest BS(NET) Exit Exam score 2015-16": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1KSgGYBa-evz69UGXkDpKW-NUmx7OqnMb",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1KSgGYBa-evz69UGXkDpKW-NUmx7OqnMb",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1YEuw16VMSz_MC9NLBUb3Zgsivtul9M0b",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1Kx6tDryqc6bf1dxFeMzwdcidUA-SYdx9",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1U02_0VovRrr58PBCQjikcoFfPOkcpGRf",
+      "contact": "juddcharlesw@gmail.com"
+    },
+    {
+      "id": 201513,
+      "firstName": "Christopher",
+      "lastName": "Johnson",
+      "projectTitle": "Learning the Art of Exploiting Computer Systems",
+      "projectDesc": "This capstone project is based on furthering my knowledge within the field of exploitation of computer systems. This will aid my understanding of how I can defend not only myself but others as well against malicious hackers. It covers the scanning and enumerating of computer systems present, vulnerability assessment along with exploiting the vulnerabilities found as well as maintaining access.",
+      "keywords": "scanning, vulnerability assessment, payload, exploitation, maintaining access",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1CPN60VdGv3beyq8zIrGUM9r9t1z9OWBV",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1CPN60VdGv3beyq8zIrGUM9r9t1z9OWBV",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1los9V6zUJAGrwc5as4oodOH1uPnvoZ4e",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1HJmmX0NXO9Iy5qev90aUwk6XawbQZp2H",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1-lRRDScSWPWUVKLT6Xrg3NDZx6LW4pVy",
+      "contact": "christopher_johns199@mymail.eku.edu"
+    },
+    {
+      "id": 201514,
+      "firstName": "Christopher",
+      "lastName": "Simonsen",
+      "projectTitle": "Animatronic Halloween Prop: Use of a Programmable Logic Controller to Build Inexpensive Halloween Decorations",
+      "projectDesc": "In todays marketplace, animatronic props are either expensive to purchase or cheaply made. In this project I will discuss and show the procedures for building your own animatronic Halloween prop, using a Programmable Logic Controller (PLC). Building your own animated props for Halloween requires careful planning and design, but with a little time spent at the beginning of the process, the builder can make their own animatronic props at a fraction of the cost that they would spend if they purchased them from a store. Utilizing PLC's, a builder can combine different motors to create various movements and sequence them to the desired effect. For example having the PLC control a smoke machine, then a motor to lift a coffin lid, activate lights and work other types of actuators to extend and retract a hand. Simple wiring techniques make it possible to connect the different components to the controller, making building your own Halloween decorations easy. The only limit to the projects are your imagination.",
+      "keywords": "Animatronic, Programmable Logic Controllers, PLC, automation, inexpensive halloween prop.",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "CompTIA Network+": "https://www.comptia.org/certifications/network",
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=13xbw-3JMRHJClgeX_P7BZbvejPuk5Rvp",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=13xbw-3JMRHJClgeX_P7BZbvejPuk5Rvp",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=192TRZGezXln9-l5H9baezKzotOYspzzd",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1NcKwvdN__aU6RLp5ffCeHQb4mdkzttbs",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1VxDo-MMgMZuUgz2bVfwJUNq1osEnz3Y0",
+      "contact": "christopher_simon3@mymail.eku.edu"
+    },
+    {
+      "id": 201515,
+      "firstName": "Clayton",
+      "lastName": "Lane",
+      "projectTitle": "Electric Motor Control",
+      "projectDesc": "The technical problem being solved as part of the capstone is to construct an electrical motor and using a computer control it. Building a motor that is simple enough and within scope to complete to demonstrate the fundamentals of electricity and electronics. Using a microcontroller to interface this motor to the computer so that the computer can make decisions about when to activate and deactivate the motor. A challenging aspect will be keeping the project within budget and time constraints.",
+      "keywords": "motor, LED, microcontroller",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1_VdrAiu7Q8F2eByz-pwJUrlpUOu9t2o2",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1_VdrAiu7Q8F2eByz-pwJUrlpUOu9t2o2",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1eXaPCya_K_JJYD4FVg-7lyVlJMronX-o",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1-72AzQduJ2V8WOyV_q8zxBCJ5XgDpNlJ",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1qfsiXmg5w7J368eUGhRVUz2WMAU797Mm",
+      "contact": "claytonvtec12@gmail.com"
+    },
+    {
+      "id": 201516,
+      "firstName": "David",
+      "lastName": "Rufty",
+      "projectTitle": "Pijacker Preventer",
+      "projectDesc": "In this project, I covered the issue of enabling security on the go when you may be on an unfamiliar network with your mobile device or your laptop. The problem I discovered would be finding a device that I could create that would be secure, cost-effective and user friendly to achieve an added layer of security for the user. I achieved this goal by implementing these components, Raspberry Pi 2, a home/local network with internet access, Raspbian (Debian lite), OpenVPN with Easy RSA, and other peripherals such as cables, keyboard etc. I prepared the Raspberry Pi 2 with Raspbian, configured my home network, configured the Pi for SSH access, and installed and configured OpenVPN and Easy RSA. I performed commands that would generate certificates and keys for the server and the client, or the device to be using the server. Once this was completed, I generated OpenVPN profiles that contained the client keys and server certificate along with the server information. Finally, I transferred the profile to the device with the installed client OpenVPN application and successfully connected the Pijacker Preventer.",
+      "keywords": "Virtual Private Networking, OpenVPN, Raspberry Pi, Easy RSA, Security",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1S4hgPhw-A3Y09PzKUsL82kNdhX3eQk9M",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1WAFpcT3c2kAOygVlBUp010OzpbGtJ015",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1OV3G_9kugawPuJQk4x2dJJrIqCTHtSql",
+      "contact": "david_rufty@mymail.eku.edu"
+    },
+    {
+      "id": 201517,
+      "firstName": "James",
+      "lastName": "Coffey",
+      "projectTitle": "Home School for Network Security",
+      "projectDesc": "Technology is advancing at a rapid pace in today's society. Due to the timing required to create and have teaching curriculum approved, as well as policies and legalities concerning ethical concerns, many institutions struggle to facilitate up-to-date training with regards to defense against cyber criminals. Often this training fails to come before attackers have changed their tactics. Individuals seeking a degree to become a part of the professional field of security are required to complete a four-year broad curriculum that can often be outdated in core areas upon completion. Malicious hackers do not suffer these constraints and gain their skills in unconventional ways. Many individuals who seek to become productive members of society are not afforded endless hours to delve into code and self-taught ethical hacking. Nor is there a broad highway for those individuals to learn upon without risking being misinterpreted and falling victim to some loosely worded legalities. I suggest to have updated network security skills, individuals build an environment in which they have authorization to do so. I believe that self-discipline, study and application in such an environment is the solution.",
+      "keywords": "network security, ethical hacking, education",
+      "certificates": {
+        "CompTIA Security+": "https://www.comptia.org/certifications/security"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=17enfiObZhnqyOwd9KYS4bJmqOY5iTWY1",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=17enfiObZhnqyOwd9KYS4bJmqOY5iTWY1",
+        null,
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1j-1ySRKvUo0LItxVe9ZpVR8zBe3g6L8A",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=11YAzgQ634jGagzl7Er802dlqUsY6H6Ym",
+      "contact": "james.coffey@outlook.com"
+    },
+    {
+      "id": 201518,
+      "firstName": "James ",
+      "lastName": "Parsley",
+      "projectTitle": "Parsley Pie Box",
+      "projectDesc": "Electrically inclined individuals have been building their own arcade cabinets for years. Building a smaller PC and sticking it in a full size arcade machine was easy due to all the space. If someone wanted to use a smaller arcade they would have to shrink the computer. In the past few years Raspberry Pi has come to prominence as a do-it-all mini machine. I plan to use a Raspberry Pi to build an arcade cabinet that plays multiple platforms, and also wire traditional arcade controls to the Pi for a full arcade experience. This will provide ample manoeuvrability inside a smaller cabinet and it can also serve as a testament to the Raspberry Pi's functionality.",
+      "keywords": "Raspberry Pi, arcade, interface, Linux",
+      "certificates": {
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1vq1Sc25srX9VmGPdAgeAg5SFU5ffMEcE",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1vq1Sc25srX9VmGPdAgeAg5SFU5ffMEcE",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=13B3h33whsDBEFpgEwrR4P6LTAR-9HT0s",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": null,
+      "contact": "james_parsley2@eku.edu"
+    },
+    {
+      "id": 201519,
+      "firstName": "Jessica ",
+      "lastName": "Edwards",
+      "projectTitle": "PuppyCam",
+      "projectDesc": "You have decided that your life would be much more enjoyable with a dog or puppy. You then proceed to find the perfect dog or puppy for you and your family and home. You get them home and get everything settled and once that puppy gets comfortable in your house you soon realize your puppy is very destructive. You grow attached to your new family member and you soon grow to miss them while you're away from them. That is where my idea of making a PuppyCam came into play. This small and portable easy to use device lets you see what your puppy does when you aren't home!",
+      "keywords": "surveillance, puppy, camera, monitoring system, streaming",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1bSO8nAz2CY8J-QM5LEQ4Wwj-hztoZHUV",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1bSO8nAz2CY8J-QM5LEQ4Wwj-hztoZHUV",
+        "https://drive.google.com/uc?export=view&id=1uoJkJCDrJSBrpPPZDn8XttBaDknIeYXT",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1NKSyg5IS7Lp-wnC3_kRnVZXAAF_067eY",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1PFLmO7G6UVdlPF2UksBYZDjwbjuUtpco",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=19bBa378YbMHnnH6ACJi4E5OF2QgNQPzg",
+      "contact": "jessiedwards4@gmail.com"
+    },
+    {
+      "id": 201520,
+      "firstName": "Jonathan",
+      "lastName": "Allen",
+      "projectTitle": "Raspberry Pi 2: Media and NAS Server",
+      "projectDesc": "Almost, if not all students in the NET major has had experience working with servers. I would like to expand my knowledge in server implementation, management, and troubleshooting for my capstone project. I am wanting to create a low-cost alternative to desktop servers that store and use entertainment media such as videos, pictures, and music; storing and transferring data, as well as creating data backups all in a home or home-office environment. In my case, it will be for home personal use. To meet the needs of this proposal, I will be utilizing a Raspberry Pi 2 microcomputer and an external hard drive as a low-cost alternative to desktop computer servers. I will be installing a media server, ReadyShare (formerly known as miniDLNA) as well as making it my own personal cloud storage server by implementing network-attached storage (NAS), and by installing a file-sharing server, Samba.",
+      "keywords": "Raspberry Pi, Linux, hardware installation/implementation, software installation/implementation, client-server communications",
+      "certificates": {
+        "Highest BS(NET) Exit Exam Score 2014-15": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1jd69e7SmRSO0C5AExTjrVYwjjqKnJ3-K",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1jd69e7SmRSO0C5AExTjrVYwjjqKnJ3-K",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=19v_1tVZWZk-XNbmsxAkNysCCzE-BGNcp",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1v-EyeVlC-M80k0jiN365B9xsstoqpdqI",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1nryF-RFkl59PzDaySiXPPbLg9cOn5m8R",
+      "contact": "jallen0266@gmail.com"
+    },
+    {
+      "id": 201521,
+      "firstName": "Mark ",
+      "lastName": "Barron",
+      "projectTitle": "Raspberry Pi Garage Door",
+      "projectDesc": "This project overviews hardware and software installation for: Controlling your garage doors remotely and to monitor of the state of the garage door. The software is designed to run on a Raspberry Pi, which is an inexpensive, ARM processor based, credit card-sized computer developed in the United Kingdom. Interfacing to the garage door controller through a relay module, a digital switch you can control circuit of high voltage with low voltage, connected to the GPIO (General Purpose Input/output) header. A magnetic switch provides proof of the door position. This has been programmed using python, a widely used programming language.",
+      "keywords": "GPIO, Raspberry Pi, relay module, python",
+      "certificates": {
+        "KY Master HVAC and Boiler contrator license": "https://vigsjc.github.io/404.html",
+        "Universal Refrigeration EPA certification": "https://vigsjc.github.io/404.html",
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=17wFlxljHS5vsYbBH3fmkGZURJs_QviNq",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=17wFlxljHS5vsYbBH3fmkGZURJs_QviNq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1lR7Yba-Z_NBcTnBVS4_H9IUvGsqLUEuq",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1iYZkpL7oFKzwMcRJD1mEueqJVShf5hLm",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1ps6vqdgC2MSFF_f__YIjabc1_t79STaC",
+      "contact": "mark.barron@eku.edu"
+    },
+    {
+      "id": 201522,
+      "firstName": "Matthew",
+      "lastName": "Williams",
+      "projectTitle": "LearnBox: An Evolving Platform for Raspberry Pi",
+      "projectDesc": "The aim of this capstone is to develop a fully featured and adaptable platform on which future Raspberry Pi based projects will be developed. Features of this platform include rechargeable batteries that power the Raspberry Pi and peripherals, and a small battery-powered monitor. The platform will also be of a compact design with the individual pieces capable of removal to accommodate a variety of changes to the setup. It also highlighting some of the issues involved in its construction. Furthermore, a general overview of some of the possible applications and suggested improvements is presented and could be useful for the development of projects that use the Raspberry Pi.",
+      "keywords": "Raspberry Pi, battery powered, computer, compact, modular design",
+      "certificates": {
+        "CompTIA Security+": "https://www.comptia.org/certifications/security",
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ySblGwULEbYjqLe0o4jezChSc8ZZkNdW",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ySblGwULEbYjqLe0o4jezChSc8ZZkNdW",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1pwqd-AY6FjiS0tyvHU7ReNyZvnXeW1ky",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1PqW9J-et0yZ7WfnyVLStwprmI-fa68fl",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1YnoJKFJfd-fjjea6edurCrQdJ60_gGd-",
+      "contact": "matthew_williams183@mymail.eku.edu"
+    },
+    {
+      "id": 201523,
+      "firstName": "Michael",
+      "lastName": "Todd Hughes",
+      "projectTitle": "Using a Microsoft SQL Server Database to Manage Little Bird Helicopter Maintenance and Modifications",
+      "projectDesc": "A database management system (DBMS) is an application that allows others to search stored data in order to locate specific information. The goal of a DBMS is to provide users the means to manipulate, analyse, store, and retrieve information.",
+      "keywords": "Relational Database, SQL (Structured Query Language), Entity-Relationship Diagram",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ycwedF6mubl75uKZshLkGu3Z87Eq8QYS",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ycwedF6mubl75uKZshLkGu3Z87Eq8QYS",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1PVB7MAD3n47h6Dk_ZPDKB3odIhlDnNDD",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=16JMJVMFVlndXC2hfphnT0Oe1o_p5oPIZ",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1OiHX94kVy83LO2VfPCwMqGuFOmapaEec",
+      "contact": "michael_hughes35@mymail.eku.edu"
+    },
+    {
+      "id": 201524,
+      "firstName": "Michelle ",
+      "lastName": "Damico",
+      "projectTitle": "M.E.D.I.C.| Medical Evaluation During Immediate Crisis",
+      "projectDesc": "This capstone project was prepared to satisfy a graduation requirement issued by Eastern Kentucky University for the Network Security and Electronics program. Involving the academic fields of Computer Science, Network Security, and Digital Electronics, this project drew aspects from each to produce the final product. M.E.D.I.C. is an Arduino-based device that shares retrieved data from a sensor and then reports to a Drupal website through a physical connection to a mobile device with internet capabilities. In the first iteration of M.E.D.I.C it is configured to be a heart rate sensor and GPS tracker. M.E.D.I.C. is meant to be an expandable platform that may allow additional features in later configurations. M.E.D.I.C. was designed to improve general welfare of the wearer by allowing remote monitoring of physical status and location.",
+      "keywords": "Arduino, Heart Rate Sensor, Drupal, C Programming, HTML 5, CSS 3, JavaScript, Node.js, MySQL, Digital Electronics, Biometrics, wearable electronics, distributed computing",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1mYchgRGlHNfGx23GvdqN_ZzZv9QvsSiy",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1cHF7XwvoaPsqOlre49GDkmyQedKudMmx",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1E8kqde-1vXMxrsH25ISuHaBYA5NdNqzr",
+      "contact": "michelle_damico1@mymail.eku.edu"
+    },
+    {
+      "id": 201525,
+      "firstName": "Ryan",
+      "lastName": "Lewis",
+      "projectTitle": "Securing Your Home and Home Network",
+      "projectDesc": "Although we live in an analog world, we are becoming more digitalized each day. The Internet changed the way that the world communicates. Data is transmitted around the globe every day. It is important that we take all the steps necessary to protect our digital data. My capstone project addresses the issue of home and home network security. The goal of my project is to implement a cost-effective all-in-one system which will provide enhanced network security and home monitoring.",
+      "keywords": "Programming, 802.11, server, NAS, Raspberry Pi, Untangle Firewall",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1yB3ekrtQL_xDtGRF155d6tcS45I4L61s",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1yB3ekrtQL_xDtGRF155d6tcS45I4L61s",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1koLyE3xLe1aRT2jugTj4JtBhMNkBd_5Y",
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1OkwaKsuK-9UWSNVDjob1k2uENFtfjcNe",
+      "contact": "ryan_lewis57@mymail.eku.edu"
+    },
+    {
+      "id": 201526,
+      "firstName": "Sharon",
+      "lastName": "Bothen",
+      "projectTitle": "Baby Monitor via Raspberry Pi",
+      "projectDesc": "The Raspberry Pi can be used for a variety of different tech ideas. It is a small computer that you can program to your own desires. In this case I used the Raspberry Pi combined with the Pi camera to make my own baby monitor. This is useful for anyone in the market of surveilling any part of your home. You can enter in various lines of code in order to get the Raspberry Pi camera adjusted to your specifications.",
+      "keywords": "Raspberry Pi, camera, monitoring systems",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=10pv3R1NxMRnhjJfyux63vwyPqHin-Z2r",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=10pv3R1NxMRnhjJfyux63vwyPqHin-Z2r",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1D-3j2-ZhNiqEziE7MwCkgXko-P8MIZGb",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1XttVEFMsXaeLNs9GtdsgmozSoNTF0Xpq",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1xTFcfrq2NokKo1rPaUJ89fljAeAUIi8l",
+      "contact": "sharonbothen@gmail.com"
+    },
+    {
+      "id": 201527,
+      "firstName": "Timothy",
+      "lastName": "Smith",
+      "projectTitle": "WatchDog: Activity Tracker for Pets",
+      "projectDesc": "Activity trackers have burst into our everyday lives. You are likely to see an individual wearing an activity tracker, such as the Fitbit or Jawbone Up, as you are likely to see someone with a smartphone. Smart devices and activity trackers are integrated together to provide the user with their health records along with other features. With this is mind I wanted to incorporate the popular aspects of the activity tracker into a small wearable device that could be used for household pets, mainly dogs. In addition to providing activity tracking features like a pedometer I wanted a device that would locate the animal through GPS encase they were missing. If you have ever lost a pet you know how devastating the experience can be. Pets are family members, and we must do everything within our power to keep them safe. The WatchDog helps accomplish this mission by utilizing micro Arduino boards called Xadow manufactured by Seeed Studio. The Xadow boards are not the only unique features added to the WatchDog collar. As you read about the product you will find detailed information in every aspect of the project for the design. From high visibility features at night to displaying alerts for medication doses have been incorporated into the WatchDog. The Watchdog will change how we interact with our pets' lives forever.",
+      "keywords": "activity tracker, pet tracker, find lost pet, control feeding, FitBit, FitBark, Xadow, Arduino, Pedometer, Accelerometer, Bluetooth, 3D Printing, Step Counter, Locator",
+      "certificates": {
+        "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Certificate of Merit -- NET Capstone": "https://technology.eku.edu/"
+      },
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Od6UJTre-6yhtpxHj3QjRUIKK84hi_4Q",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Od6UJTre-6yhtpxHj3QjRUIKK84hi_4Q",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1vNPWQrVRQ6dkZVc76z6rIErKx0Bzulgf",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1BaggegBTI_FDeJwM6utW5O1lCSnRlkc3",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1f-kt1fXPCKXgi6TRtZJqMOIcj1nuq8LW",
+      "contact": "tim.smith31@gmail.com"
+    },
+    {
+      "id": 201528,
+      "firstName": "Tyler ",
+      "lastName": "Persley",
+      "projectTitle": "Pi Cloud",
+      "projectDesc": "The intention of this project id to create a cloud storage server that can be accessed wirelessly through the Internet, allowing its user to both manage the cloud storage device and its files on the server. This project aims reduce the need to keep track of and carry around external medias such as flash drives and external hard drives by providing the user with a means to wirelessly access their needed information form their very own cloud server. This will also give the user a strong alternative to third party cloud service tools such as Drop Box, One Drive, and iCloud by giving the user complete control over their cloud storage. The implementation of this project will utilizing a Raspberry Pi 2 microcomputer with a micro SD card, an external hard drive, a Wi-Fi USB Adapter, a modem or router, a USB hub, a NOOBs OS img, and the ownCloud software. The implementation of this project will be broken down into several phases including: disk formatting, OS and server software installation, setting up ownCloud, and testing the system.",
+      "keywords": "Raspberry Pi, media server, cloud storage, ownCloud, cloud security",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [
+        null,
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1bdh-JxTfkxDGwmk9nEAf-b17g957vj_H",
+      "contact": "tyler_parsley@mymail.eku.edu"
+    },
+    {
+      "id": 201529,
+      "firstName": "William",
+      "lastName": "Gordon",
+      "projectTitle": "Battery Charger Automation",
+      "projectDesc": null,
+      "keywords": null,
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1xIESw4XzfkrI1lejdnCgFlfH1WOS_Ncq",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1T9ZBppsnuEgNY1ve8JhhA4bm90eGHGx9",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1r4k0jnLXw0XxTMFpvlaQoy5xVeuHZtSV",
+      "contact": "tell2wdgordon@gmail.com"
+    },
+    {
+      "id": 201530,
+      "firstName": "Zachary",
+      "lastName": "Cantrell",
+      "projectTitle": "Network Design & Implementation",
+      "projectDesc": "Monticello First Church Of God needed a network developed that covered around 6000 square feet. The building contains two floors of which are 3000 square feet each. As a networking student, I felt that I had the necessary skills to implement a full scale network, at low cost to the organization, but with adequate quality of service. In designing and implemented this network the most helpful tool used was the various Cisco books I''ve obtained over the years. They range from network topologies to command line interface.",
+      "keywords": "Networking, Cisco, Topologies, Point-to-Point",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=17nXu4N9c2Q1m5xU1pI0MgdpB53CtwV4h",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=17nXu4N9c2Q1m5xU1pI0MgdpB53CtwV4h",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1ZVBlkDd1Nmmf-pegeTfimZ0kMW_rkvMZ",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1Agrm6RUR_jsxQHnnKdvLwjwoX3vC-8Cj",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=1qxTYJR0n_-NWZQa4EQxGFh9Nar7ombbw",
+      "contact": "zachary_cantrell@icloud.com"
+    },
+    {
+      "id": 201531,
+      "firstName": "Zackery",
+      "lastName": "Ciampolillo",
+      "projectTitle": "RFID Controlled Servo",
+      "projectDesc": "The technical problem I will be solving with this project is how to secure the cabinet where my father stores all our ammunition. Currently there is no lock on the cabinet but since there are thousands of rounds in there it really needs one. The key skills I'll need for this are designing and wiring electrical circuits and programming the Arduino microcontroller which will be controlling it.",
+      "keywords": "Arduino, RFID",
+      "certificates": null,
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1-3CjHh5wgizOr_nocYATnQze0tzSHo9A",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1-3CjHh5wgizOr_nocYATnQze0tzSHo9A",
+        "nul",
+        null,
+        null
+      ],
+      "presentation": "https://drive.google.com/uc?export=view&id=1EJlvB2sNLtw7mYiD8IeoXVhEfUIOwxob",
+      "video": [
+        "https://drive.google.com/uc?export=view&id=1x9cDtBKQfVQMti1W5qzcp50P6v8YQXCW",
+        null
+      ],
+      "brochure": "https://drive.google.com/uc?export=view&id=14Wj8Tka53QR2ei6UAa29ejl0KNbHbWSP",
+      "contact": "zackary_ciampolil@mymail.eku.edu"
+    }
+  ],
+  "other": {
+    "classPhoto": [
       {
-        "id": 201501,
-        "firstName": "Aaron",
-        "lastName": "Fore",
-        "projectTitle": "Windows Tools",
-        "projectDesc": "Many times, while working in the field as a Network Technician, or Network Administrator, you may come across problems that are rather difficult to solve. Some of these problems may take lots of time and research to solve. Even when solving the problem after you know what you're doing can take lots of time because the process to solve the problem is so convoluted. My application takes two very specific problems and fixes them with the click of a button. Not only that, but my application makes solving other problems much easier by providing the user with system shortcuts that lead to various parts of the Windows operating system that control many different aspects of the computer. This application is a \"one-stop-shop\" if you will for a Network Administrator.",
-        "keywords": "Reimaging, System Center Configuration Manager (SCCM), Group Policy, Windows Registry, Form-load",
-        "certificates": "CompTIA A+, CompTIA Network+",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Famx75NxILHiLhFdD6ChaFLqRSmeDqhu",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1Famx75NxILHiLhFdD6ChaFLqRSmeDqhu",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1hBGyXhDMGSON9rhEDHRaUNFFgdFD5R_k",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1aHcLeBo4eeDoTEgssoJXExDuhspw9jES",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1WZnGep4sLgpftz9wWFgdGnZ3KCkXWcIy",
-        "contact": "aaron_fore1@mymail.eku.edu"
+        "title": "Computer Electronics Programs (BS/AAS) 2015 grads and beyond.",
+        "name": "Jessi, Bryan, Brandon Verhoeven, Jon, Zach, Brandon, Tim, Sharon, Ben, Zack, Andy, Adam, Ryan, Mark, Todd, Prof. Vigs, Matthew, Clayton, Anthony, guest, Chris Johnson",
+        "url": "https://drive.google.com/uc?export=view&id=1F6vJ2xyeGpOpbqsVedv0MN16quMemLRK"
       },
       {
-        "id": 201502,
-        "firstName": "Adam",
-        "lastName": "Turner",
-        "projectTitle": "Autonomous Sentry",
-        "projectDesc": "Sometimes persons may enter rooms in my home and mess with my stuff without permission. My home does not have many doors downstairs where most of my cool stuff lives. A sentry turret that fires plastic 6mm airsoft pellets should hopefully keep people away from my stuff. A turret will be constructed and installed in one of my rooms without a door. The turret should not cause real physical harm to persons or animals, only keep them away from my stuff. Current technologies can help realize a working sentry gun. A developer (rudolphlabs.com) has created open source code based in java to run in conjunction with the Arduino microcontroller. I will use this code and microcontroller to control three tower pro mg995 servos.",
-        "keywords": "Sentry Gun, Arduino, Open Source",
-        "certificates": "Dell Certified Systems Expert(DCSE)., Certificate of Merit --NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1U7Wnrvaxed4xu7xzYzSyXbWmIEK3GloF",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1U7Wnrvaxed4xu7xzYzSyXbWmIEK3GloF",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1CC60mjusovCzvS35iaoabwfwAE9V08mu",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1ePBw90a8leT1_Lh5X1bjj1jdL6KQv56k",
-        "contact": "adam_turner38@mymail.eku.edu"
-      },
-      {
-        "id": 201503,
-        "firstName": "Andrew",
-        "lastName": "Bjorkman",
-        "projectTitle": "Litter Box Ventilation System",
-        "projectDesc": "Many people have pets with cats and dogs making up the largest percentage. 30 percent of U.S. households have cats with the cat population reaching almost 70 million(American Veterinary Medical Association ). Many people like cats because they don't need constant attention and they pretty much take care of themselves. Cats don't have to be walked but that means dealing with cat waste inside of the home. This includes biological waste as well as cat litter itself. Cat litter toxicity has been a hot topic for a while now. \"In 1997, the International Agency for Research on Cancer classified silica as a human carcinogen yet it is estimated that roughly 95 percent of U.S. cat litter is a form of silica\" (Grillo). To keep the air in your house as fresh and healthy as possible I designed an improved automated cat litter box ventilation system. The clear air uses a computer controlled exhaust fan to ventilate a litter box after each use sending the bad smells out of a house or apartment. The system also keeps tabs on how many times the litter box has been used and sends a friendly text message reminder to change the litter.",
-        "keywords": "Python, Networking, SMS Messages, Electronic Circuit",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1YPZMgw9j3ZU46NLeKPcYgflJL-kpQC7b",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1YPZMgw9j3ZU46NLeKPcYgflJL-kpQC7b",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1cx5zbFMZ0QR2_KLm7MVyoV5RIDjIfNoT",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1wZPGWs4cu91OYWEOlKQfa_RsEEhHwALQ",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1P_P0cxNGitg4TivvkEmGfhizwWFEdVJS",
-        "contact": "andrew_bjorkman@mymail.eku.edu"
-      },
-      {
-        "id": 201504,
-        "firstName": "Anthony",
-        "lastName": "Creech",
-        "projectTitle": "NIXIE Display for a Modern World",
-        "projectDesc": "The capstone involved developing and implementing a high voltage display, creating a digital display using Neon Numeric Indicator tubes which are controlled by a small micro controller. This includes the hardware development for the board, as well as software running on the micro controller. which can interface with additional software on a Linux based PC. The original design began in the Spring of 2013, and has been successfully completed over the course of my degree program at Eastern Kentucky University.",
-        "keywords": "NIXIE, microcontroller, PCB, schematic",
-        "certificates": "CompTIA A+, Network+, Linux+, Runner-up Dr Glen Kleine Capstone Presentations 2014-2015",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1iHz6UIyQ97mUXDwIBHnCs-a52stlxq88",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1iHz6UIyQ97mUXDwIBHnCs-a52stlxq88",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1eCfZK59wQY5JZr6AAVEYD9CFMaeV1kRa",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1HgECTXbMCi5bexAZudYYbZnSxYnd1Gii",
-        "contact": "anthony_creech22@mymail.eku.edu"
-      },
-      {
-        "id": 201505,
-        "firstName": "Anthony",
-        "lastName": "Warner",
-        "projectTitle": "Cabsec:Arcade security system",
-        "projectDesc": "Despite the fact that most arcade cabinets are located inside of enclosed spaces, very little thought is actually given to the security of the arcade cabinet itself this is where Cabsec comes in. Cabsec is an integrated simple solution to arcade security beyond the locked doors. Simple installation in any unit and simple configuration lead to an easy to manage inbuilt security add-on to any arcade cabinet. The unit once installed and configured comes with a monitoring system for coin door, coin receptacle, and back access intrusion detection system. This combined with the notification system will help alleviate all issues when it comes to arcade security outside the simple locked doors.",
-        "keywords": "Arcade security, Raspberry Pi, tilt sensor, Python, Linux",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1AMU1vuyWJNGRqJpcxqp3iks1pg51dp1Q",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1AMU1vuyWJNGRqJpcxqp3iks1pg51dp1Q",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=15d0frlmhCZUxaHtXhwOfj_grryNQEZx_",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1AyozyXw7AbYf3jHIIB3Y7v1DZcd_a53i",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1AyozyXw7AbYf3jHIIB3Y7v1DZcd_a53i",
-        "contact": "anthony_warner2@mymail.eku.edu"
-      },
-      {
-        "id": 201506,
-        "firstName": "Arielynn",
-        "lastName": "Rollins",
-        "projectTitle": "Integrating a Small Business with the Internet",
-        "projectDesc": "This project was born out of simple need-a small business owner needed to bring his business into the modern world and advertise it online via a website, social media, and an ecommerce site.Those three digital components would need tobe connected with each other to create a fully functional business network, where potential clients could easily be exposed to the business and interact with the owner via social media, email, and by purchasing his work through his website. Since the business owner did not have time to set up a website and all the additional components himself, I chose to take this project on as my capstone project. I tackled this project by first creating a plan and deciding on a timeline, figuring out what tools I wanted to use, and researching to find good references for learning how to build the website I wanted to create. Although this project is still a 'work in progress', I am very pleased to have been able to learn a number of new and useful skills over the course of this semester and help a small business owner gain a platform from which he can reach the world.",
-        "keywords": "Social media, small business, website design, Adobe Muse",
-        "certificates": "Adobe Certified Expert(ACE)",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=149mpdas1wmIwdwz2ps7E_ZcPGjIU-VcL",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=149mpdas1wmIwdwz2ps7E_ZcPGjIU-VcL",
-          null,
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1K7cUL24gPcdyPY8ezxof-0S5KDZ3Ee1l",
-        "contact": "arielynn.rollins@yahoo.com"
-      },
-      {
-        "id": 201507,
-        "firstName": "Benjamin",
-        "lastName": "Lester",
-        "projectTitle": "The Home Pi-larm",
-        "projectDesc": "In the past few weeks the amounts of break-ins in my neighborhood have gone up significantly. I currently have a home alarm system however; I would like to find a way to make my alarm system work better than the ADT system I am currently using. Especially since most of the break-ins have occurred in houses with alarm systems and with no video cameras they have no way of identifying the perpetrators. With this alarm system it can be customized to the liking of the home owner. My system will include door alarms, motion sensors, and a glass break alarm. Another key advantage to my Pi-larm is the fact that it will be able to send push messages alerting of what type of alarm has gone off.",
-        "keywords": "Raspberry Pi, Home Alarm, Push message alert, Camera system",
-        "certificates": "CompTIA Strata IT Fundamentals, Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1jC8ilEH2snVa1oQexEfEDbjQy_-OkXpX",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1jC8ilEH2snVa1oQexEfEDbjQy_-OkXpX",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1l4a0vymOgCAda5kuESFdnYHcOgcXiYZp",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1JyLe4PEsvtTjmZMT5b2k6iubyC-VsFk4",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1meCHKsPHXPTb_MTYCughTwxnkpyvWeqa",
-        "contact": "benjamin_lester3@mymail.eku.edu"
-      },
-      {
-        "id": 201508,
-        "firstName": "Brandon",
-        "lastName": "McGee",
-        "projectTitle": "Arduio-graph",
-        "projectDesc": "The \"Arduio-graph\" is a micro-controller used to measure speeds of real-world objects. This project involved areas of study within the Network Security and Electronics major, taking elements from all classes taught in the degree field. When the Arduio-graph was completed it was able to fulfil the goals set-forth by the guidelines presented from the design aspect. It used sensors to read an object's presence, record a time, calculate the velocity and output it to an LCD screen. There were only minor issues like debugging and troubleshooting but they were solved by trial-and-error runs along with the strive to succeed. Within the enclosure it can be transported and have protection from outside forces, keeping it safe from abnormal objects that could interfere with the inner workings or possibly disconnect wires.",
-        "keywords": "Arduino Arduio-graph Infrared Chronograph Micro-controller C++ Capstone",
-        "certificates": "Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1yrIYjcgxmqBAiFIurFmrDxQDQk0TqH6u",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1yrIYjcgxmqBAiFIurFmrDxQDQk0TqH6u",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1m6Y_H4KxqLPZLlbz5sAh933knVRhEkn6",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1ktT_VWshqs5JUWTCSMYk6p8Jmsi_DKba",
-        "contact": "brandon_mcgee3@mymail.eku.edu"
-      },
-      {
-        "id": 201509,
-        "firstName": "Brandon",
-        "lastName": "Verhoeven",
-        "projectTitle": "Car Computer",
-        "projectDesc": "Infotainment systems are becoming a common feature in new cars today. These systems have radio, navigation, hands free calling, and some of them can be used by the dealer for vehicle diagnostics. These systems are highly integrated into the car and often cannot be replaced once they're obsolete. Unfortunately, not all of us can afford a newer car. An alternative to OEM systems are aftermarket radios. You can get these radios with many of the same features; without the vehicle diagnostics. Aftermarket units won't have the ability to be upgraded without replacing the whole unit. My solution for this is to build a car computer. A car computer is a computer that mounts somewhere hidden in the car and is controlled via a touchscreen in place of the radio. It adds features through software and peripherals. It can have all of the abilities of an OEM infotainment system and will be upgradable due to its modularity.",
-        "keywords": "Car Computer Infotainment System OBDII",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1J2CtrOaRs8yUA4vrhxFIpdMQx5qrpNhn",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1J2CtrOaRs8yUA4vrhxFIpdMQx5qrpNhn",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1xkQFw2LPCbb4eLqk-77Px_15sPdPWFbG",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1TQSPiBRN4WMBc1TZ3tgE1dZRQOVVwZaH",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1UBQT269Tg27BFOanJf2xYPQ-iZ2Macl1",
-        "contact": "brandon_verhoeven@mymail.eku.edu"
-      },
-      {
-        "id": 201510,
-        "firstName": "Bryan ",
-        "lastName": "Roark",
-        "projectTitle": "3D C&P Machine MK. I",
-        "projectDesc": "The cost of purchasing a CNC (Computer Numerical Control) machine or 3D printer that produces materials at a decent quality can easily go into thousands of dollars. Having a local business cut materials or print objects on their 3D printer can also be quite costly. What if there is a way around this problem? THERE IS! Introducing the 3D C&P Machine MK I! It can cut wood, metal, and plastics. Are you needing to print a PCB for a new circuit design but the cost of having boards printed is out of your budget? No problem! This machine is also perfect for creating isolation milled circuit boards for prototyping or production! Need a 3D printer? No problem! Replace the cutting attachment with the print head and VIOLA! Begin 3D printing right away. This machine can be used to cut or fabricate nearly all of the parts needed in order to make a second 3D C&P Machine MK I.",
-        "keywords": "Computer Numerical Control (CNC), PCB, RPi",
-        "certificates": "CompTIA Security+, Highest BS(NET) Exit Exam score 2014-2015",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1u1MBBX9WrtWS3KxfoSvlsTU94P1e0UQX",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1u1MBBX9WrtWS3KxfoSvlsTU94P1e0UQX",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1yniUSzGIDb-tEZvQ0NgHxcWP-kEexSJi",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1xtcnk-jX2ntwL5Ufyedj76aRhV23V-rr",
-        "contact": "bryan_roark11@mymail.eku.edu"
-      },
-      {
-        "id": 201511,
-        "firstName": "Casey",
-        "lastName": "Spires",
-        "projectTitle": "Technology Resource Management Portal",
-        "projectDesc": "This project addresses the problem of collecting data within and office environment on a mass scale. The office has the issue of not having a central repository for Dell Service Tags, tags that allow for the company to inquire about warranties. This is accomplished through the use of Microsoft SQL Server as well as ASP.NET a Microsoft open source framework for creating websites.",
-        "keywords": "ASP.NET, SQL, C#, Bootstrap, API, Visual Studio, Programming, Web Design",
-        "certificates": "Microsoft MTA",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=19wlELwXP_-7FZhfdJ3J3g1rbeGOtJArg",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=19wlELwXP_-7FZhfdJ3J3g1rbeGOtJArg",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1pDWImFxzE63MfRHH-wBbmcQOSrcMZh7-",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=10JkvEq_2wiJ3u0oeJCctdYv0m25E4pSJ",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1T8_qfDch6CMfA8UmMD_KzfRxD2tX-3s0",
-        "contact": "casey_spires@mymail.eku.edu"
-      },
-      {
-        "id": 201512,
-        "firstName": "Charles",
-        "lastName": "Judd",
-        "projectTitle": "Project Ocean Water: A Custom DIY Electric Guitar Build",
-        "projectDesc": "The issue addressed by this project was my desire to gain a better, more intimate knowledge of electric guitar construction. My main purpose was to build a completely unique guitar, implementing custom hardware and electronics components. Much time was spent researching electrical diagrams and cross-checking component compatibility, as well as studying techniques to improve the mechanical playability of the instrument. The results of the completed project have been extremely satisfactory. I was able to build a professional-grade instrument for a fraction of the price that purchasing a similar guitar would have cost.",
-        "keywords": "electric guitar, custom, luthier, pickups, potentiometers, toggle switches, soldering, wiring harness",
-        "certificates": "Highest BS(NET) Exit Exam score 2015-16, Cisco CCENT, CCNA",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1KSgGYBa-evz69UGXkDpKW-NUmx7OqnMb",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1KSgGYBa-evz69UGXkDpKW-NUmx7OqnMb",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1YEuw16VMSz_MC9NLBUb3Zgsivtul9M0b",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1Kx6tDryqc6bf1dxFeMzwdcidUA-SYdx9",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1U02_0VovRrr58PBCQjikcoFfPOkcpGRf",
-        "contact": "juddcharlesw@gmail.com"
-      },
-      {
-        "id": 201513,
-        "firstName": "Christopher",
-        "lastName": "Johnson",
-        "projectTitle": "Learning the Art of Exploiting Computer Systems",
-        "projectDesc": "This capstone project is based on furthering my knowledge within the field of exploitation of computer systems. This will aid my understanding of how I can defend not only myself but others as well against malicious hackers. It covers the scanning and enumerating of computer systems present, vulnerability assessment along with exploiting the vulnerabilities found as well as maintaining access.",
-        "keywords": "scanning, vulnerability assessment, payload, exploitation, maintaining access",
-        "certificates": "CompTIA Strata IT Fundamentals",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1CPN60VdGv3beyq8zIrGUM9r9t1z9OWBV",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1CPN60VdGv3beyq8zIrGUM9r9t1z9OWBV",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1los9V6zUJAGrwc5as4oodOH1uPnvoZ4e",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1HJmmX0NXO9Iy5qev90aUwk6XawbQZp2H",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1-lRRDScSWPWUVKLT6Xrg3NDZx6LW4pVy",
-        "contact": "christopher_johns199@mymail.eku.edu"
-      },
-      {
-        "id": 201514,
-        "firstName": "Christopher",
-        "lastName": "Simonsen",
-        "projectTitle": "Animatronic Halloween Prop: Use of a Programmable Logic Controller to Build Inexpensive Halloween Decorations",
-        "projectDesc": "In todays marketplace, animatronic props are either expensive to purchase or cheaply made. In this project I will discuss and show the procedures for building your own animatronic Halloween prop, using a Programmable Logic Controller (PLC). Building your own animated props for Halloween requires careful planning and design, but with a little time spent at the beginning of the process, the builder can make their own animatronic props at a fraction of the cost that they would spend if they purchased them from a store. Utilizing PLC's, a builder can combine different motors to create various movements and sequence them to the desired effect. For example having the PLC control a smoke machine, then a motor to lift a coffin lid, activate lights and work other types of actuators to extend and retract a hand. Simple wiring techniques make it possible to connect the different components to the controller, making building your own Halloween decorations easy. The only limit to the projects are your imagination.",
-        "keywords": "Animatronic, Programmable Logic Controllers, PLC, automation, inexpensive halloween prop.",
-        "certificates": "CompTIA A+, CompTIA Network+, Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=13xbw-3JMRHJClgeX_P7BZbvejPuk5Rvp",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=13xbw-3JMRHJClgeX_P7BZbvejPuk5Rvp",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=192TRZGezXln9-l5H9baezKzotOYspzzd",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1NcKwvdN__aU6RLp5ffCeHQb4mdkzttbs",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1VxDo-MMgMZuUgz2bVfwJUNq1osEnz3Y0",
-        "contact": "christopher_simon3@mymail.eku.edu"
-      },
-      {
-        "id": 201515,
-        "firstName": "Clayton",
-        "lastName": "Lane",
-        "projectTitle": "Electric Motor Control",
-        "projectDesc": "The technical problem being solved as part of the capstone is to construct an electrical motor and using a computer control it. Building a motor that is simple enough and within scope to complete to demonstrate the fundamentals of electricity and electronics. Using a microcontroller to interface this motor to the computer so that the computer can make decisions about when to activate and deactivate the motor. A challenging aspect will be keeping the project within budget and time constraints.",
-        "keywords": "motor, LED, microcontroller",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1_VdrAiu7Q8F2eByz-pwJUrlpUOu9t2o2",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1_VdrAiu7Q8F2eByz-pwJUrlpUOu9t2o2",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1eXaPCya_K_JJYD4FVg-7lyVlJMronX-o",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1-72AzQduJ2V8WOyV_q8zxBCJ5XgDpNlJ",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1qfsiXmg5w7J368eUGhRVUz2WMAU797Mm",
-        "contact": "claytonvtec12@gmail.com"
-      },
-      {
-        "id": 201516,
-        "firstName": "David",
-        "lastName": "Rufty",
-        "projectTitle": "Pijacker Preventer",
-        "projectDesc": "In this project, I covered the issue of enabling security on the go when you may be on an unfamiliar network with your mobile device or your laptop. The problem I discovered would be finding a device that I could create that would be secure, cost-effective and user friendly to achieve an added layer of security for the user. I achieved this goal by implementing these components, Raspberry Pi 2, a home/local network with internet access, Raspbian (Debian lite), OpenVPN with Easy RSA, and other peripherals such as cables, keyboard etc. I prepared the Raspberry Pi 2 with Raspbian, configured my home network, configured the Pi for SSH access, and installed and configured OpenVPN and Easy RSA. I performed commands that would generate certificates and keys for the server and the client, or the device to be using the server. Once this was completed, I generated OpenVPN profiles that contained the client keys and server certificate along with the server information. Finally, I transferred the profile to the device with the installed client OpenVPN application and successfully connected the Pijacker Preventer.",
-        "keywords": "Virtual Private Networking, OpenVPN, Raspberry Pi, Easy RSA, Security",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1S4hgPhw-A3Y09PzKUsL82kNdhX3eQk9M",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1WAFpcT3c2kAOygVlBUp010OzpbGtJ015",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1OV3G_9kugawPuJQk4x2dJJrIqCTHtSql",
-        "contact": "david_rufty@mymail.eku.edu"
-      },
-      {
-        "id": 201517,
-        "firstName": "James",
-        "lastName": "Coffey",
-        "projectTitle": "Home School for Network Security",
-        "projectDesc": "Technology is advancing at a rapid pace in today's society. Due to the timing required to create and have teaching curriculum approved, as well as policies and legalities concerning ethical concerns, many institutions struggle to facilitate up-to-date training with regards to defense against cyber criminals. Often this training fails to come before attackers have changed their tactics. Individuals seeking a degree to become a part of the professional field of security are required to complete a four-year broad curriculum that can often be outdated in core areas upon completion. Malicious hackers do not suffer these constraints and gain their skills in unconventional ways. Many individuals who seek to become productive members of society are not afforded endless hours to delve into code and self-taught ethical hacking. Nor is there a broad highway for those individuals to learn upon without risking being misinterpreted and falling victim to some loosely worded legalities. I suggest to have updated network security skills, individuals build an environment in which they have authorization to do so. I believe that self-discipline, study and application in such an environment is the solution.",
-        "keywords": "network security, ethical hacking, education",
-        "certificates": "CompTIA Security+",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=17enfiObZhnqyOwd9KYS4bJmqOY5iTWY1",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=17enfiObZhnqyOwd9KYS4bJmqOY5iTWY1",
-          null,
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1j-1ySRKvUo0LItxVe9ZpVR8zBe3g6L8A",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=11YAzgQ634jGagzl7Er802dlqUsY6H6Ym",
-        "contact": "james.coffey@outlook.com"
-      },
-      {
-        "id": 201518,
-        "firstName": "James ",
-        "lastName": "Parsley",
-        "projectTitle": "Parsley Pie Box",
-        "projectDesc": "Electrically inclined individuals have been building their own arcade cabinets for years. Building a smaller PC and sticking it in a full size arcade machine was easy due to all the space. If someone wanted to use a smaller arcade they would have to shrink the computer. In the past few years Raspberry Pi has come to prominence as a do-it-all mini machine. I plan to use a Raspberry Pi to build an arcade cabinet that plays multiple platforms, and also wire traditional arcade controls to the Pi for a full arcade experience. This will provide ample manoeuvrability inside a smaller cabinet and it can also serve as a testament to the Raspberry Pi's functionality.",
-        "keywords": "Raspberry Pi, arcade, interface, Linux",
-        "certificates": "Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1vq1Sc25srX9VmGPdAgeAg5SFU5ffMEcE",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1vq1Sc25srX9VmGPdAgeAg5SFU5ffMEcE",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=13B3h33whsDBEFpgEwrR4P6LTAR-9HT0s",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": "james_parsley2@eku.edu"
-      },
-      {
-        "id": 201519,
-        "firstName": "Jessica ",
-        "lastName": "Edwards",
-        "projectTitle": "PuppyCam",
-        "projectDesc": "You have decided that your life would be much more enjoyable with a dog or puppy. You then proceed to find the perfect dog or puppy for you and your family and home. You get them home and get everything settled and once that puppy gets comfortable in your house you soon realize your puppy is very destructive. You grow attached to your new family member and you soon grow to miss them while you're away from them. That is where my idea of making a PuppyCam came into play. This small and portable easy to use device lets you see what your puppy does when you aren't home!",
-        "keywords": "surveillance, puppy, camera, monitoring system, streaming",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1bSO8nAz2CY8J-QM5LEQ4Wwj-hztoZHUV",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1bSO8nAz2CY8J-QM5LEQ4Wwj-hztoZHUV",
-          "https://drive.google.com/uc?export=view&id=1uoJkJCDrJSBrpPPZDn8XttBaDknIeYXT",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1NKSyg5IS7Lp-wnC3_kRnVZXAAF_067eY",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1PFLmO7G6UVdlPF2UksBYZDjwbjuUtpco",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=19bBa378YbMHnnH6ACJi4E5OF2QgNQPzg",
-        "contact": "jessiedwards4@gmail.com"
-      },
-      {
-        "id": 201520,
-        "firstName": "Jonathan",
-        "lastName": "Allen",
-        "projectTitle": "Raspberry Pi 2: Media and NAS Server",
-        "projectDesc": "Almost, if not all students in the NET major has had experience working with servers. I would like to expand my knowledge in server implementation, management, and troubleshooting for my capstone project. I am wanting to create a low-cost alternative to desktop servers that store and use entertainment media such as videos, pictures, and music; storing and transferring data, as well as creating data backups all in a home or home-office environment. In my case, it will be for home personal use. To meet the needs of this proposal, I will be utilizing a Raspberry Pi 2 microcomputer and an external hard drive as a low-cost alternative to desktop computer servers. I will be installing a media server, ReadyShare (formerly known as miniDLNA) as well as making it my own personal cloud storage server by implementing network-attached storage (NAS), and by installing a file-sharing server, Samba.",
-        "keywords": "Raspberry Pi, Linux, hardware installation/implementation, software installation/implementation, client-server communications",
-        "certificates": "Highest BS(NET) Exit Exam Score 2014-15",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1jd69e7SmRSO0C5AExTjrVYwjjqKnJ3-K",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1jd69e7SmRSO0C5AExTjrVYwjjqKnJ3-K",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=19v_1tVZWZk-XNbmsxAkNysCCzE-BGNcp",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1v-EyeVlC-M80k0jiN365B9xsstoqpdqI",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1nryF-RFkl59PzDaySiXPPbLg9cOn5m8R",
-        "contact": "jallen0266@gmail.com"
-      },
-      {
-        "id": 201521,
-        "firstName": "Mark ",
-        "lastName": "Barron",
-        "projectTitle": "Raspberry Pi Garage Door",
-        "projectDesc": "This project overviews hardware and software installation for: Controlling your garage doors remotely and to monitor of the state of the garage door. The software is designed to run on a Raspberry Pi, which is an inexpensive, ARM processor based, credit card-sized computer developed in the United Kingdom. Interfacing to the garage door controller through a relay module, a digital switch you can control circuit of high voltage with low voltage, connected to the GPIO (General Purpose Input/output) header. A magnetic switch provides proof of the door position. This has been programmed using python, a widely used programming language.",
-        "keywords": "GPIO, Raspberry Pi, relay module, python",
-        "certificates": "KY Master HVAC and Boiler contrator license, Universal Refrigeration EPA certification, Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=17wFlxljHS5vsYbBH3fmkGZURJs_QviNq",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=17wFlxljHS5vsYbBH3fmkGZURJs_QviNq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1lR7Yba-Z_NBcTnBVS4_H9IUvGsqLUEuq",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1iYZkpL7oFKzwMcRJD1mEueqJVShf5hLm",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1ps6vqdgC2MSFF_f__YIjabc1_t79STaC",
-        "contact": "mark.barron@eku.edu"
-      },
-      {
-        "id": 201522,
-        "firstName": "Matthew",
-        "lastName": "Williams",
-        "projectTitle": "LearnBox: An Evolving Platform for Raspberry Pi",
-        "projectDesc": "The aim of this capstone is to develop a fully featured and adaptable platform on which future Raspberry Pi based projects will be developed. Features of this platform include rechargeable batteries that power the Raspberry Pi and peripherals, and a small battery-powered monitor. The platform will also be of a compact design with the individual pieces capable of removal to accommodate a variety of changes to the setup. It also highlighting some of the issues involved in its construction. Furthermore, a general overview of some of the possible applications and suggested improvements is presented and could be useful for the development of projects that use the Raspberry Pi.",
-        "keywords": "Raspberry Pi, battery powered, computer, compact, modular design",
-        "certificates": "CompTIA Security+, Certificate of Merit -- NET Capstone",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1ySblGwULEbYjqLe0o4jezChSc8ZZkNdW",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1ySblGwULEbYjqLe0o4jezChSc8ZZkNdW",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1pwqd-AY6FjiS0tyvHU7ReNyZvnXeW1ky",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1PqW9J-et0yZ7WfnyVLStwprmI-fa68fl",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1YnoJKFJfd-fjjea6edurCrQdJ60_gGd-",
-        "contact": "matthew_williams183@mymail.eku.edu"
-      },
-      {
-        "id": 201523,
-        "firstName": "Michael",
-        "lastName": "Todd Hughes",
-        "projectTitle": "Using a Microsoft SQL Server Database to Manage Little Bird Helicopter Maintenance and Modifications",
-        "projectDesc": "A database management system (DBMS) is an application that allows others to search stored data in order to locate specific information. The goal of a DBMS is to provide users the means to manipulate, analyse, store, and retrieve information.",
-        "keywords": "Relational Database, SQL (Structured Query Language), Entity-Relationship Diagram",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1ycwedF6mubl75uKZshLkGu3Z87Eq8QYS",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1ycwedF6mubl75uKZshLkGu3Z87Eq8QYS",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1PVB7MAD3n47h6Dk_ZPDKB3odIhlDnNDD",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=16JMJVMFVlndXC2hfphnT0Oe1o_p5oPIZ",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1OiHX94kVy83LO2VfPCwMqGuFOmapaEec",
-        "contact": "michael_hughes35@mymail.eku.edu"
-      },
-      {
-        "id": 201524,
-        "firstName": "Michelle ",
-        "lastName": "Damico",
-        "projectTitle": "M.E.D.I.C.| Medical Evaluation During Immediate Crisis",
-        "projectDesc": "This capstone project was prepared to satisfy a graduation requirement issued by Eastern Kentucky University for the Network Security and Electronics program. Involving the academic fields of Computer Science, Network Security, and Digital Electronics, this project drew aspects from each to produce the final product. M.E.D.I.C. is an Arduino-based device that shares retrieved data from a sensor and then reports to a Drupal website through a physical connection to a mobile device with internet capabilities. In the first iteration of M.E.D.I.C it is configured to be a heart rate sensor and GPS tracker. M.E.D.I.C. is meant to be an expandable platform that may allow additional features in later configurations. M.E.D.I.C. was designed to improve general welfare of the wearer by allowing remote monitoring of physical status and location.",
-        "keywords": "Arduino, Heart Rate Sensor, Drupal, C Programming, HTML 5, CSS 3, JavaScript, Node.js, MySQL, Digital Electronics, Biometrics, wearable electronics, distributed computing",
-        "certificates": "CompTIA Strata IT Fundamentals ",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1mYchgRGlHNfGx23GvdqN_ZzZv9QvsSiy",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1cHF7XwvoaPsqOlre49GDkmyQedKudMmx",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1E8kqde-1vXMxrsH25ISuHaBYA5NdNqzr",
-        "contact": "michelle_damico1@mymail.eku.edu"
-      },
-      {
-        "id": 201525,
-        "firstName": "Ryan",
-        "lastName": "Lewis",
-        "projectTitle": "Securing Your Home and Home Network",
-        "projectDesc": "Although we live in an analog world, we are becoming more digitalized each day. The Internet changed the way that the world communicates. Data is transmitted around the globe every day. It is important that we take all the steps necessary to protect our digital data. My capstone project addresses the issue of home and home network security. The goal of my project is to implement a cost-effective all-in-one system which will provide enhanced network security and home monitoring.",
-        "keywords": "Programming, 802.11, server, NAS, Raspberry Pi, Untangle Firewall",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1yB3ekrtQL_xDtGRF155d6tcS45I4L61s",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1yB3ekrtQL_xDtGRF155d6tcS45I4L61s",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1koLyE3xLe1aRT2jugTj4JtBhMNkBd_5Y",
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1OkwaKsuK-9UWSNVDjob1k2uENFtfjcNe",
-        "contact": "ryan_lewis57@mymail.eku.edu"
-      },
-      {
-        "id": 201526,
-        "firstName": "Sharon",
-        "lastName": "Bothen",
-        "projectTitle": "Baby Monitor via Raspberry Pi",
-        "projectDesc": "The Raspberry Pi can be used for a variety of different tech ideas. It is a small computer that you can program to your own desires. In this case I used the Raspberry Pi combined with the Pi camera to make my own baby monitor. This is useful for anyone in the market of surveilling any part of your home. You can enter in various lines of code in order to get the Raspberry Pi camera adjusted to your specifications.",
-        "keywords": "Raspberry Pi, camera, monitoring systems",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=10pv3R1NxMRnhjJfyux63vwyPqHin-Z2r",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=10pv3R1NxMRnhjJfyux63vwyPqHin-Z2r",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1D-3j2-ZhNiqEziE7MwCkgXko-P8MIZGb",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1XttVEFMsXaeLNs9GtdsgmozSoNTF0Xpq",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1xTFcfrq2NokKo1rPaUJ89fljAeAUIi8l",
-        "contact": "sharonbothen@gmail.com"
-      },
-      {
-        "id": 201527,
-        "firstName": "Timothy",
-        "lastName": "Smith",
-        "projectTitle": "WatchDog: Activity Tracker for Pets",
-        "projectDesc": "Activity trackers have burst into our everyday lives. You are likely to see an individual wearing an activity tracker, such as the Fitbit or Jawbone Up, as you are likely to see someone with a smartphone. Smart devices and activity trackers are integrated together to provide the user with their health records along with other features. With this is mind I wanted to incorporate the popular aspects of the activity tracker into a small wearable device that could be used for household pets, mainly dogs. In addition to providing activity tracking features like a pedometer I wanted a device that would locate the animal through GPS encase they were missing. If you have ever lost a pet you know how devastating the experience can be. Pets are family members, and we must do everything within our power to keep them safe. The WatchDog helps accomplish this mission by utilizing micro Arduino boards called Xadow manufactured by Seeed Studio. The Xadow boards are not the only unique features added to the WatchDog collar. As you read about the product you will find detailed information in every aspect of the project for the design. From high visibility features at night to displaying alerts for medication doses have been incorporated into the WatchDog. The Watchdog will change how we interact with our pets' lives forever.",
-        "keywords": "activity tracker, pet tracker, find lost pet, control feeding, FitBit, FitBark, Xadow, Arduino, Pedometer, Accelerometer, Bluetooth, 3D Printing, Step Counter, Locator",
-        "certificates": "Certificate of Merit -- NET Capstone, CompTIA Strata IT Fundamentals ",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Od6UJTre-6yhtpxHj3QjRUIKK84hi_4Q",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1Od6UJTre-6yhtpxHj3QjRUIKK84hi_4Q",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1vNPWQrVRQ6dkZVc76z6rIErKx0Bzulgf",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1BaggegBTI_FDeJwM6utW5O1lCSnRlkc3",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1f-kt1fXPCKXgi6TRtZJqMOIcj1nuq8LW",
-        "contact": "tim.smith31@gmail.com"
-      },
-      {
-        "id": 201528,
-        "firstName": "Tyler ",
-        "lastName": "Persley",
-        "projectTitle": "Pi Cloud",
-        "projectDesc": "The intention of this project id to create a cloud storage server that can be accessed wirelessly through the Internet, allowing its user to both manage the cloud storage device and its files on the server. This project aims reduce the need to keep track of and carry around external medias such as flash drives and external hard drives by providing the user with a means to wirelessly access their needed information form their very own cloud server. This will also give the user a strong alternative to third party cloud service tools such as Drop Box, One Drive, and iCloud by giving the user complete control over their cloud storage. The implementation of this project will utilizing a Raspberry Pi 2 microcomputer with a micro SD card, an external hard drive, a Wi-Fi USB Adapter, a modem or router, a USB hub, a NOOBs OS img, and the ownCloud software. The implementation of this project will be broken down into several phases including: disk formatting, OS and server software installation, setting up ownCloud, and testing the system.",
-        "keywords": "Raspberry Pi, media server, cloud storage, ownCloud, cloud security",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1bdh-JxTfkxDGwmk9nEAf-b17g957vj_H",
-        "contact": "tyler_parsley@mymail.eku.edu"
-      },
-      {
-        "id": 201529,
-        "firstName": "William",
-        "lastName": "Gordon",
-        "projectTitle": "Battery Charger Automation",
-        "projectDesc": null,
-        "keywords": null,
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1xIESw4XzfkrI1lejdnCgFlfH1WOS_Ncq",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1T9ZBppsnuEgNY1ve8JhhA4bm90eGHGx9",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1r4k0jnLXw0XxTMFpvlaQoy5xVeuHZtSV",
-        "contact": "tell2wdgordon@gmail.com"
-      },
-      {
-        "id": 201530,
-        "firstName": "Zachary",
-        "lastName": "Cantrell",
-        "projectTitle": "Network Design & Implementation",
-        "projectDesc": "Monticello First Church Of God needed a network developed that covered around 6000 square feet. The building contains two floors of which are 3000 square feet each. As a networking student, I felt that I had the necessary skills to implement a full scale network, at low cost to the organization, but with adequate quality of service. In designing and implemented this network the most helpful tool used was the various Cisco books I''ve obtained over the years. They range from network topologies to command line interface.",
-        "keywords": "Networking, Cisco, Topologies, Point-to-Point",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=17nXu4N9c2Q1m5xU1pI0MgdpB53CtwV4h",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=17nXu4N9c2Q1m5xU1pI0MgdpB53CtwV4h",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1ZVBlkDd1Nmmf-pegeTfimZ0kMW_rkvMZ",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1Agrm6RUR_jsxQHnnKdvLwjwoX3vC-8Cj",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=1qxTYJR0n_-NWZQa4EQxGFh9Nar7ombbw",
-        "contact": "zachary_cantrell@icloud.com"
-      },
-      {
-        "id": 201531,
-        "firstName": "Zackery",
-        "lastName": "Ciampolillo",
-        "projectTitle": "RFID Controlled Servo",
-        "projectDesc": "The technical problem I will be solving with this project is how to secure the cabinet where my father stores all our ammunition. Currently there is no lock on the cabinet but since there are thousands of rounds in there it really needs one. The key skills I'll need for this are designing and wiring electrical circuits and programming the Arduino microcontroller which will be controlling it.",
-        "keywords": "Arduino, RFID",
-        "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1-3CjHh5wgizOr_nocYATnQze0tzSHo9A",
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1-3CjHh5wgizOr_nocYATnQze0tzSHo9A",
-          "nul",
-          null,
-          null
-        ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1EJlvB2sNLtw7mYiD8IeoXVhEfUIOwxob",
-        "video": [
-          "https://drive.google.com/uc?export=view&id=1x9cDtBKQfVQMti1W5qzcp50P6v8YQXCW",
-          null
-        ],
-        "brochure": "https://drive.google.com/uc?export=view&id=14Wj8Tka53QR2ei6UAa29ejl0KNbHbWSP",
-        "contact": "zackary_ciampolil@mymail.eku.edu"
+        "title": "Computer Electronics Programs (BS/AAS) 2015 grads and beyond.",
+        "name": "Tim, Jessi, Casey, Bryan, Todd, Matthew, William, Andy, Zach, Ryan, Mark, Brandon McGee, Ben, Zack, Clayton, Aaron, James, Michelle, Chris Simonsen, Chris Johnson, Brandon Verhoeven",
+        "url": "https://drive.google.com/uc?export=view&id=1RcYtaVci99jX-KG5JZqp6WslN5aqM8iD"
       }
     ],
-    "other": {
-      "classPhoto": [
-        {
-          "title": "Computer Electronics Programs (BS/AAS) 2015 grads and beyond.",
-          "name": "Jessi, Bryan, Brandon Verhoeven, Jon, Zach, Brandon, Tim, Sharon, Ben, Zack, Andy, Adam, Ryan, Mark, Todd, Prof. Vigs, Matthew, Clayton, Anthony, guest, Chris Johnson",
-          "url": "https://drive.google.com/uc?export=view&id=1F6vJ2xyeGpOpbqsVedv0MN16quMemLRK"
-        },
-        {
-          "title": "Computer Electronics Programs (BS/AAS) 2015 grads and beyond.",
-          "name": "Tim, Jessi, Casey, Bryan, Todd, Matthew, William, Andy, Zach, Ryan, Mark, Brandon McGee, Ben, Zack, Clayton, Aaron, James, Michelle, Chris Simonsen, Chris Johnson, Brandon Verhoeven",
-          "url": "https://drive.google.com/uc?export=view&id=1RcYtaVci99jX-KG5JZqp6WslN5aqM8iD"
-        }
-      ],
-      "outstanding": [
-        {
-          "title": "Outstanding Network Security & Electronics (NET) Senior 2014-15",
-          "name": "Michelle Damico",
-          "url": "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof"
-        }
-      ],
-      "presenter": [],
-      "ga": []
-    }
+    "outstanding": [
+      {
+        "title": "Outstanding Network Security & Electronics (NET) Senior 2014-15",
+        "name": "Michelle Damico",
+        "url": "https://drive.google.com/uc?export=view&id=1Yx-zIU9Oy6cUsVrKVecrPtlpjq1GwQof"
+      }
+    ],
+    "presenter": [],
+    "ga": []
   }
+}
