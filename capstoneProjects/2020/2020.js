@@ -73,7 +73,7 @@ var capstoneData;
             })
 
             //get keywords
-            keywords = value.keywords.split(',')
+            keywords = value.keywords.split(',');
 
             //check for valid presentation, video, brochure, contact
             //handles bottom 66-95 line with separate function - note to self
@@ -130,7 +130,7 @@ var capstoneData;
         var stuProfile = $('<div>', { class: 'student_profile', id: `${element.fName}${element.lName}` });
         var stuDetails = $("<div>", { id: "details" });
         stuDetails.append(`<img src=${element.profilePicture} alt="${element.fName} ${element.lName}'s image" loading="lazy">`)
-        stuDetails.append(` <a id="shareLink" href="#${element.fName+element.lName}" class="fa fa-share" aria-hidden="true"></a>`);
+        stuDetails.append(` <a id="shareLink" href="#${element.fName + element.lName}" class="fa fa-share" aria-hidden="true"></a>`);
         stuDetails.append($("<a>").text(element.fName + ' ' + element.lName))
         stuProfile.append(stuDetails);
 
@@ -147,9 +147,9 @@ var capstoneData;
         //creates student project images and image buttons
         var stuProject = $("<div>", { class: "project_visuals" });
         var projImages = $("<div>", { class: "images", id: '' + element.id });
-        if(element.images[0] == null){
+        if (element.images[0] == null) {
             projImages.append($("<img>", { src: "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq", id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
-        }else {
+        } else {
             projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
         }
         stuProject.append(projImages);
@@ -171,6 +171,8 @@ var capstoneData;
         }
         if (element.images.length > 1) stuProject.append(buttons);
         //creates student certificates shown below student project image
+        console.log(element.certificate);
+
         var certificates = $("<div/>", { class: 'certificates' });
         if (element.certificate != null) {
             certificates.append("<i class='fa fa-certificate' aria-hidden='true'></i>")
@@ -311,17 +313,17 @@ var capstoneData;
         }
     });
 
-    //scroll to top button
-    window.onscroll = function() {scrollFunction()};
+    //scroll to top 
+    window.onscroll = function () { scrollFunction() };
     function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            $("#myBtn").css({"display": "block"});
+            $("#myBtn").css({ "display": "block" });
         } else {
-            $("#myBtn").css({"display": "none"});
+            $("#myBtn").css({ "display": "none" });
         }
-      }
+    }
 
-    $(document).on("click", "#myBtn", function(){
+    $(document).on("click", "#myBtn", function () {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     });

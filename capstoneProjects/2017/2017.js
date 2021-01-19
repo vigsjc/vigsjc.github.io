@@ -22,7 +22,7 @@ var capstoneData;
     function getUrlData() {
         var dynamicData = {};
         return $.ajax({
-            url: "https://vigsjc.github.io/data/2019.json",
+            url: "https://vigsjc.github.io/data/2017.json",
             type: "get",
             data: dynamicData,
         });
@@ -33,12 +33,12 @@ var capstoneData;
                 var studentSearch = window.location.hash;
 
                 //check if link has specific student and sort if true
-                if(studentSearch || studentSearch.length > 0){
+                if (studentSearch || studentSearch.length > 0) {
                     sortStudentProject(data.studentData, studentSearch)
-                }else {
+                } else {
                     createMain(data.studentData)
                 }
-                
+
                 capstoneData = data.studentData;
                 createRemaining(data.other);
             } else {
@@ -47,11 +47,11 @@ var capstoneData;
             }
         });
     });
-    
+
     //moves anchored student to the top of list
-    function sortStudentProject(studentData, searchTerm){
-        $.each(studentData, function(index, value){
-            if(value.firstName+value.lastName == searchTerm.slice(1)){
+    function sortStudentProject(studentData, searchTerm) {
+        $.each(studentData, function (index, value) {
+            if (value.firstName + value.lastName == searchTerm.slice(1)) {
                 var temp = studentData[0];
                 studentData[0] = studentData[index];
                 studentData[index] = temp;
@@ -73,7 +73,7 @@ var capstoneData;
             })
 
             //get keywords
-            keywords = value.keywords.split(',')
+            value.keywords != null ? keywords = value.keywords.split(',') : keywords = null;
 
             //check for valid presentation, video, brochure, contact
             //handles bottom 66-95 line with separate function - note to self
@@ -108,6 +108,7 @@ var capstoneData;
                 contact = value.contact :
                 contact = NOT_EXIST
 
+
             var student = new Student(value.id, value.firstName, value.lastName, value.profilePicture, value.projectTitle, value.projectDesc, keywords, value.certificates, images, presentation, video, brochure, contact);
 
             //creates student profile and project 
@@ -129,7 +130,7 @@ var capstoneData;
         var stuProfile = $('<div>', { class: 'student_profile', id: `${element.fName}${element.lName}` });
         var stuDetails = $("<div>", { id: "details" });
         stuDetails.append(`<img src=${element.profilePicture} alt="${element.fName} ${element.lName}'s image" loading="lazy">`)
-        stuDetails.append(` <a id="shareLink" href="#${element.fName+element.lName}" class="fa fa-share" aria-hidden="true"></a>`);
+        stuDetails.append(` <a id="shareLink" href="#${element.fName + element.lName}" class="fa fa-share" aria-hidden="true"></a>`);
         stuDetails.append($("<a>").text(element.fName + ' ' + element.lName))
         stuProfile.append(stuDetails);
 
@@ -146,9 +147,9 @@ var capstoneData;
         //creates student project images and image buttons
         var stuProject = $("<div>", { class: "project_visuals" });
         var projImages = $("<div>", { class: "images", id: '' + element.id });
-        if(element.images[0] == null){
+        if (element.images[0] == null) {
             projImages.append($("<img>", { src: "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq", id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
-        }else {
+        } else {
             projImages.append($("<img>", { src: element.images[0], id: `proj_img_${element.id}_0`, alt: `${element.title} image`, loading: 'lazy' }));
         }
         stuProject.append(projImages);
@@ -181,12 +182,20 @@ var capstoneData;
 
         //creates project title, description, keywords, 
         var projDetails = $('<div>', { class: 'project_details' });
-        var projTitle = $("<div>", { class: 'title' }).append($("<span>", { class: "title" }).text(element.title));
+
+
+        // -----------------------------------------------------------------------------------------------------------------------------------------------------------
+        var projTitle = $("<div>", { class: 'title' });
+        if (element.title != null) {
+            projTitle.append($("<span>", { class: "title" }).text(element.title))
+        }
         var projResources = $('<div>', { class: 'keys' });
         var keys = $('<div>', { class: 'keywords' });
         for (i in element.keywords) {
             keys.append(`<span class='chip'>${element.keywords[i]}</span>`);
         }
+        // -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
         //creates resource button=> presentation, brochure, video
         var reso = $('<div>', { class: 'resources' })
@@ -332,23 +341,23 @@ var capstoneData;
         }
     });
 
-    window.onscroll = function() {scrollFunction()};
+    window.onscroll = function () { scrollFunction() };
     function scrollFunction() {
         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            $("#myBtn").css({"display": "block"});
+            $("#myBtn").css({ "display": "block" });
         } else {
-            $("#myBtn").css({"display": "none"});
+            $("#myBtn").css({ "display": "none" });
         }
-      }
+    }
 
-    $(document).on("click", "#myBtn", function(){
+    $(document).on("click", "#myBtn", function () {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     });
 
     //handles year menu when clicked
-    $(document).on("click", ".dropbtn", function() {
+    $(document).on("click", ".dropbtn", function () {
         document.getElementById("myDropdown").classList.toggle("show");
     });
-    
+
 }(window.jQuery, document));
