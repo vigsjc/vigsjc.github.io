@@ -8,7 +8,10 @@
       "projectDesc": "The problem I am addressing with this project is the need for security cameras around one's property. Security cameras can be expensive but with Raspberry pi's it can be a cheap and fun setup to create. This system allows you to monitor anywhere you would like by simply accessing the IP address of each Raspberry Pi. It includes motion activation and night vision so that you do not use up all your hard drive space recording nothing and so that the cameras can see at night. Each camera is fully customizable once logged into the secure website via the IP addresses from each Pi.",
       "keywords": "Raspberry Pi, Security, Camera, Motion Activation",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1u_sODSkJbvOnmSf-MW1HtLMuTGT35HMj",
-      "certificates": "CompTIA IT Fundamentals, Certificate of Merit (NET Advisory Committee)",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1u_sODSkJbvOnmSf-MW1HtLMuTGT35HMj",
         null,
@@ -31,7 +34,11 @@
       "projectDesc": "The purpose of this project was to create a circuit which could read the load voltage and current from a device and properly present the data through three different methods: through a directly attached display that would present the voltage, current, power, and energy used by any load measured; through data being written on an SD card that could then be used to construct graphs in popular spreadsheet software such as Microsoft Excel; and remotely by transmitting the measured values over Ethernet to a Google Sheets file that would automatically update as new data is received, all using the Arduino platform. My primary purpose for this project was to create a circuit that could be used to test the indicated voltage and current values of a device and be able to easily read this information in a variety of ways and be able to understand the various properties of a devices voltage and current draw. The secondary purpose was to expand my understanding of Arduino programming and to learn how to properly communicate with online services like Google without requiring human input (hitting keys on a keyboard or mouse). For the draft version of this the results for the first core have met my expectations and have allowed me a way to properly read a load's voltage and current as well as take the data and create graphs in Microsoft Excel pulled from a SD card.",
       "keywords": "Electronics, Raspberry PI, Measuring Implement Creation, Data Handling",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1AvkO9P_b5CDbkEYSK7b3cqjqH3fnubRA",
-      "certificates": "CompTIA IT Fundamentals, Outstanding Network Security & Electronics Senior, Second Highest dept. exit exam score 2017-18, Certificate of Merit (NET Advisory Committee)",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Second Highest dept. exit exam score 2017-18": "https://technology.eku.edu/",
+        "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1AvkO9P_b5CDbkEYSK7b3cqjqH3fnubRA",
         null,
@@ -54,7 +61,9 @@
       "projectDesc": "For this project it was understood the content should be both reasonably challenging to work with, but also that it should be something I enjoy doing. For this reason, a simple retro gaming station was selected, made from a Raspberry Pi micro-computer, running the Retro Pie OS. Though it was assumed at the time that setting up a new OS would be simple regardless of previous experience, it was also chosen to add in bits to the project that could suit a given users personal taste, as well as improved the overall quality of the product being created. This involved a fair mixture of computing, electronic, and coding knowledge. It should be noted here that despite the lack of any real action outside of the removal of ROM hosting sites by Nintendo and other copyright owners, the downloading of ROM files is currently considered a legal grey area, and that the only safe, legal way to acquire them is by making your own backups. All specificities can be found, covered by Justin Pot in \"Is Downloading Retro Video Game ROMs Ever Legal?\"",
       "keywords": "Emulator/Emulation, Retro Pie, Image Burning, ROM",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1zBhDS-L9nAiU9iROw07a_-jRL9lDggTS",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1zBhDS-L9nAiU9iROw07a_-jRL9lDggTS",
         null,
@@ -77,7 +86,10 @@
       "projectDesc": "The problem I have taken on to fix in one that I am sure that many people all over the world suffer with. This project will service everyone from the elderly and disabled to people who are tired of their pets waking them up every morning to be fed. This project will be used to feed one to three small pets such as cats or small dogs. There is one main unit that houses the power supplies and the speaker for the unit, that unit then breaks out to a control board that can support up to two more feeders. The feeders are configurable, and the user can change how much food will be dispensed, how many times a day the pets will be fed, and what times of the they would like them to be fed. Each unit holds enough food to be able to feed one pet for approximately a week.",
       "keywords": "Automatic, User Configurable, Easy, Accessible, Convenient",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1CoBAevKZ12IBxttcCyarIQpFiZgK5Jst",
-      "certificates": "CompTIA A+, Certificate of Merit (NET Advisory Committee)",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1CoBAevKZ12IBxttcCyarIQpFiZgK5Jst",
         null,
@@ -100,7 +112,9 @@
       "projectDesc": "The issue being addressed by this is to understand how antennas work an (RF) waves but also how a phone can be detected without capturing any data. The purpose of the project is to find hidden or lost phones, but also to pick up signal of cell phones that are being used when it is a cellphone free area. A good amount of my time was spent look and searching information on how (RF) waves travel as well as trouble shooting trying to figure out how device can differentiate between calls and texts. The results proved to be quite promising the LED would go off when a mobile device in range would receive a text message of a phone call. My project tended to be a great prototype, but has many bugs and flaws hopefully they can be worked out in the future",
       "keywords": "(RF) waves, hidden, LED, antennas, call, text, travel, prototype, signal, purpose",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1bVL8iKT18y9jToY7e0dSmrmFN2ZdpxmN",
-      "certificates": "CompTIA A+ Fundamentals ",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1bVL8iKT18y9jToY7e0dSmrmFN2ZdpxmN",
         null,
@@ -123,7 +137,9 @@
       "projectDesc": "The purpose of this project was to create a reliable and affordable way of watching media while using a Raspberry PI. Creating a media server has been something I have wanted to make for a while. I was tired of paying for streaming services where I am not able to pick what is available to me. My primary purpose was to make something reliable and affordable that would allow me to choose what I wanted to watch. I decided to make a media server on a Raspberry Pi, which allows room for many extensions and improvements. The result of the project was very successful in my eyes. This project was a great learning experience and in the end, I made a working media server that is capable of streaming a wide variety of media.",
       "keywords": "media server, Raspberry Pi",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1hxPQzbNfVXvaa0JOvsU7jpBzvZsTugHy",
-      "certificates": "CompTIA A+ Fundamentals ",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1hxPQzbNfVXvaa0JOvsU7jpBzvZsTugHy",
         null,
@@ -169,7 +185,9 @@
       "projectDesc": "The issue addressed by this project was to create and maintain a home-based webserver that contained a website which could serve as a showcase of the skills obtained at Eastern Kentucky University while working towards a degree in Network Security. The goals in taking on this project were to expand skills in dealing with networking and web-based communications as well as to make a professional looking website that might entice future employers with a display of the skills and knowledge developed over the past two years.",
       "keywords": "Web-Server, Website, VirtualMin, Webmin, Adobe Creative Suite, HTML, HTTPS",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1byVRMRoWm8hLcvJEj8806XTvV3Jml65D",
-      "certificates": "CCNA Routing and Switching",
+      "certificates": {
+        "CCNA": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1byVRMRoWm8hLcvJEj8806XTvV3Jml65D",
         "https://drive.google.com/uc?export=view&id=1Qi2K2c3XLh0sF_o3O4G93B20W2bfRz8F",
@@ -192,7 +210,9 @@
       "projectDesc": "The Internet of Things is the next massive wave of innovation in the world of information technology. It will change everything about how humans experience technology in their daily lives. Internet-connected devices will be equipped with sensors and constantly gather data. They will communicate with one another using machine-to-machine (M2M) communication protocols, sharing data without human interference. This will allow connected devices to make decisions based on the data that they gather. Devices will automate many tasks that are considered chores today. Users of the Internet of Things will be able to will things to happen through seamless interactions with their devices. An implementation of such a network will require further advancement in computer technology and security but will provide a new type of intuitive experience that has never been seen before. This begins to seem like a daunting task, but it may be more familiar than one may think. Although advancement is required, it will use the existing Internet architecture and many existing technologies to form a functional device network. My goal for this project is to create a simple IoT automatic notification system that utilizes sensors to notify the user of environment conditions. The purpose of creating this project is to demonstrate the underlying ideas and advantages of the Internet of Things.",
       "keywords": "Internet of Things, Machine-to-Machine Communication, Sensors",
       "profilePicture": "https://drive.google.com/uc?export=view&id=11oWKFzNwiBfL7lJGB8El1cRF-HF4vSy9",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=11oWKFzNwiBfL7lJGB8El1cRF-HF4vSy9",
         null,
@@ -215,7 +235,9 @@
       "projectDesc": "The Raspberry Pi is a powerful computer that can be held in the palm of one's hand. Using the Raspberry Pi and a camera attachment, a security camera can be made to protect a dwelling or office-space in the event of suspicious or criminal activity. My motivation came from having a Raspberry Pi I was going to use stolen very early in my project planning phase. I was able to build a security camera using packages and libraries found within the Raspbian Stretch collection.",
       "keywords": "Raspberry PI, Security, Surveillance",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1G7zz3ARUn8IeREdLd51eakeq2L-41HxE",
-      "certificates": "CompTIA A+ ",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1G7zz3ARUn8IeREdLd51eakeq2L-41HxE",
         null,
@@ -238,7 +260,9 @@
       "projectDesc": "The technical problem being addressed by this project is opening and closing a garage door simply from a phone instead of the manufacturers controls. This would allow you to close or open the door from anywhere you were simply by pressing a button displayed on a webpage on your phone. Along with the ability to open or close the door, the issue of knowing whether the door is open or closed once the house has been left will be addressed by sensors being placed on the garage door itself to track what position it is in. This information also be displayed on the webpage with the open/close button.",
       "keywords": "Raspberry Pi, Garage Door, Mobile, Sensor",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1RftFcvBvvrrh-7Md8MyihBtPNTgOCkD-",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1RftFcvBvvrrh-7Md8MyihBtPNTgOCkD-",
         null,
@@ -330,7 +354,9 @@
       "projectDesc": "The issue this project attempts to solve or further emphasize on is the creation of strong passwords and the policies that set some organizations requirements. This was done by assembling a password cracking machine and running numerous test batches citing differences between character length and password complexity. These tests ultimately lead up to an internal audit of an organizations passwords with a report filed to strengthen the password requirements policy to reduce the time-to-crack on the userbaseâ€™s credentials",
       "keywords": "Audits, strong passwords, credentials",
       "profilePicture": null,
-      "certificates": "CompTIA A+",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a"
+      },
       "images": [
         null,
         null,
@@ -353,7 +379,10 @@
       "projectDesc": "The goal in mind with this project was to take an everyday routine and make it more efficient. The first thing some people start out their day with is a cup of fresh coffee. Automating a coffee pot was something that could make mornings easier for those whom drink it quick frequently. I had experience working with Raspberry Pi's and my existing knowledge in JavaScript helped write the code that would be necessary to control the moving parts. I mainly focused on researching ways to my coffee pot small enough to replace an existing coffee pot. The automating the amount of water needed for a brew was successful and worked great. The water container was also designed to look ascetically pleasing. I am satisfied with being able to control the water required for a fresh pot of coffee and with the overall look of the project. Being able to remotely control the machine along with its pleasant design is a great accomplishment so far. I plan on designing and implementing a coffee grind dispenser to truly automate the entire coffee brewing process.",
       "keywords": "Coffee, Smart Coffee Machine, Automation, Programming",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1VYAT2I83VZh4teeRjDdwB-xCpKmjN4kh",
-      "certificates": "Dr. Glen Kleine CB&T Capstone Winner, Certificate of Merit (NET Advisory Committee)",
+      "certificates": {
+        "Dr. Glen Kleine CB&T Capstone Winner": "https://technology.eku.edu/",
+        "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1VYAT2I83VZh4teeRjDdwB-xCpKmjN4kh",
         "https://drive.google.com/uc?export=view&id=1U_Vg8j_w8WE8HVp-_3tmSN_NskRuqzEP",
@@ -376,7 +405,9 @@
       "projectDesc": "In this report I take the issue of poor device connectivity at ranges and propose a potential solution. Boost my computer's capability rather than the AP's capability. The system I designed is three-part: Yagi antenna, signal repeater or amplifier, and alfa card. The prototype design yielded significantly higher results than that of the internal network card or standalone antenna.",
       "keywords": "WiFi, Signal amplifier, signal booster, packet injection, 2.4GHz",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1JZXRs2EppTSfbdc6AZL4RpFcE50vF2SY",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1JZXRs2EppTSfbdc6AZL4RpFcE50vF2SY",
         null,
@@ -399,7 +430,10 @@
       "projectDesc": "Home security has been a relevant topic since the first shelter was created. We the technological world evolving around us, so too should our security. Apartment-style living can propose a problem when it comes to improving home security. Making major alterations can break rules and even lead to consequences. With the outdoor IP camera solution gone and no way of seeing who is behind the door without peeping through the window, a problem is formed. However, the following report covering the Nerd's-Pi View will aim to eliminate that problem while also supplying a higher level of safety and comfort. Nerd's-Pi View is a low-cost alternative to commercial security systems that holds the potential to become a full-scale home security system.",
       "keywords": "Raspberry Pi, Home Security, DIY Project, MotionEye, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1rnKp8bd72tsU6hGgmw89BjX6Jfl3boJa",
-      "certificates": "CompTIA IT Fundamentals, Highest NET dept. exit exam score 2017-2018",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Highest NET dept. exit exam score 2017-2018": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1rnKp8bd72tsU6hGgmw89BjX6Jfl3boJa",
         null,
@@ -422,7 +456,9 @@
       "projectDesc": "Search and Rescue (SAR) teams do not have a reliable way to locate each other in the field and this project allows SAR teams to do just that. The use of a Raspberry Pi and Terminal Node Controller (TNC) received GPS packets. These packets were placed onto a map showing the location of the radio that transmitted those packets. The program Xastir was used to display the data on the map on the screen.",
       "keywords": "APRS (Automatic Packet Reporting System), SAR(Search and Rescue), Raspberry Pi, GPS, Xastir, Amateur Radio",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1xCQVspegddOdbMoqIagN9cQ4NuEGbh3-",
-      "certificates": "ARRL Amateur Radio Extra Class, KM4HPK",
+      "certificates": {
+        "ARRL Amateur Radio Extra Class": "http://www.arrl.org/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1xCQVspegddOdbMoqIagN9cQ4NuEGbh3-",
         null,
@@ -445,7 +481,9 @@
       "projectDesc": "Many colleges have networking student workers that they are over paying. Why not use the robotics lab to configure all the switches your university needs? With my Program you can turn your Mitsubishi robot into an Automatic Robotic Switch (ARS)/Router Configuration Builder (RCB). You no longer have to worry that your student worker did not set up SSH, or has let some layer 2 security risk slip though. This program will fully configure a layer 2 and 3 switch leaving you a little extra time to set and stare at the clock until 5.",
       "keywords": "Spyder, Tinker CAD, Psafe, Mitsubishi CR1-CR8",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1gwnnZcT_qgxA5_XKEbFTW5OrJ1aS5l0G",
-      "certificates": "Certificate of Merit (NET Advisory Committee",
+      "certificates": {
+        "Certificate of Merit (NET Advisory Committee": "https://technology.eku.edu/"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1gwnnZcT_qgxA5_XKEbFTW5OrJ1aS5l0G",
         null,
@@ -491,7 +529,9 @@
       "projectDesc": "The problem that I have is that I have several devices on my home network and I wanted a way to share and store my files in a personal cloud server, so I can access my files on any of my devices. My proposed solution for this is to build my own cloud server that I have full control over.",
       "keywords": "Cloud Server, RAID, NextCloud, Raspberry Pi",
       "profilePicture": "https://drive.google.com/uc?export=view&id=12cp2pvhxPKkRmocfMiHum5QC0yAbNBNK",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=12cp2pvhxPKkRmocfMiHum5QC0yAbNBNK",
         null,
@@ -537,7 +577,9 @@
       "projectDesc": "This project is designed to be a cheap and effective retro video and multimedia system. The system is constructed using open-source software and a $40 raspberry pi B. This system is meant for someone who would like to take a nostalgia trip and play classic games from their childhood. Old games can be expensive and take up a lot of room. This system will be small, portable, affordable, and most importantly contain every retro game imaginable. An added feature is the open-source application \"Kodi\". Kodi formerly XBMC is a media player application that is capable of streaming movies and tv shows.",
       "keywords": "Raspberry Pi, Kodi, Retropi, Retro",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1-WYv03rguu1xsvsM0VCQKrzIjpHn4VmP",
-      "certificates": "CompTIA A+",
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1-WYv03rguu1xsvsM0VCQKrzIjpHn4VmP",
         null,
@@ -560,7 +602,9 @@
       "projectDesc": "The EZ-Feeder has been a thought of mine for a few years. It wasn't easy, and it challenged my skill set and I needed to expand my knowledge of electronics, carpentry, circuitry, and computing. I utilized a raspberry Pi 3B, with a nema 17 stepper motor and A4988 controller chip. I then wired two 6v batteries in series to power the motor. Lastly, I created a wooden housing compartment for holding all the individual components. The EZ-Feeder is designed to be used remotely. Once the pi is powered on and connected to a LAN connection, whether wireless or wired, simply SSH into the pi and execute the code. Once executed the pi will turn the motor the specified number of steps, thus filling the pet(s) bowl.",
       "keywords": "Raspberry PI, Automation, 3D Printing, Control Over IP",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1pG3waAZJTdzlqfh_iPvzUQLGhDA5491y",
-      "certificates": "CompTIA IT Fundamentals",
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1pG3waAZJTdzlqfh_iPvzUQLGhDA5491y",
         null,
