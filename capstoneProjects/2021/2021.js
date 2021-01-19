@@ -21,7 +21,7 @@ var capstoneData;
     function getUrlData() {
         var dynamicData = {};
         return $.ajax({
-            url: "https://vigsjc.github.io/data/2020.json",
+            url: "https://vigsjc.github.io/data/2021.json",
             type: "get",
             data: dynamicData
         });
@@ -106,7 +106,7 @@ var capstoneData;
 
             value.contact != null ?
                 contact = value.contact :
-                contact = NOT_EXIST
+                contact = null
 
 
             var student = new Student(value.id, value.firstName, value.lastName, value.profilePicture, value.projectTitle, value.projectDesc, keywords, value.certificates, images, presentation, video, brochure, contact);
@@ -138,11 +138,12 @@ var capstoneData;
         var contactInfo = $("<div>", { class: 'contact_me', });
         var contactIcon = "fa fa-linkedin";
         var address = element.contact
-        if (address.includes('@')) {
+        if (address != null && address.includes('@')) {
             address = 'mailto:' + element.contact;
             contactIcon = "fa fa-envelope";
         }
         // ---------------------------------------------------------------------------------------------------------------------------------------------------
+        console.log("add: "+address);
         if(address != null){
             contactInfo.append(`<a href=${address}><i class='${contactIcon}' aria-hidden='true'></i></a>`)
             stuProfile.append(contactInfo);
