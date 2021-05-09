@@ -6,7 +6,7 @@
       "lastName": "Abney",
       "projectTitle": "Raspberry Pi Arcade Emulator",
       "projectDesc": "Project Description will go here.",
-      "keywords": "keywords",
+      "keywords": "Pi, Arcade, Emulator",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
       "certificates": null,
       "images": [
@@ -97,7 +97,7 @@
       "firstName": "Dakota",
       "lastName": "Fannin",
       "projectTitle": "The Mobile Arcade",
-      "projectDesc": "Project Description will go here.",
+      "projectDesc": "For my senior capstone project, I decided to tackle the Raspberry Pi machine while exploring RetroPi, and the software used to explore classic arcade games through emulation. The practice use of the Raspberry Pi machines have always been an ongoing increase of productivity and capabilities and this instance is no different matter. There are arcade machines out there thanks to the Raspberry Pi for years and continued years to come. However, my product is a one of a kind, especially for its planned use when everything is completed. My project has shattered expectations in both Core 1 and Core 2 objectives and operations with increased productivity than originally planned. The project will continue to grow as time continues past this class and well into the future.",
       "keywords": "RetroPi, Portable Arcade Machine, Raspberry Pi",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1cGyuB2CSn0YNuXScOfsm3G2QgPgRcq5b",
       "certificates": null,
@@ -122,18 +122,18 @@
       "projectTitle": "Virtual Networking",
       "projectDesc": "Virtual Networking is the now. This project I have created aims towards two important things. One being that small to mid-size businesses can incorporate these virtual environments into their networks which would save money on hardware, reduce hardware, reduce redundant wiring, and improve security in some cases. The second being this project also helps the viewer better understand what virtualization is and how it can be incorporated into networks.",
       "keywords": "Networking, Virtualization, Hypervisor, IP addressing, Port-forwarding",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
-      "certificates": "null",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
+      "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
-        "",
-        "",
+        "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
+        "https://drive.google.com/uc?export=view&id=1AvrNi2e8RDrUqRxU9BcURwfbjfzTQEtk",
+        "https://drive.google.com/uc?export=view&id=1SxHlgY31DXjLRNYHY7Gd9ATZ9Y1HJBCy",
         ""
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1Dbteov8uSTi5egwePY8jiQVxHgeD7nqP",
       "video": [
-        "",
-        ""
+        "https://drive.google.com/uc?export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
+        null
       ],
       "brochure": "",
       "contact": "Josephtom987@gmail.com"
@@ -143,8 +143,8 @@
       "firstName": "Jeffrey (Chase)",
       "lastName": "Mills",
       "projectTitle": "Peace of Mind and Raspberry Pi",
-      "projectDesc": "Project Description will go here.",
-      "keywords": "keywords",
+      "projectDesc": "For my capstone project I want to use a Raspberry Pi and a webcam to create a surveillance camera. When the camera detects motion, the user is alerted by either phone notification or e-mail and can check the live feed. While there are similar products currently on the market I hope to create a do-it-yourself project that can drastically cut the cost if someone has the technical skills to do so. ",
+      "keywords": "Security, Webcam, Motion",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
       "certificates": null,
       "images": [
@@ -167,7 +167,7 @@
       "lastName": "Moore",
       "projectTitle": "Moore Food, Less Worries",
       "projectDesc": "This project was inspired by Alex and Adam, who are past capstone students. I decided to take a crack at a project that was created to give a solution for the question: “Who will feed my cat when I’m not home?”. As my parents are getting older and are wanting to travel more, it has become a hassle to have someone come feed their cat. By having someone come feed their cat, it could lead to potential issues, for example stolen property and doors being left unlocked. My parents would greatly benefit for a product like this, so they do not have to worry when they are not home.\nThis project will allow for an automated way to feed the cat both on demand and on a schedule with the use of a Raspberry Pi. The Raspberry Pi runs a python code that is responsible for monitoring a Gmail account. When an email arrives with the expected subject “feed cats”, the cat feeder will dispense food. The use of a Raspberry Pi camera module will also be involved in allowing you to check in on your cat enjoying the food.",
-      "keywords": "Raspberry Pi, Gmail, Camera, Pet feeder, Cats, SSH, Python\n",
+      "keywords": "Raspberry Pi, Gmail, Camera, Pet feeder, Cats, SSH, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
       "certificates": null,
       "images": [
@@ -281,7 +281,7 @@
       "firstName": "Seth",
       "lastName": "Russell",
       "projectTitle": "Shark Tracker Simulation: TinyDuino GPS Tracker",
-      "projectDesc": "Project Description will go here.",
+      "projectDesc": "This project attempts to provide an educational GPS tracking device using a TinyDuino processor to simulate how ocean wildlife is researched out in the field. Key inspiration behind this endeavor is shark research, specifically how sharks are tracked with GPS tags and the data is processed. ",
       "keywords": "shark, GPS, tracking, ocean, educationa",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
       "certificates": null,
@@ -352,21 +352,21 @@
       "projectTitle": "Retro Arcade Mini",
       "projectDesc": "Video games are a modern pastime where people can go on adventures, explore new worlds, and create memories that can last a lifetime. However, being able to play older games in todays world can be a bit challenging. Due to Covid-19, arcades had struggled to stay in business by helping prevent the spread of the virus. Whether it is an original arcade game or one of the first home consoles, being able to start your own collection can take a lot of time, money, and space not to mention that it is difficult to find and play on original hardware.\nA solution to this problem is by building my own miniature arcade cabinet. By using a Raspberry Pi 3b+ and by downloading emulation software, I can play a variety of different games from multiple consoles. These games are either open sourced, meaning that it is free code that the developer of the game has given permission to download, or it is a game rom of a game that I currently own in my collection. After purchasing an arcade kit online and by finding the remaining parts as well, I was able to build a mini arcade machine that I can place on any surface and use traditional arcade controls to play these older games. \n",
       "keywords": "Raspberry Pi, Game Emulation, RetroPie, Arcade, Nostalgia",
-      "profilePicture": "",
-      "certificates": "",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
+      "certificates": "null",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1aEC-hrY4ejUD-7ukZfttIN_heD47VyWZ",
-        null,
-        "https://drive.google.com/uc?export=view&id=1GwINb_q1S88t8Azb8YoShJ6_erQQW-fp",
-        "https://www.linkedin.com/in/jonathan-p-thompson/"
+        "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
+        "https://drive.google.com/uc?export=view&id=1Uu1lCWpTE9gmZRf1tUGbECqb31FMZI7U",
+        "https://drive.google.com/uc?export=view&id=1PSCqOaPThcvw1DI-ifSZ6W4xejtdoIEI",
+        "https://drive.google.com/uc?export=view&id=1HjdVSNKVdmvQvV-3ZfqYL2k-2VCPJrO-"
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1SGEtGEvdu-ePLRcCWHIrSjs6H4EWZFv5",
       "video": [
-        "",
-        ""
+        "https://drive.google.com/uc?export=view&id=1aEC-hrY4ejUD-7ukZfttIN_heD47VyWZ",
+        null
       ],
-      "brochure": "",
-      "contact": ""
+      "brochure": "https://drive.google.com/uc?export=view&id=1GwINb_q1S88t8Azb8YoShJ6_erQQW-fp",
+      "contact": "https://www.linkedin.com/in/jonathan-p-thompson/"
     },
     {
       "id": 202117,
