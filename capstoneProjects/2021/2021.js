@@ -143,7 +143,7 @@ var capstoneData;
             contactIcon = "fa fa-envelope";
         }
         // ---------------------------------------------------------------------------------------------------------------------------------------------------
-        console.log("add: "+address);
+        // console.log("add: "+address);
         if(address != null){
             contactInfo.append(`<a href=${address}><i class='${contactIcon}' aria-hidden='true'></i></a>`)
             stuProfile.append(contactInfo);
@@ -177,7 +177,7 @@ var capstoneData;
         }
         if (element.images.length > 1) stuProject.append(buttons);
         //creates student certificates shown below student project image
-        console.log(element.certificate);
+        // console.log(element.certificate);
 
         var certificates = $("<div/>", { class: 'certificates' });
         if (element.certificate != null) {
