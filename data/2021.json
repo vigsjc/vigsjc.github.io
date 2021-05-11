@@ -5,7 +5,7 @@
       "firstName": "Aleatheia (Terah)",
       "lastName": "Abney",
       "projectTitle": "Raspberry Pi Arcade Emulator",
-      "projectDesc": "Project Description will go here.",
+      "projectDesc": "Over the past decade, there has been a rise in hobbyists creating their own arcade emulators. The reasons for this include the fragility and prohibitive price of classic consoles and games, advances in emulation technology and programming, the relative affordability of doing it yourself, and the appeal of complete customization. This particular project is a classic arcade game emulator powered by a Raspberry Pi, which is portable in nature and includes a two player setup with eight buttons and a joystick for each participant. Given their popularity, there are already commercial versions of this type available. However, it is still more affordable to make it yourself and it gives the designer much more freedom in customization of the unit and the number or types of playable games. Commercial versions usually limit games available by brand or time period. Currently, I have successfully completed both core phases of my project with the majority of adjustments being made in Core 1 to accommodate challenges in design and materials. The extension phase, which is primarily cosmetics, is dependent on remaining time constraints",
       "keywords": "Pi, Arcade, Emulator",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
       "certificates": null,
@@ -13,15 +13,15 @@
         "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
         "https://drive.google.com/uc?export=view&id=1bmoCGhXmJcxLdyJAMvnuVL5T8-i3FklA",
         "https://drive.google.com/uc?export=view&id=16JT7YNIIZxcW1mJ_KCvfCDWHWSfpCGnl",
-        null
+        "https://drive.google.com/uc?export=view&id=1Zg9cDPv9TuXLBzuThhihqdA77cV4SaJE"
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1IkP0YfFfMQrfoiTcOneh-yKBRn1LTYDG",
       "video": [
-        null,
+        "https://youtu.be/HIVABei8nG0",
         null
       ],
-      "brochure": null,
-      "contact": "aleathea.l.abney@gmail.com"
+      "brochure": "https://drive.google.com/uc?export=view&id=187lgY1KHR3_XuZX2C4VE4uH3OoqoQUte",
+      "contact": "https://www.linkedin.com/in/terahabney/"
     },
     {
       "id": 202102,
@@ -31,7 +31,9 @@
       "projectDesc": "Working within an IT environment, an average helpdesk personnel might set up dozens of computers a week for new computers. This can take hours per computer depending on what software and user settings need to set up based on company demand. This project aims to\naccelerate that process by configuring one computer as up to date as possible, as well a installing all software needed and any other settings and then capturing the “image” of the computer to be able to easily replicate it within minutes, saving tons of time in the process. Among the many different types of imaging software, the one I chose for this project is called FOG, this software has a very user friendly GUI that allows you to capture an image through PXE and then be able to upload that image on to multiple computers at a time.",
       "keywords": "Preboot Execution Environment (PXE), PC Imaging, GUI",
       "profilePicture": "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
-      "certificates": null,
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
         "https://drive.google.com/uc?export=view&id=1Zgt1JCTFyztVx0p7u4Sosj2Aqql0weEr",
@@ -54,7 +56,9 @@
       "projectDesc": "With the world advancing wireless technology every day, the race for affordable and fast wireless connectivity is becoming more apparent. The objective with this project is to create an affordable and fast wireless connection. The use of Raspberry Pi’s is very diverse and cheap to begin with. By creating a wireless access point with a Raspberry Pi, you can achieve a stable connection with full access to everything else that comes with the Pi. Having this wireless connection allows you to also create servers on your network within one device. Adding an FTP server to the access point was a nice way of achieving connectivity in more than one way.",
       "keywords": "Raspberry Pi, WAP, FTP server, firewall",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
-      "certificates": null,
+      "certificates": {
+        "TestOut PC Pro certification": "https://w3.testout.com/courses/pc-pro"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
         "https://drive.google.com/uc?export=view&id=1qkh_zPsChUeP_YzuF6_avUbru5jwuit1",
@@ -66,18 +70,20 @@
         "https://drive.google.com/uc?export=view&id=1L7pfKIWCOM2cMjCzv8JEWK9cof2quYw5",
         null
       ],
-      "brochure": null,
+      "brochure": "https://drive.google.com/uc?export=view&id=1k7Tcp1p3IjorZlXZHTJJ-89F6r9G3_kS",
       "contact": "https://www.linkedin.com/in/troy-bruno/"
     },
     {
       "id": 202104,
       "firstName": "Casey",
-      "lastName": "Dyner",
+      "lastName": "Dyer",
       "projectTitle": "PingThing – Easily Visualize IP Uptime",
       "projectDesc": "The overall objective of the project is simply this: to simply translate information (via the Linux ping command) from a more complicated, command-line interface to that of physical LEDs. This is achieved through a Raspberry Pi 4 Model B with Debian-based Raspberry Pi OS installed on the system. The device in use “…has evolved from a tool for students and hobbyists to a viable option for certain types of engineering projects in the form of the Compute Module, and most recently the Raspberry Pi Pico” (Hutchinson, 2021). The device is then connected to a breadboard via GPIO interface with instructions provided by the Python coding language. The Freenove Ultimate Starter Kit will provide all the various connectors and diodes required for the project. The primary motivation regarding this project consider networking connectivity issues. Network connections, especially for personal use, tend to fail on occasion. Knowing when those networks go down and applying the information may help resolve the problem",
       "keywords": "Arrays/Lists, Conditional Statements, Loops",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
-      "certificates": null,
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
         "https://drive.google.com/uc?export=view&id=1M3nf-fjQ79oc3klOzXokqOijXHQZVyLR",
@@ -109,8 +115,8 @@
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1ZyjjBykdJPWdH0LonRkESb4vcOA3F3Cb",
       "video": [
-        "",
-        null
+        "https://drive.google.com/uc?export=view&id=1harO0rkP3IUMEELbCnIO8Yhth16y5ABb",
+        "https://drive.google.com/uc?export=view&id=1VhDvop8M1MI2DUhdNUv0cwXbAmAWPVmJ"
       ],
       "brochure": "https://drive.google.com/uc?export=view&id=1ArySLB7wPfb52cack8OQhxarYZ40J6xC",
       "contact": "https://www.linkedin.com/in/dakota-fannin21/"
@@ -118,7 +124,7 @@
     {
       "id": 202106,
       "firstName": "Thomas",
-      "lastName": "Lopreston",
+      "lastName": "Lopresto",
       "projectTitle": "Virtual Networking",
       "projectDesc": "Virtual Networking is the now. This project I have created aims towards two important things. One being that small to mid-size businesses can incorporate these virtual environments into their networks which would save money on hardware, reduce hardware, reduce redundant wiring, and improve security in some cases. The second being this project also helps the viewer better understand what virtualization is and how it can be incorporated into networks.",
       "keywords": "Networking, Virtualization, Hypervisor, IP addressing, Port-forwarding",
@@ -181,7 +187,7 @@
         "https://drive.google.com/uc?export=view&id=1_bb_RwFIBm8aN0uWNHRmEQfWX5G2aE77",
         null
       ],
-      "brochure": null,
+      "brochure": "https://drive.google.com/uc?export=view&id=1w9I9Qdn8_PiN3Bx0XFtngf25iEQaczGI",
       "contact": "https://www.linkedin.com/in/-austinmoore-/"
     },
     {
@@ -252,29 +258,6 @@
       ],
       "brochure": "https://drive.google.com/uc?export=view&id=1IRdryXqyJnZNAjceLwpozJFzSz3de71J",
       "contact": "https://www.linkedin.com/in/aakin-patel/"
-    },
-    {
-      "id": 202112,
-      "firstName": "Joshua",
-      "lastName": "Quire",
-      "projectTitle": "Project Title will go here.",
-      "projectDesc": "Project Description will go here.",
-      "keywords": "keywords",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1TGbzEfjG5n5s507GOv-HzwATGQMXzNDs",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1TGbzEfjG5n5s507GOv-HzwATGQMXzNDs",
-        null,
-        null,
-        null
-      ],
-      "presentation": null,
-      "video": [
-        null,
-        null
-      ],
-      "brochure": null,
-      "contact": null
     },
     {
       "id": 202113,
@@ -353,7 +336,7 @@
       "projectDesc": "Video games are a modern pastime where people can go on adventures, explore new worlds, and create memories that can last a lifetime. However, being able to play older games in todays world can be a bit challenging. Due to Covid-19, arcades had struggled to stay in business by helping prevent the spread of the virus. Whether it is an original arcade game or one of the first home consoles, being able to start your own collection can take a lot of time, money, and space not to mention that it is difficult to find and play on original hardware.\nA solution to this problem is by building my own miniature arcade cabinet. By using a Raspberry Pi 3b+ and by downloading emulation software, I can play a variety of different games from multiple consoles. These games are either open sourced, meaning that it is free code that the developer of the game has given permission to download, or it is a game rom of a game that I currently own in my collection. After purchasing an arcade kit online and by finding the remaining parts as well, I was able to build a mini arcade machine that I can place on any surface and use traditional arcade controls to play these older games. \n",
       "keywords": "Raspberry Pi, Game Emulation, RetroPie, Arcade, Nostalgia",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
-      "certificates": "null",
+      "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
         "https://drive.google.com/uc?export=view&id=1Uu1lCWpTE9gmZRf1tUGbECqb31FMZI7U",
@@ -373,8 +356,8 @@
       "firstName": "Noah",
       "lastName": "Turner",
       "projectTitle": "Homelone -- Raspberry Pi Home Security",
-      "projectDesc": "Project Description will go here.",
-      "keywords": "keywords",
+      "projectDesc": "The use of home security has been implemented more over the years as technology has advanced, but the price of keeping your home secure has always been rather high. Having a safe household is comforting and needed as people spend most of their time at home with their families and loved ones. Being able to provide the safety for a cheaper price, and same reliability, makes things easier for everyone involved. I am proposing a cheaper version of the home security system with the same reliability as some companies out on the market already. Using the Raspberry Pi, a more compact and cheaper system, with the camera module and PIR sensor I am able to secure a home with notifications of any motion detected.",
+      "keywords": "Raspberry Pi, Home Security, Sensor, Camera, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=122TcXk_sJRCxsmk3gXxm2dRFfbWffZqI",
       "certificates": null,
       "images": [
@@ -388,7 +371,7 @@
         "https://drive.google.com/uc?export=view&id=11V__HSoTPJE6fCSNP0Id7nr5vioVQaC_",
         null
       ],
-      "brochure": null,
+      "brochure": "https://drive.google.com/uc?export=view&id=1eW2muW8F4B6O2kGLtf0vCQeL07anVesh",
       "contact": "nturn482@gmail.com"
     },
     {
@@ -416,8 +399,30 @@
     }
   ],
   "other": {
-    "classPhoto": [],
-    "outstanding": [],
+    "classPhoto": [
+      {
+        "title": "Class Photo",
+        "url": "https://drive.google.com/uc?export=view&id=1TRJf9QRHpaGbfb4_K7osH8lwpfmZYRoN",
+        "name": "2020-21 Graduates"
+      },
+      {
+        "title": "Class Photo",
+        "url": "https://drive.google.com/uc?export=view&id=1uYIqfoDLgb3b3P9C6JySj-Usr6nzFzkg",
+        "name": "2020-21 Graduates"
+      },
+      {
+        "title":"Class Photo",
+        "url": "https://drive.google.com/uc?export=view&id=1VFmvHU_r2YK1mlK3HqiL_sRbQP00iMrZ",
+        "name":"2020-21 Graduates"
+      }
+  ],
+    "outstanding":  [
+      {
+        "title": "2020-21 Outstanding Senior",
+        "name": "Seth Russell",
+        "url": "https://drive.google.com/uc?export=view&id=1qwuCzNUXY_rmpduHlqRb4Fn4WRffJjjC"
+      }
+    ],
     "presenter": [],
     "ga": []
   }
