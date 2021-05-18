@@ -310,7 +310,7 @@
     },
     {
       "id": 202115,
-      "firstName": "Nathaniel ",
+      "firstName": "Nathaniel",
       "lastName": "Taylor",
       "projectTitle": "SEER Camera System",
       "projectDesc": "This project seeks to design and create a camera system that can detect and track motion using a Pixy2 camera module and Arduino microcontroller. With the use of the microcontroller the system can be used autonomously. It will have the capability to detect motion, color, and general shape. The foundation of this project is based on a Pixy camera with a built-in processor and image sensor paired with an Arduino microcontroller to run the vision software. The addition of a pan and tilt servomotor allows the camera system to orientate on motion and retain central focus of it. The Pixy2 camera module operates on software called PixyMon, which allows specific configurations to visual signatures. The Arduino Uno can be programmed to load and run code libraries on the Arduino IDE software.",
