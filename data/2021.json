@@ -2,7 +2,7 @@
   "studentData": [
     {
       "id": 202101,
-      "firstName": "Aleatheia (Terah)",
+      "firstName": "Aleatheia",
       "lastName": "Abney",
       "projectTitle": "Raspberry Pi Arcade Emulator",
       "projectDesc": "Over the past decade, there has been a rise in hobbyists creating their own arcade emulators. The reasons for this include the fragility and prohibitive price of classic consoles and games, advances in emulation technology and programming, the relative affordability of doing it yourself, and the appeal of complete customization. This particular project is a classic arcade game emulator powered by a Raspberry Pi, which is portable in nature and includes a two player setup with eight buttons and a joystick for each participant. Given their popularity, there are already commercial versions of this type available. However, it is still more affordable to make it yourself and it gives the designer much more freedom in customization of the unit and the number or types of playable games. Commercial versions usually limit games available by brand or time period. Currently, I have successfully completed both core phases of my project with the majority of adjustments being made in Core 1 to accommodate challenges in design and materials. The extension phase, which is primarily cosmetics, is dependent on remaining time constraints",
@@ -11,8 +11,8 @@
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
-        "https://drive.google.com/uc?export=view&id=1bmoCGhXmJcxLdyJAMvnuVL5T8-i3FklA",
         "https://drive.google.com/uc?export=view&id=16JT7YNIIZxcW1mJ_KCvfCDWHWSfpCGnl",
+        "https://drive.google.com/uc?export=view&id=1bmoCGhXmJcxLdyJAMvnuVL5T8-i3FklA",
         "https://drive.google.com/uc?export=view&id=1Zg9cDPv9TuXLBzuThhihqdA77cV4SaJE"
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1IkP0YfFfMQrfoiTcOneh-yKBRn1LTYDG",
@@ -133,20 +133,19 @@
       "images": [
         "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
         "https://drive.google.com/uc?export=view&id=1AvrNi2e8RDrUqRxU9BcURwfbjfzTQEtk",
-        "https://drive.google.com/uc?export=view&id=1SxHlgY31DXjLRNYHY7Gd9ATZ9Y1HJBCy",
-        ""
+        "https://drive.google.com/uc?export=view&id=1SxHlgY31DXjLRNYHY7Gd9ATZ9Y1HJBCy"
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1Dbteov8uSTi5egwePY8jiQVxHgeD7nqP",
       "video": [
         "https://drive.google.com/uc?export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
         null
       ],
-      "brochure": "",
+      "brochure": null,
       "contact": "Josephtom987@gmail.com"
     },
     {
       "id": 202107,
-      "firstName": "Jeffrey (Chase)",
+      "firstName": "Jeffrey",
       "lastName": "Mills",
       "projectTitle": "Peace of Mind and Raspberry Pi",
       "projectDesc": "For my capstone project I want to use a Raspberry Pi and a webcam to create a surveillance camera. When the camera detects motion, the user is alerted by either phone notification or e-mail and can check the live feed. While there are similar products currently on the market I hope to create a do-it-yourself project that can drastically cut the cost if someone has the technical skills to do so. ",
@@ -175,7 +174,9 @@
       "projectDesc": "This project was inspired by Alex and Adam, who are past capstone students. I decided to take a crack at a project that was created to give a solution for the question: “Who will feed my cat when I’m not home?”. As my parents are getting older and are wanting to travel more, it has become a hassle to have someone come feed their cat. By having someone come feed their cat, it could lead to potential issues, for example stolen property and doors being left unlocked. My parents would greatly benefit for a product like this, so they do not have to worry when they are not home.\nThis project will allow for an automated way to feed the cat both on demand and on a schedule with the use of a Raspberry Pi. The Raspberry Pi runs a python code that is responsible for monitoring a Gmail account. When an email arrives with the expected subject “feed cats”, the cat feeder will dispense food. The use of a Raspberry Pi camera module will also be involved in allowing you to check in on your cat enjoying the food.",
       "keywords": "Raspberry Pi, Gmail, Camera, Pet feeder, Cats, SSH, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
-      "certificates": null,
+      "certificates": {
+        "CompTIA A+": "https://www.comptia.org/certifications/a"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
         "https://drive.google.com/uc?export=view&id=1Zbksio8oFs6bzOxStLzUo3jGwpoJy0pM",
@@ -192,7 +193,7 @@
     },
     {
       "id": 202109,
-      "firstName": "Nathaniel ",
+      "firstName": "Nathaniel",
       "lastName": "Murphy",
       "projectTitle": "Project Title will go here.",
       "projectDesc": "Project Description will go here.",
@@ -244,7 +245,9 @@
       "projectDesc": "As a possible solution for helping normal people in the constant security dilemma of gaining and typically using a keyword in the securest ways possible, password managers have become popular around the globe. Password managers adequately encrypt users' watchwords by using a master keyword or a security token. ",
       "keywords": "Python, GitHub, Password manager",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
-      "certificates": null,
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
         "https://drive.google.com/uc?export=view&id=1TRDi5CJNbO-IsfsWBIREvL4X5f_PsuCZ",
@@ -284,7 +287,7 @@
     },
     {
       "id": 202114,
-      "firstName": "Matthew (Matt)",
+      "firstName": "Matthew",
       "lastName": "Sanders",
       "projectTitle": "Raspberry Pi Home Security System",
       "projectDesc": "Home security systems are becoming more common as technology in our society advances. The want and need to be able to keep an eye on your home and your belongings is at an all time high. The only issue is these security systems can be very expensive. This is where the Raspberry Pi can come into play. For a relatively cheap price, anyone can take a Raspberry Pi and turn it into their very own home security system. This is what I set out to do with my project. As of now, I have been successful in creating a working home security camera. My core phase 1 was to get the Raspberry Pi 4 up and running, and download and install the MotionEyeOS onto the board. My core phase 2 was to build a custom case for the Pi so that it could be concealed. My extension phase was to configure the camera module to have motion detection, and to send an email with the video taken every time the camera took a video. I have been successful in completing all three of my phases.",
@@ -325,7 +328,7 @@
         "https://drive.google.com/uc?export=view&id=1AXTx3F-Xg8tGYs2EzhHvyE3I6wAraxAF",
         null
       ],
-      "brochure": null,
+      "brochure": "https://drive.google.com/uc?export=view&id=1hNg7zn-5G2STL_c_OJpfBGI3wuV5caf8",
       "contact": "Nathaniel_Taylor27@mymail.eku.edu"
     },
     {
@@ -394,7 +397,7 @@
         "https://drive.google.com/uc?export=view&id=1vL7WN_8S0IL8xThObzyPJFvEsxiVtRpW",
         null
       ],
-      "brochure": null,
+      "brochure": "https://drive.google.com/uc?export=view&id=1cxNxNcjh3gyeTyRmpeBuogBDWUkG9LxR",
       "contact": "Jeremy_wright@mymail.eku.edu"
     }
   ],
