@@ -1,0 +1,423 @@
+{
+    "studentData": [
+      {
+        "id": "200901",
+        "firstName": "Beth",
+        "lastName": "Garrett",
+        "projectTitle": "Linux MAME Arcade",
+        "projectDesc": "Arcade cabinets are often rebuilt and installed with emulators that can play almost any kind of arcade game. However, this is mostly done with Window-based systems. This project will take an old arcade cabinet and fit it with a PC, along with a monitor, running Xubuntu and MAME. Through this, we hope to show the versatility of Linux-based systems for applications beyond servers and other more well known uses.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=10DuMvkKnmsjqcoUzPAY3NAWCPKjV-rKj",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=10DuMvkKnmsjqcoUzPAY3NAWCPKjV-rKj",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=16V86YraCaehBv0tDSs-FSqOi6aMaL0Qt",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1s4NY9coZ4kw87eM9MdNu8WQskAVEo8jv",
+          "https://drive.google.com/uc?export=view&id=1PWeP6-iUyWbaFVnjdHtpqUr98Hutxx8-"
+        ],
+        "contact": "chasingpenguins98@gmail.com"
+      },
+      {
+        "id": "200902",
+        "firstName": "Brandon",
+        "lastName": "Powell",
+        "projectTitle": "Attic Bouldering In Action",
+        "projectDesc": "When most people think of rock climbing; ropes, harnesses, and high climbs come too thought. Many people have not heard of bouldering, and even fewer have heard of installing a bouldering wall in your attic. In order to help my friend capture images of his attic climbing I built a server, installed Windows Server 2003, a wireless NIC, a webcam, and software to detect motion and capture the images while he is climbing. The images are stored to an FTP folder which in turn is backed up over the network to a Linksys storage device. Since space is limited in the attic, only the server and webcam are there. The server is remotely managed by me using real VNC to turn on the webcam or whatever else I may need to do from my desktop downstairs.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1S5MiszirHoCeXzE8Ui6fSO6Ci5RziyeR",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1S5MiszirHoCeXzE8Ui6fSO6Ci5RziyeR",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=11Vg6vni7fV7IBGLcLVz4I2hnK_e9CN3F",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1HkzWsqdm21GU9xSF5w2ZQ1qNDPtzhpx5",
+          "https://drive.google.com/uc?export=view&id=10PdF_Fi7yXPIKwiluOepwwgJGLFjFTC5"
+        ],
+        "contact": "brandonpowell2@gmail.com"
+      },
+      {
+        "id": "200903",
+        "firstName": "Charles",
+        "lastName": "Noe",
+        "projectTitle": "The Wok Antenna",
+        "projectDesc": "The project is based on using home appliances and networking tools to make a homemade wireless antenna to gain as much signal for internet as possible. Sometimes USB adapters bought from a store do not reach the requirements that the owner or user prefer. One may be able to access the internet at one end of the home but not the other. This article will show how to implement household tools into a device that will help the signal of your store bought USB adapter. The use of the wok seemed natural, for it has a perfectly round and cupping shape that is used in antennas all over the world. The round cupping shape will bounce a signal inside the cupping toward the center where the USB adapter will be waiting for the reception.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1BHs2dUwsIqJwDb2Ui2vIIva8L8rHdB9x",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1BHs2dUwsIqJwDb2Ui2vIIva8L8rHdB9x",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=182tMJZ-oMINcYqYdhdkkyHZrL-L0dC65",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1-pE6FxP4W0FccKJcuCUCI7Cemd5ORusC",
+          null
+        ],
+        "contact": "chuckles82000@hotmail.com"
+      },
+      {
+        "id": "200904",
+        "firstName": "Christopher",
+        "lastName": "Rutherford",
+        "projectTitle": "Microsoft Windows Server 2008: Software Deployment",
+        "projectDesc": "This project is designed to test the functionality of Microsoft Windows Server 2008 and its software deployment features. Instead of purchasing Third-party software to remote deploy your software or desktop features; Windows Server 2008 has all of the necessary tools to accomplish such a goal. Server 2008 can install, upgrade, and remove software packages to and from computers or users using the group policy management configuration. Adding necessary roles to test the functionality and use features such as Windows Deployment Services is also taken into consideration. For limiting use of Third-party software in a Window environment, using Windows Server 2008 for deploying software and desktop imaging is your best option.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1v8jnJwoXZAb1jkoJ7EdzS_4h6LzxlmIG",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1v8jnJwoXZAb1jkoJ7EdzS_4h6LzxlmIG",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1GcIBlFS-U62slrK-tL-KbRkiaQTRsdjQ",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1s8G6Wm8z4lP0aY8pcZtWNGAwHdqq0pnv",
+          "https://drive.google.com/uc?export=view&id=1h4GgJKL0k7SqJZd7NXmOskYyR8gWnQ42"
+        ],
+        "contact": "chrisrutherford_3@msn.com"
+      },
+      {
+        "id": "200905",
+        "firstName": "Cristy",
+        "lastName": "Jones",
+        "projectTitle": "Modular Automation Training System",
+        "projectDesc": "The purpose of this project was to take a pre-existing robotic work cell belonging to the Department of Technology and modify it. The work cell had SLC 500 PLCs that needed to be replaced with MicroLogix 1200 PLCs. This work cell had three separate PLC transfers to do. The code needed to be revamped also as the two types of PLCs use different inputs, outputs, internals, and timers. This presentation and paper will show the steps, problems, and solutions to this project.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1tq0dr9OmSuJnRSKcqbL9V5E1Sb0Ses2f",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1tq0dr9OmSuJnRSKcqbL9V5E1Sb0Ses2f",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1ovcKK87LD4KDkBb_oMInukW_sdw8d7C4",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1c60rT0GrrUcy2tiyb1iajJP1un5AFKcm",
+          "https://drive.google.com/uc?export=view&id=1uX_Aj_Mete4ZcLOcLJfIxCyOMLoQtNUj"
+        ],
+        "contact": "cristy.jones@eku.edu"
+      },
+      {
+        "id": "200906",
+        "firstName": "Danny",
+        "lastName": "Butler",
+        "projectTitle": "Danny’s Homeland security",
+        "projectDesc": "Ever had a problem with people getting into places that they are not supposed to be? Ever had a thief come and take something that did not belong to them? With Danny’s Homeland Security System you will be able to have the peace of mind to know that your belongings and privacy are safer. The Security system alerts the user of any intrusion or motion detected within the field of view of the camera. The system sends an e-mail with the video attached so that even if the computer is taken, the video is still accessible; additionally an instant text message is sent to the user’s cell phone to make the user aware of the intruder as close to real time as possible.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=153bUVl1AS7M55jtJPYQE4-vtB3XnLvtG",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=153bUVl1AS7M55jtJPYQE4-vtB3XnLvtG",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=18pjLegJNqZafu00nAmFKs2dtxi7_qY3U",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1f9zzVFpFpTdy9P142d-br1Z2sgggBjU4",
+          "https://drive.google.com/uc?export=view&id=1wmoatFp6goD1BodjdvNJJNbKW5rnGs8f"
+        ],
+        "contact": "danny_butler18@eku.edu"
+      },
+      {
+        "id": "200907",
+        "firstName": "Derrick",
+        "lastName": "Huff",
+        "projectTitle": "LaZy Mans Visor",
+        "projectDesc": "In todays world everything is a race to make the next thing easier. That is how everything is there was a time when you had to actually roll down your window manually or actually walk up stairs there were no such things as an elevator. Im a big fan of being lazy so I introduce to you the Lazy Man Visor. Why would you reach your arm all the way up and pull down a sunvisor when you can just push a button on the stearing wheel?",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1eckSd71Q7-wa_oT_63FyJZ6Wwq7i-gGW",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1eckSd71Q7-wa_oT_63FyJZ6Wwq7i-gGW",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1MBIXMKKXqi7Y5Xq0HrlDzgg1qjo38fiQ",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1OKsv0hdvp5xvymJ4CJJy6n0GC0YyvSXE",
+          "https://drive.google.com/uc?export=view&id=1fFWFLFyZDvmZKAf-hfliz2GIOI2O2sn1"
+        ],
+        "contact": null
+      },
+      {
+        "id": "200908",
+        "firstName": "Devella",
+        "lastName": "Teegarden",
+        "projectTitle": "HELPR",
+        "projectDesc": "I have built a robotic helper for those who cannot lift. Though I couldn't afford an actual version, I was able to build a prototype. All of this came about when I thought of things I would like...first thing, something to carry books. I have a very bad back and am not supposed to carry more than 10 pounds. With this, you can use a cell phone to control it and it would be able to carry things that you cannot.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1DasIZCVA1egFEfFYtspE4Jl-IAlrknhs",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1DasIZCVA1egFEfFYtspE4Jl-IAlrknhs",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=19gU7hGJc8R8KrzoIqfKi4mPRltQFYxP1",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1fy--B0RLfMlTrw5BKriYbUld-05xruZj",
+          null
+        ],
+        "contact": "drteegarden@msn.com"
+      },
+      {
+        "id": "200909",
+        "firstName": "Frederick",
+        "lastName": "Guilfoil",
+        "projectTitle": "Unmanned Surveillance Tank (UST)",
+        "projectDesc": "Wireless technology usage is growing every day in business, industrial, and in the military. Humanity altogether needs personal ground security that can be remotely controlled through a computer using wireless technology. This can be as simple as a surveillance remote control robot or an advanced unmanned ground vehicle for military scouting/defending purposes. A temporary solution was found by buying an RC tank, wireless security camera, and motion sensor alarm. The camera allows for surveillance, and the motion detector provides security from intruders in an area. The tank is for warning and dispersing intruders by nonviolent or violent means. The current version supplies nonviolent means only. This capstone project is based off of a real military technology called an unmanned ground vehicle (UGV). Future improvements call for a bigger four foot model with titanium armor, a three hundred sixty degree motion detector, and tear gas or live ammo.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=167GGPoUWlsEt-QPd385t8uEveVsyjsXE",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=167GGPoUWlsEt-QPd385t8uEveVsyjsXE",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1RMD7UvBQM8ieA4iKDHFoUIbNJtQBFtd3",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1IhJUCGBXa2c3DmzvbPphdbdF8ribMmXB",
+          "https://drive.google.com/uc?export=view&id=1fOO-i7lMVYj-MVy1V2Nslygsh34NBzWu"
+        ],
+        "contact": "ggrock70@yahoo.com"
+      },
+      {
+        "id": "200910",
+        "firstName": "Jeremy",
+        "lastName": "Hiler",
+        "projectTitle": "Modular Automation Training System",
+        "projectDesc": "The purpose of this project was to take a pre-existing robotic work cell belonging to the Department of Technology and modify it. The PLC unit is reported not to be operating correctly and needs repairs. As part of the project it is part of the assignment is to have the mechanical and pneumatic portion of the unit working, as well as updating the PLC units.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1tDUV-_00Ahw4L-P2I-k2upqSO-3aO57J",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1tDUV-_00Ahw4L-P2I-k2upqSO-3aO57J",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1n03W2oMBp4nqknjphrRgG7xj2pmFMnFF",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1ra2nGV5Q4KZjPpaIVvLFMgGZY_JCtsg3",
+          "https://drive.google.com/uc?export=view&id=1JE56d0Uc75gJDS6T3p_PG8FexDC2DIqi"
+        ],
+        "contact": "jeremy_hiler01@yahoo.com"
+      },
+      {
+        "id": "200911",
+        "firstName": "Kristin",
+        "lastName": "Clausing",
+        "projectTitle": "Richmond Web",
+        "projectDesc": "This project started out as a project for my Co-op job, but I decided to take it farther and go more in depth. The City’s website was not functioning well for the city nor was it helping the employees in any way. More information needs to be available for the public and a more user friendly site needs to be created. I created a new website for the city then allowed it to be viewed by the public as well as logged into by the city employees. This allowed the employees to get to forms online that they need without allowing the public shouldn't have access to them.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1hqq8jw-AyXyH7FZra28s7_mY76WVTCqV",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1hqq8jw-AyXyH7FZra28s7_mY76WVTCqV",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1twIkXJiFQqvGh5ViFOyXvex7c6Gjs6uQ",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1xvDlsXPnsR_7e0bpRWZsplxvM_c4Zz8i",
+          "https://drive.google.com/uc?export=view&id=1hPSsZUfFIF7YCQ5v5iDs9T4XZIye4Sqo"
+        ],
+        "contact": "kristin.clausing@gmail.com"
+      },
+      {
+        "id": "200912",
+        "firstName": "Mark ",
+        "lastName": "Patterson",
+        "projectTitle": "Bowling Alley Communications",
+        "projectDesc": "Allow blackout lights on the machines to be displayed on LED's in the mechanics area of the bowling alley. This will alert the mechanics of the bowling alley of problems eliminating wasted time for both the people bowling on the lane and also for the Guest Services worker who currently has to recieve the call and inform the mechanics of the problem.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Hnac-53lgcY3zd7sOa3Ws7XxX3JhcvX4",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Hnac-53lgcY3zd7sOa3Ws7XxX3JhcvX4",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1oOKvSRbMcEkejpj155OgwR4ZhcnMfmZx",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1nsmR212FvbRu48WiBs6c7TMywTZOX_av",
+          "https://drive.google.com/uc?export=view&id=1d2dJ2ymYhhCwrhe0HE-Vid-6ajWbGwqg"
+        ],
+        "contact": "Mark_patterson18@gmail.com"
+      },
+      {
+        "id": "200913",
+        "firstName": "Othman",
+        "lastName": "Almazrooa",
+        "projectTitle": "Linux/Windows File Sharing",
+        "projectDesc": "A simple way to create Linux/Windows File Sharing without using the command line and shows how using openSuse and Samba servers is easy and user friendly. This can be a solution for a lot of small businesses to improve their work. OpenSuse is a free tool and you don’t need the Linux background to make it work and that was my goal when I started working on the project.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1-G4u5G5TWWLTU0IXJC-PvEBiTuwQBVUi",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1-G4u5G5TWWLTU0IXJC-PvEBiTuwQBVUi",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1R--JepjVx9UcfDDQ7MJdFztHFPVUX9vw",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1hpNX71AHyksIhm--sgSZoRhIWv-1IvhT",
+          null
+        ],
+        "contact": "mlkirc@hotmail.com"
+      },
+      {
+        "id": "200914",
+        "firstName": "Patrick",
+        "lastName": "Coe",
+        "projectTitle": "Multimedia content delivery over LANs and WANs",
+        "projectDesc": "Whether it is for a long distance business meeting, long-distance learning, or communicating with family, video and audio communication have become a crucial part of everyday life in today’s fast-paced world. For my project I set out to research, design and configure a multimedia redistribution system for use in an educational or business environment. Equipment, including personal computers, servers and a portion of the local area network was provided by the Williamsburg Independent School District. I did most of my research physically away from the facility while I studied at Satakunta University of applied sciences in Pori, Finland. Because of this, remote access services had to be set up reliably. I successfully set up the distribution system in the Williamsburg school, allowing live video streams to be accessed internally by students and teachers. Externally archived video can also be accessed via the internet.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1rbjWfLqRiNEem3nAm6yyo8eXDDyrfdwe",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1rbjWfLqRiNEem3nAm6yyo8eXDDyrfdwe",
+          "https://drive.google.com/uc?export=view&id=12CI3eBQwRHJpnKeir1fbM7-7fBVCNdBZ",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1F6q2rWWd6ajOtH5jtmLriiBHzNvtyJ0c",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1gNxcHC2w2q0uL7MOCb0sJmK4EriOUEXA",
+          null
+        ],
+        "contact": "coepatrick@gmail.com"
+      },
+      {
+        "id": "200915",
+        "firstName": "Ryan",
+        "lastName": "Whallen",
+        "projectTitle": "Linux MAME Arcade",
+        "projectDesc": "Arcade cabinets are often rebuilt and installed with emulators that can play almost any kind of arcade game. However, this is mostly done with Window-based systems. This project will take an old arcade cabinet and fit it with a PC, along with a monitor, running Xubuntu and MAME. Through this, we hope to show the versatility of Linux-based systems for applications beyond servers and other more well known uses.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Duacb-kekXidw-lN5QrA5T9Jai2fi1W_",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Duacb-kekXidw-lN5QrA5T9Jai2fi1W_",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1iRWdb7ro44eKNWp-OFcQoloeEM0R92GP",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1pPJZuuOh_o94BAK1fWR949WKaadohaN8",
+          "https://drive.google.com/uc?export=view&id=1FO5t7rStgRH1XA_Ed0GpywcBc86yyi5h"
+        ],
+        "contact": "ryan.whallen@gmail.com"
+      },
+      {
+        "id": "200916",
+        "firstName": "Thomas",
+        "lastName": "Nalley",
+        "projectTitle": "CyberCafe Implementation",
+        "projectDesc": "My project was to find an efficient and effective way to implement a computer lab or cybercafe type of environment. In doing this I was to find a way to lower downtime to a minimum and to keep systems in this setup secure. The main problem with this is the amount of traffic that a cybercafe would generate. The amount of users using a specific system would be far greater than an average home or office computer, therefore would need an extra set of security. That is where imaging software (such as Synmatec Ghost Suite and Clonezilla) and security software (such as DeepFreeze and Microsoft SteadyState) come into play. My project will showcase the ease of use and very practical usage of such a setup in any computer environment.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1hnSA6zSHt-06qzjb40E0DM_-qfA0YSd6",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1hnSA6zSHt-06qzjb40E0DM_-qfA0YSd6",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=18qBI7lmN4SZW5yfrnQUMxw6yHSvFNJOL",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1ADHqeN_2S7gfHgNhnQA6lLJhFHyy1Ppn",
+          null
+        ],
+        "contact": "daniel.nalley@eku.edu"
+      },
+      {
+        "id": "200917",
+        "firstName": "Wesley",
+        "lastName": "Turner",
+        "projectTitle": "Public School Forum",
+        "projectDesc": "My project is to design and implement a web-based system (School Webpage) within a public school system that would enable school administrators, teachers, and students to get online and check\\post school related topics. Administrators could post school news, events, and reminders to staff. Teachers could post classroom information, assignments for students, see upcoming important classroom events. Students would have to ability to retrieve/post assignments, discuss classroom material online with other students, and hopefully have the ability to check grades.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1rYxBNJI5EHahrYR8v1_ThGbg0vfQjXik",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1rYxBNJI5EHahrYR8v1_ThGbg0vfQjXik",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1XayriJSxT7roLTcYTK-ogjcRvt00QMPz",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1xQoegvgiIkJdcSe3xGIvPqE6_kr2mQag",
+          null
+        ],
+        "contact": "w.turner19@yahoo.com"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": "Spring/Summer Computer Electronics 2009 grads",
+          "name": "(Left to Right) Kristin, Mark, vigs, Wes, Ryan, Brian, Cristy, and with Patrick",
+          "url": "https://drive.google.com/uc?export=view&id=1eT4X-ZWl3oCmILKJ34HdBt0_zqPacABj"
+        },
+        {
+          "title": "Fall 2009 Computer Electronics grads",
+          "name": "(Left to Right) Gabe, Othman, Brandon, Derrick, Christopher, Daniel, Renee, vigs, Beth, Charley, Danny",
+          "url": "https://drive.google.com/uc?export=view&id=1xqoH70yV80do14F4G5bfbslp5YZ7Y2Y0"
+        },
+        {
+          "title": "Spring 2009 Computer Electronics Capstone Class",
+          "name": "(Left to Right) Gabe, Vigs, Othman, Brandon, Wes, Derrick, Kristin, Christopher, Daniel, Renee, Mark, Ryan, Beth, Charley, Danny",
+          "url": "https://drive.google.com/uc?export=view&id=1oFtODvpWDtTAz0pDVPTu3uk8_aBHJroh"
+        }
+      ],
+      "outstanding": [
+        {
+          "title": "Outstanding Computer Electronics Networking Senior 2009",
+          "name": "Christopher Rutherford",
+          "url": "https://drive.google.com/uc?export=view&id=1xkFWOiHDTPcoOSuS0ck-UMXxGJ0OxsPI"
+        }
+      ],
+      "presenter": [],
+      "ga": []
+    }
+  }

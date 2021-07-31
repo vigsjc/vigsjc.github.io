@@ -1,0 +1,389 @@
+{
+    "studentData": [
+      {
+        "id": "200801",
+        "firstName": "Adam",
+        "lastName": "Bolton",
+        "projectTitle": "Integrating SMS 2003 Into The Work Environment",
+        "projectDesc": "A step-by-step procedure for installing and managing SMS 2003 onto a server, and then use it to distribute Microsoft Office 2003 to client machines.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1c13dbI88qvvyAUcNptOxSBkupYGBQni6",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1c13dbI88qvvyAUcNptOxSBkupYGBQni6",
+          null,
+          null,
+          null
+        ],
+        "presentation": null,
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "adamscott54@hotmail.com"
+      },
+      {
+        "id": "200802",
+        "firstName": "Alex",
+        "lastName": "Trent",
+        "projectTitle": "Cogent Linux",
+        "projectDesc": null,
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1sTXTWmkRR_i3wtawLmnz_L_IAma9GwlP",
+        "images": [
+          "",
+          "https://drive.google.com/file/d/15X1IEnRQ4cMrolpFo9Cig3QVqJ7NJ8Lg/view?usp=sharing",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1RyilSRIFjRT7htQVtPkmk3l0c7JRoUJU",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1wF0OK6-1lV-b5DJZyIwNj3unBdZ4da7p",
+          null
+        ],
+        "contact": "coagen@gmail.com"
+      },
+      {
+        "id": "200803",
+        "firstName": "Anthony",
+        "lastName": "Morrow",
+        "projectTitle": "Centralizing Home Media and Data Backup Solutions",
+        "projectDesc": "There is a rising trend in the use of digital media as compared to more traditional formats. More and more people are switching to online downloads to purchase and rent movies and music. However the switch to digital comes at a cost. Users start to rely on their computers more to store media files. Problems occur when users run out of storage space on their hard drives or the computer’s hardware fails. One solution to the issues faces by home users is to incorporate a server into the home network. An entire family’s life can be placed on the server where it can be accessed from any computer on the network. Windows Home Server and FreeNAS are just two of the many options for creating a server. They both offer easy to use interfaces that can be managed by a typical user. The server can also use RAID as a means of adding fault tolerance to prevent data loss in the event of a hardware failure. Using a home server can allow a family to store files and media in a central location and using RAID can help prevent loss of that data in the event of a failure.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1p8lCQUiJbE4eUCNYl9efkBjR-cTf27ic",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1p8lCQUiJbE4eUCNYl9efkBjR-cTf27ic",
+          "https://drive.google.com/uc?export=view&id=1AaPC6EDQ2oWH9TMxXH-YoVzoBtMQ9blS",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1TBaAFWFnw768aQxY4VC8xBXvYB44ICQF",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=14Kp9OqmKLP2mrYNJTXpaqyvSmPwUd9sR",
+          "https://drive.google.com/uc?export=view&id=1RD96dAS1250ZK373zg5TIH1WWyifoCXd"
+        ],
+        "contact": "anthonydmorrow@gmail.com"
+      },
+      {
+        "id": "200804",
+        "firstName": "Bradley",
+        "lastName": "Shields",
+        "projectTitle": "Open Source Web Development",
+        "projectDesc": null,
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=10GxR2_iGGqNZA9hBDhR_GKLa-6kpI3v1",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=10GxR2_iGGqNZA9hBDhR_GKLa-6kpI3v1",
+          "https://drive.google.com/uc?export=view&id=1NAwvH-vI-g4QG0V2fJ8PYFy7BmOLxDnr",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1I67K0kcnn3TFdionLGp18kHQ_2uLUjx_",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1qsqNRwRQBzMKbNXPXLYgK0LApjSI-oBN",
+          null
+        ],
+        "contact": "bradshields@gmail.com"
+      },
+      {
+        "id": "200805",
+        "firstName": "Brandon",
+        "lastName": "Reynolds",
+        "projectTitle": "Common Servers in a Workplace Environment",
+        "projectDesc": null,
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1zOVcEpE9NxgtjpXTLmxLcGopYYc-qlJl",
+        "images": [
+          "",
+          "https://drive.google.com/uc?export=view&id=1edQrz7_hJOd_3-Pyt2kZFKklEAF7tnNi",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1as_6f6EyN79OudOiyVbH4cpPviwlpBVs",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "Brandon.Reynolds@Rockcastle.kyschools.us"
+      },
+      {
+        "id": "200806",
+        "firstName": "Brian",
+        "lastName": "Minton",
+        "projectTitle": "Portable SSH",
+        "projectDesc": "The world is becoming more mobile and computers, it seems, are easily accessible these days and our information is scattered across multiple systems. It is my goal to make it safe and easy to access information one might have on a home computer. With portable SSH a flash drive can be transformed into a secure connection to one's home network. Files can be transferred fast and a user will be able to view their home PC as if they are sitting at it.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1y_bDNJhBZusKR39MrsGff__ZTaoXDU7e",
+        "images": [
+          "",
+          "https://drive.google.com/uc?export=view&id=11mKNtbfjlqbnqnfcwuS9IqYE4hRIKiZh",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1CR64UGHh3em_YYlcntC5rXP_AVdcIymR",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1G945LtqvTRR6v9CvGQ5icccFXTd0HYhx",
+          null
+        ],
+        "contact": "brianminton1@gmail.com"
+      },
+      {
+        "id": "200807",
+        "firstName": "Christopher",
+        "lastName": "Murray",
+        "projectTitle": "Virtual Machine Cloning",
+        "projectDesc": "This is a form of cloning virtual machines over a network from one system to another using remote deployment via a program called Radmin. It allows for the administrator to gain control of the remote system and transfer the virtual hard drive and any other files from the local system to the remote system over a network connection.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=18D85fchxDbx2mdcWKyhYf_IE2m04aHUB",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=18D85fchxDbx2mdcWKyhYf_IE2m04aHUB",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1chuyLKxcN4ad3ztgDxDiVzAeintT1Wcf",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1crAuxKrpc7bbBlEADwnOtyZX5vrCQRnd",
+          "https://drive.google.com/uc?export=view&id=1wfo_sDONejufZbtZdQAFkFuEYkYe5V8S"
+        ],
+        "contact": "chrishm07@yahoo.com"
+      },
+      {
+        "id": "200808",
+        "firstName": "Daniel",
+        "lastName": "Mattingly",
+        "projectTitle": "Network File Access & Security",
+        "projectDesc": "Large corporations tend to have issues with employees access network files that they should not have access to, like a hospital secretary having access to patient information. This can be solved by using Windows Server 2008 and Active Directory to limit access to various network resources, depending on which group(s) a user belongs. My plan is to use these two software solutions to create network file shares with limited access based on group membership.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1_sLZaeUxc90s6IUguupWeNPoSx2_a4lY",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1_sLZaeUxc90s6IUguupWeNPoSx2_a4lY",
+          "https://drive.google.com/file/d/1NpJyNpggMFxFcPkcMe0FGxvpG95QH6KU/view?usp=sharing",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1l7AG6fzlGN8NO9GRFG9B6EF4nBqbO1mk",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/file/d/1HkUQzERTs8hr1pJrzx49XKTLJwiq_vba/view?usp=sharing",
+          null
+        ],
+        "contact": "dan_mattingly@yahoo.com"
+      },
+      {
+        "id": "200809",
+        "firstName": "Jason",
+        "lastName": "Anders",
+        "projectTitle": "Home/Office Security Server",
+        "projectDesc": "My Home/Office Security Server project deals with network security, as well as surveillance. There are six computers on my network running both Sindows and Linux. Using Server 2008, Active Directory is implemented for authentication to the network and network shares. Each user has a quota on server-side storage, and file screening is used to prevent certain file types from being allowed, such as .exe files. ISA Server was also originally going to be used, but it turned out not to be compatible with Server 2008. Four surveillance cameras are installed inside my home, two of which are infrared for night vision and two that are normal dome color cameras. They connect to a PC using BNC cables and a PCI card. The software that is used to manage the cameras is from EZWatch Pro. From the management console of this software, the cameras are configured to record at all times and detect motion. When motion is detected, an e-mail is sent to me informing me of the motion detected along with pictures of the room at that time. If I choose, a phone call can be made to whoever I want to inform them of the motion detected as well. In the near future, I will be adding biometrics to be used with Active Directory for network authentication, and for entry into my home via Active Directory. Four more infrared cameras will be installed outside of my home, and the two indoor dome color cameras will be replaced with infrared cameras as well.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1tCdzaNliGNRbiNX9rXc_AAbZTl2VaCtc",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1tCdzaNliGNRbiNX9rXc_AAbZTl2VaCtc",
+          "https://drive.google.com/uc?export=view&id=19_UQeOOyitZzct1d6C-2GebGv_OhVcgv",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1SfzQ8eWlBnfAU2vERkwgtLyubUaidKZ2",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1O30JO9CafGTWI1NAvThL2x5bCpoCR9bo",
+          null
+        ],
+        "contact": "jason.w.anders@gmail.com"
+      },
+      {
+        "id": "200810",
+        "firstName": "John",
+        "lastName": "Noe",
+        "projectTitle": "Color Sensor",
+        "projectDesc": "An automated color sensing system has been developed. An array of LEDs and photosensors are interfaced with a computer system using a micrcontroller.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1bq53fJGA5BHlXX3xjRTrcm5GbqZODeC-",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1bq53fJGA5BHlXX3xjRTrcm5GbqZODeC-",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=13hNyuTqkko8tnHRBUKrRC-JbCw2vvDMi",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1BnsWZrL4o6xW0QngtgqRJVXCTPv-IXlf",
+          null
+        ],
+        "contact": "johndavid1st@bellsouth.net"
+      },
+      {
+        "id": "200811",
+        "firstName": "Kelli",
+        "lastName": "Dean",
+        "projectTitle": "E-commerce project including web based design and hardware backup implementation",
+        "projectDesc": "My project was to designed for e-commerce setup and sales. The project involved many subcategories including home network setup for a small business environment, security applications including securing server as well as backup devices, backup storage device setup, implementing a photo storage share for web pages, and designing two web stores. The project was a success, and can be viewed at www.geekabytegadgets.com for my prostores site, or at www.geekabytegadgets.biz or www.geekabytegadgets.org for my EBay premier store.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1WAn64cZq3iGqhs6OoUv_8X_-mbWQ03fr",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1WAn64cZq3iGqhs6OoUv_8X_-mbWQ03fr",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1PY72PlD639TEF4nMLAls2JKxvfSxLf8M",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1vhjtt7_aNMSVW7vSgF1UJP6wXh7xIdH1",
+          null
+        ],
+        "contact": "kelli468@aol.com"
+      },
+      {
+        "id": "200812",
+        "firstName": "Kenneth",
+        "lastName": "Gilliam",
+        "projectTitle": "Project Multicaster",
+        "projectDesc": "Deployment of multiple network client operating systems and supporting software is a time consuming process. Commonly, bootable floppy disks or CDs are created for Symantec Ghost clients during a network client deployment operation, but these mediums have many disadvantages. Project Multicaster is a solution to these problems. Multicaster is designed to save time during a deployment operation by booting from a specially prepared USB flash drive with a large amount of storage (for hard disk image files) that loads full network support automatically.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1olUHpBWqg1WdBLksb1rxUEl5y93Nykis",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1olUHpBWqg1WdBLksb1rxUEl5y93Nykis",
+          "https://drive.google.com/uc?export=view&id=1TQmFHx9JYCDWwqI5inOpXdXj3_i8DIDb",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1jLW-AcLHiRAt0UZRroU374Eb17t-8eNd",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=17fbkmJr9fz-JeDDM2-nkdOFomfE0h5_i",
+          null
+        ],
+        "contact": "shadow0384@gmail.com"
+      },
+      {
+        "id": "200813",
+        "firstName": "Kent ",
+        "lastName": "Mullins",
+        "projectTitle": "Redundant Camera Control",
+        "projectDesc": "This project involves the improvement of an existing camera control device. The project was completed on a system used at Fairview Baptist Church to record services and plays. Being a small church, Fairview Baptist is actively seeking to improve the sound/video equipment while being on a fairly tight budget. The goal of this project is to improve the effectiveness and usability of the existing camera controller box. In order to accomplish this an Atari joystick, switching triac card, and a device enabling switch are added to the existing control box circuit to provide remote operation and eight direction control capability in an easy to use, compact joystick.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1TOjxh9t8zX7LedSubMRGWS69XeqSjDac",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1TOjxh9t8zX7LedSubMRGWS69XeqSjDac",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=10ygaqJMeN_s-lYF18STUOFLT-sNwss-P",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1mv8E0dovDXJZzTW6LXDhXPFuW71NVjzw",
+          null
+        ],
+        "contact": "mullins.dk@gmail.com"
+      },
+      {
+        "id": "200814",
+        "firstName": "Paul ",
+        "lastName": "Coleman",
+        "projectTitle": "Automated Cafeteria Solution with Biometric Authentication",
+        "projectDesc": "School lunch programs are over-budgeted and mired in red ink. Cafeteria lines are inherently inefficient; many cafeteria workers, such as the cashiers, perform tasks that can be automated. Students are forced to wait 10-15 minutes in the cafeteria line and then gulp down their food. Other problems such as students paying with physical currencies can be solved by implementing an automatic debit transfer system. Also, parents are left out of the loop when it comes to the knowledge of what their children eat in the cafeteria at school. What if one program could combine all these tasks into one simple interface that even a child can operate? The “Automated LunchLady” is the answer. The “Automated LunchLady” authenticates the ID of the student through the use of a biometric fingerprint scanner. It then uses a straightforward graphical user interface to allow students to select their food. Lastly, it automates the transfer of funds from the students debit account, eliminating the need for physical currency, and sends and email stating the contents of the child’s food selections to the child’s parents at the same time. This is a simple solution to a complex problem in many overcrowded school cafeterias.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1UQj13ato_gL8eaj7jXL_5B1MoMVP729z",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1UQj13ato_gL8eaj7jXL_5B1MoMVP729z",
+          "https://drive.google.com/uc?export=view&id=1u5Ighiv4fTXbbcBi0Y8F-Ve363e-bKKx",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1b93SG18mKd_dIrjNklR30p8QiynROn3E",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=187kRSwFBjrTYi1jcT7E4ljVpodmdkZt6",
+          "https://drive.google.com/uc?export=view&id=1vnpDbei1IfzaJOiAma39gAE1YpAGgTLa"
+        ],
+        "contact": "pj.coleman1@gmail.com"
+      },
+      {
+        "id": "200815",
+        "firstName": "Raymond",
+        "lastName": "Ross",
+        "projectTitle": "Group Policies and Security using Windows Server 2008",
+        "projectDesc": "The purpose of the project is to set up a small network using Windows Server 2008. I wanted implement group policies and show some of the security settings/ software Windows Server 2008 has to offer. With this I have set up two stations with two different users to show the group policies in relationship with the user. I also wanted to prove that windows server 2008 is good for setting up a small business network atmosphere.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1HXqU-0ZmkAyGWcXyN8-Bwb2W6WQY8TnF",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1HXqU-0ZmkAyGWcXyN8-Bwb2W6WQY8TnF",
+          "https://drive.google.com/uc?export=view&id=1BMHp_iMRLtP_Rz25qN06nS8LXXVZdKzS",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1U3lPirGvt-hhYUdZz0eXvKPr1QE8sf7U",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1Ske_-Q2Ob_1ajx4_ewxjlPC2yES4IMB_",
+          null
+        ],
+        "contact": "rayiii3@juno.com"
+      },
+      {
+        "id": "200816",
+        "firstName": "Robert",
+        "lastName": "Brandenburg",
+        "projectTitle": "Home Automation with Voice Control",
+        "projectDesc": "For my project I used X10 technology, ActiveHomePro software, Bill’s Voice Commander, and a USB-UIRT to control lights, small appliances, and my television using my computer, or a universal remote, or with voice commands.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1WKtQEJt86Mdsm7Hly5SsFhbPGLDe-wFl",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1WKtQEJt86Mdsm7Hly5SsFhbPGLDe-wFl",
+          "https://drive.google.com/uc?export=view&id=1FGmEKVbPbSzCSivGRZacbmhcoPfmgxb-",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=11OSaA8hIZstY77_UBS5lpoeUXQDmHaTv",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=18RV6UQ3aSbwuBd0y54daul7dS2LLs1BT",
+          "https://drive.google.com/uc?export=view&id=10g9uog8bLhsi6x6iRnNONtIbLXuxz2iY"
+        ],
+        "contact": "robburg313@yahoo.com"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": "Spring 2008 grads",
+          "name": "(Left to Right) Brian, Jason, vigs, Kent, Adam, Brian, Tony, Robert, Kelli",
+          "url": "https://drive.google.com/uc?export=view&id=1ka54bS6hljjB23UbqSkOtAkubHpOTGfX"
+        },
+        {
+          "title": "Summer/Fall 2008 grads",
+          "name": "(Left to Right) Raymond, Brandon, Brad, Paul, Chris, vigs, Dan",
+          "url": "https://drive.google.com/uc?export=view&id=1UI8LfOhEaqwudUGCTc1otgOv2S1APXuY"
+        }
+      ],
+      "outstanding": [],
+      "presenter": [],
+      "ga": []
+    }
+  }

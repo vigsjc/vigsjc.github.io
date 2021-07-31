@@ -1,0 +1,522 @@
+{
+    "studentData": [
+      {
+        "id": "200601",
+        "firstName": "Aaron",
+        "lastName": "Humphrey",
+        "projectTitle": "THE PEACE OF MIND DOG CARE SYSTEMS V1.0",
+        "projectDesc": "First, how in the world would a person come up with project like this? Well, when a person that world a lot and has a new house dog that isn't used to spending a long time away from its owner. There are a lot of bookst that state that when a puppy is away from its owner they eat and find things to chew on or find threates taht they have hidden form times that they are alone. One thing came to my mind and that is an all-in-one dog care system that feeds, provides water and gives treats. We all know that they are automatic water and feed dispensers. But no where was there a treat dispenser. So I took all three ideas and combined them into one big glass case box. All that was left was to decide how to do all three things into one and keep it cheap. One thing comes to mind is 'Ebay'. I figured that is way I can keep it cheap. That takes care only thwo things - the feeder, water bowls and a PLC. Yes, a PLC, it will control up to 8 outputs and accepts 16 inputs. This controller allows me to have inputs for manually operated controls and give some awesome sensors for automated control features.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1yYRm0_V4DImHLpuFAYVXSFcsq1hBaalj",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1yYRm0_V4DImHLpuFAYVXSFcsq1hBaalj",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1kGmGSbt-YhpdGD-vtyoY8EfyvELvmdFB",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1e46w7YQQ5gpjBk3tCv7p6ZTUQuuOGksk",
+          null
+        ],
+        "contact": null
+      },
+      {
+        "id": "200602",
+        "firstName": "Alan",
+        "lastName": "Maynard",
+        "projectTitle": "AL's MASTER-SLAVE PLC BASED PENITENTIARY LOCKDOWN",
+        "projectDesc": "PLC’s (Programmable logic controllers) have proven their usefulness, toughness and durability in industrial environments. But how does one network them all together? One way of achieving this is through a Master-Slave PLC configuration. What the Master/Slave configuration is, it’s a setting that you the programmer set up. Such a configuration could be useful in an assembly line which requires both local controls for the worker set as the slave and another set of controls for overriding the local control if needed, those set by the master. A master PLC can sequence the operations of several PLCs using this type of configuration. In the project it has been used for initiating the lockdown of a prison in the event of an escape attempt.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1LZO1cPATcy4bOqHr7D2Wkg976MvochFs",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1LZO1cPATcy4bOqHr7D2Wkg976MvochFs",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1dP2BhbML46lie73MkF9z1pgHGPdDYYdm",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=103LsMsuTBJ_Cn0CnuOmYvyAF1yW-j6Y1",
+          "https://drive.google.com/uc?export=view&id=10uBuqQxK6w02KMGZYAS0tjDU9hywY9Fh"
+        ],
+        "contact": "alan36chambers@hotmail.com"
+      },
+      {
+        "id": "200603",
+        "firstName": "Alex ",
+        "lastName": "Trent",
+        "projectTitle": "KATYALIX LINUX",
+        "projectDesc": "Katyalix Linux is a Linux 'LiveCD' distribution based on Knoppix in Russian providing the ability to enter Cyrillic characters into any part of the system. Specifically because there is no debian based live cd distribution caters to Russian. Katyalix will be a live cd linux distribution in both Russian and soon to support English. It also supports Cyrillic characters in every part of the system possible, including important programs for everyday users like office programs and chat programs. This distribution is a bootable iso as well as installable. The goal of this distribution is to bring an easy to use Linux to Russian speaking people. This distribution is Debian based for apt-get/synaptic support. This distribution attempts to solve the lack of simpliclty for typing Cyrillic characters easily in linux by creating a downloadable/cd-bootable Russian debian based distribution. The project summary is posted on http://katyalix.sf.net",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1vCtOFOlO914l722oOflgpNz3QKGCqddK",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1vCtOFOlO914l722oOflgpNz3QKGCqddK",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1QK3MDFkH9F9uUWarAfz6F1iF_FoNP_2F",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "coagen@gmail.com"
+      },
+      {
+        "id": "200604",
+        "firstName": "Derek",
+        "lastName": "Smith",
+        "projectTitle": "Autonomous Vehicles",
+        "projectDesc": "This project consists of a small autonomous robot created from parts taken from a Parallax Inc. kit, but controlled by a circuit sensor system that I created. The robot was motivated by the DARPA Grand Challenge, on a much smaller level and constructed around the premise of the NAIT competition and the newly added autonomous section of the competition. The robot isn't ready to compete just yet, but the understanding of its controls may lead to better controls for use on the actual NAIT robot. Following the specifications for the NAIT competition, which states that the robot must be able to follow an inch and a half wide piece of aluminium tape I came up with the simplest possible solution. Even so the project provided plenty of problems for me to deal with as any project will. The tape, specified in the NAIT outline is conductive making the soution much less complex than expected. The solution was to create a set of parallel circuits which used this property. The project did finally come together and the robot followed the path of the tape quite well, even though there were several glitches that had to be worked out.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1VDVUsyb3FfmBybAwX2em0q-qE_48Irqd",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1VDVUsyb3FfmBybAwX2em0q-qE_48Irqd",
+          "https://drive.google.com/uc?export=view&id=1Ro8kVQQUg84T_PS-FIWvDxFYa7MenxtM",
+          "https://drive.google.com/uc?export=view&id=156qOmPQvU3beg0rzcnCCS68wwR06pX6w",
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1bYdLypKO9vTRQbwVkripKNZknFI3C2xR",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1-VTwTcGz8IY5HJYzjUEztNlLVbrDI9px",
+          null
+        ],
+        "contact": "bruins_78@hotmail.com"
+      },
+      {
+        "id": "200605",
+        "firstName": "Jacob",
+        "lastName": "Cecil",
+        "projectTitle": "AERIAL OBSERVATION PLATFORM",
+        "projectDesc": "This simple UAV (unmanned aerial vehicle) was a proof of concept project where I wished to prove small scale aerial surveillance was possible with off the shelf components. There needed to be a craft capable of stable remote controlled flight, and a wireless camera small and lightweight enough to fit into that craft. Then there needed to exist the infrastructure on the ground to take the video feed from the plane and manipulate it either onto a storage medium for later review or live broadcast to somewhere else. I propose to use an electric powered model airplane, attach a wireless camera, then direct the feed either into a MiniDV camera or directly into a laptop for live streaming onto the internet.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1gpcSaONwPUPazhr2ZOuPeYKGyBIPSUKV",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1gpcSaONwPUPazhr2ZOuPeYKGyBIPSUKV",
+          "https://drive.google.com/uc?export=view&id=172CCAk056Ksvywd68ibG-P5uN24lzswj",
+          "https://drive.google.com/uc?export=view&id=1mszF01fFfaLDWP-gEj27npzqcJRmEfA9",
+          "https://drive.google.com/uc?export=view&id=1z67LRsXVJMXhHJd2j5aEFtdSKY8ZtUBh"
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1gLINL9qsw7Jhkk3O9X8aAvVtq3FhwZtu",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1TBoCBxlrMppCUla4yOWkAFYK6BDx6SUg",
+          "https://drive.google.com/uc?export=view&id=1z2ldzFsguuaFjThfrCHN8EC1BA6qVx9y"
+        ],
+        "contact": "jacob.cecil@Gmail.com"
+      },
+      {
+        "id": "200606",
+        "firstName": "Jason",
+        "lastName": "Looney",
+        "projectTitle": "NETWORKING OPERATING SYSTEMS INTEROPERATBILITY",
+        "projectDesc": "The intended goal of this project is to create a simulated WAN network that has five domains with different Operating systems working along with Microsof't Active Directory. The domains include Windows 2003 Server, Windows 2003 child, Unix running FreeBSD, Linux running Open Suse 10, and an Apple OS X. The scope of the project was narrowed owing to hardware and software compatibility issues.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1oQQPKEpCej08dYF2Vqpo4JSpwbwWzf9z",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1oQQPKEpCej08dYF2Vqpo4JSpwbwWzf9z",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1-DHoQp30uiCuqhzUwdEgqh0q-q2hq6us",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": null
+      },
+      {
+        "id": "200607",
+        "firstName": "John",
+        "lastName": "Halcomb",
+        "projectTitle": "CHILD AUTOMOBILE SAFETY",
+        "projectDesc": "This project attempts to solve the problem of identifying when a child is left unattended in a vehicle. In today’s world there is children who die from neglect. Children are left in cars in extremely hot temperatures and suffocate. I plan to devise a system that would be able to detect and to take action to save the child’s life. This system would have sensors to determine the location and age range of a child and call for help using On Star.It offers the design of an early warning and call system that would save a child's life, using microcontroller programming, several different types of sensors and an alarm notification system.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1LLQDWCqswU_5TfHYcVCbGPyaBAZwfzZh",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1LLQDWCqswU_5TfHYcVCbGPyaBAZwfzZh",
+          "https://drive.google.com/uc?export=view&id=1DSJ7vXRBRhR7-gOA3ooMxrKcxahqKIer",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1v-gosHbzGNyolrrh5IEozmNR5cp4hfQw",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=19sZ_6Uca0Zgxi93gHs6AlNC2OZUDtngK",
+          null
+        ],
+        "contact": "halcombj@hotmail.com"
+      },
+      {
+        "id": "200608",
+        "firstName": "John ",
+        "lastName": "Johnson",
+        "projectTitle": "PLC Based Liquid Mixing Unit",
+        "projectDesc": null,
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1LCTCjhhS60r6odpzGQERc4Ge0RthmNbU",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1LCTCjhhS60r6odpzGQERc4Ge0RthmNbU",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1eMeVqwvwYw70ps2adAie9E3tTcMV4jjg",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": null
+      },
+      {
+        "id": "200609",
+        "firstName": "John",
+        "lastName": "Saylor",
+        "projectTitle": "MICROCONTROLLER BASED WIRELESS CAMERA SECURITY SYSTEM",
+        "projectDesc": "Have you ever wondered what was going on at your home while away at work or on vacation? This has always been something that I have been interested in ever since our house was broken into when I was 13. We had just recently moved into a new home and within a few weeks of living there our house was broken into, luckily we had a security system. However, we did not have video surveillance. Since that time I have wanted to experiment with cameras and ways of securing homes. Now that I am in college and have the abundance of knowledge and resources I have perused this security camera issue in my senior project. Using wireless cameras, webcam server programs, and microcontrollers I am setting up a home security surveillance system. This system can be set up easily with some time and not much money at all. My solution is to build a working microcontroller which will drive a stepper motor. This stepper motor will turn a wireless 2.4GHZ camera which will send a signal to a computer acting as a streaming media server. The server will broadcast the signal to the internet so an individual can access the camera and see what is happening at their home or where ever the camera is mounted.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1dsAIPWzFlngdmNoYPWV1TpM9WhStYRWO",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1dsAIPWzFlngdmNoYPWV1TpM9WhStYRWO",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1jnDeDf6uORMISg8pbybduLjbJvQclyf8",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/file/d/1aSuyWBFfzXpY8BsijRBuafMU-gwXel8P/view?usp=sharing",
+          "https://drive.google.com/uc?export=view&id=1sAU4Ux6rqmQZ2U12FykUPCYzNiAgmuV7"
+        ],
+        "contact": "john_saylor@hotmail.com"
+      },
+      {
+        "id": "200610",
+        "firstName": "Jose",
+        "lastName": "Matthews",
+        "projectTitle": "LINUX CLUSTERING USING OPENMOSIX",
+        "projectDesc": "Universities and research facilities are know to need super-powered computers to do numerous tasks such as calcuations. The cost of such computer power can soar into the millions of dollars. Because of thelack of funding to spend such an immense amoutn of money, ways of gettingaround this issue have been found. The use of computer clusters has been implemented in many of today's facilities and has evolved to match and even surpass some of the most powerful supercomputers in the world. Computer clusters are the choice of many institutes because of: cost, power, user friendliness and reliability.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1pItJcK3GiYd4I9iJKG1oHbOhSEiL6mor",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1pItJcK3GiYd4I9iJKG1oHbOhSEiL6mor",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1KaIg9PxR5yTuhZxhknb5fItvdshC3o21",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=14pgOcvp7uYxxHaNkiKYYMngu1_Pkjq-_",
+          "https://drive.google.com/uc?export=view&id=1Fiw65DoM0-XV_1z5B0b6CAvO9JqPXlla"
+        ],
+        "contact": "Luminescense@hotmail.com"
+      },
+      {
+        "id": "200611",
+        "firstName": "Keith",
+        "lastName": "Jones",
+        "projectTitle": "MICROCONTROLLED HOME",
+        "projectDesc": "In this project a microcontroller with inbuilt network connectivity is setup and programmed to accept inputs from a web page and control normal household appliances.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": null,
+        "images": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1SPSO9ERjg2JaCF4X0P2KMjokHjnvouhP",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "keith.jones101@gmail.com"
+      },
+      {
+        "id": "200612",
+        "firstName": "Kevin",
+        "lastName": "Reynolds",
+        "projectTitle": "MICROCONTROLLER BASED PARKING GARAGE",
+        "projectDesc": "The technical problems that I had in order to implement my microcontroller based parking garage are: How to get the elevator to go up and down?, how to get the gate to raise and lower?, how to get the elevator to go to each floor?, how to get the LED’s to light up when a car is parked in a space?, How to program a microcontroller?, and what size stepper motor should I use? To get the elevator to go up and down: I needed to attach elevator string to the stepper motor, attach the stepper motor to the microcontroller board, and write a program. To get the elevator to go to each floor, I need to: connect button wires to microcontroller, and write a program. To get the gate to raise and lower, I need to: add keypad to enter correct code, mount gate to motor, connect motor to forward/reverse circuit, connect forward/reverse circuit to microcontroller, and then write the program. To get the LED’s to light up when a car is parked in a space, I need to: mount LED’s to board and mount to building, connect LED’s to circuit board, and then connect photoresistors to circuit board.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1ndJ7v37CZ5De7-wsVZeHbEkSL5gmc2yR",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1ndJ7v37CZ5De7-wsVZeHbEkSL5gmc2yR",
+          "https://drive.google.com/uc?export=view&id=1ZUWpe-l4rXDjupkyrXDf009tAPx9knUl",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1PmMpRKGrK8HkDlgZCCRMLN7qVPgKcU84",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "Kevrey826@charter.net"
+      },
+      {
+        "id": "200613",
+        "firstName": "Mark ",
+        "lastName": "Lewis",
+        "projectTitle": "SMART HOME",
+        "projectDesc": "Keeping a home and your self safe, when you are there or not is very important. Lights not on when you get home late at night, and not having your lights on when you are gone for the weekend. With x10 products this problem can be taken care of. Lights coming on at a set time, and dim down when time for bed. Being able to manage lights by remote access from any where in the world.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Js1bl7dhrURh2CYeGMfiVcGEULnSXUdf",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Js1bl7dhrURh2CYeGMfiVcGEULnSXUdf",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1kVlBJKeMsxB1-wNQqp27yzzxo7F05uBc",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "bigk4232@hotmail.com"
+      },
+      {
+        "id": "200614",
+        "firstName": "Michael ",
+        "lastName": "Disney",
+        "projectTitle": "MOVIE TERMINAL APPLICATION",
+        "projectDesc": "Waiting in long lines is not my idea of leisure time. Though every trip to the movies ends up this way. One or two cashiers waiting on customers one at a time and usually not in any hurry to do so. Now lets look at department stores and grocery stores. They have lines just as the movie theaters, but to solve some of the problem they introduced self-checkouts. These self-checkouts allow customers to ring up their own purchases and bag them, while one cashier watches over four or more terminals. Now take this same technology and apply it to the theater scenario. Now one cashier can monitor multiple customers at one time making movie lines a thing of the past. This paper goes over how the technology could be implemented into the theater scenario and also how it could add features such as movie previews for the customer. It goes over how to use software like Visual Basic to create the programs and how to network them together.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=10KHPUMPQ_nmSSE-bRjvlT6F1jFUkJwSH",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=10KHPUMPQ_nmSSE-bRjvlT6F1jFUkJwSH",
+          "https://drive.google.com/uc?export=view&id=1kxfzJzCzrbSWmkuFnqHun8fRKYlgdYXI",
+          "https://drive.google.com/uc?export=view&id=1PurEBUOri5jklQMb5iOjF3gQYe9chDC-",
+          "https://drive.google.com/uc?export=view&id=11SUrz5he4mFObTYktcJx9KmRctE6sZR_"
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1QxBaGkfP6VUoMWOxG1fZyQaOiTGNesVB",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1md7NVbrkvOodb6Agji3AQDIOxqbE8vo0",
+          null
+        ],
+        "contact": "wdisney20@hotmail.com"
+      },
+      {
+        "id": "200615",
+        "firstName": "Robert ",
+        "lastName": "Ibershoff",
+        "projectTitle": "COMPUTER CLUSTERING WITH LINUX-ON-CD",
+        "projectDesc": "Processing power is in high demand in the academic research world, and cluster computing software offers a financially feasible alternative to supercomputers in terms of this processing power. There are several types of computer cluster structures, each suited to a specific kind of operation. There are also many different types, brands, and distributions of clustering software available, both commercially and through the GNU public license. One such software distribution is a Linux-based package called openMosix, and it is used through the ClusterKnoppix version of Linux to construct a very small cluster for demonstration purposes here. It is built by booting several computers on an established LAN with the ClusterKnoppix CD. The cluster sets itself up with almost no user maintenance as the members boot, works efficiently to distribute a test load sequence activated on one of the nodes, then is torn down simply by removing the CD from which ClusterKnoppix boots, demonstrating the speed, simplicity, and non-invasiveness of the ClusterKnoppix implementation of openMosix.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1mXTGLevYPWZvIFMkLNXpUkCGFBXGzkwg",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1mXTGLevYPWZvIFMkLNXpUkCGFBXGzkwg",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1v3BtALNQB4tQdFoUx0ZH3G9cXgKD6MCT",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1MF4kXH8PATeqNqWkmh3hG7R653Tshwnv",
+          null
+        ],
+        "contact": null
+      },
+      {
+        "id": "200616",
+        "firstName": "Robert ",
+        "lastName": "Schidle",
+        "projectTitle": "REMOTE DOOR LOCK CONTROL",
+        "projectDesc": "Releasing the lock mechanism on a basic home door lock requires a significant amount of force against the lock latch itself in order to push it open. Also, for maximum security this mechanism should also automatically lock the door back after a few seconds that allow for entry time. Doing so involves the use of a stepper motor connected to a programmable drives board with a basic stamp microcontroller. The basic stamp microcontroller can be programmed to turn the stepper motor clockwise for a set amount of turns and then to turn the microcontroller back counterclockwise the same amount of turns after a brief pause in between. A screw, or another rod-like object that will fit into the groves of the stepper motor, will be used to push out from the door frame when the stepper motor turns clockwise, thus unlocking the door, and then pull back into the frame when the motor runs counterclockwise, locking the door back. The stepper motor will be mounted on the door frame (not the door), a few inches back from where the latch hole is. This entire circuit is powered by an X10 appliance module connected to a car cord adapter (which drops the voltage of the power supply to 6V). This enables the system to be hookup up to a home PC via X10 and accessed remotely over the internet.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1B22Cd9gFDjao4c87IzATfE67sRMPGX_a",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1B22Cd9gFDjao4c87IzATfE67sRMPGX_a",
+          "https://drive.google.com/uc?export=view&id=1ymIrwm2e4vYfu02Nf75sOnMGGcHXiBBi",
+          "https://drive.google.com/uc?export=view&id=1Oqsh2FtntHdv_KI79Rom_KwNJqhWVlU_",
+          "https://drive.google.com/uc?export=view&id=12XAnoRoSA4pj7U5dHGt7TCzN3dkN_3-n"
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=15L6t6C6w9qk63im4v8nvCPayz8tTMX9z",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1eMTiZFKOO2SgnPs4TcIbiXpNHDJCrLns",
+          "https://drive.google.com/uc?export=view&id=1bYS9YR472FWdAEJ7LYSKQ4SoNewTYEGI"
+        ],
+        "contact": "n2void@hotmail.com"
+      },
+      {
+        "id": "200617",
+        "firstName": "Ron ",
+        "lastName": "Acker",
+        "projectTitle": "MICRO CONTROLLED CABIN LIGHTS",
+        "projectDesc": "How to provide controllable lighting system for a cabin built a long way from any power grid. This system needed to be able to support itself when left for long periods of time for security. One of the best types of security is lights that can be turned on when nobody is there to make it look like there is someone at home either by time or motion sensors. Another benefit is having the lights ready to be turned on by a remote or motion sensor when you arrive in the dark and do not have to be hooking up batteries that you have hauled to the cabin. This project is a solution to the problem that was developed though many hours of research, design and trouble shooting using a microcontroller and Powerline Technology to control the two light circuits.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1hZL9RLsY7gsf9GsxPusPeuQoMPGizmif",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1hZL9RLsY7gsf9GsxPusPeuQoMPGizmif",
+          "https://drive.google.com/uc?export=view&id=12qlfB19vNpBrwoQTkAxocFeTRFVyidzs",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=10kcmBQzgtfP8w6NM5M4Vv1BTco4K0bT9",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1CjVf17g6NSJa-c8UltELGRhV0VXFm5No",
+          null
+        ],
+        "contact": "racker@ure.net"
+      },
+      {
+        "id": "200618",
+        "firstName": "Ron ",
+        "lastName": "Reese",
+        "projectTitle": "CRANE CONTROLLED VIA A MICROCONTROLLER THROUGH A NETWORK",
+        "projectDesc": "This project is the result of a 10:1 scaled crane which in this occasion is a full size crane controlled using a microcontroller. The network part of the project consists of a program Lalim parallel Control Basic, a parallel cable and wiring to the Stamp. Opto isolators were used for isolating the control and power sections of the electronic equipment. Several different sensors were used for obtaining accurate position feedback. Programming of the microcontroller included direction control based on manual and feedback signals, as well as for accepting control signals from the parallel port of a computer over an Ethernet network.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1iDRHNhxDFsqwCVVkhYV3IIvefYhBrd-S",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1iDRHNhxDFsqwCVVkhYV3IIvefYhBrd-S",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1JAfgOoHMWBbydQ8LzSsHC2PbWcOWOK0R",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1to8Pduq386l-mrJvuyLYKtRf3Kq0ooUD",
+          "https://drive.google.com/uc?export=view&id=1cGV4xS8JfLQiIAawIm9vKjj8Q2tINaQE"
+        ],
+        "contact": "ronreese@hotmail.com"
+      },
+      {
+        "id": "200619",
+        "firstName": "Tony &",
+        "lastName": "Eric",
+        "projectTitle": "Home automation: Web based control",
+        "projectDesc": "This project addresses the concepts and challenges related to web based home automation. It considers possible solutions for controlling several hundred devices around the home, with the control of web enabled devices such as cell phones and other wireless devices. It will explore a number of different products that enable control and usability over the internet, and address several advantages of using the home computer with a USB interface.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Gg6FepA9_S6ziPd6wVCp01ewZQExIMqP",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Gg6FepA9_S6ziPd6wVCp01ewZQExIMqP",
+          "https://drive.google.com/uc?export=view&id=1I756jPLr-ZSA8KR7642g7SmBxBiLTHWy",
+          "https://drive.google.com/uc?export=view&id=1hHB9izdvLmVy8mAAErf4qxPzBLUs_WJ_",
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1WK8ZLRcVReTFpIKkx3cb1Zl8uVlJBFII",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1gOYRCXJQZq65DZFzJbrASZ6MZw9A9GCF",
+          "https://drive.google.com/file/d/1VipSR1H-JKjembScc9OyW5pU6LDpWt46/view?usp=sharing"
+        ],
+        "contact": "eripoy@hotmail.com"
+      },
+      {
+        "id": "200620",
+        "firstName": "Tremanye",
+        "lastName": "Perkins",
+        "projectTitle": "FRONT DOOR MONITOR",
+        "projectDesc": "The Corporate standards of today’s modern society are forever throwing large demands at their employees for more time. As we work our eight hour daily shifts we want to be able to come after the end of that eight hour shift. However, if we do, we’re fired. While we put on the happy faces for those above us some people yearn for an extra dollar on the inside. Home businesses seem to be on the rise for those who don’t receive the salary they deserve or those who just want more money. That’s understandable, right? Of course. While working their regular 9-5 job hours when do they have time to take care of the most important things at their business at home. How will they know if a package arrives during the day or whether a customer stops by wanting information about a product or even wanting to purchase or pick up a purchased? Well one thing is for sure, they can’t while at work. I have an alternative to this problem while working a 9-5 job and its all in one package to fit your needs, X10. X10 products will enable you to view and control cameras, lamps, appliances, T.V.’s, etc from any remote location. While your at work you can indeed know when, what time, and who arrived at your house on a given day, while your at work. This solution comes in three small software downloads from X10.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=15y33o6t-Q7jktykCnqnPgki4oJKosyY9",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=15y33o6t-Q7jktykCnqnPgki4oJKosyY9",
+          "https://drive.google.com/uc?export=view&id=1r4HulmTok9_oyY-8320WfOydmQAdLahK",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1VTiqvST8nwU9YHmAgjdcqmlGcDqmWVps",
+        "brochure": null,
+        "video": [
+          null,
+          null
+        ],
+        "contact": "tremayne.perkins@gmail.com"
+      },
+      {
+        "id": "200621",
+        "firstName": "Wendy",
+        "lastName": "Mills",
+        "projectTitle": "WINDOWS SERVER 2003 WITH ACTIVE DIRETORY AND GROUP POLICIES",
+        "projectDesc": "This project undertook the setup, networking administration and security of a Windows 2003 system. It involves a small Windows 2003 Server set up with DHCP, DNS, and Active Directory and security features. Group policies were used to permit and restrict resources to users.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1MQtH2hEOyJYvn8dr_hdGbbO9XgyN3Euc",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1MQtH2hEOyJYvn8dr_hdGbbO9XgyN3Euc",
+          "https://drive.google.com/uc?export=view&id=1n0dYnlmnlkSwYmDaR6lBAjyw-h2oZeFG",
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1WHf9Y9ByCGKQi1g9I6N-nkGPCmLVlns6",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=150rdZLbdtbdrJli0dkIaEuXPr_qi4ljd",
+          null
+        ],
+        "contact": "wmills99@msn.com"
+      },
+      {
+        "id": "200622",
+        "firstName": "Wesley",
+        "lastName": "Roe",
+        "projectTitle": "PLC HOME SECURITY SYSTEM",
+        "projectDesc": "Home security is an issue facing every homeowner in today's society. It is a shame that people have to lock up their homes like a bank vault, but it is a reality most people have come to live with. This project took a look at home security and how to go about setting up an alarm on a home. The biggest dilemma facing home security is that security systems are expensive and hard to use. Most security systems also have to be setup by trained professionals. I set out to put together a cheap, quick, and easy to use home security system for this project. My proposed solution was to use a PLC and simple switches to construct a completely functional home security system.",
+        "keywords": null,
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Hh5jn9WsBjN7E_HTuFqOzEGATWOz5elF",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1Hh5jn9WsBjN7E_HTuFqOzEGATWOz5elF",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=10MoMWWhB4x8V-nO3ZxAyyU24qrTTHwZk",
+        "brochure": null,
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1kyUQR90Udig4bULl-onBMubD9l4ec2mc",
+          null
+        ],
+        "contact": "kykartracer@aol.com"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": "2006 graduating class",
+          "name": "LefttoRight: Robert, Ron Reese, Ron Acker, John Halcomb, Chen, Aaron, Mark, Al, Derek, Kevin, Jose, Eric, Vigs, Michael, Tony, Tremayne, Wes, Keith, Jason",
+          "url": "https://drive.google.com/uc?export=view&id=1oHCUhMfxzNxBd7Wkd-7XNZSmC3p8nXyc"
+        }
+      ],
+      "outstanding": [],
+      "presenter": [],
+      "ga": []
+    }
+  }

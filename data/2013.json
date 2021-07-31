@@ -1,0 +1,464 @@
+{
+    "studentData": [
+      {
+        "id": 201301,
+        "firstName": "Andrew ",
+        "lastName": "Six",
+        "projectTitle": "RED Rover: RFID Enabled Door",
+        "projectDesc": "I notice this problem one day when I was at my parents and ever since my nephew was born they had to install child safety gates. This created a scenario where every time the pets needed through the gate my parents had to stand up open the gate. So my solution was to create a RFID operated automatic pet door so they did not have to spend time letting the pets through the gate. This would involve a putting a tag on the pet’s collar that when read by the RFID reader it would sent a output signal to the stepper motor to run the door to let the pet through. Of course this would have to involve some programming and I decided to use Arduino programming since the necessary components were available and the community for support was there for troubleshooting.",
+        "keywords": "RFID, frequency range, tags, stepper motor, EasyDriver, Arduino",
+        "certificates": {
+          "CompTIA A+": "comptia.org/certifications/a"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1W9ANy_6i6g8eX_KdYsnVTFtFXqpx6UdP",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1W9ANy_6i6g8eX_KdYsnVTFtFXqpx6UdP",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1S1DM-Rk_o7_O-ogJQxGGdByYOUAfG1N7",
+        "brochure": "https://drive.google.com/uc?export=view&id=1rRy7mHirhu_Nzcu7Vj08vvI6UeBBpoca",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1ywOVAPUwTdZ8RWmOagCouajZhcrdBqj-",
+          null
+        ],
+        "contact": "andrew_six2@mymail.eku.edu"
+      },
+      {
+        "id": 201302,
+        "firstName": "Brentley",
+        "lastName": "New",
+        "projectTitle": "Home Media Center Made Easy and Fun",
+        "projectDesc": "Home media centers are a new aspect that is being added to homes everywhere. It provides the user an experience that allows them to enjoy every piece of entertainment with the push of a button. My project is a DIY and inventive way to make your media center, being able to take existing parts and making a device all your own.",
+        "keywords": "media server, home networking, Plex",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1P89YZtjC5KJI5tzTuLQ6EiJzxSuuAUpo",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1P89YZtjC5KJI5tzTuLQ6EiJzxSuuAUpo",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1PP2DMdB3cnfbmVii_kqmKq2c1XtrMGie",
+        "brochure": "https://drive.google.com/uc?export=view&id=1Tlhf25xjeTziM0KKJ80JrwVx3Ca-gC8v",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1DU-7hFCtUHFKOoLFXrPnNH52D5P6iCIU",
+          null
+        ],
+        "contact": "brentleynew@gmail.com"
+      },
+      {
+        "id": 201303,
+        "firstName": "Brian ",
+        "lastName": "Casey",
+        "projectTitle": "PHP MYWIKI",
+        "projectDesc": "In the world of modern technology Help Desk plays a vital role to the support of a company. When the IT department has an error there is no help desk to call. A lot of company IT departments are turning to internally hosted Wikis for fixes to problems the IT department may face. They can also be used for change-logs to keep documentation of changes made to servers and machines.",
+        "keywords": "wiki, change-logs, IT help desk",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1kRSY3IcwU81NHKiwykGg5Y6jlsGMhCSJ",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1kRSY3IcwU81NHKiwykGg5Y6jlsGMhCSJ",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1L9Zk55MzWDtKZ4hRvPj8u150vQp3_8u_",
+        "brochure": "https://drive.google.com/uc?export=view&id=1QBC7bqz3art56ZsPkgmXZIAwMKnZToyg",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1BMIfo3N-0lhGn8Ok01BBRx27JVrCRDtB",
+          null
+        ],
+        "contact": "brian.casey1986@gmail.com"
+      },
+      {
+        "id": 201304,
+        "firstName": "Charles ",
+        "lastName": "Vernon",
+        "projectTitle": "Solarpacking",
+        "projectDesc": "Have you ever been in the back country, or even in the front country and had your cellphone or other emergency device run out of battery? You're probably out of luck because there aren't electrical outlets integrated into the wilderness. But there is another option, solar energy. With the use of solar cells it is possible to generate enough electricity to power a hand held device such as a cellphone, GPS, or other emergency device. Now, were not talking about a typical wall outlet that puts out 120V, this is a much slower process of around 5V. The reason we are using 5V is because that is the maximum safe output through a USB port. Besides the start up costs of your solar cells and hardware, the charging rates of solar power are completely free.",
+        "keywords": "solar cells, USB charger, emergency device, cell phone",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1VU3M1fvh8VouV4EnX5m7OUB3hmBqsBtm",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1VU3M1fvh8VouV4EnX5m7OUB3hmBqsBtm",
+          "https://drive.google.com/uc?export=view&id=1c1GCdaAO0SyZHnAVidDgsk1zX7vjdXih",
+          "https://drive.google.com/uc?export=view&id=1dFzxG64lHxO3KAExpER5-JgJng42V5u3",
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1Ga1_J9wOf118WTuRWClvcvoxGZLniHcd",
+        "brochure": "https://drive.google.com/uc?export=view&id=1l5gkW3J0C9uhgbdb9Kq_IuvW5RrUpKpI",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1151uY4_PkZj7Uir1oKpOheQmBBggLHOD",
+          null
+        ],
+        "contact": "AntiqueAperture@gmail.com"
+      },
+      {
+        "id": 201305,
+        "firstName": "Frankie ",
+        "lastName": "Bailey",
+        "projectTitle": "Database Reservation: Picking a Room",
+        "projectDesc": "This project seeks to replace a pencil and paper room status chart with one based on a MySQL database. This process will save money by reducing the need for pencils and paper by using free software.",
+        "keywords": "online reservation, MySQL",
+        "certificates": {
+          "CompTIA Network+": "https://www.comptia.org/certifications/network"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1-TAyyi3X-V8sNrUoMAaDhHAs6TB8d8MI",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1-TAyyi3X-V8sNrUoMAaDhHAs6TB8d8MI",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=19F8pj0a-Ew6YlOtcfbQDwYPKRwpzoJM5",
+        "brochure": "https://drive.google.com/uc?export=view&id=1-JIKXT9zeGsFdCccHRr0SAwFNP44bMud",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1dvQ1vZroQcLUxErrQR7xCTv8gTF0UkQB",
+          null
+        ],
+        "contact": "frankie_bailey4@mymail.eku.edu"
+      },
+      {
+        "id": 201306,
+        "firstName": "Jamie",
+        "lastName": "Caudill",
+        "projectTitle": "SKY-Peak: Bridging SKYPE",
+        "projectDesc": "International long distance charges are outrageous. You may end up spending ten dollars or more for one call back home when you are on holiday outside the country. This was a problem for me. I want to travel around the world, but I also want to contact my friends and family back home regularly. That is why I decided to create SKYE-PEak. It is a system that allows me to use any internet enabled device, with a web browser and SKYPE, to connect to my home’s landline and make “local” calls. No matter where I am at in the world, I will be able to talk to my friends and family and it requires no subscription services.",
+        "keywords": "Arduino, SKYPE, DTMF, Shield, Pulse Dialing",
+        "certificates": {
+          "Highest BS(NET) Exit Exam Score 2011-12": "https://technology.eku.edu/",
+          "CompTIA A+": "https://www.comptia.org/certifications/a"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1vDyyaaboeqk8IdtkNND2b0CMz1IXsdAN",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1vDyyaaboeqk8IdtkNND2b0CMz1IXsdAN",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=17YECiyBvjmACisfRYb-aho1gaeaaHENa",
+        "brochure": "https://drive.google.com/file/d/1HabgzozWCBQFlmbBafVg2Q16QAVFJKom/view?usp=sharing",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1-x8N_oRRlU9jgK2ECx-UReHRiuiQAgqN",
+          null
+        ],
+        "contact": "jamiencaudill@gmail.com"
+      },
+      {
+        "id": 201307,
+        "firstName": "Jordan",
+        "lastName": "Terry",
+        "projectTitle": "Arcade Cabinet",
+        "projectDesc": "For the past year or so I have been looking at custom built arcade cabinets and wanted to build my own. When the capstone class came around, I knew exactly what I wanted to do. I built a custom one player arcade cabinet running on an old Windows XP machine. I am running MAME32 as my emulator and WahCade as my front end. My arcade has over 100 games installed on it.",
+        "keywords": "arcade, joystick, encoder harness, Ubuntu",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/file/d/1snWEq4pwGl8AqZUiOexVn9vUyDIxRtRO/view?usp=sharing",
+        "brochure": "https://drive.google.com/uc?export=view&id=1uYrQW508nuGVvnAvW0ZJvXLjBS-Mv2Ox",
+        "video": [
+          null,
+          null
+        ],
+        "contact": "jordanterry121@gmail.com"
+      },
+      {
+        "id": 201308,
+        "firstName": "Joshua",
+        "lastName": "Montgomery",
+        "projectTitle": "PETscape: Automated Pet Door",
+        "projectDesc": "The purpose of this paper is to give a solution for pet owners who need to control when their pets can go outside and to assist with the caregiving of their pets. Many pet owners stay very busy and can’t be at home enough to meet all the needs of their pet. An automated pet door would enable pets to gain some freedom and take care of themselves if they need to go outside to the bathroom or access other parts of the home. This project uses an Arduino Uno microcontroller that controls Infrared (IR) LEDs to sense the presence of a pet, which then signals a motor to raise the door, allowing the pet access outside or inside. It will also feature time-of-day security components as well as a buzzer to indicate that the door is in use. The Arduino can be used as a stand-alone system that can be very beneficial in serving the needs of pets and their owners.",
+        "keywords": "Arduino Uno, C/C++ programming, open-source software, motor, buzzer, PIR motion sensor",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/file/d/1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF/view?usp=sharing",
+        "images": [
+          "https://drive.google.com/file/d/1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF/view?usp=sharing",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/file/d/1vH64xx8IuEEhileUrUICG3sIHi_lmpXL/view?usp=sharing",
+        "brochure": "https://drive.google.com/uc?export=view&id=1KKPkv_Qznfiy_b_Djh51gKrbU8mWYboX",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1Tr_eNoQNIrOJJfu3uAqpJ0N7bvBuDx_i",
+          null
+        ],
+        "contact": "joshua_montgomery30@mymail.eku.edu"
+      },
+      {
+        "id": 201309,
+        "firstName": "Kevin",
+        "lastName": "Lay",
+        "projectTitle": "MC ToolBox",
+        "projectDesc": "For my project I decided to address a problem at work. Our technicians have to spend most of their time working on common computer tasks. I decided it was time that we fix this problem. I wrote a program for our technicians to use, which would allow them to do these tasks with a click of the mouse. It is also easy enough to use, that other people within the schools could do these tasks so that the technicians would not even have to go and look at the computers. The program is a single .exe file that can be ran from a flash or a network share.",
+        "keywords": null,
+        "certificates": {
+          "CWTS": "https://www.cwnp.com/certifications/cwts"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1F0lpevTgDwmt-fwqgwd6JhI8hhsy7wcg",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1F0lpevTgDwmt-fwqgwd6JhI8hhsy7wcg",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1tWwvIGibePgRtnvKjl5boh7lzWKxV8A2",
+        "brochure": "https://drive.google.com/uc?export=view&id=18Fyi3gmH2cUJlJnGrgUmJ9e4AzhHTeaI",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1CkJcMr8hQAkYx2RhU7MA9nD6ixPnPPI7",
+          null
+        ],
+        "contact": "Kevin@KevinLay.Net"
+      },
+      {
+        "id": 201310,
+        "firstName": "Nicholas",
+        "lastName": "Johnson",
+        "projectTitle": "Home Network Server Support: The Fundamentals",
+        "projectDesc": "For my project, I have implemented a server system within the home environment. What I have done to implement this system was use two desktop computers as well as a wireless gateway with a leased line modem. The system I have chosen to use is Windows Server 2012. The services that I have used in the entire project are the DNS and DCHP Services, Active Directory, Windows Deployment Services, and Hyper V. I believe that these components are necessary in order to have a fully functional server foundation. With these services implemented, I encourage every home user to be creative on what they would want to do with their home server depending on the household size and the frequency of the home computer usage. Also, this will become a positive learning experience for families across the globe and me. My intentions for this project were to save money that most companies would pay for a typical corporate server. The fact of the matter is that server administration, hardware, and software costs can get out of hand immensely and it is important to come up with cost effective technology.",
+        "keywords": "home server, Windows Server 2012, active directory",
+        "certificates": {
+          "AtomSphere Integration Cloud Certification": "https://technology.eku.edu/"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=10TZ8aAUoxN0SICPBCwioo9FJZUGgpO5L",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=10TZ8aAUoxN0SICPBCwioo9FJZUGgpO5L",
+          "https://drive.google.com/uc?export=view&id=1jpQrnxLUS6kvOWw-939Cqd-v9cM-VlwC",
+          "https://drive.google.com/uc?export=view&id=1eyPnnAesA_U8EcjUntnCvHr99CTGLJ1W",
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1yF7MlMHMHA1TFQIYm4Edt0zM_raGTbdc",
+        "brochure": "https://drive.google.com/uc?export=view&id=1NFpIE7eZ9tFISURNghJGBXS7H7ilND1E",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1oY7BOaVjz_gCYKUK03TsGfXncZQv0rhh",
+          "https://drive.google.com/uc?export=view&id=1iN_FBK2vzfIMk9MrlOz6WcNj2NQAZerL"
+        ],
+        "contact": "nicholas_johnson37@mymail.eku.edu"
+      },
+      {
+        "id": 201311,
+        "firstName": "Richard",
+        "lastName": "Elswick",
+        "projectTitle": "Passive Network Tap",
+        "projectDesc": "The problem that I am trying to solve is what I can use to help monitor the traffic on a network without being detected, and without having to spend large amount of money. My solution is to build a passive network tap out of a spliced Ethernet cord and four Cat 5e Ethernet ports. With this tap I can view the traffic off of my home desktop PC from my laptop. With this tap along with some free packet sniffing software such as Wireshark, NetworkMiner, and NetWitness I will be able to view information that the home desktop PC is viewing or has viewed.",
+        "keywords": "packet sniffing, Ethernet tap, passive network tap",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1es8YjpPIQDpG0eaXIjXVud7o68Lp3s1S",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1es8YjpPIQDpG0eaXIjXVud7o68Lp3s1S",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1sYb7oV80gcCFITv4TlWrg2IlNPQHVYJw",
+        "brochure": "https://drive.google.com/uc?export=view&id=1L7pAL4RqWa5Ow_s9CVLOjFnpyMJStQEz",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1B3C-ixrVpxSBFhZQhJn27tcf6EeCSR_G",
+          null
+        ],
+        "contact": "richard_elswick1 AT mymail.eku.edu"
+      },
+      {
+        "id": 201312,
+        "firstName": "Ryan",
+        "lastName": "Ueltschi",
+        "projectTitle": "DIY Engine Management System: Take Full Control over Your Car",
+        "projectDesc": "The purpose of this project is to offer a way to grant car-enthusiasts full control over their automobile’s engine and electrical system. When a car’s engine becomes highly modified, the factory issued engine control unit (ECU) becomes insufficient for the automobile’s requirements. With a complete standalone replacement ECU; this will give the additional features that the factory unit cannot offer. These features include fuel delivery, spark tables with timing adjustments, data logging, and electronic dashboards all configured by a laptop computer via serial or USB. With a semi-complete do-it-yourself kit of a MegaSquirt 3X ECU, I will illustrate the steps I have taken to build, modify, and incorporate the standalone electronic fuel injection controller for my car: a 1990-1993 1.6L Mazda Miata.",
+        "keywords": "Engine management system (EMS), Engine control unit (ECU), electronics, Printed circuit boards (PCB), wiring harness, circuits, MegaSquirt EFI",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=14F5UtDVOZ8NEcI7OWUJLsraAW84FGmgx",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=14F5UtDVOZ8NEcI7OWUJLsraAW84FGmgx",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1G9QA6QR1oQ_BqJoqNYCOQtqDhPOXZTMs",
+        "brochure": "https://drive.google.com/uc?export=view&id=1nTryKFvnxd4-X4F3DJyUm0U4PHrZ3xsL",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1asQ8Fh0s48RUrDVmdUSf4bPyxPqE6lIL",
+          null
+        ],
+        "contact": "ryan_ueltschi@mymail.eku.edu"
+      },
+      {
+        "id": 201313,
+        "firstName": "Sean",
+        "lastName": "Evans",
+        "projectTitle": "College Students' Home Security",
+        "projectDesc": "Home security systems can be very expensive. While living on a college budget, they are more than expensive, they are near impossible to get especially in an apartment. I have becomre more aware of break-ins in my surrounding apartments and have had my car broken into several times over the past few years. So I have decided to create a DIY home security system for my apartment, to protect my dogs and the valuables I have in my home. The Arduino microcontroller based system is easy to install by yourself and is affordable at roughly $80.",
+        "keywords": "Home Security, DIY, Arduino, Affordable",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1ep_ysEC18e--OhIh0u9oclse7dDznokr",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1ep_ysEC18e--OhIh0u9oclse7dDznokr",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=15Qh2HbIpmY55wyZdlfSeCJCmlAf5FL5g",
+        "brochure": "https://drive.google.com/uc?export=view&id=1XG64oeui3dmn9nSTJBXxPgVBhfniruop",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1zvxlFi4dMahw11iTLf6p5OZJC-BZFRb-",
+          null
+        ],
+        "contact": "sean_evans30@mymail.eku.edu"
+      },
+      {
+        "id": 201314,
+        "firstName": "Shawn",
+        "lastName": "Denny",
+        "projectTitle": "Arduino Game Board",
+        "projectDesc": "For my capstone I wanted to build an electronic game board using the Arduino microcontroller. The board would incorporate electronic elements to create an easy to use interface to allow for the representation of the objectives & scenario zone marking for the scenario detailed in the Warmachine and Hordes Steamroller scenario documents. My plan is to use the Arduino to allow players to control player side selection and scenario selection and use LEDs imbedded into the game board to mark the scenarios.",
+        "keywords": "shawn.denny@gmail.com",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1jYimPTxOMxMaWQJFCTkl-lVS6RKsi1yd",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1jYimPTxOMxMaWQJFCTkl-lVS6RKsi1yd",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1_ZXeXsYbobjNW2gs3AkrTqAYXufu1_EQ",
+        "brochure": "https://drive.google.com/uc?export=view&id=1d3PAyRBGqik37LsruMvPekVV55iB29eu",
+        "video": [
+          null,
+          null
+        ],
+        "contact": "shawn.denny@gmail.com"
+      },
+      {
+        "id": 201315,
+        "firstName": "Steven",
+        "lastName": "White",
+        "projectTitle": "Plex Media Server: Setup of Plex Media Server",
+        "projectDesc": "I have a computer at home with a small desk in the room. I have almost 2 Terra Bytes (TB) of media taking up room on my computer. I want to be able to watch my movies I have on my computer on the TV. It’s really frustrating watching a movie with my fiancé on a small computer monitor. I really don’t have room to put another hard drive in my computer case, so I came up with a resolution. I will build a stand-alone pc and install a media server on it. This computer will be built for around $500 and will include a strong processor and plenty of storage and room for storage expansion. Since I really don’t have room to put it by the desk, I will install TeamViewer and put the computer in a different location in the house. I will be able to remote in when needed to gain access to the computer. I will start out with a 2 TB hard drive and go expand from there when needed.",
+        "keywords": "hard drive, media server, computer case, processor, memory",
+        "certificates": {
+          "CompTIA A+": "comptia.org/certifications/a"
+        },
+        "profilePicture": "https://drive.google.com/uc?export=view&id=11FEfk0Cnl1foCCItI3Y4U8FtFjftLxer",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=11FEfk0Cnl1foCCItI3Y4U8FtFjftLxer",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1U1EEJpQTGYC4IHTvLlYMWi2xbjOWDWPF",
+        "brochure": "https://drive.google.com/uc?export=view&id=1_9GRtl9kYebSEiO6IEGBI5d5Qagy9a1Q",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1PH4fTTchVqVmliG-HKckZH78f4Rv9ESA",
+          null
+        ],
+        "contact": "steven_white75@gmail.com"
+      },
+      {
+        "id": 201316,
+        "firstName": "Taylor ",
+        "lastName": "Rogers",
+        "projectTitle": "DIY Home Network",
+        "projectDesc": "The main focus of this document is to outline the solution and steps taken to establish a fully functional home network for a new home. In order for the project to be considered successful it must provide a LAN for several users who want both wired and wireless connections, have network services within the router/firewall, provide for centralized data storage and backup, and also provide for an easy to use and easy to control, affordable home media center. The scope of the project includes using preexisting PC hardware for use in a router setup using the openly available software Smoothwall, desktop switches, a wireless access point for wireless data transfer, parting out a custom PC to build for use as a NAS - capitalizing on the open source FreeNAS software - and using a Raspberry PI as a networked media center device. In this project, the NAS (Network Attached Storage) device can hold many different pieces of data such as document backup, media storage like music, photos, and movies for the Pi, as well as whole disk image backups. In order to control the Pi after initial setup, an iPad should be configured as a remote control.",
+        "keywords": "PC hardware, Smoothwall Express 3.0, Raspberry Pi, OpenELEC, Raspbmc, XBMC, Wireless Access Point, switch, backup, iPad",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=10EKS5thZN_9Ypi6xCoXV2PqiJSvL2wiq",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=10EKS5thZN_9Ypi6xCoXV2PqiJSvL2wiq",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=1_cVBSWE_cItZoLfvxo09SM4r5hCgwbTQ",
+        "brochure": "https://drive.google.com/uc?export=view&id=1XVYViehlY5zJ2GYoduFh9oVBRHWTeUJ2",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=10VNzJBQbHBbINZT51gt6_PK43UuBPqiv",
+          null
+        ],
+        "contact": "twardr@gmail.com"
+      },
+      {
+        "id": 201317,
+        "firstName": "Thomas",
+        "lastName": "Miller",
+        "projectTitle": "Web Design: An Adventure",
+        "projectDesc": "This project involves the learning process of web design while having very little experience with it. Throughout the process of building my website I learned a great many things. First and foremost I learned how to use a program called Wordpress. Wordpress is a piece of software that was created to allow every day users to make and manage blogs. Now the software has evolved to the point that you can make just about any kind of website you’d like. In my educational adventure I used widgets, theme editors, php, css, html, and the GUI to design, tweak, and produce a functional ecommerce website from the ground up. I found that some things I thought to be extremely difficult were made rather easy by this software. On the other hand I also found that some of the simplest of things, like getting pictures to line up correctly, were quite complicated by the nature of the interface.",
+        "keywords": "web design, Wordpress, theme editors, widgets, ecommerce",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1O29drqCWlzlPFUkosArfx1yxCNbbXUcJ",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1O29drqCWlzlPFUkosArfx1yxCNbbXUcJ",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/uc?export=view&id=15-ADgYsaHRLb1bq5FLB4s-4oVryhFrrm",
+        "brochure": "https://drive.google.com/uc?export=view&id=16i_DDinmc9AIgetfrOcD5QMphlZae-Ug",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1I14xXkOtlffzv6B3aSjR5zrf_zWl7m11",
+          null
+        ],
+        "contact": "thomas_miller68@mymail.eku.edu"
+      },
+      {
+        "id": 201318,
+        "firstName": "Tommy",
+        "lastName": "Long",
+        "projectTitle": "Remote Security Solutions",
+        "projectDesc": "RFID based security systems have major flaws in their system designs and therefore aren’t as secure as people think they are. The main problem with RFID based security systems deals with how they work. Most of these systems use cards that people swipe; as long as your card is valid you get access. However, someone could easily steal someone’s card and then they are suddenly the ones with access to everything inside. To solve this problem I have developed an RFID based security system with an extra layer of protection involved.",
+        "keywords": "RFID, security, microcontroller(s), Arduino, electronic, electric door system, Secure access control",
+        "certificates": null,
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1L6po9XQ_9wEltdMJs7qRuVOlCa5bpHiR",
+        "images": [
+          "https://drive.google.com/uc?export=view&id=1L6po9XQ_9wEltdMJs7qRuVOlCa5bpHiR",
+          null,
+          null,
+          null
+        ],
+        "presentation": "https://drive.google.com/file/d/1rUvdEBmuFogkD5yt7yc1Hx52EVb1myAp/view?usp=sharing",
+        "brochure": "https://drive.google.com/uc?export=view&id=1n8jXPZzeZAt8vFZtl1tCOOUeu1xKPCrb",
+        "video": [
+          "https://drive.google.com/uc?export=view&id=1-5SBDMTlsv6aaFeBfzcNSNBzkkUVCugS",
+          "https://drive.google.com/uc?export=view&id=1-5SBDMTlsv6aaFeBfzcNSNBzkkUVCugS"
+        ],
+        "contact": "tommy_long22@mymail.eku.edu"
+      }
+    ],
+    "other": {
+      "classPhoto": [
+        {
+          "title": "2013 Spring/Summer Graduates",
+          "name": "Left to Right (first row): Josh, Andrew, Steven, Ryan, Jamie, (second row): Roger, Nick, Sean, Jordan",
+          "url": "https://drive.google.com/uc?export=view&id=1_NriWMEUtr-Sz3-TlUBAwbKD9AxnH4Sh"
+        },
+        {
+          "title": "2013 Fall Graduates",
+          "name": "L2R (first row): Mitch, Tommy Miller, Richard, (second row): Brian, Frankie",
+          "url": "https://drive.google.com/uc?export=view&id=1v1FdiUnx4LFpwmP6yKqijcKX6lXEf1P5"
+        },
+        {
+          "title": "2013+ Graduates",
+          "name": "L2R (first row): Tommy Long, Brent, Kevin, (second row): Shawn",
+          "url": "https://drive.google.com/uc?export=view&id=1DQm5Dq6PJ49-kold3nuH6ctGUKAmIrCI"
+        },
+        {
+          "title": "2013 NET Capstone Class",
+          "name": "L2R (first row): Mitch, Steven, Andrew, Jamie, Ryan, Shawn, Brent, Frankie, Josh, Nick, Richard, Jordan, Taylor, Tommy Miller, Kevin,  Brian, Sean, Tommy Long",
+          "url": "https://drive.google.com/uc?export=view&id=1gQgkKEdRZduNL8xSHHelr6M6Dv54mw6S"
+        }
+      ],
+      "outstanding": [
+        {
+          "title": "Outstanding Network Security & Electronics (NET) Senior 2012-13",
+          "name": "Ryne Purcell",
+          "url": "https://drive.google.com/uc?export=view&id=1T6jZqgbeRXcddgCIbq0EIztZQVbsou8d"
+        }
+      ],
+      "presenter": [],
+      "ga": []
+    }
+  }
