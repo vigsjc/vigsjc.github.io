@@ -8,7 +8,7 @@
         "projectDesc": "I notice this problem one day when I was at my parents and ever since my nephew was born they had to install child safety gates. This created a scenario where every time the pets needed through the gate my parents had to stand up open the gate. So my solution was to create a RFID operated automatic pet door so they did not have to spend time letting the pets through the gate. This would involve a putting a tag on the pet’s collar that when read by the RFID reader it would sent a output signal to the stepper motor to run the door to let the pet through. Of course this would have to involve some programming and I decided to use Arduino programming since the necessary components were available and the community for support was there for troubleshooting.",
         "keywords": "RFID, frequency range, tags, stepper motor, EasyDriver, Arduino",
         "certificates": {
-          "CompTIA A+": "comptia.org/certifications/a"
+          "CompTIA A+": "https://www.comptia.org/certifications/a"
         },
         "profilePicture": "https://drive.google.com/uc?export=view&id=1W9ANy_6i6g8eX_KdYsnVTFtFXqpx6UdP",
         "images": [
@@ -176,9 +176,9 @@
         "projectDesc": "The purpose of this paper is to give a solution for pet owners who need to control when their pets can go outside and to assist with the caregiving of their pets. Many pet owners stay very busy and can’t be at home enough to meet all the needs of their pet. An automated pet door would enable pets to gain some freedom and take care of themselves if they need to go outside to the bathroom or access other parts of the home. This project uses an Arduino Uno microcontroller that controls Infrared (IR) LEDs to sense the presence of a pet, which then signals a motor to raise the door, allowing the pet access outside or inside. It will also feature time-of-day security components as well as a buzzer to indicate that the door is in use. The Arduino can be used as a stand-alone system that can be very beneficial in serving the needs of pets and their owners.",
         "keywords": "Arduino Uno, C/C++ programming, open-source software, motor, buzzer, PIR motion sensor",
         "certificates": null,
-        "profilePicture": "https://drive.google.com/file/d/1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF/view?usp=sharing",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF",
         "images": [
-          "https://drive.google.com/file/d/1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF/view?usp=sharing",
+          "https://drive.google.com/uc?export=view&id=1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF",
           null,
           null,
           null

@@ -76,7 +76,10 @@
         "projectTitle": "n-ABELD: Arduino Based Electronic Liquor Dispenser",
         "projectDesc": "Staffing is obviously one of the most critical components of virtually any business organization, and can take up a whole lot of the company's resources. Maintaining a staff of competent, reliable workers can be rather expensive, as well as time consuming. Businesses such as restaurants, that offer low pay and no benefits are bound to have a revolving door workforce. These types of businesses could cut these costs and enjoy a sense of work force stability by automating what processes they can. N-ABELD offers a design that automates the process of cocktail mixing. It examines different aspects involved in the creation of N-ABELD: research and design, physical design, electronic configuration, and programming. Each of these aspects present their own issues which must be weighed against budget, safety, and time-constraint considerations.",
         "keywords": null,
-        "certificates": "Highest BS(NET) Exit Exam Score 2011-12, CompTIA Network+",
+        "certificates": {
+          "Highest BS(NET) Exit Exam Score 2011-12": "https://technology.eku.edu/", 
+          "CompTIA Network+":"https://www.comptia.org/certifications/network"
+        },
         "profilePicture": "https://drive.google.com/uc?export=view&id=1UxJcPW0lAD9p2CumpRn5-Eh_CUAb8gVT",
         "images": [
           "https://drive.google.com/uc?export=view&id=1UxJcPW0lAD9p2CumpRn5-Eh_CUAb8gVT",
@@ -122,7 +125,7 @@
         "projectTitle": "Arduino Based Access Point Finder",
         "projectDesc": "Within the Information Technology departments of modern workplaces, documentation has become an large issue. In many cases some businesses will hire outside companies to perform the task of installing and configuring a wireless network. In those cases the documentation, if any, pertaining to the configuration of the wireless network remains with the outside company. If a problem arises with improper or no documentation available, a 5 minute fix can take weeks to track down. With wireless technology becoming more common place within businesses the maintenance to maintain a functional network is crucial. The ability to have a handheld device that gives clear identification of information appears promising.",
         "keywords": null,
-        "certificates": "CWTS",
+        "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
         "profilePicture": "https://drive.google.com/uc?export=view&id=17JgvA0O_MNZJe5h4ropeMQoBvsCf4Oea",
         "images": [
           "https://drive.google.com/uc?export=view&id=17JgvA0O_MNZJe5h4ropeMQoBvsCf4Oea",
@@ -145,7 +148,7 @@
         "projectTitle": "Set up a SOHO Server and Network: The Basics",
         "projectDesc": "I set up a Windows server and secure wired and wireless network that would be typical for a small office / home office. I built the server computer, installed and configured Windows Server 2008 R2. I utilized Active Directory and created a Domain for my home network. I installed the RADIUS server and used it along with WPA2 to make my network secure.",
         "keywords": null,
-        "certificates": "CWTS",
+        "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
         "profilePicture": "https://drive.google.com/uc?export=view&id=1Ne4wBwiQTK3ao3GAbLcabadZwtloNRY0",
         "images": [
           "https://drive.google.com/uc?export=view&id=1Ne4wBwiQTK3ao3GAbLcabadZwtloNRY0",
@@ -237,7 +240,7 @@
         "projectTitle": "IP Enabled Parking Spot Detector",
         "projectDesc": "The goal of this project is to develop an application that helps drivers locate a parking spot even before they arrive at the actual parking area. To achieve this, I planned to utilize three of our latest technologies: microcontrollers, the Internet, and smartphones.",
         "keywords": null,
-        "certificates": "CompTIA A+",
+        "certificates": {"CompTIA A+":"https://www.comptia.org/certifications/a"},
         "profilePicture": "https://drive.google.com/uc?export=view&id=10e1kISypwLVaYmi9-aTnrOSxBsJ0KMnI",
         "images": [
           "https://drive.google.com/uc?export=view&id=10e1kISypwLVaYmi9-aTnrOSxBsJ0KMnI",
@@ -260,7 +263,12 @@
         "projectTitle": "Home Security with VPN's and IP Cameras",
         "projectDesc": "Technology is expand very rapidly as we all know and as this happens appliances such as electronics, TV’s, gaming systems, and even home security can start to become more and more expensive. That leads some people to the motivation of trying to figure out how to make cost effective environments for strong home security while still allowing the homeowners to access files on the go. However as technology increases, the knowledge of your average criminal and hacker increase. This is why I have created the solution of using a Windows Server 2008 R2 environment with a domain controller allowing a qualified user to create a virtual private network (VPN), access shared folders, and access an IP camera within the internal network of the home. The ending result was exactly of that intended with the exception of throttling back and using a point-to-point tunneling protocol (PPTP) VPN. The user can even be alerted via e-mail of an intrusion. Initially considered was the secure socket tunneling protocol (SSTP) which allows for more security. Consequently this is a little bit harder to configure and if set up in a potential customers home, harder for them to troubleshoot. On the other hand, PPTP is a great and easy way to set up a VPN for the average user allowing them a secure connection to their home network to check on the status of their home.",
         "keywords": null,
-        "certificates": "Outstanding NET Senior 2012-13,Security+, CWNA, CWSP",
+        "certificates": {
+          "Outstanding NET Senior 2012-13":"https://technology.eku.edu/",
+          "Security+":"https://www.comptia.org/certifications/security", 
+          "CWNA":"https://www.cwnp.com/certifications/cwna", 
+          "CWSP":"https://www.cwnp.com/certifications/cwsp"
+        },
         "profilePicture": "https://drive.google.com/uc?export=view&id=1t6fOrdBiKMBs4T4NjFQQiTw3OKv0V5lF",
         "images": [
           "https://drive.google.com/uc?export=view&id=1t6fOrdBiKMBs4T4NjFQQiTw3OKv0V5lF",
@@ -283,7 +291,10 @@
         "projectTitle": "RFID Pet Feeder",
         "projectDesc": "This project focuses on the design, implementation and operation of an RFID microcontroller based cat feeder constructed for the NET 499 capstone course in the spring 2012 semester. This project is presented to solve the problem of other animals eating your pet’s food and feeding your pet throughout the day. In particular, a cat is used to demonstrate the operation of the RFID pet feeder. My cat will be used in the demonstration and he will be wearing a valid RFID tag on his collar, that when scanned will operate two motors to open the enclosure and dispense cat food. With a busy schedule such as mine and many other people, it is hard to feed your pets throughout the day so they get the nutrition they need. This pet feeder will solve that issue and many other possible implementations.",
         "keywords": null,
-        "certificates": "Outstanding NET Senior 2011-12, CWTS",
+        "certificates": {
+          "Outstanding NET Senior 2011-12":"https://technology.eku.edu/", 
+          "CWTS":"https://www.cwnp.com/certifications/cwts/"
+        },
         "profilePicture": "https://drive.google.com/uc?export=view&id=1NSEpNf5-Pp6r7zsN1negBXv_uwobEKJ0",
         "images": [
           "https://drive.google.com/uc?export=view&id=1NSEpNf5-Pp6r7zsN1negBXv_uwobEKJ0",
@@ -306,7 +317,11 @@
         "projectTitle": "PC Recycle and Donate",
         "projectDesc": "This project consisted of setting up an imaging server to distribute images on old computers. I am imaging these computers to hand out to under privileged families or to organizations that currently work with underprivileged sections of society. The computers were tested for functionality and then reimaged before being distributed.",
         "keywords": null,
-        "certificates": "Microsoft MCTS, MCITP, MCSA",
+        "certificates": {
+          "Microsoft MCTS":"https://docs.microsoft.com/en-us/learn/certifications/mct-certification", 
+          "MCITP":"http://microsoftgeek.com/?p=1190", 
+          "MCSA":"https://docs.microsoft.com/en-us/learn/certifications/posts/mcsa-mcsd-mcse-certifications-retire-with-continued-investment-to-role-based-certifications"
+        },
         "profilePicture": "https://drive.google.com/uc?export=view&id=1J9x8UgVWJx_lG8lvofQX56YHUMvVJymC",
         "images": [
           "https://drive.google.com/uc?export=view&id=1J9x8UgVWJx_lG8lvofQX56YHUMvVJymC",
@@ -329,7 +344,7 @@
         "projectTitle": "Secured Home Web Server",
         "projectDesc": "The problem faced in this project is the need for a more secured place for anyone who wants to store their web pages on, along with all their data. This would cut down on the cost of storage of their web pages, and allow them ease of mind knowing where they have stored their information is in a secured network. I proposed to build a server from the parts I have ordered, and create a web server using the Internet Information Services Manager inside Windows Seven Home Premium. After building the server, I will secure the local network with a router, and a Linux based Untangle server.",
         "keywords": null,
-        "certificates": "CWTS",
+        "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts/"},
         "profilePicture": "https://drive.google.com/uc?export=view&id=1i00KgCIe4fdaduCR1CcVyC4GAKRfQWcw",
         "images": [
           "https://drive.google.com/uc?export=view&id=1i00KgCIe4fdaduCR1CcVyC4GAKRfQWcw",

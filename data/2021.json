@@ -8,7 +8,7 @@
       "projectDesc": "Over the past decade, there has been a rise in hobbyists creating their own arcade emulators. The reasons for this include the fragility and prohibitive price of classic consoles and games, advances in emulation technology and programming, the relative affordability of doing it yourself, and the appeal of complete customization. This particular project is a classic arcade game emulator powered by a Raspberry Pi, which is portable in nature and includes a two player setup with eight buttons and a joystick for each participant. Given their popularity, there are already commercial versions of this type available. However, it is still more affordable to make it yourself and it gives the designer much more freedom in customization of the unit and the number or types of playable games. Commercial versions usually limit games available by brand or time period. Currently, I have successfully completed both core phases of my project with the majority of adjustments being made in Core 1 to accommodate challenges in design and materials. The extension phase, which is primarily cosmetics, is dependent on remaining time constraints",
       "keywords": "Pi, Arcade, Emulator",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
         "https://drive.google.com/uc?export=view&id=16JT7YNIIZxcW1mJ_KCvfCDWHWSfpCGnl",
@@ -20,7 +20,7 @@
         "https://youtu.be/HIVABei8nG0",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=187lgY1KHR3_XuZX2C4VE4uH3OoqoQUte",
+      "brochure": "https://drive.google.com/uc?export=view&id=1yayDugDutR3Se4oZzaW8Jzrb4aEghXOS",
       "contact": "https://www.linkedin.com/in/terahabney/"
     },
     {
@@ -45,7 +45,7 @@
         "https://drive.google.com/uc?export=view&id=1dpcw6PyJEtzsVl-APKsr8L_tz5-UyC_H",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1aLljiTqriK0rNmAWMEMzOiWE4nz_ScRo",
+      "brochure": "https://drive.google.com/uc?export=view&id=1tOQzOIhwafvwZWzGUSkabELQ297thYMg",
       "contact": "Dylan_anderson73@mymail.eku.edu"
     },
     {
@@ -57,7 +57,8 @@
       "keywords": "Raspberry Pi, WAP, FTP server, firewall",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
       "certificates": {
-        "TestOut PC Pro certification": "https://w3.testout.com/courses/pc-pro"
+        "TestOut PC Pro certification": "https://w3.testout.com/courses/pc-pro",
+        "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
         "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
@@ -70,7 +71,7 @@
         "https://drive.google.com/uc?export=view&id=1L7pfKIWCOM2cMjCzv8JEWK9cof2quYw5",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1k7Tcp1p3IjorZlXZHTJJ-89F6r9G3_kS",
+      "brochure": "https://drive.google.com/uc?export=view&id=1aLs1QujLMFVS160yFekCPKZ0_LGocHIt",
       "contact": "https://www.linkedin.com/in/troy-bruno/"
     },
     {
@@ -95,7 +96,7 @@
         "https://drive.google.com/uc?export=view&id=1VFDYfQ9dRmtBoVaTqVblcjDKM83vatdd",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1J87uZtgsxXukG89tsmR1ON4FKbibGF_J",
+      "brochure": "https://drive.google.com/uc?export=view&id=1QjWQWc_Jwusp4SWnGvxfguW3NMo8cJvQ",
       "contact": "https://www.linkedin.com/in/caseydyer"
     },
     {
@@ -118,7 +119,7 @@
         "https://drive.google.com/uc?export=view&id=1harO0rkP3IUMEELbCnIO8Yhth16y5ABb",
         "https://drive.google.com/uc?export=view&id=1VhDvop8M1MI2DUhdNUv0cwXbAmAWPVmJ"
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1ArySLB7wPfb52cack8OQhxarYZ40J6xC",
+      "brochure": "https://drive.google.com/uc?export=view&id=17wHfg7g2gRjPssR_D82n15p0KOFH3nxX",
       "contact": "https://www.linkedin.com/in/dakota-fannin21/"
     },
     {
@@ -163,7 +164,7 @@
         "https://drive.google.com/uc?export=view&id=10OhSQwubLWk1NdjncrELhrQ0PFREKdwz",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1Z14zZtRRnWYOJkky2NfDMnBI8SWmSz8j",
+      "brochure": "https://drive.google.com/uc?export=view&id=1HVnqeIwb2pQCccGPQKV56OmgivCOaqbX",
       "contact": "jeffrey_mills33@mymail.eku.edu"
     },
     {
@@ -222,7 +223,7 @@
       "projectDesc": "Having your own VPN sever is something that is very convenient and has usability beyond this project. For this project I was going to create a VPN sever using a Raspberry Pi and OpenVPN for the server software. Upon research I found a company called PiVPN in which you run a script to install OpenVPN. This greatly simplified the process of creating a VPN server and provided a graphical interface and prompt for install OpenVPN and all the features needed to create the VPN server.",
       "keywords": "VPN Server, OpenVPN, SSL",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
         "https://drive.google.com/uc?export=view&id=1vOateKi8wVwnxKd9nV6pSlGEE-nI7Tc_",
@@ -270,7 +271,7 @@
       "projectDesc": "This project attempts to provide an educational GPS tracking device using a TinyDuino processor to simulate how ocean wildlife is researched out in the field. Key inspiration behind this endeavor is shark research, specifically how sharks are tracked with GPS tags and the data is processed. ",
       "keywords": "shark, GPS, tracking, ocean, educationa",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
         "https://drive.google.com/uc?export=view&id=1pYt1i6iIs30R0EiTELbGg24FWW31Mj_1",
@@ -351,7 +352,7 @@
         "https://drive.google.com/uc?export=view&id=1aEC-hrY4ejUD-7ukZfttIN_heD47VyWZ",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1GwINb_q1S88t8Azb8YoShJ6_erQQW-fp",
+      "brochure": "https://drive.google.com/uc?export=view&id=1-YZBlZ3fCJCcvidwUebhek_XEcGZTXbL",
       "contact": "https://www.linkedin.com/in/jonathan-p-thompson/"
     },
     {

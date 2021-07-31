@@ -31,7 +31,7 @@
       "projectDesc": "This Project aimed to improve and facilitate daily activities and routines.The goal of the project was to create a home automation hub on a Raspberry Pi micro-computer and allow it to control a light.It should be controllable from a PC, notepad, or smart phone and from in the home or anywhere in the world with a connection to the internet. The journal article I found in the International Journal of Business and Social Science about project management help in my planning for this project (Almgren, 2014, p. 84-91).",
       "keywords": "Raspberry Pi, IoT, Home Assistant, MQTT, DuckDNS, Shelly 1",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1mCMKx76P-sg3zihQ4vWYZ_RnzgWJJPzu",
-      "certificates": null,
+      "certificates": {"CompTIA A+ Core 1":"https://www.comptia.org/training/books/a-core-1-220-1001-study-guide"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1mCMKx76P-sg3zihQ4vWYZ_RnzgWJJPzu",
         null,
@@ -140,7 +140,7 @@
       "projectDesc": "One key goal of my capstone project, my custom-built Wi-Fi booster, is to be able to obtain and detect Wi-Fi signals and to amplify those signals so that they can be extended beyond the usual range of the Wi-Fi signals. I also want the Wi-Fi signals to retain the same signal strength while being amplified at a farther distance. \n Another key goal of my custom-built Wi-Fi booster is to provide a cheaper alternative for a Wi-Fi booster that also works just as well as a commercially available Wi-Fi booster and provide the same service at cheaper costs. \n The current status of my custom-built Wi-Fi booster is that I have just recently finished building it. I am about to test it and record the results of the Wi-Fi booster.",
       "keywords": "Wi-Fi booster, custom alternative",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1KCyYpG23GYUkCyu9d2dgHK7BuEWl0lEW",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1KCyYpG23GYUkCyu9d2dgHK7BuEWl0lEW",
         null,
@@ -302,7 +302,7 @@
       "projectDesc": "The purpose of this project was to assist individuals in setting up a home network monitoring system. The primary core, was to implement Nagios (network monitoring software), using a Raspberry Pi 4, to enable home network monitoring services with NEMS. My secondary goal was to setup a VPN server. This would allow users to access their home network from anywhere. An extension of this system is the addition of an ad-blocking agent, such as Pi-Hole. This would allow users to block ads over their entire network and even outside of their network, via connecting through the above-mentioned VPN server. This is a major benefit because not only is there no need to install apps or extensions on every device connected to the network, but additionally this service can be accessed outside of their home network.",
       "keywords": "Nagios, Raspberry Pi, NEMS, VPN, Pi-Hole",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1qAi137kXokIcBjA8KPEJZr709aRoFxX-",
-      "certificates": null,
+      "certificates": {"CompTIA A+ Core 1":"https://www.comptia.org/training/books/a-core-1-220-1001-study-guide"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1qAi137kXokIcBjA8KPEJZr709aRoFxX-",
         null,
@@ -456,7 +456,10 @@
       "projectDesc": "The practice of adblocking has become more and more commonplace in internet usage. Generally, the usage of browser-based extensions can effectively handle this task, however, some browsers and/or devices are incapable of running these extensions. However, there are hardware solutions capable of covering both devices and browsers unable to handle adblocking on their own. This project aims to setup and provide an example of network-based adblocking via the usage of hardware devices running a DNS sinkhole. Currently, my project has been successful in both Core 1 and Core 2 objectives. Core 1 (with adjustments) provided proof-of-concept while Core 2 proved the concept successful with usage of a Raspberry Pi device. The extension phase implementation remains dependent on time constraints.",
       "keywords": "Browser extensions, DNS sinkhole, Raspberry Pi",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "certificates": null,
+      "certificates": {
+        "TestOut Routing & Switch Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro",
+        "CompTIA A+ Core 1":"https://www.comptia.org/training/books/a-core-1-220-1001-study-guide"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=11NUCGxnxV_tGzYQCrA3FNYZwfJv_HI8h",
         null,
