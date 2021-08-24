@@ -707,8 +707,8 @@
       "firstName": "William",
       "lastName": "Gordon",
       "projectTitle": "Battery Charger Automation",
-      "projectDesc": null,
-      "keywords": null,
+      "projectDesc": "To automate a phone charger to switch off through the combination of a piezo sensor and a circuit connected to an Arduino. I learned a lot about the Piezo element, Arduino, Arduino programs, batteries, chargers, relays, types of LED’s, op-amp & comparator circuits, voltmeters, and taking advantage of smaller circuits.",
+      "keywords": "Piezo element, Arduino, batteries, chargers, relays, circuits",
       "certificates": null,
       "profilePicture": "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
       "images": [
