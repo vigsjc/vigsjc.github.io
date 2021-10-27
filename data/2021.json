@@ -32,7 +32,8 @@
       "keywords": "Preboot Execution Environment (PXE), PC Imaging, GUI",
       "profilePicture": "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
       "certificates": {
-        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Runner-up, CST Advisory Committee": "https://technology.eku.edu/"
       },
       "images": [
         "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
@@ -83,7 +84,8 @@
       "keywords": "Arrays/Lists, Conditional Statements, Loops",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
       "certificates": {
-        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
       },
       "images": [
         "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
@@ -176,7 +178,8 @@
       "keywords": "Raspberry Pi, Gmail, Camera, Pet feeder, Cats, SSH, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
       "certificates": {
-        "CompTIA A+": "https://www.comptia.org/certifications/a"
+        "CompTIA A+": "https://www.comptia.org/certifications/a",
+        "Winner, CST Advisory Committee": "https://technology.eku.edu/"
       },
       "images": [
         "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
@@ -223,7 +226,10 @@
       "projectDesc": "Having your own VPN sever is something that is very convenient and has usability beyond this project. For this project I was going to create a VPN sever using a Raspberry Pi and OpenVPN for the server software. Upon research I found a company called PiVPN in which you run a script to install OpenVPN. This greatly simplified the process of creating a VPN server and provided a graphical interface and prompt for install OpenVPN and all the features needed to create the VPN server.",
       "keywords": "VPN Server, OpenVPN, SSL",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
-      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
+      "certificates": {
+        "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+        "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
         "https://drive.google.com/uc?export=view&id=1vOateKi8wVwnxKd9nV6pSlGEE-nI7Tc_",
@@ -235,7 +241,7 @@
         "https://drive.google.com/uc?export=view&id=1YlzWtJIx8esyVBu5ZJ5kVblVyR3e4xZY",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1lHHdSocGc1qCaIrAHOtPq84fNgaFbXE3",
+      "brochure": "https://drive.google.com/uc?export=view&id=1eSGObB0ei73L0EXGI7fsz1uzeru-I-WX",
       "contact": "nicholas.odaniel@outlook.com"
     },
     {
@@ -271,7 +277,11 @@
       "projectDesc": "This project attempts to provide an educational GPS tracking device using a TinyDuino processor to simulate how ocean wildlife is researched out in the field. Key inspiration behind this endeavor is shark research, specifically how sharks are tracked with GPS tags and the data is processed. ",
       "keywords": "shark, GPS, tracking, ocean, educationa",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
-      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
+      "certificates": {
+        "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+        "Winner, CST Advisory Committee": "https://technology.eku.edu/",
+        "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
         "https://drive.google.com/uc?export=view&id=1pYt1i6iIs30R0EiTELbGg24FWW31Mj_1",
@@ -294,7 +304,10 @@
       "projectDesc": "Home security systems are becoming more common as technology in our society advances. The want and need to be able to keep an eye on your home and your belongings is at an all time high. The only issue is these security systems can be very expensive. This is where the Raspberry Pi can come into play. For a relatively cheap price, anyone can take a Raspberry Pi and turn it into their very own home security system. This is what I set out to do with my project. As of now, I have been successful in creating a working home security camera. My core phase 1 was to get the Raspberry Pi 4 up and running, and download and install the MotionEyeOS onto the board. My core phase 2 was to build a custom case for the Pi so that it could be concealed. My extension phase was to configure the camera module to have motion detection, and to send an email with the video taken every time the camera took a video. I have been successful in completing all three of my phases.",
       "keywords": "Raspberry Pi 4, MotionEyeOS, Raspberry Camera Module, I.P. Address\n",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
-      "certificates": null,
+      "certificates": {
+        "Runner-up, CST Advisory Committee": "https://technology.eku.edu/",
+        "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
         "https://drive.google.com/uc?export=view&id=18aZnG5Sq0FU3ClQT1PEARVOItHLbaQcI",
@@ -340,7 +353,7 @@
       "projectDesc": "Video games are a modern pastime where people can go on adventures, explore new worlds, and create memories that can last a lifetime. However, being able to play older games in todays world can be a bit challenging. Due to Covid-19, arcades had struggled to stay in business by helping prevent the spread of the virus. Whether it is an original arcade game or one of the first home consoles, being able to start your own collection can take a lot of time, money, and space not to mention that it is difficult to find and play on original hardware.\nA solution to this problem is by building my own miniature arcade cabinet. By using a Raspberry Pi 3b+ and by downloading emulation software, I can play a variety of different games from multiple consoles. These games are either open sourced, meaning that it is free code that the developer of the game has given permission to download, or it is a game rom of a game that I currently own in my collection. After purchasing an arcade kit online and by finding the remaining parts as well, I was able to build a mini arcade machine that I can place on any surface and use traditional arcade controls to play these older games. \n",
       "keywords": "Raspberry Pi, Game Emulation, RetroPie, Arcade, Nostalgia",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
-      "certificates": null,
+      "certificates": {"Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
         "https://drive.google.com/uc?export=view&id=1Uu1lCWpTE9gmZRf1tUGbECqb31FMZI7U",
