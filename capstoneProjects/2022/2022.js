@@ -65,7 +65,8 @@ var capstoneData;
         $.each(studentData, function (index, value) {
             var keywords, presentation, video, brochure, contact;
             var images = [];
-
+            // print("this is a test");
+            // print(value.images);
             value.images.forEach(function (item) {
                 if (item != null) {
                     images.push(item);

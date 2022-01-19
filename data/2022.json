@@ -1,237 +1,205 @@
 {
   "studentData": [
-    [
-      {
-        "id": 202201,
-        "firstName": "Austin",
-        "lastName": "Donaldson",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202202,
-        "firstName": "Jeremy",
-        "lastName": "Adams",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202203,
-        "firstName": "Matthew",
-        "lastName": "Field",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202204,
-        "firstName": "Nathaniel",
-        "lastName": "Murphy",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202205,
-        "firstName": "Peyton",
-        "lastName": "Harris",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202206,
-        "firstName": "Ryan",
-        "lastName": "Wheeler",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202207,
-        "firstName": "Samuel",
-        "lastName": "Tolliver",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202208,
-        "firstName": "Stuart",
-        "lastName": "Bain",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202209,
-        "firstName": "Vitaliy",
-        "lastName": "Chubaruk",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      },
-      {
-        "id": 202210,
-        "firstName": "Wesley",
-        "lastName": "Watts",
-        "projectTitle": "Project Title will go here.",
-        "projectDesc": "Project Description will go here.",
-        "keywords": "Keywords will go here",
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-        "certificates": null,
-        "images": [
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-          null,
-          null
-        ],
-        "presentation": null,
-        "video": [
-          null,
-          null
-        ],
-        "brochure": null,
-        "contact": null
-      }
-    ]
+    {
+      "id": 202201,
+      "firstName": "Austin",
+      "lastName": "Donaldson",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202202,
+      "firstName": "Jeremy",
+      "lastName": "Adams",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202203,
+      "firstName": "Matthew",
+      "lastName": "Field",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202204,
+      "firstName": "Nathaniel",
+      "lastName": "Murphy",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202205,
+      "firstName": "Peyton",
+      "lastName": "Harris",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202206,
+      "firstName": "Ryan",
+      "lastName": "Wheeler",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202207,
+      "firstName": "Samuel",
+      "lastName": "Tolliver",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202208,
+      "firstName": "Stuart",
+      "lastName": "Bain",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202209,
+      "firstName": "Vitaliy",
+      "lastName": "Chubaruk",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    },
+    {
+      "id": 202210,
+      "firstName": "Wesley",
+      "lastName": "Watts",
+      "projectTitle": "Project Title will go here.",
+      "projectDesc": "Project Description will go here.",
+      "keywords": "Keywords will go here",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "certificates": null,
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        null,
+        null
+      ],
+      "presentation": null,
+      "video": [null, null],
+      "brochure": null,
+      "contact": null
+    }
   ],
   "other": {
     "classPhoto": [],
