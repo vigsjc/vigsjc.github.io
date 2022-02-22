@@ -166,8 +166,8 @@
         "firstName": "John ",
         "lastName": "Johnson",
         "projectTitle": "PLC Based Liquid Mixing Unit",
-        "projectDesc": null,
-        "keywords": null,
+        "projectDesc": "A fun project using PLC programming. The idea is to build a liquid mixing unit that takes all the hardwork out of the process.",
+        "keywords": "PLC, Drink",
         "certificates": null,
         "profilePicture": "https://drive.google.com/uc?export=view&id=1LCTCjhhS60r6odpzGQERc4Ge0RthmNbU",
         "images": [

@@ -28,8 +28,8 @@
         "firstName": "Alex",
         "lastName": "Trent",
         "projectTitle": "Cogent Linux",
-        "projectDesc": null,
-        "keywords": null,
+        "projectDesc": "Build a new Linux Live CD from Ubuntu using new tools developed in the past 2 years",
+        "keywords": "Linux, ",
         "certificates": null,
         "profilePicture": "https://drive.google.com/uc?export=view&id=1sTXTWmkRR_i3wtawLmnz_L_IAma9GwlP",
         "images": [

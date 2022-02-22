@@ -196,29 +196,6 @@
       "contact": "https://www.linkedin.com/in/-austinmoore-/"
     },
     {
-      "id": 202109,
-      "firstName": "Nathaniel",
-      "lastName": "Murphy",
-      "projectTitle": "Project Title will go here.",
-      "projectDesc": "Project Description will go here.",
-      "keywords": "keywords",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1TGbzEfjG5n5s507GOv-HzwATGQMXzNDs",
-      "certificates": null,
-      "images": [
-        "https://drive.google.com/uc?export=view&id=1TGbzEfjG5n5s507GOv-HzwATGQMXzNDs",
-        null,
-        null,
-        null
-      ],
-      "presentation": null,
-      "video": [
-        null,
-        null
-      ],
-      "brochure": null,
-      "contact": null
-    },
-    {
       "id": 202110,
       "firstName": "Nicholas",
       "lastName": "O'Daniel",

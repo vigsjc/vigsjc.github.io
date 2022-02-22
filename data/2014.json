@@ -51,29 +51,6 @@
       "contact": "tony_Friend07@yahoo.com"
     },
     {
-      "id": 201403,
-      "firstName": "Michael(Blake)",
-      "lastName": "Pawley",
-      "projectTitle": null,
-      "projectDesc": null,
-      "keywords": null,
-      "certificates": null,
-      "profilePicture": null,
-      "images": [
-        null,
-        null,
-        null,
-        null
-      ],
-      "presentation": null,
-      "brochure": null,
-      "video": [
-        "https://drive.google.com/uc?export=view&id=1VxnJIeM5QCUSTvK-0eQENA6-lc6aCCJo",
-        null
-      ],
-      "contact": "blake2043@gmail.com"
-    },
-    {
       "id": 201404,
       "firstName": "Charles ",
       "lastName": "Hayden",
