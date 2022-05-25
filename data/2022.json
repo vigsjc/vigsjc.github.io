@@ -17,7 +17,7 @@
       ],
       "presentation": "https://drive.google.com/uc?export=view&id=1y-7VckBzIlikVf2UV7uL5NZUEnnxAAWJ",
       "video": [
-        "https://drive.google.com/file/d/13zdi9d9mym29oVci3Fe1chkqg22u24tS/view?usp=sharing",
+        "Austin's Video",
         null
       ],
       "brochure": "https://drive.google.com/uc?export=view&id=1PRT8hfCsi59K8IPC3QusSEDSRnfh7Yx4",
@@ -33,12 +33,12 @@
       "profilePicture": "https://drive.google.com/uc?export=view&id=1MJ72zFZy7Umg4zxCergbWUGe7Z2OOlNg",
       "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=1MJ72zFZy7Umg4zxCergbWUGe7Z2OOlNg",
+        "https://drive.google.com/uc?export=view&id=1oaBbiUBm6bO09njlClL0J0wLlKs7nl9n",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1OcK9-IVzZuU__BH9763bi9Sn7mh1RHSh",
       "video": [
         "https://drive.google.com/uc?export=view&id=1V_9res6yCZEZ3Q--bJpxgYcZ0zsJgBjk",
         null
@@ -61,12 +61,12 @@
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=18NQnUamt0AcnUnCz8QTp6NzQuSM0Z4xI",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1ctV3ifsBXcXpD4niYMD1EYdPjz_VWMsQ",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1CMutrWehVQqSq4u4M0_nTjeohjuNfsUH",
       "contact": "https://www.linkedin.com/in/matthew-c-field"
     },
     {
@@ -84,12 +84,12 @@
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1odsE-v8CdLL11oOCV10TQOmDFlmi1jFF",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=13P2j3kAdZK-62gvFxU6Yf1iledJANABt",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1xelqzUUS0-fZnUKyQeXuU83zpnB3wacC",
       "contact": "Nathanieljm606@gmail.com; https://www.linkedin.com/in/nathaniel-murphy"
     },
     {
@@ -99,20 +99,20 @@
       "projectTitle": "RetroPie",
       "projectDesc": "Have you ever missed the feeling of playing older video games such as Mario? For my capstone project I am going to help solve that problem and help you relive your past by the help of using a Raspberry Pi. A Raspberry Pi is a relatively small computer that is budget friendly. It carries the ability to be plugged into a TV or monitor and can be controlled by a standard keyboard and mouse. I installed an OS called RetroPie that allows you to play games from various consoles. The key functionality of the project is to: run your favorite games, like the classic Mario and Donkey Kong, and its compact size can allow it to fit in your pocket and be used almost anywhere.",
       "keywords": "Raspberry Pi, RetroPie, Emulator",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=16DMNU6t-lXYljoy_p7Ua5VPwyhiAEYa-",
       "certificates": "CompTIA ITF+",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=16DMNU6t-lXYljoy_p7Ua5VPwyhiAEYa-",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1Vx1Zb3F-qM_q5i9SRgMB598kSu5m0uvc",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1NcoWAK27AGwE5U4Ib9uUjfG-2CL7oDtZ",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1etUZyKFYngsiHvAHk5CkZhYktId1MxjJ",
       "contact": "peyton_harris40@mymail.eku.edu"
     },
     {
@@ -122,20 +122,20 @@
       "projectTitle": "Bitcoin Tracker",
       "projectDesc": "This project is a solution to the problem of having to get on a computer or smartphone to check the price of a cryptocurrency. The proposed solution is to have a device you can plug into a computer that will track, display, and update the price of a desired cryptocurrency. The proposed solution can be  completed with a Raspberry Pi Zero, 2.13” e-ink screen, a MicroSD card, and a computer to configure the SD card and Raspberry Pi Zero.",
       "keywords": "Raspberry Pi Zero, Cryptocurrency, Tracker, SSH, Putty, Python",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=179sAebVYd-UcnGmdKxfov96kQM4JMxNf",
       "certificates": "CompTIA ITF+",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=179sAebVYd-UcnGmdKxfov96kQM4JMxNf",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=17uy7ODnZeFoBdBri-hqXFkuF1BbVTJPs",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1sRuGvuLki1_4sOJAaQH3sz39grS_V_-k",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1bD9dW59kAn_SLG30LfoTDHLtA-ZmGNsm",
       "contact": "ryanwheeler74@hotmail.com"
     },
     {
@@ -145,20 +145,20 @@
       "projectTitle": "K3Ras",
       "projectDesc": "The purpose of this project is to create a readily accessible way to build a lightweight Kubernetes server using a Raspberry Pi. The goal is less functionality and more on a proof of concept of developing cloud technologies. Creating an introductory project such as this could get more people interested in cloud computing, networking, and basic database management earlier in their education. The Raspberry Pi stack will act as the our main server or “master node” and we will use it to connect to a database and edit the database through the K3S server. ",
       "keywords": "Raspberry Pi, Kubernetes, SQL",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
       "certificates": "CompTIA ITF+",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1EW7guCcO4Lm8ipawk1fmXbuUQh4VWHTO",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1ZD8oTMObJbz7H0GA024iZLkd6XOXVAl6",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1BWhYhiyfJ8LA_Yn_ZEaceG1vpqdcnznq",
       "contact": "samuel_tolliver6@mymail.eku.edu"
     },
     {
@@ -168,20 +168,20 @@
       "projectTitle": "Pi Surveillance",
       "projectDesc": "The project aims to answer the question: “How can I keep watch over my apartment”. This project aims to provide a low-cost surveillance system offering customization and scalability, as well as having an email notification alert system from motion detection. If someone enters the apartment, I will receive an email notification to alert me. ",
       "keywords": "Raspberry Pi, Surveillance, MotionEyeOS",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1FLUJ3_1OSsMJsSbaztvJFzE3Kt414fQC",
       "certificates": "CompTIA ITF+",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1FLUJ3_1OSsMJsSbaztvJFzE3Kt414fQC",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=18lTQxsNravSkdVEBIonc1VSr1VdWjCQL",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1H0m-twyjZ2PHG_PdtvvukcOiQncU_P-k",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1LXScWLc9kvPd3yDwTwBM9ZS40fCUGZ4I",
       "contact": "stuart_bain@mymail.eku.edu"
     },
     {
@@ -191,20 +191,20 @@
       "projectTitle": "Local Home Security Camera System",
       "projectDesc": "With our world becoming more anxious to know the innermost part of our lives through curious thieves and suspicious people, some type of surveillance system to protect and monitor your property or home is inevitable. Many times before, there were instances where if a camera was present to see what had happened at a scene at a given time, suspects could be identified in a significantly shorter amount of time than if the camera was not there. Sometimes, just the sight of a security camera on the corner of a house or a home security sign in the front yard is enough to evade the possibility of crime or vandalism of your property.",
       "keywords": "Security, Surveillance system, Camera, AI detection",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Xykh55etKSUuRUa2t8voKaFgdx69uvMk",
       "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1Xykh55etKSUuRUa2t8voKaFgdx69uvMk",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1src5RCf8-r_udWfFRnnm2nZaHWCsm1H_",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1Z53anbHNKd-93tNNVUq7P-cSZ_OgkDDp",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=18uozjLdLu7PcJvx4s3m6D4DNBEWWqLFG",
       "contact": "vitaliy_chubaruk2@mymail.eku.edu"
     },
     {
@@ -214,20 +214,20 @@
       "projectTitle": "Home Security System",
       "projectDesc": "In today’s world, there is a need to monitor one’s premises. I proposed a solution of adding a camera system on the outside of my home to monitor and record triggers to a computer located in my home. I designed a surveillance IP based network and implemented this network in my home. I sketched the proposed network and planed the equipment and parts needed. This included a PoE switch, four cameras, cat 6 cable, cable crimpers and jacks for the cables. I installed these around my home, through the PoE switch. Using a computer that is networked to the switch, I installed a program called Blue Iris. \nThis program allows me to set up and control each camera individually, and it allows me to controlmany features, such as triggers, PTZ (pan, tilt, zoom – if supported by the cameras), notifications, etc. The design of the network and hardware will allow me to expand the camera system in the future. ",
       "keywords": "Blue Iris, cable crimpers, cameras, CCA (copper-clad aluminum), ethernet, PoE switch, pure copper, RJ-45, triggers ",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1kWvtVvZFM3kFCmykdzibfCXNp6RCz8UI",
       "certificates": "Google IT Support",
       "images": [
-        "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+        "https://drive.google.com/uc?export=view&id=1kWvtVvZFM3kFCmykdzibfCXNp6RCz8UI",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=",
+      "presentation": "https://drive.google.com/uc?export=view&id=1dClJnvi6EOSkg0WQY3w0rFN6dZwcL_zu",
       "video": [
-        "https://drive.google.com/uc?export=view&id=",
+        "https://drive.google.com/uc?export=view&id=1rZ-O0zmRp8LgPsL-8lQ-WVjT16sGFNi3",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=",
+      "brochure": "https://drive.google.com/uc?export=view&id=1QJQ20xpFF50RHm0wGvV-8zYP3VgfFYEz",
       "contact": "https://www.linkedin.com/in/wesley-watts"
     }
   ],
