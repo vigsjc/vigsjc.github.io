@@ -9,10 +9,15 @@
       "keywords": "Raspberry Pi, Security, Camera, MotionEyeOS, Email",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1Gy7LGSOrrjS3WVX6TU5MXLLPq_euMuf_",
       "certificates": null,
-      "images": "https://drive.google.com/uc?export=view&id=1Gy7LGSOrrjS3WVX6TU5MXLLPq_euMuf_",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Gy7LGSOrrjS3WVX6TU5MXLLPq_euMuf_",
+        null,
+        null,
+        null
+      ],
       "presentation": "https://drive.google.com/uc?export=view&id=1y-7VckBzIlikVf2UV7uL5NZUEnnxAAWJ",
       "video": [
-        "Austin's Video",
+        "https://drive.google.com/file/d/13zdi9d9mym29oVci3Fe1chkqg22u24tS/view?usp=sharing",
         null
       ],
       "brochure": "https://drive.google.com/uc?export=view&id=1PRT8hfCsi59K8IPC3QusSEDSRnfh7Yx4",
