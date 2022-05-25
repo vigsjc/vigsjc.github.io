@@ -100,7 +100,7 @@
       "projectDesc": "Have you ever missed the feeling of playing older video games such as Mario? For my capstone project I am going to help solve that problem and help you relive your past by the help of using a Raspberry Pi. A Raspberry Pi is a relatively small computer that is budget friendly. It carries the ability to be plugged into a TV or monitor and can be controlled by a standard keyboard and mouse. I installed an OS called RetroPie that allows you to play games from various consoles. The key functionality of the project is to: run your favorite games, like the classic Mario and Donkey Kong, and its compact size can allow it to fit in your pocket and be used almost anywhere.",
       "keywords": "Raspberry Pi, RetroPie, Emulator",
       "profilePicture": "https://drive.google.com/uc?export=view&id=16DMNU6t-lXYljoy_p7Ua5VPwyhiAEYa-",
-      "certificates": "CompTIA ITF+",
+      "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=16DMNU6t-lXYljoy_p7Ua5VPwyhiAEYa-",
         null,
@@ -123,7 +123,7 @@
       "projectDesc": "This project is a solution to the problem of having to get on a computer or smartphone to check the price of a cryptocurrency. The proposed solution is to have a device you can plug into a computer that will track, display, and update the price of a desired cryptocurrency. The proposed solution can be  completed with a Raspberry Pi Zero, 2.13” e-ink screen, a MicroSD card, and a computer to configure the SD card and Raspberry Pi Zero.",
       "keywords": "Raspberry Pi Zero, Cryptocurrency, Tracker, SSH, Putty, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=179sAebVYd-UcnGmdKxfov96kQM4JMxNf",
-      "certificates": "CompTIA ITF+",
+      "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=179sAebVYd-UcnGmdKxfov96kQM4JMxNf",
         null,
@@ -146,7 +146,7 @@
       "projectDesc": "The purpose of this project is to create a readily accessible way to build a lightweight Kubernetes server using a Raspberry Pi. The goal is less functionality and more on a proof of concept of developing cloud technologies. Creating an introductory project such as this could get more people interested in cloud computing, networking, and basic database management earlier in their education. The Raspberry Pi stack will act as the our main server or “master node” and we will use it to connect to a database and edit the database through the K3S server. ",
       "keywords": "Raspberry Pi, Kubernetes, SQL",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
-      "certificates": "CompTIA ITF+",
+      "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
         null,
@@ -169,7 +169,7 @@
       "projectDesc": "The project aims to answer the question: “How can I keep watch over my apartment”. This project aims to provide a low-cost surveillance system offering customization and scalability, as well as having an email notification alert system from motion detection. If someone enters the apartment, I will receive an email notification to alert me. ",
       "keywords": "Raspberry Pi, Surveillance, MotionEyeOS",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1FLUJ3_1OSsMJsSbaztvJFzE3Kt414fQC",
-      "certificates": "CompTIA ITF+",
+      "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1FLUJ3_1OSsMJsSbaztvJFzE3Kt414fQC",
         null,
@@ -215,7 +215,7 @@
       "projectDesc": "In today’s world, there is a need to monitor one’s premises. I proposed a solution of adding a camera system on the outside of my home to monitor and record triggers to a computer located in my home. I designed a surveillance IP based network and implemented this network in my home. I sketched the proposed network and planed the equipment and parts needed. This included a PoE switch, four cameras, cat 6 cable, cable crimpers and jacks for the cables. I installed these around my home, through the PoE switch. Using a computer that is networked to the switch, I installed a program called Blue Iris. \nThis program allows me to set up and control each camera individually, and it allows me to controlmany features, such as triggers, PTZ (pan, tilt, zoom – if supported by the cameras), notifications, etc. The design of the network and hardware will allow me to expand the camera system in the future. ",
       "keywords": "Blue Iris, cable crimpers, cameras, CCA (copper-clad aluminum), ethernet, PoE switch, pure copper, RJ-45, triggers ",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1kWvtVvZFM3kFCmykdzibfCXNp6RCz8UI",
-      "certificates": "Google IT Support",
+      "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1kWvtVvZFM3kFCmykdzibfCXNp6RCz8UI",
         null,
@@ -235,10 +235,12 @@
     "classPhoto": [
       {
         "title": "Class Photo",
+        "name": "In Front of Whalin Technology Complex",
         "url": "https://drive.google.com/uc?export=view&id=1hB-Dw5aaJ985P8wyZHZNeHdTmXfAalIh"
       },
       {
         "title": "Class Photo",
+        "name": "Celebration",
         "url": "https://drive.google.com/uc?export=view&id=1lU_mW3oCB98nIUmDaKNyDcEGr-136sGa"
       }
     ],
