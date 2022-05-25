@@ -53,7 +53,7 @@
       "projectTitle": "Arduino Chess Clock",
       "projectDesc": "For my project I decided to build a chess clock using an Arduino MEGA microcontroller, I’ve been passionate about chess since I was young, and the last item needed for competitive games with my friends was a working chess clock. My goal for this project is to create a chess clock using an Arduino microcontroller that can announce a winner and activate a buzzer when a timer reaches zero. I went through a few different designs but settled on a simple square look with two buttons on top and an LCD screen for the timers. A 30-minute timer is used for both players with the other players timer being activated when the opposing player presses their button to end their turn. Once a timer reaches zero a buzzer goes off and a message displays on the LCD screen saying who won.",
       "keywords": "Arduino MEGA, Chess Clock, DIY project, microcontrolle",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1DV1_f1hTSg5TYjDv-tpZL7pOE7Yg3KFu",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1-hFo9T-eXvfpMzPRXJNkB3ElFUsUyuQf",
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1DV1_f1hTSg5TYjDv-tpZL7pOE7Yg3KFu",
