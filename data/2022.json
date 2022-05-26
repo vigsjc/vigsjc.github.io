@@ -34,7 +34,7 @@
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1oaBbiUBm6bO09njlClL0J0wLlKs7nl9n",
-        null,
+        "https://drive.google.com/uc?export=view&id=1MJ72zFZy7Umg4zxCergbWUGe7Z2OOlNg",
         null,
         null
       ],
@@ -56,8 +56,8 @@
       "profilePicture": "https://drive.google.com/uc?export=view&id=1-hFo9T-eXvfpMzPRXJNkB3ElFUsUyuQf",
       "certificates": null,
       "images": [
+        "https://drive.google.com/uc?export=view&id=1-hFo9T-eXvfpMzPRXJNkB3ElFUsUyuQf",
         "https://drive.google.com/uc?export=view&id=1DV1_f1hTSg5TYjDv-tpZL7pOE7Yg3KFu",
-        null,
         null,
         null
       ],
@@ -80,7 +80,7 @@
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1yc2l9tL4C1zDUyGcCTvpMN_ZQ3IRLju2",
-        null,
+        "https://drive.google.com/uc?export=view&id=13Ze3enVJRDu1uwFGXbB43dKnYatYXvMN",
         null,
         null
       ],
@@ -103,7 +103,7 @@
       "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=16DMNU6t-lXYljoy_p7Ua5VPwyhiAEYa-",
-        null,
+        "https://drive.google.com/uc?export=view&id=1LdvHGwVRJ6G_3BpO5J8hQl24I_3C6sc_",
         null,
         null
       ],
@@ -149,7 +149,7 @@
       "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
-        null,
+        "https://drive.google.com/uc?export=view&id=1N4WW7RvUgYkJ0Fnu0LK8VSD3fibLVloF",
         null,
         null
       ],
@@ -235,14 +235,24 @@
     "classPhoto": [
       {
         "title": "Class Photo",
-        "name": "In Front of Whalin Technology Complex",
+        "name": "Entire Class",
         "url": "https://drive.google.com/uc?export=view&id=1hB-Dw5aaJ985P8wyZHZNeHdTmXfAalIh"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Graduates",
+        "url": "https://drive.google.com/uc?export=view&id=1lBeNrXvKiF3Jt8cyPlRHH9i6GI2GuHK0"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Later Graduates",
+        "url": "https://drive.google.com/uc?export=view&id=1aIasjsRAc1UA2oTwFhu5mIBTEilP8b4_"
       },
       {
         "title": "Class Photo",
         "name": "Celebration",
         "url": "https://drive.google.com/uc?export=view&id=1lU_mW3oCB98nIUmDaKNyDcEGr-136sGa"
-      }
+      },
     ],
     "outstanding": [],
     "presenter": [],
