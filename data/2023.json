@@ -1,4 +1,5 @@
-[
+{
+  "studentData": [
   {
     "id": 202301,
     "firstName": "Andrew",
@@ -275,4 +276,11 @@
     "brochure": null,
     "contact": null
   }
-]
+],
+  "other": {
+    "classPhoto": [],
+    "outstanding": [],
+    "presenter": [],
+    "ga": []
+  }
+}
