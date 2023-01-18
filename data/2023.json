@@ -1,5 +1,4 @@
-{
-  "studentData": [
+[
   {
     "id": 202301,
     "firstName": "Andrew",
@@ -25,6 +24,29 @@
   },
   {
     "id": 202302,
+    "firstName": "Austin",
+    "lastName": "Hackbarth",
+    "projectTitle": "Project Title will go here.",
+    "projectDesc": "Project Description will go here.",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202303,
     "firstName": "Dakota",
     "lastName": "Tiller",
     "projectTitle": "Project Title will go here.",
@@ -47,7 +69,7 @@
     "contact": null
   },
   {
-    "id": 202303,
+    "id": 202304,
     "firstName": "Grant",
     "lastName": "Tucker",
     "projectTitle": "Project Title will go here.",
@@ -70,7 +92,7 @@
     "contact": null
   },
   {
-    "id": 202304,
+    "id": 202305,
     "firstName": "James",
     "lastName": "Wood",
     "projectTitle": "Project Title will go here.",
@@ -93,7 +115,7 @@
     "contact": null
   },
   {
-    "id": 202305,
+    "id": 202306,
     "firstName": "Jared",
     "lastName": "Tunks",
     "projectTitle": "Project Title will go here.",
@@ -116,7 +138,7 @@
     "contact": null
   },
   {
-    "id": 202306,
+    "id": 202307,
     "firstName": "Jonathan",
     "lastName": "Mazurek",
     "projectTitle": "Project Title will go here.",
@@ -139,7 +161,7 @@
     "contact": null
   },
   {
-    "id": 202307,
+    "id": 202308,
     "firstName": "Luke",
     "lastName": "Crawford",
     "projectTitle": "Project Title will go here.",
@@ -162,7 +184,7 @@
     "contact": null
   },
   {
-    "id": 202308,
+    "id": 202309,
     "firstName": "Micah",
     "lastName": "Maggard",
     "projectTitle": "Project Title will go here.",
@@ -185,7 +207,7 @@
     "contact": null
   },
   {
-    "id": 202309,
+    "id": 202310,
     "firstName": "Nicholas",
     "lastName": "Adkins",
     "projectTitle": "Project Title will go here.",
@@ -208,7 +230,30 @@
     "contact": null
   },
   {
-    "id": 202310,
+    "id": 202311,
+    "firstName": "Stephen",
+    "lastName": "Vaughn",
+    "projectTitle": "Project Title will go here.",
+    "projectDesc": "Project Description will go here.",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202312,
     "firstName": "Steven",
     "lastName": "Stayton",
     "projectTitle": "Project Title will go here.",
@@ -231,7 +276,7 @@
     "contact": null
   },
   {
-    "id": 202311,
+    "id": 202313,
     "firstName": "Travis",
     "lastName": "Pendygraft",
     "projectTitle": "Project Title will go here.",
@@ -254,7 +299,7 @@
     "contact": null
   },
   {
-    "id": 202312,
+    "id": 202314,
     "firstName": "Tyler",
     "lastName": "Faulkner",
     "projectTitle": "Project Title will go here.",
@@ -276,11 +321,4 @@
     "brochure": null,
     "contact": null
   }
-],
-  "other": {
-    "classPhoto": [],
-    "outstanding": [],
-    "presenter": [],
-    "ga": []
-  }
-}
+]
