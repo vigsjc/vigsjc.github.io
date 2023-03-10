@@ -132,7 +132,7 @@
       "projectDesc": "Virtual Networking is the now. This project I have created aims towards two important things. One being that small to mid-size businesses can incorporate these virtual environments into their networks which would save money on hardware, reduce hardware, reduce redundant wiring, and improve security in some cases. The second being this project also helps the viewer better understand what virtualization is and how it can be incorporated into networks.",
       "keywords": "Networking, Virtualization, Hypervisor, IP addressing, Port-forwarding",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
         "https://drive.google.com/uc?export=view&id=1AvrNi2e8RDrUqRxU9BcURwfbjfzTQEtk",
@@ -307,7 +307,7 @@
       "projectDesc": "This project seeks to design and create a camera system that can detect and track motion using a Pixy2 camera module and Arduino microcontroller. With the use of the microcontroller the system can be used autonomously. It will have the capability to detect motion, color, and general shape. The foundation of this project is based on a Pixy camera with a built-in processor and image sensor paired with an Arduino microcontroller to run the vision software. The addition of a pan and tilt servomotor allows the camera system to orientate on motion and retain central focus of it. The Pixy2 camera module operates on software called PixyMon, which allows specific configurations to visual signatures. The Arduino Uno can be programmed to load and run code libraries on the Arduino IDE software.",
       "keywords": "Arduino, Pixy, Servomotor, PixyMon, Arduino IDE",
       "profilePicture": "https://drive.google.com/uc?export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
         "https://drive.google.com/uc?export=view&id=10iz7JzrvV2oC1XsDCp0XbJzLUjS-XV1P",
@@ -376,7 +376,7 @@
       "projectDesc": "The problem I am proposing to solve is the need for a better backup camera while backing/pulling into your garage. The perspective of the traditional rear-view camera doesn’t give you real feeling of depth and can make it hard to see how far you are from the wall. This causes some people to have to get out and see how far they are away from the wall and get back in and adjust, and then repeat if necessary.",
       "keywords": "Raspberry-Pi, Coding, Python",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
-      "certificates": null,
+      "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
         "https://drive.google.com/uc?export=view&id=1OJ5xZ7g0l9dYr-uKJaT_uDcWOEF7r5Jp",
