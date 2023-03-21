@@ -285,7 +285,9 @@
       "projectDesc": "A real-life situation, combined with overly expensive security companies,lead to the wonder of a cheaper, do-ityourself, solution.",
       "keywords": "Raspberry Pi, Motion Detector, Camera",
       "profilePicture": null,
-      "certificates": null,
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
+      },
       "images": [
         null,
         null,
@@ -331,7 +333,9 @@
       "projectDesc": "The goal I am working on for this capstone project is to make a small auditing machine that would get rid of my need to carry around a large laptop. This can be used for people wanting a cheap alternative to full blown laptops and desktops. My solution for this is to build a Raspberry Pi 3 and install the free OS Kali Linux that will be used for auditing. This would be done within a budget of $200 and extensions of any price can be added later.",
       "keywords": "Kali Linux, Metasploit, SSH, Raspberry PI, Auditing",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1Nay8naVQ2xwaEY264h2sLzh5V4QmnJMQ",
-      "certificates": null,
+      "certificates": {
+      "Certified Wireless Technology Specialist": "https://www.cwnp.com/certifications/cwts"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1Nay8naVQ2xwaEY264h2sLzh5V4QmnJMQ",
         null,
@@ -506,7 +510,9 @@
       "projectDesc": "The purpose of this project was to create a domain network offering security and extra features for more functionality and better emulation of a real business network. The setup was to have a networks with all clients virtualized with a gateway running PFsense and an IDS such as Snort. It contained essential servers such as DHCP and a DNS server along with each having one domain controller. In addition the network will have some penetration testing done to ensure some basic security The primary OS's include Windows Server 2016, Windows 10, PFsense, and Kali Linux.",
       "keywords": "VPN, IPS, Snort, Kali, Linux, Windows Server, Server, DHCP, RADIUS, DNS, Security.",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1awPSAxrH5iPKXVe1r4bSO9EcQZZvH8wP",
-      "certificates": null,
+      "certificates": {
+          "CompTIA Network+": "https://www.comptia.org/certifications/network"
+       },
       "images": [
         "https://drive.google.com/uc?export=view&id=1awPSAxrH5iPKXVe1r4bSO9EcQZZvH8wP",
         null,
