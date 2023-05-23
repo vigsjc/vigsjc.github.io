@@ -1,115 +1,115 @@
 {
-  "studentData": [
+  "studentData":[
   {
     "id": 202301,
     "firstName": "Andrew",
     "lastName": "Rodgers",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Raspberry Pi Greeting Card",
+    "projectDesc": "The goal of this project is to serve as a special way for one-way communication using standard messaging service (SMS) technology. The idea is that it is something better than just a email message, and can work when the remote sender is in an environment without reliable Internet service. The Raspberry Pi will receive an SMS message and process the text and display it on an liquid crystal diode (LCD) screen for the recipient.",
+    "keywords": "Pi, SMS, LCD Display",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1fg-J42KDS_ioamRwsctuVk_f1Bjmr-nU",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1QrRQEfaBDX-p202K_u2t_qcRQYhgyw6G",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=10gjS4uF1eqYJuNQPjZ2ssGZS_9yWTD_K",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1uKBCwaOXAj1vs3nNApO22NAod6x1iaK3",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1YOAaeCZGoW86mbvjcumQREdNV_XoiKQH",
     "contact": null
   },
   {
     "id": 202302,
     "firstName": "Austin",
     "lastName": "Hackbarth",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Open-Source NAS Devices",
+    "projectDesc": "What is a NAS? A Network Attached Storage is a network device that allows network \nusers to connect to itself to use the device’s local storage. Linux, MacOS, and Windows users \ncan map the location of the NAS device via the device’s IP address. Once the NAS device’s \nlocation is mapped the user can use the NAS storage as if it was attached to the user’s system \nlocally. In this capstone project, I installed the TrueNAS OS onto old, refurbished hardware to \ncreate an open-source NAS device. Looking back, the project was quite successful considering \nthat I established connection to the server via Windows user interface, implemented media server\nfunctionality, and was able to create/secure remote access outside of the given NAS network.",
+    "keywords": "Open-Source, NAS, TrueNAS, Plex, Nextcloud",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1GI4mn4eDXTzGFBSg0v9Vk4HRjh3F_qFu",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=19Jn9QpCOx4LtJAbj_jG_5SZF3Y5t_Zdp",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1DqKtDtIfcCJ2PN1VN4TmLrdJJWDhu-jY",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1-wNMDO1843Fth-W3jgla1HGEW5-Z_bj0",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1EsCg9WPTEUiJFOTMXRZzXL4_s1dnMeSD",
     "contact": null
   },
   {
     "id": 202303,
     "firstName": "Dakota",
     "lastName": "Tiller",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Raspberry Pi PLC",
+    "projectDesc": "This project aims to answer the following question: “Can someone who has little to no \nknowledge of programming and circuitry complete a designated lab assignment made for \nteaching beginners?” The goal of this project is to create a series of labs or assignments to be \ngiven to a novice as a teaching tool, for the user to begin the initial process of emulating a PLC \non a Raspberry Pi. The user will wire various inputs and outputs to a breadboard connected to a \nRaspberry Pi, coding these inputs and outputs in Python with directions in the lab assignment.",
+    "keywords": "Raspberry Pi, PLC, Python, Input/Output",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1XyDs4_0rYPws-FEyHeBLySFfb-SyN2q8",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1mqKyRXsLim2Pw7klK79a_M1v9zrqtsf4",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1js_ZIvKIw0Rqz3t7iDTu1u3XfWuVTXaT",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1uFJCOE96lU8Pr5t6sXbLKfpgQIFcITJG",
       null
     ],
-    "brochure": null,
-    "contact": null
+    "brochure": "https://drive.google.com/uc?export=view&id=1bp9cQ-FNjbMbW3K602tsZgdc9RzEk7Gh",
+    "contact": "https://www.linkedin.com/in/dakota-tiller"
   },
   {
     "id": 202304,
     "firstName": "Grant",
     "lastName": "Tucker",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "PCE Penetration Tester",
+    "projectDesc": "The idea behind this project was to create a penetration testing machine that is portable, \ncheap, and easy-to-use. These three specifications is where the name PCE (portable, cheap, \neasy-to-use) penetration tester is coined. A penetration test is a test conducted on a network to \nmeasure the amount of security in place. These tests can be conducted by hired professionals or \nIT employees within the organization itself. To achieve a portable and affordable penetration \ntest machine, I selected the single-board computer system AML-S905X-CC (Le Potato). Along \nwith this, the Alfa AWUS036ACS WiFi adapter was selected because the adapter has packet \ninjection and monitor mode which is essential in conducting a variety of pen tests. With the \ncombination of a cheap single-board computer and WiFi adapter, penetration tests will become \nmore easily conducted due to price and portability.",
+    "keywords": "Penetration Test, Single-Board Computer Systems, Packet Injection, Monitor Mode",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1K682ehZMrwfj5cZNB-bA9MdeV80W3Jxd",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1vC2zPn1pVssjgehS-vHzX90huDvjMHdH",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1mHGLrn_YG1nl5OsIewZckoobvEG-HmM_",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1VMGqZxoFgydyxALGHsHOYgLKqMVP75bJ",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=13yvLyWmu-vlDXzve6SYmuyXw3GBmVG-Z",
     "contact": null
   },
   {
     "id": 202305,
     "firstName": "James",
     "lastName": "Wood",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Scalable Linux File Server",
+    "projectDesc": "This capstone project involved the creation of a functional and cost-effective file storage \nserver using salvaged components. The objective was to keep the budget low while achieving \nhigh functionality. To accomplish this goal, we assembled a functioning computer using \nsalvaged parts and installed Ubuntu Linux as the operating system. We then utilized Samba to set\nup a file server.\n\nThe project's success was evaluated based on the server's performance, reliability, and \ncost-effectiveness. Our approach allowed us to create a functional file storage server at a \nsignificantly lower cost than purchasing new components. Additionally, the use of salvaged \ncomponents aligns with sustainable practices, making this project an eco-friendly solution for \nindividuals or small businesses seeking a cost-effective file storage solution.\n\nOverall, this project demonstrated the feasibility of using salvaged components to build a \nfunctional file storage server that can meet the needs of small businesses or individuals while \nkeeping costs low. The project's success provides a practical solution for individuals or small \nbusinesses seeking a sustainable and cost-effective file storage solution.",
+    "keywords": "Linux, Samba, Ubuntu",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=10c6Bd5nlLhSYsK4-_974eDmvAntVftDv",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1FA7svEeRL5NOQxWTXhFo-s8NGUlnaCBn",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1SufTrpA2vjKT2m6-QHoLhlD07p9EdCIb",
       null
     ],
     "brochure": null,
@@ -119,213 +119,239 @@
     "id": 202306,
     "firstName": "Jared",
     "lastName": "Tunks",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Raspberry Pi At-Home Bar",
+    "projectDesc": "The goal for this project is to combine the passion of home automation with the art of mixed drinks. This project utilizes a Raspberry Pi with RaspianOS and a GPIO Board to automate the process of creating an “Old Fashioned.” The Raspberry Pi receives user input and sends a signal to various GPIO outputs to power a 12V DC Dosing Pump which pumps various liquids such as bourbon, simple syrup, and bitters into a glass for consumption. This project is coded in Python 3.9 and is clearly noted for easier adaptation in the future. This project has versatile implementations but was created with the intent of an at-home bar. While it was created for an “Old Fashioned,” this project could be adapted for other drink variations.",
+    "keywords": "Raspberry Pi, Python, 12v DC Pumps, Home Automation",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1D4b7U7RB0LBXWPts3bsfpDfOS8wZX5VE",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      null,
-      null
+      "https://drive.google.com/uc?export=view&id=12wQriBkElkBQ0jkIAVmKkwdZLGt9mORt",
+      "https://drive.google.com/uc?export=view&id=1ZYy276rjAhexRDh9sL_ubl1xa8VM2BKI",
+      "https://drive.google.com/uc?export=view&id=1vshn942RbRBa7J3CzaoxeJUObn-yvu3P",
+      "https://drive.google.com/uc?export=view&id=1DfEHDzfcRT6FlQCc623po7Fauh56GyNq"
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1z3IWohH1nkQYru1wztVh6BJ5ZfjRfrFM/",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1-rWTB04GCjEDJsNlT7on8FERj1lOtOX-",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1iIsNWKd9J02AgMpPsoTBVN3C7jxucDF-",
     "contact": null
   },
   {
     "id": 202307,
     "firstName": "Jonathan",
     "lastName": "Mazurek",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Networking Two Games Together",
+    "projectDesc": "The idea of my project was to mostly just be a way to get my foot in the door of starting a game in some way, while attempting to return some functionality to another game I play. The game Sonic Adventure 2 was ported to the PC in 2013, but some of its features were stripped out for the port. Specifically, how in the original release players could transfer their Chao, a small creature you could raise as a side part of the game, to a handheld console to let you train your chao on the go and unlock special item. Since the PC has no way to connect to these devices, and even if they did the save files have changed a lot. I think a better solution would be to make a new game to replace the old Handheld version. As of writing this the project has not been fully realized, due to my own personal failings. It has a basic gameplay experience right now and a basic way of transferring data between SA2 and Tiny Chao Dungeon.",
+    "keywords": "Chao, Sonic Adventure 2",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1rYGkBCMn9md_E9m0GBxrvbbYjl6_ka9t",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1jxLLEPy3DHcBZ6pb5Meqd_zznDHUZ8yq",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=https://docs.google.com/presentation/d/1snTDrX33TkC830jtxpHjxWN1FI9xGBSO/edit?usp=share_link&ouid=100131363357653316852&rtpof=true&sd=true",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1Ljr26sFpXeJom0NVa38VZgaaL7JRhrDU",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1jTNimXsG1JBFYzKvAIf5XAPifnpGCYsN/",
     "contact": null
   },
   {
     "id": 202308,
     "firstName": "Luke",
     "lastName": "Crawford",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "pfSense Firewall",
+    "projectDesc": "The purpose of this project was building a file sharing server using primarily a spare motherboard and other necessary components. The focus then was on installing and configuring the pfSense operating system on the server. The server was built to provide file sharing capabilities for a small to medium-sized network, and thus needed firewall coverage. The paper discusses the hardware and software requirements for the project, the steps involved in building and configuring the firewall, and the benefits of using pfSense security. The project demonstrates the feasibility of building a cost-effective and powerful firewall for a server using off-the-shelf components and open-source software.",
+    "keywords": "pfSense, Firewall, Server",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1l0_ldtQPSQVcUCf-4BZXeT23fuKxf5_W",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1PGR5HKnMoL7WxzkIL_HARTWm3Mc-HYgi",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=13hmAFVUzqS-uy0Llx1-kqo34cfVOlTNI",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1KbzcrICGf95yk28SsL4NkFrbcC_fLaQQ/",
     "contact": null
   },
   {
     "id": 202309,
     "firstName": "Micah",
     "lastName": "Maggard",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Raspberry Pi RC Car",
+    "projectDesc": "The objective of this capstone project is to see if a remote-controlled car can be built and \ncontrolled through the use of a Raspberry Pi. In order to do this, we will use Raspberry Pi 3a \nPlus connected to an L298N motor controller, which connects to two separate motors that are \nconnected to wheels. All of this will be mounted on a frame specifically designed for this project.\nThe Raspberry Pi will be connected to a phone using a network connection through the use of a \nMAC address. The Raspberry Pi will also be sending camera footage through Bluetooth back to \nmy personal computer. The phone will be used to send instructions to the motor controller \nthrough the Raspberry Pi, which will then output those commands to the two individual motors \ncontrolling the wheels to determine which direction the car itself will go.",
+    "keywords": "Raspberry Pi, RC Car, Remote Control, Python",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=130VMFfIuQGJuTzxQHGy_QoSOxNrilTdO",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1ahrV5svUTd3ZnFuujgwfdP_7xYebBbMn",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1id7f6S4ggrOCOQvIiUu2FbMAs3RPdNku/",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1pPuF8trQuuraLVTMmxflqoWhfRHH_20b/",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1J63Jd4RsqD6IFrMkPOvs8pvqdAozmX3F",
     "contact": null
   },
   {
     "id": 202310,
     "firstName": "Nicholas",
     "lastName": "Adkins",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Hiker Helper",
+    "projectDesc": "The issue that I, and other hikers, have ran into in the past is that when I go hiking I want \nto save locations to visit later, and I, or adventerous hikers, occasionally get lost. My solution to \nthis is that I have made a Global Positioning System (GPS) to help me find my way out of the \nhiking area and back to my car, and create a device that saves the GPS coordinates of places that \nI want to go back to. The locations are being saved in a micro SD card, and this is because it is \ncommon, has a large memory, and is easily accesible. My project has been succesfuly in all \nthree pahses Core 1, Core 2, and the extension objectives. Core 1 is the proof of concept that \nallows me to know that I am able build GPS and ensure that I am able to make it read accurate \ncoordinates. Core 2 allowed me to understand the limitations of my device with the current\nantenna and power source. The extension Phase of the project is dependent on resources and time \nconstraints.",
+    "keywords": "GPS< Arduino, Hiking",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1MOsAzTjKIy6GZVsLVvGdETHEtbmvcLx7",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1ZdinElQkCwDHd9WpmzTeuFLeVfHdJJAD/",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=11cIVs94zIw7JuMIjq0R5VLm1NdOf552j",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1sabIBJBO-eDZin5TeShEzbwtzVvuPw9Z/",
     "contact": null
   },
   {
     "id": 202311,
     "firstName": "Stephen",
     "lastName": "Vaughn",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "At Home Linux Server Computer",
+    "projectDesc": "This project is to answer the following question “How could I reuse my old computer parts that I \nhave lying around?” The goal of my project was to use all my old computer parts to make \nsomething useful out of it for myself and friends. The at home server computer runs a dedicated \nMinecraft server and has a Plex Media Server running on it.",
+    "keywords": "Server, Minecraft, Plex, Reuse, Linux, Ubuntu",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1Eyl-hkIl3Ns549tXDS_sCBCrsaLmGmui",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null,
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=https://docs.google.com/presentation/d/1LSk5L8-SrWsCQP4VY8cAJ8XMkp0lv2Hn/edit?usp=share_link&ouid=100131363357653316852&rtpof=true&sd=true",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1h8SKG6bipvBqxVjpL6stfBPoUG4h5E_1",
       null
     ],
-    "brochure": null,
-    "contact": null
+    "brochure": "https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/13eAXYmlKcLyNYPTG7CeERdcAVZ6NQM0r/view?usp=share_link",
+    "contact": "https://www.linkedin.com/in/stephenvaughn4"
   },
   {
     "id": 202312,
     "firstName": "Steven",
     "lastName": "Stayton",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Motion Detection Doorbell",
+    "projectDesc": "This project involves the use of an ultrasonic sensor in conjunction with an Arduino Uno board\nto detect when someone is close enough to a doorbell or simply passing by. The goal is to notify\nthe user if someone is close enough to ring the doorbell. The ultrasonic sensor will be used to\nmeasure the distance of the individual, and if they are within a certain range, LEDs will light up\ncannot have cameras outside their doors. This is also more stealthy than traditional security doorbells, as it\ndoes not seem to be that different when compared to a traditional one. This is a better design than\nthe camera doorbell systems, as someone who wants to break in would be unaware of the extra\nsecurity measures and would not be able to prepare for it.",
+    "keywords": "Arduino , Ultrasonic Sensor, Security",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1rkcTAaLfpZrwY2h-M7WzACufsAMfBwJ3",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1CiKRNhGT7xTmd1nTMOeMS62mdr7JWYNh",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=14roGyczqWy9QZrUEeS-JxHuoshpixmk5",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1q9El9K_iIZfGX8bQTCOpn0oDHMJtsACt",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1TKxSubWzU-Ch-Ilo1C-obE9BAyqDp31b",
     "contact": null
   },
   {
     "id": 202313,
     "firstName": "Travis",
     "lastName": "Pendygraft",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Door Access Control Box",
+    "projectDesc": "Physical access control presents valuable benefits to facility security protocols, and is becoming\nmore common in schools, businesses, and government buildings. These systems have a wide\nrange of complexity–requiring significant training to effectively implement–and an even wider\ncost spread. This project aims to create a low-cost, effective solution to access control while\nmaintaining functionality and scalability in order to provide introductory training on the\nprinciples of physical access control system (PACS) implementations. Alternatively, a functional\nsystem developed by this project’s guidelines may function as a stand-alone, full-fledged door\naccess system developed for ease-of-use to permit quick implementation by inexperienced\nusers. To do this, a radio frequency identification (RFID) reader is connected via a USB port to a\nRaspberry Pi microcontroller, which is integrated with a 12V relay connected to an electric door\nstrike and three LEDs for visual effect. This report details a completed project, with a fully\nfunctional base system and an extension that includes installation of the electric door strike into\na model frame.",
+    "keywords": "Physical Access Control System, RFID, Raspberry Pi, Relay",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=1FbIG8AQTKXj9HHSBZoyDSUZXdCZXUkmT",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1jYyTlEyioqD2a8EYMQnyw1-xsaaVfZ31",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1VAe3ysWanPOiSQVwd_Pt9HHTEZPFq6Gx",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=1A7obXdUUdTd-NloVh3OFzr3LewOuM0QL",
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/travis-pendygraft"
   },
   {
     "id": 202314,
     "firstName": "Tyler",
     "lastName": "Faulkner",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Arduino Measuring Tape",
+    "projectDesc": "The purpose of this project is to build a device that could accurately measure distance in feet and inches. I wanted to build a device that could be used by anyone trying to measure anything, from a small DIY project to how high can this drone fly in the air. To achieve this, an Arduino Uno has been used has the microcontroller to supply the code for the device (written in C++), an ultra-sonic sensor has been used to measure distance, an LCD display has been used to display the results of the ultra-sonic sensor, and two LED lights have been used to keep track of the measurements.",
+    "keywords": "Arduino Uno, Ultra-Sonic Sensor, LCD Display, LED",
+    "profilePicture": "https://drive.google.com/uc?export=view&id=19CvxogXkluE7860tAfpSbbZglIQcfqPk",
     "certificates": null,
     "images": [
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/uc?export=view&id=1pv4fyPGVjYJ5kmaSDM0kT-Ag4ssjYlBy",
+      null,
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=1RyI-OjyY46RL3Sz7upiIVry5fpdoSnaN/",
     "video": [
-      null,
+      "https://drive.google.com/uc?export=view&id=13MrnQSTPreCtcCO0t_Wjx75EpwhtgEhv/",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=16F9JMjW9bLmRjfxTpLVNm5asEt0G1yk6/",
     "contact": null
   }
 ],
   "other": {
-    "classPhoto": [],
-    "outstanding": [],
+    "classPhoto": [
+      {
+        "title": "Class Photo",
+        "name": "Entire Class",
+        "url": "https://drive.google.com/uc?export=view&id=1E883evSpDbSkoASenAvAsHm0K2m9FzW7"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Graduates",
+        "url": "https://drive.google.com/uc?export=view&id=1vba5ANQvgMc5groD37MbUr2zKy4tKWUg"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Later Graduates",
+        "url": "https://drive.google.com/uc?export=view&id=1-CnzxnwQXz_zvreq5dXjyeDNvu4q8O-B"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Celebration",
+        "url": "https://drive.google.com/uc?export=view&id=1whZlfdx1yhFTtUhRRvChFtaKVa7qVUUx"
+      }
+    ],
+    "outstanding": [
+      {
+        "title": "2023 Outstanding Senior",
+        "name": "Travis Pendygraft",
+        "url": "https://drive.google.com/uc?export=view&id=1AHkIjvLx5nkNeUyJ0-BwpfBA0RwszQT8"
+    ],
     "presenter": [],
     "ga": []
   }
