@@ -20,7 +20,7 @@
   	"https://drive.google.com/uc?export=view&id=14HoABBRAAKXjfFRrgYqAMLaHWRg5w0Wd",
   	null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1HMU1rlQpCnShVSH0cdZhYdvz16gTb8iDH",
+   "brochure": "https://drive.google.com/uc?export=view&id=1HMU1rlQpCnShVSH0cdZhYdvz16gTb8iD",
    "contact": null
 },
  {
@@ -28,7 +28,7 @@
    "firstName": "Austin",
    "lastName": "Hackbarth",
    "projectTitle": "Open-Source NAS Devices",
-   "projectDesc": "What is a NAS? A Network Attached Storage is a network device that allows network   users to connect to itself to use the device’s local storage. Linux, MacOS, and Windows users   can map the location of the NAS device via the device’s IP address. Once the NAS device’s   location is mapped the user can use the NAS storage as if it was attached to the user’s system   locally. In this capstone project, I installed the TrueNAS OS onto old, refurbished hardware to   create an open-source NAS device. Looking back, the project was quite successful considering   that I established connection to the server via Windows user interface, implemented media server  functionality, and was able to create/secure remote access outside of the given NAS network.",
+   "projectDesc": "What is a NAS? A Network Attached Storage is a network device that allows network  users to connect to itself to use the device’s local storage. Linux, MacOS, and Windows users  can map the location of the NAS device via the device’s IP address. Once the NAS device’s  location is mapped the user can use the NAS storage as if it was attached to the user’s system  locally. In this capstone project, I installed the TrueNAS OS onto old, refurbished hardware to  create an open-source NAS device. Looking back, the project was quite successful considering  that I established connection to the server via Windows user interface, implemented media server functionality, and was able to create/secure remote access outside of the given NAS network.",
    "keywords": "Open-Source, NAS, TrueNAS, Plex, Nextcloud",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1GI4mn4eDXTzGFBSg0v9Vk4HRjh3F_qFu",
    "certificates": null,
@@ -51,7 +51,7 @@
    "firstName": "Dakota",
    "lastName": "Tiller",
    "projectTitle": "Raspberry Pi PLC",
-   "projectDesc": "This project aims to answer the following question: “Can someone who has little to no   knowledge of programming and circuitry complete a designated lab assignment made for   teaching beginners?” The goal of this project is to create a series of labs or assignments to be   given to a novice as a teaching tool, for the user to begin the initial process of emulating a PLC   on a Raspberry Pi. The user will wire various inputs and outputs to a breadboard connected to a   Raspberry Pi, coding these inputs and outputs in Python with directions in the lab assignment.",
+   "projectDesc": "This project aims to answer the following question: “Can someone who has little to no  knowledge of programming and circuitry complete a designated lab assignment made for  teaching beginners?” The goal of this project is to create a series of labs or assignments to be  given to a novice as a teaching tool, for the user to begin the initial process of emulating a PLC  on a Raspberry Pi. The user will wire various inputs and outputs to a breadboard connected to a  Raspberry Pi, coding these inputs and outputs in Python with directions in the lab assignment.",
    "keywords": "Raspberry Pi, PLC, Python, Input/Output",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1XyDs4_0rYPws-FEyHeBLySFfb-SyN2q8",
    "certificates": null,
@@ -74,7 +74,7 @@
    "firstName": "Grant",
    "lastName": "Tucker",
    "projectTitle": "PCE Penetration Tester",
-   "projectDesc": "The idea behind this project was to create a penetration testing machine that is portable,   cheap, and easy-to-use. These three specifications is where the name PCE (portable, cheap,   easy-to-use) penetration tester is coined. A penetration test is a test conducted on a network to   measure the amount of security in place. These tests can be conducted by hired professionals or   IT employees within the organization itself. To achieve a portable and affordable penetration   test machine, I selected the single-board computer system AML-S905X-CC (Le Potato). Along   with this, the Alfa AWUS036ACS WiFi adapter was selected because the adapter has packet   injection and monitor mode which is essential in conducting a variety of pen tests. With the   combination of a cheap single-board computer and WiFi adapter, penetration tests will become   more easily conducted due to price and portability.",
+   "projectDesc": "The idea behind this project was to create a penetration testing machine that is portable,  cheap, and easy-to-use. These three specifications is where the name PCE (portable, cheap,  easy-to-use) penetration tester is coined. A penetration test is a test conducted on a network to  measure the amount of security in place. These tests can be conducted by hired professionals or  IT employees within the organization itself. To achieve a portable and affordable penetration  test machine, I selected the single-board computer system AML-S905X-CC (Le Potato). Along  with this, the Alfa AWUS036ACS WiFi adapter was selected because the adapter has packet  injection and monitor mode which is essential in conducting a variety of pen tests. With the  combination of a cheap single-board computer and WiFi adapter, penetration tests will become  more easily conducted due to price and portability.",
    "keywords": "Penetration Test, Single-Board Computer Systems, Packet Injection, Monitor Mode",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1K682ehZMrwfj5cZNB-bA9MdeV80W3Jxd",
    "certificates": null,
@@ -97,7 +97,7 @@
    "firstName": "James",
    "lastName": "Wood",
    "projectTitle": "Scalable Linux File Server",
-   "projectDesc": "This capstone project involved the creation of a functional and cost-effective file storage   server using salvaged components. We then utilized Samba to set  up a file server.The project's success was evaluated based on the server's performance, reliability, and   cost-effectiveness. Our approach allowed us to create a functional file storage server at a   significantly lower cost than purchasing new components. Overall, this project demonstrated the feasibility of using salvaged components to build a   functional file storage server that can meet the needs of small businesses or individuals while keeping costs low. The project's success provides a practical solution for individuals or small businesses seeking a sustainable and cost-effective file storage solution.",
+   "projectDesc": "This capstone project involved the creation of a functional and cost-effective file storage  server using salvaged components. The objective was to keep the budget low while achieving  high functionality. To accomplish this goal, we assembled a functioning computer using  salvaged parts and installed Ubuntu Linux as the operating system. We then utilized Samba to set up a file server. Our approach allowed us to create a functional file storage server at a  significantly lower cost than purchasing new components. Additionally, the use of salvaged  components aligns with sustainable practices, making this project an eco-friendly solution for  individuals or small businesses seeking a cost-effective file storage solution. The project's success provides a practical solution for individuals or small businesses seeking a sustainable and cost-effective file storage solution.",
    "keywords": "Linux, Samba, Ubuntu",
    "profilePicture": "https://drive.google.com/uc?export=view&id=10c6Bd5nlLhSYsK4-_974eDmvAntVftDv",
    "certificates": null,
@@ -130,7 +130,7 @@
   	"https://drive.google.com/uc?export=view&id=1vshn942RbRBa7J3CzaoxeJUObn-yvu3P",
   	"https://drive.google.com/uc?export=view&id=1DfEHDzfcRT6FlQCc623po7Fauh56GyNq"
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1z3IWohH1nkQYru1wztVh6BJ5ZfjRfrFM/",
+   "presentation": "https://drive.google.com/uc?export=view&id=1z3IWohH1nkQYru1wztVh6BJ5ZfjRfrFM",
    "video": [
   	"https://drive.google.com/uc?export=view&id=1-rWTB04GCjEDJsNlT7on8FERj1lOtOX-",
   	null
@@ -143,7 +143,7 @@
    "firstName": "Jonathan",
    "lastName": "Mazurek",
    "projectTitle": "Networking Two Games Together",
-   "projectDesc": "The idea of my project was to mostly just be a way to get my foot in the door of starting a game in some way, while attempting to return some functionality to another game I play. The game Sonic Adventure 2 was ported to the PC in 2013, but some of its features were stripped out for the port. Specifically, how in the original release players could transfer their Chao, a small creature you could raise as a side part of the game, to a handheld console to let you train your chao on the go and unlock special item. Since the PC has no way to connect to these devices, and even if they did the save files have changed a lot. I think a better solution would be to make a new game to replace the old Handheld version. As of writing this the project has not been fully realized, due to my own personal failings. It has a basic gameplay experience right now and a basic way of transferring data between SA2 and Tiny Chao Dungeon.",
+   "projectDesc": "The idea of my project was to mostly just be a way to get my foot in the door of starting a game in some way, while attempting to return some functionality to another game I play. The game Sonic Adventure 2 was ported to the PC in 2013, but some of its features were stripped out for the port. Specifically, how in the original release players could transfer their Chao, a small creature you could raise as a side part of the game, to a handheld console to let you train your chao on the go and unlock special items. Since the PC has no way to connect to these devices, and even if they did, the save files have changed a lot. I think a better solution would be to make a new game to replace the old Handheld version. As of writing this the project has not been fully realized, due to my own personal failings. It has a basic gameplay experience right now and a basic way of transferring data between SA2 and Tiny Chao Dungeon.",
    "keywords": "Chao, Sonic Adventure 2",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1rYGkBCMn9md_E9m0GBxrvbbYjl6_ka9t",
    "certificates": null,
@@ -153,7 +153,7 @@
   	null,
   	null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=https://docs.google.com/presentation/d/1snTDrX33TkC830jtxpHjxWN1FI9xGBSO/edit?usp=share_link&ouid=100131363357653316852&rtpof=true&sd=true",
+   "presentation": "https://drive.google.com/uc?export=view&id=1snTDrX33TkC830jtxpHjxWN1FI9xGBSO",
    "video": [
   	"https://drive.google.com/uc?export=view&id=1Ljr26sFpXeJom0NVa38VZgaaL7JRhrDU",
   	null
@@ -189,7 +189,7 @@
    "firstName": "Micah",
    "lastName": "Maggard",
    "projectTitle": "Raspberry Pi RC Car",
-   "projectDesc": "The objective of this capstone project is to see if a remote-controlled car can be built and   controlled through the use of a Raspberry Pi. In order to do this, we will use Raspberry Pi 3a   Plus connected to an L298N motor controller, which connects to two separate motors that are   connected to wheels. All of this will be mounted on a frame specifically designed for this project.  The Raspberry Pi will be connected to a phone using a network connection through the use of a   MAC address. The Raspberry Pi will also be sending camera footage through Bluetooth back to   my personal computer. The phone will be used to send instructions to the motor controller   through the Raspberry Pi, which will then output those commands to the two individual motors   controlling the wheels to determine which direction the car itself will go.",
+   "projectDesc": "The objective of this capstone project is to see if a remote-controlled car can be built and  controlled through the use of a Raspberry Pi. In order to do this, we will use Raspberry Pi 3a  Plus connected to an L298N motor controller, which connects to two separate motors that are  connected to wheels. All of this will be mounted on a frame specifically designed for this project. The Raspberry Pi will be connected to a phone using a network connection through the use of a  MAC address. The Raspberry Pi will also be sending camera footage through Bluetooth back to  my personal computer. The phone will be used to send instructions to the motor controller  through the Raspberry Pi, which will then output those commands to the two individual motors  controlling the wheels to determine which direction the car itself will go.",
    "keywords": "Raspberry Pi, RC Car, Remote Control, Python",
    "profilePicture": "https://drive.google.com/uc?export=view&id=130VMFfIuQGJuTzxQHGy_QoSOxNrilTdO",
    "certificates": null,
@@ -199,9 +199,9 @@
   	null,
   	null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1id7f6S4ggrOCOQvIiUu2FbMAs3RPdNku/",
+   "presentation": "https://drive.google.com/uc?export=view&id=1id7f6S4ggrOCOQvIiUu2FbMAs3RPdNku",
    "video": [
-  	"https://drive.google.com/uc?export=view&id=1pPuF8trQuuraLVTMmxflqoWhfRHH_20b/",
+  	"https://drive.google.com/uc?export=view&id=1pPuF8trQuuraLVTMmxflqoWhfRHH_20b",
   	null
    ],
    "brochure": "https://drive.google.com/uc?export=view&id=1J63Jd4RsqD6IFrMkPOvs8pvqdAozmX3F",
@@ -212,7 +212,7 @@
    "firstName": "Nicholas",
    "lastName": "Adkins",
    "projectTitle": "Hiker Helper",
-   "projectDesc": "The issue that I, and other hikers, have run into in the past is that when I go hiking I want   to save locations to visit later, and I, or adventurous hikers, occasionally get lost. My solution to   this is that I have made a Global Positioning System (GPS) to help me find my way out of the   hiking area and back to my car, and create a device that saves the GPS coordinates of places that I want to go back to. My project has been successful in all three phases Core 1, Core 2, and the extension objectives. Core 1 is the proof of concept that   allows me to know that I am able build GPS and ensure that I am able to make it read accurate   coordinates. Core 2 allowed me to understand the limitations of my device with the current  antenna and power source. The extension Phase of the project is dependent on resources and time   constraints.",
+   "projectDesc": "The issue that I, and other hikers, have ran into in the past is that when I go hiking I want  to save locations to visit later, and I, or adventurous hikers, occasionally get lost. My solution to  this is that I have made a Global Positioning System (GPS) to help me find my way out of the  hiking area and back to my car, and create a device that saves the GPS coordinates of places that  I want to go back to. My project has been successful in all  three phases Core 1, Core 2, and the extension objectives. Core 1 is the proof of concept that  allows me to know that I am able build GPS and ensure that I am able to make it read accurate  coordinates. Core 2 allowed me to understand the limitations of my device with the current antenna and power source. The extension Phase of the project is dependent on resources and time  constraints.",
    "keywords": "GPS< Arduino, Hiking",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1MOsAzTjKIy6GZVsLVvGdETHEtbmvcLx7",
    "certificates": null,
@@ -222,12 +222,12 @@
   	null,
   	null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1ZdinElQkCwDHd9WpmzTeuFLeVfHdJJAD/",
+   "presentation": "https://drive.google.com/uc?export=view&id=1ZdinElQkCwDHd9WpmzTeuFLeVfHdJJAD",
    "video": [
   	"https://drive.google.com/uc?export=view&id=11cIVs94zIw7JuMIjq0R5VLm1NdOf552j",
   	null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1sabIBJBO-eDZin5TeShEzbwtzVvuPw9Z/",
+   "brochure": "https://drive.google.com/uc?export=view&id=16QUiMDQHKC9I6H5ysN3cozzyZO8vLoPN",
    "contact": null
 },
  {
@@ -235,7 +235,7 @@
    "firstName": "Stephen",
    "lastName": "Vaughn",
    "projectTitle": "At Home Linux Server Computer",
-   "projectDesc": "This project is to answer the following question “How could I reuse my old computer parts that I   have lying around?” The goal of my project was to use all my old computer parts to make   something useful out of it for myself and friends. The at home server computer runs a dedicated   Minecraft server and has a Plex Media Server running on it.",
+   "projectDesc": "This project is to answer the following question “How could I reuse my old computer parts that I  have lying around?” The goal of my project was to use all my old computer parts to make  something useful out of it for myself and friends. The at home server computer runs a dedicated  Minecraft server and has a Plex Media Server running on it.",
    "keywords": "Server, Minecraft, Plex, Reuse, Linux, Ubuntu",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1Eyl-hkIl3Ns549tXDS_sCBCrsaLmGmui",
    "certificates": null,
@@ -245,7 +245,7 @@
   	null,
   	null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=https://docs.google.com/presentation/d/1LSk5L8-SrWsCQP4VY8cAJ8XMkp0lv2Hn/edit?usp=share_link&ouid=100131363357653316852&rtpof=true&sd=true",
+   "presentation": "https://drive.google.com/uc?export=view&id=1LSk5L8-SrWsCQP4VY8cAJ8XMkp0lv2Hn",
    "video": [
   	"https://drive.google.com/uc?export=view&id=1h8SKG6bipvBqxVjpL6stfBPoUG4h5E_1",
   	null
@@ -258,7 +258,7 @@
    "firstName": "Steven",
    "lastName": "Stayton",
    "projectTitle": "Motion Detection Doorbell",
-   "projectDesc": "This project involves the use of an ultrasonic sensor in conjunction with an Arduino Uno board  to detect when someone is close enough to a doorbell or simply passing by. The goal is to notify  the user if someone is close enough to ring the doorbell. The ultrasonic sensor will be used to  measure the distance of the individual, and if they are within a certain range, LEDs will light up and cannot have cameras outside their doors. This is also more stealthy than traditional security doorbells, as it  does not seem to be that different when compared to a traditional one. This is a better design than  the camera doorbell systems, as someone who wants to break in would be unaware of the extra  security measures and would not be able to prepare for it.",
+   "projectDesc": "This project involves the use of an ultrasonic sensor in conjunction with an Arduino Uno board to detect when someone is close enough to a doorbell or simply passing by. The goal is to notify the user if someone is close enough to ring the doorbell. The ultrasonic sensor will be used to measure the distance of the individual, and if they are within a certain range, LEDs will light up cannot have cameras outside their doors. This is also more stealthy than traditional security doorbells, as it does not seem to be that different when compared to a traditional one. This is a better design than the camera doorbell systems, as someone who wants to break in would be unaware of the extra security measures and would not be able to prepare for it.",
    "keywords": "Arduino , Ultrasonic Sensor, Security",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1rkcTAaLfpZrwY2h-M7WzACufsAMfBwJ3",
    "certificates": null,
@@ -281,7 +281,7 @@
    "firstName": "Travis",
    "lastName": "Pendygraft",
    "projectTitle": "Door Access Control Box",
-   "projectDesc": "Physical access control presents valuable benefits to facility security protocols, and is becoming  more common in schools, businesses, and government buildings. These systems have a wide  range of complexity–requiring significant training to effectively implement–and an even wider  cost spread. This project aims to create a low-cost, effective solution to access control while  maintaining functionality and scalability in order to provide introductory training on the  principles of physical access control system (PACS) implementations. Alternatively, a functional  system developed by this project’s guidelines may function as a stand-alone, full-fledged door  access system developed for ease-of-use to permit quick implementation by inexperienced  users. This report details a completed project, with a fully  functional base system and an extension that includes installation of the electric door strike into  a model frame.",
+   "projectDesc": "Physical access control presents valuable benefits to facility security protocols, and is becoming more common in schools, businesses, and government buildings. These systems have a wide range of complexity–requiring significant training to effectively implement–and an even wider cost spread. This project aims to create a low-cost, effective solution to access control while maintaining functionality and scalability in order to provide introductory training on the principles of physical access control system (PACS) implementations. This report details a completed project, with a fully functional base system and an extension that includes installation of the electric door strike into a model frame.",
    "keywords": "Physical Access Control System, RFID, Raspberry Pi, Relay",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1FbIG8AQTKXj9HHSBZoyDSUZXdCZXUkmT",
    "certificates": null,
@@ -304,8 +304,8 @@
    "firstName": "Tyler",
    "lastName": "Faulkner",
    "projectTitle": "Arduino Measuring Tape",
-   "projectDesc": "The purpose of this project is to build a device that could accurately measure distance in feet and inches. I wanted to build a device that could be used by anyone trying to measure anything, from a small DIY project to how high can this drone fly in the air. To achieve this, an Arduino Uno has been used has the microcontroller to supply the code for the device (written in C++), an ultrasonic sensor has been used to measure distance, an LCD display has been used to display the results of the ultrasonic sensor, and two LED lights have been used to keep track of the measurements.",
-   "keywords": "Arduino Uno, Ultrasonic Sensor, LCD Display, LED",
+   "projectDesc": "The purpose of this project is to build a device that could accurately measure distance in feet and inches. I wanted to build a device that could be used by anyone trying to measure anything, from a small DIY project to how high can this drone fly in the air. To achieve this, an Arduino Uno has been used has the microcontroller to supply the code for the device (written in C++), an ultra-sonic sensor has been used to measure distance, an LCD display has been used to display the results of the ultra-sonic sensor, and two LED lights have been used to keep track of the measurements.",
+   "keywords": "Arduino Uno, Ultra-Sonic Sensor, LCD Display, LED",
    "profilePicture": "https://drive.google.com/uc?export=view&id=19CvxogXkluE7860tAfpSbbZglIQcfqPk",
    "certificates": null,
    "images": [
@@ -314,7 +314,7 @@
   	null,
   	null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1RyI-OjyY46RL3Sz7upiIVry5fpdoSnaN/",
+   "presentation": "https://drive.google.com/uc?export=view&id=1RyI-OjyY46RL3Sz7upiIVry5fpdoSnaN",
    "video": [
   	"https://drive.google.com/uc?export=view&id=13MrnQSTPreCtcCO0t_Wjx75EpwhtgEhv/",
   	null
