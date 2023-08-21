@@ -8,7 +8,10 @@
       "projectDesc": "The problem that I aim to solve with this project is “How do I secure my room, while I am away from the house?” The goal of my project is to create a motion triggered detection system that will alert me, anytime that somebody comes into my room. The camera will send pictures and videos straight into Google Drive, and alert me via email notification if an event has occurred. ",
       "keywords": "Raspberry Pi, Security, Camera, MotionEyeOS, Email",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1Gy7LGSOrrjS3WVX6TU5MXLLPq_euMuf_",
-      "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support"},
+      "certificates": {
+        "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
+        "Highest Dept Exit Exam Score":"https://technology.eku.edu"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1Gy7LGSOrrjS3WVX6TU5MXLLPq_euMuf_",
         null,
@@ -31,7 +34,10 @@
       "projectDesc": "In this security lab, the objective lies in the configuration of the system service and device driver \nSystem Monitor, analyzing the output, and further tuning the configuration based on the needs of \nthe administrator. The data can then be visualized, and more deeply interpreted through cloud \nintegration in the Elastic Stack (ELK). ",
       "keywords": "Security, Cloud integration, Log Analysis, System Monitor, ELK stack",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1MJ72zFZy7Umg4zxCergbWUGe7Z2OOlNg",
-      "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support"},
+      "certificates": {
+        "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
+        "Outstanding Project, Advisory Committee CST":"https://technology.eku.edu/cyber-systems-technology"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1oaBbiUBm6bO09njlClL0J0wLlKs7nl9n",
         "https://drive.google.com/uc?export=view&id=1MJ72zFZy7Umg4zxCergbWUGe7Z2OOlNg",
@@ -54,7 +60,7 @@
       "projectDesc": "For my project I decided to build a chess clock using an Arduino MEGA microcontroller, I’ve been passionate about chess since I was young, and the last item needed for competitive games with my friends was a working chess clock. My goal for this project is to create a chess clock using an Arduino microcontroller that can announce a winner and activate a buzzer when a timer reaches zero. I went through a few different designs but settled on a simple square look with two buttons on top and an LCD screen for the timers. A 30-minute timer is used for both players with the other players timer being activated when the opposing player presses their button to end their turn. Once a timer reaches zero a buzzer goes off and a message displays on the LCD screen saying who won.",
       "keywords": "Arduino MEGA, Chess Clock, DIY project, microcontrolle",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1-hFo9T-eXvfpMzPRXJNkB3ElFUsUyuQf",
-      "certificates": null,
+      "certificates": {"Certificate of Merit, Advisory Committee CST":"https://technology.eku.edu/cyber-systems-technology"},
       "images": [
         "https://drive.google.com/uc?export=view&id=1-hFo9T-eXvfpMzPRXJNkB3ElFUsUyuQf",
         "https://drive.google.com/uc?export=view&id=1DV1_f1hTSg5TYjDv-tpZL7pOE7Yg3KFu",
@@ -77,7 +83,10 @@
       "projectDesc": "The purpose of this project is to utilize Windows PowerShell to implement network defenses and cyber security best practices remotely from another Windows device. Using two Windows devices on a common network we are able to remote connect using PowerShell. After remoting you are able to utilize Windows Defender Firewall and any other security practices. From the comfort of your own computer you can secure a computer and its’ network remotely. Once you are familiar with the commands, remoting with Windows PowerShell will save you time and hassle. ",
       "keywords": "PowerShell, Remote, Firewall",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1yc2l9tL4C1zDUyGcCTvpMN_ZQ3IRLju2",
-      "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support"},
+      "certificates": {
+        "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
+        "Highest Dept Exit Exam Score":"https://technology.eku.edu"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1yc2l9tL4C1zDUyGcCTvpMN_ZQ3IRLju2",
         "https://drive.google.com/uc?export=view&id=13Ze3enVJRDu1uwFGXbB43dKnYatYXvMN",
@@ -146,7 +155,10 @@
       "projectDesc": "The purpose of this project is to create a readily accessible way to build a lightweight Kubernetes server using a Raspberry Pi. The goal is less functionality and more on a proof of concept of developing cloud technologies. Creating an introductory project such as this could get more people interested in cloud computing, networking, and basic database management earlier in their education. The Raspberry Pi stack will act as the our main server or “master node” and we will use it to connect to a database and edit the database through the K3S server. ",
       "keywords": "Raspberry Pi, Kubernetes, SQL",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
-      "certificates": {"CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals"},
+      "certificates": {
+        "CompTIA ITF+": "https://www.comptia.org/certifications/it-fundamentals",
+        "Certificate of Merit, Advisory Comittee CST":"https://technology.eku.edu/cyber-systems-technology",
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1vhdJrQyEO9W_Pfe7DfBss7sGhaVDySzX",
         "https://drive.google.com/uc?export=view&id=1N4WW7RvUgYkJ0Fnu0LK8VSD3fibLVloF",
