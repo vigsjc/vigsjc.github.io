@@ -8,7 +8,7 @@
    "projectDesc": "The goal of this project is to serve as a special way for one-way communication using standard messaging service (SMS) technology. The idea is that it is something better than just a email message, and can work when the remote sender is in an environment without reliable Internet service. The Raspberry Pi will receive an SMS message and process the text and display it on an liquid crystal diode (LCD) screen for the recipient.",
    "keywords": "Pi, SMS, LCD Display",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1fg-J42KDS_ioamRwsctuVk_f1Bjmr-nU",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/uc?export=view&id=1fg-J42KDS_ioamRwsctuVk_f1Bjmr-nU",
   	"https://drive.google.com/uc?export=view&id=1QrRQEfaBDX-p202K_u2t_qcRQYhgyw6G",
@@ -54,7 +54,7 @@
    "projectDesc": "This project aims to answer the following question: “Can someone who has little to no  knowledge of programming and circuitry complete a designated lab assignment made for  teaching beginners?” The goal of this project is to create a series of labs or assignments to be  given to a novice as a teaching tool, for the user to begin the initial process of emulating a PLC  on a Raspberry Pi. The user will wire various inputs and outputs to a breadboard connected to a  Raspberry Pi, coding these inputs and outputs in Python with directions in the lab assignment.",
    "keywords": "Raspberry Pi, PLC, Python, Input/Output",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1XyDs4_0rYPws-FEyHeBLySFfb-SyN2q8",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/uc?export=view&id=1qShcsD-pg4dJT7cSgy6OGuaect9NBTiP",
   	"https://drive.google.com/uc?export=view&id=1mqKyRXsLim2Pw7klK79a_M1v9zrqtsf4",
@@ -77,7 +77,10 @@
    "projectDesc": "The idea behind this project was to create a penetration testing machine that is portable,  cheap, and easy-to-use. These three specifications is where the name PCE (portable, cheap,  easy-to-use) penetration tester is coined. A penetration test is a test conducted on a network to  measure the amount of security in place. These tests can be conducted by hired professionals or  IT employees within the organization itself. To achieve a portable and affordable penetration  test machine, I selected the single-board computer system AML-S905X-CC (Le Potato). Along  with this, the Alfa AWUS036ACS WiFi adapter was selected because the adapter has packet  injection and monitor mode which is essential in conducting a variety of pen tests. With the  combination of a cheap single-board computer and WiFi adapter, penetration tests will become  more easily conducted due to price and portability.",
    "keywords": "Penetration Test, Single-Board Computer Systems, Packet Injection, Monitor Mode",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1K682ehZMrwfj5cZNB-bA9MdeV80W3Jxd",
-   "certificates": null,
+   "certificates": {
+     "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+     "Runner up Dept Exit Exam":"https://technology.eku.edu"
+   },
    "images": [
   	"https://drive.google.com/uc?export=view&id=1K682ehZMrwfj5cZNB-bA9MdeV80W3Jxd",
   	"https://drive.google.com/uc?export=view&id=1vC2zPn1pVssjgehS-vHzX90huDvjMHdH",
@@ -123,7 +126,7 @@
    "projectDesc": "The goal for this project is to combine the passion of home automation with the art of mixed drinks. This project utilizes a Raspberry Pi with RaspianOS and a GPIO Board to automate the process of creating an “Old Fashioned.” The Raspberry Pi receives user input and sends a signal to various GPIO outputs to power a 12V DC Dosing Pump which pumps various liquids such as bourbon, simple syrup, and bitters into a glass for consumption. This project is coded in Python 3.9 and is clearly noted for easier adaptation in the future. This project has versatile implementations but was created with the intent of an at-home bar. While it was created for an “Old Fashioned,” this project could be adapted for other drink variations.",
    "keywords": "Raspberry Pi, Python, 12v DC Pumps, Home Automation",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1D4b7U7RB0LBXWPts3bsfpDfOS8wZX5VE",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/uc?export=view&id=1D4b7U7RB0LBXWPts3bsfpDfOS8wZX5VE",
   	"https://drive.google.com/uc?export=view&id=1ZYy276rjAhexRDh9sL_ubl1xa8VM2BKI",
@@ -215,7 +218,10 @@
    "projectDesc": "The issue that I, and other hikers, have ran into in the past is that when I go hiking I want  to save locations to visit later, and I, or adventurous hikers, occasionally get lost. My solution to  this is that I have made a Global Positioning System (GPS) to help me find my way out of the  hiking area and back to my car, and create a device that saves the GPS coordinates of places that  I want to go back to. My project has been successful in all  three phases Core 1, Core 2, and the extension objectives. Core 1 is the proof of concept that  allows me to know that I am able build GPS and ensure that I am able to make it read accurate  coordinates. Core 2 allowed me to understand the limitations of my device with the current antenna and power source. The extension Phase of the project is dependent on resources and time  constraints.",
    "keywords": "GPS< Arduino, Hiking",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1MOsAzTjKIy6GZVsLVvGdETHEtbmvcLx7",
-   "certificates": null,
+   "certificates": {
+     "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+     "Highest Dept Exit Exam Score":"https://technology.eku.edu"
+   },
    "images": [
   	"https://drive.google.com/uc?export=view&id=1tJe7vYSoqsL-3BUWe8fthuTGx1wVE7zW",
   	null,
@@ -261,7 +267,7 @@
    "projectDesc": "This project involves the use of an ultrasonic sensor in conjunction with an Arduino Uno board to detect when someone is close enough to a doorbell or simply passing by. The goal is to notify the user if someone is close enough to ring the doorbell. The ultrasonic sensor will be used to measure the distance of the individual, and if they are within a certain range, LEDs will light up cannot have cameras outside their doors. This is also more stealthy than traditional security doorbells, as it does not seem to be that different when compared to a traditional one. This is a better design than the camera doorbell systems, as someone who wants to break in would be unaware of the extra security measures and would not be able to prepare for it.",
    "keywords": "Arduino , Ultrasonic Sensor, Security",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1rkcTAaLfpZrwY2h-M7WzACufsAMfBwJ3",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/uc?export=view&id=1rkcTAaLfpZrwY2h-M7WzACufsAMfBwJ3",
   	"https://drive.google.com/uc?export=view&id=1CiKRNhGT7xTmd1nTMOeMS62mdr7JWYNh",
@@ -284,7 +290,10 @@
    "projectDesc": "Physical access control presents valuable benefits to facility security protocols, and is becoming more common in schools, businesses, and government buildings. These systems have a wide range of complexity–requiring significant training to effectively implement–and an even wider cost spread. This project aims to create a low-cost, effective solution to access control while maintaining functionality and scalability in order to provide introductory training on the principles of physical access control system (PACS) implementations. This report details a completed project, with a fully functional base system and an extension that includes installation of the electric door strike into a model frame.",
    "keywords": "Physical Access Control System, RFID, Raspberry Pi, Relay",
    "profilePicture": "https://drive.google.com/uc?export=view&id=1FbIG8AQTKXj9HHSBZoyDSUZXdCZXUkmT",
-   "certificates": null,
+   "certificates": {
+     "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+     "Distinguished Senior Award":"https://technology.eku.edu"
+   },
    "images": [
   	"https://drive.google.com/uc?export=view&id=1obSkCL9BXu_tO7G0cqVQnDzzDNNxU-kT",
   	"https://drive.google.com/uc?export=view&id=1jYyTlEyioqD2a8EYMQnyw1-xsaaVfZ31",
