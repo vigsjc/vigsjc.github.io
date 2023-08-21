@@ -154,7 +154,10 @@
       "projectDesc": "For my capstone project I want to use a Raspberry Pi and a webcam to create a surveillance camera. When the camera detects motion, the user is alerted by either phone notification or e-mail and can check the live feed. While there are similar products currently on the market I hope to create a do-it-yourself project that can drastically cut the cost if someone has the technical skills to do so. ",
       "keywords": "Security, Webcam, Motion",
       "profilePicture": "https://drive.google.com/uc?export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
-      "certificates": null,
+      "certificates": {
+        "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
+        "Highest Dept Exit Exam Score":"https://technology.eku.edu"
+      },
       "images": [
         "https://drive.google.com/uc?export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
         "https://drive.google.com/uc?export=view&id=1m6t1F8wE6YOuG2lxOTykxMZL88vTmxn4",
