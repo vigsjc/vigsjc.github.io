@@ -392,37 +392,5 @@
     "contact": null
   }
 ],
-  "other": {
-    "classPhoto": [
-      {
-        "title": [null],
-        "name": [null],
-        "url": [null]
-      },
-      {
-        "title": [null],
-        "name": [null],
-        "url": [null]
-      },
-      {
-        "title": [null],
-        "name": [null],
-        "url": [null]
-      },
-      {
-        "title": [null],
-        "name": [null],
-        "url": [null]
-      }
-    ],
-    "outstanding": [
-      {
-        "title": [null],
-        "name": [null],
-        "url": [null]
-      }
-    ],
-    "presenter": [],
-    "ga": []
-  }
+
 }
