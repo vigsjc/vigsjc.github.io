@@ -395,31 +395,31 @@
   "other": {
     "classPhoto": [
       {
-        "title": [],
-        "name": [],
-        "url": []
+        "title": [null],
+        "name": [null],
+        "url": [null]
       },
       {
-        "title": [],
-        "name": [],
-        "url": []
+        "title": [null],
+        "name": [null],
+        "url": [null]
       },
       {
-        "title": [],
-        "name": [],
-        "url": []
+        "title": [null],
+        "name": [null],
+        "url": [null]
       },
       {
-        "title": [],
-        "name": [],
-        "url": []
+        "title": [null],
+        "name": [null],
+        "url": [null]
       }
     ],
     "outstanding": [
       {
-        "title": [],
-        "name": [],
-        "url": []
+        "title": [null],
+        "name": [null],
+        "url": [null]
       }
     ],
     "presenter": [],
