@@ -7,7 +7,7 @@
       "projectTitle": "Cat-Feedertron 3000",
       "projectDesc": "This Project aims to answer the question: “Who will feed my cat when I’m not home?” The goal of the project is to create a pet feeder that is fully automated, so your pet will be fed on time every time. The Raspberry Pi micro computer will control a motor that is connected to a dispensor that will dispense food either on a timer, or by the push of a virtual button.",
       "keywords": "Raspberry Pi, IoT, Pet Feeder, MQTT, SSH, Python",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "certificates": null,
       "images": [
         "https://drive.google.com/uc?export=view&id=1a-kr_iCUP24_iz4qTgme5QAsjbBkUeRZ",
