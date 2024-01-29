@@ -7,20 +7,20 @@
       "projectTitle": "Raspberry Pi Arcade Emulator",
       "projectDesc": "Over the past decade, there has been a rise in hobbyists creating their own arcade emulators. The reasons for this include the fragility and prohibitive price of classic consoles and games, advances in emulation technology and programming, the relative affordability of doing it yourself, and the appeal of complete customization. This particular project is a classic arcade game emulator powered by a Raspberry Pi, which is portable in nature and includes a two player setup with eight buttons and a joystick for each participant. Given their popularity, there are already commercial versions of this type available. However, it is still more affordable to make it yourself and it gives the designer much more freedom in customization of the unit and the number or types of playable games. Commercial versions usually limit games available by brand or time period. Currently, I have successfully completed both core phases of my project with the majority of adjustments being made in Core 1 to accommodate challenges in design and materials. The extension phase, which is primarily cosmetics, is dependent on remaining time constraints",
       "keywords": "Pi, Arcade, Emulator",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
       "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
-        "https://drive.google.com/uc?export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
-        "https://drive.google.com/uc?export=view&id=16JT7YNIIZxcW1mJ_KCvfCDWHWSfpCGnl",
-        "https://drive.google.com/uc?export=view&id=1bmoCGhXmJcxLdyJAMvnuVL5T8-i3FklA",
-        "https://drive.google.com/uc?export=view&id=1Zg9cDPv9TuXLBzuThhihqdA77cV4SaJE"
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1x_U2nKmXHEF0C5j5-ASp6nBdVmTGSD3m",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16JT7YNIIZxcW1mJ_KCvfCDWHWSfpCGnl",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bmoCGhXmJcxLdyJAMvnuVL5T8-i3FklA",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Zg9cDPv9TuXLBzuThhihqdA77cV4SaJE"
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1IkP0YfFfMQrfoiTcOneh-yKBRn1LTYDG",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IkP0YfFfMQrfoiTcOneh-yKBRn1LTYDG",
       "video": [
         "https://youtu.be/HIVABei8nG0",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1yayDugDutR3Se4oZzaW8Jzrb4aEghXOS",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yayDugDutR3Se4oZzaW8Jzrb4aEghXOS",
       "contact": "https://www.linkedin.com/in/terahabney/"
     },
     {
@@ -30,23 +30,23 @@
       "projectTitle": "FOG, An Imaging Solution",
       "projectDesc": "Working within an IT environment, an average helpdesk personnel might set up dozens of computers a week for new computers. This can take hours per computer depending on what software and user settings need to set up based on company demand. This project aims to\naccelerate that process by configuring one computer as up to date as possible, as well a installing all software needed and any other settings and then capturing the “image” of the computer to be able to easily replicate it within minutes, saving tons of time in the process. Among the many different types of imaging software, the one I chose for this project is called FOG, this software has a very user friendly GUI that allows you to capture an image through PXE and then be able to upload that image on to multiple computers at a time.",
       "keywords": "Preboot Execution Environment (PXE), PC Imaging, GUI",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Runner-up, CST Advisory Committee": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
-        "https://drive.google.com/uc?export=view&id=1Zgt1JCTFyztVx0p7u4Sosj2Aqql0weEr",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14Ox8M8ScZ1NzNqlccTt_BKhFuGiz5awA",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Zgt1JCTFyztVx0p7u4Sosj2Aqql0weEr",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1VqL3oaRgMTvEKNvVQG-LnmXoPIAixnmR",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VqL3oaRgMTvEKNvVQG-LnmXoPIAixnmR",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1dpcw6PyJEtzsVl-APKsr8L_tz5-UyC_H",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dpcw6PyJEtzsVl-APKsr8L_tz5-UyC_H",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1tOQzOIhwafvwZWzGUSkabELQ297thYMg",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1tOQzOIhwafvwZWzGUSkabELQ297thYMg",
       "contact": "Dylan_anderson73@mymail.eku.edu"
     },
     {
@@ -56,23 +56,23 @@
       "projectTitle": "Portable Wireless Access Point and FTP Server",
       "projectDesc": "With the world advancing wireless technology every day, the race for affordable and fast wireless connectivity is becoming more apparent. The objective with this project is to create an affordable and fast wireless connection. The use of Raspberry Pi’s is very diverse and cheap to begin with. By creating a wireless access point with a Raspberry Pi, you can achieve a stable connection with full access to everything else that comes with the Pi. Having this wireless connection allows you to also create servers on your network within one device. Adding an FTP server to the access point was a nice way of achieving connectivity in more than one way.",
       "keywords": "Raspberry Pi, WAP, FTP server, firewall",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
       "certificates": {
         "TestOut PC Pro certification": "https://w3.testout.com/courses/pc-pro",
         "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
-        "https://drive.google.com/uc?export=view&id=1qkh_zPsChUeP_YzuF6_avUbru5jwuit1",
-        "https://drive.google.com/uc?export=view&id=18AkkB0sY_YTdPfDVU-KTtTpq6XWFBAWb",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yIlysVasBbs0jXR2acqYa68ehzodKA_P",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qkh_zPsChUeP_YzuF6_avUbru5jwuit1",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18AkkB0sY_YTdPfDVU-KTtTpq6XWFBAWb",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1HNhbD4lHtlM9OHk47JoXEiWFdW8FQ4v7",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HNhbD4lHtlM9OHk47JoXEiWFdW8FQ4v7",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1L7pfKIWCOM2cMjCzv8JEWK9cof2quYw5",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1L7pfKIWCOM2cMjCzv8JEWK9cof2quYw5",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1aLs1QujLMFVS160yFekCPKZ0_LGocHIt",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aLs1QujLMFVS160yFekCPKZ0_LGocHIt",
       "contact": "https://www.linkedin.com/in/troy-bruno/"
     },
     {
@@ -82,23 +82,23 @@
       "projectTitle": "PingThing – Easily Visualize IP Uptime",
       "projectDesc": "The overall objective of the project is simply this: to simply translate information (via the Linux ping command) from a more complicated, command-line interface to that of physical LEDs. This is achieved through a Raspberry Pi 4 Model B with Debian-based Raspberry Pi OS installed on the system. The device in use “…has evolved from a tool for students and hobbyists to a viable option for certain types of engineering projects in the form of the Compute Module, and most recently the Raspberry Pi Pico” (Hutchinson, 2021). The device is then connected to a breadboard via GPIO interface with instructions provided by the Python coding language. The Freenove Ultimate Starter Kit will provide all the various connectors and diodes required for the project. The primary motivation regarding this project consider networking connectivity issues. Network connections, especially for personal use, tend to fail on occasion. Knowing when those networks go down and applying the information may help resolve the problem",
       "keywords": "Arrays/Lists, Conditional Statements, Loops",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
-        "https://drive.google.com/uc?export=view&id=1M3nf-fjQ79oc3klOzXokqOijXHQZVyLR",
-        "https://drive.google.com/uc?export=view&id=17T7gGc4hkaLLdc19cEJRh4OWA4ImKvlv",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1soZvjCDyzSZUYzcg5QYccK947AqZQGsR",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1M3nf-fjQ79oc3klOzXokqOijXHQZVyLR",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17T7gGc4hkaLLdc19cEJRh4OWA4ImKvlv",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=19uSuLX8cidMIf_VS3AAwOGU3BGXYtwkr",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19uSuLX8cidMIf_VS3AAwOGU3BGXYtwkr",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1VFDYfQ9dRmtBoVaTqVblcjDKM83vatdd",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VFDYfQ9dRmtBoVaTqVblcjDKM83vatdd",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1QjWQWc_Jwusp4SWnGvxfguW3NMo8cJvQ",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1QjWQWc_Jwusp4SWnGvxfguW3NMo8cJvQ",
       "contact": "https://www.linkedin.com/in/caseydyer"
     },
     {
@@ -108,20 +108,20 @@
       "projectTitle": "The Mobile Arcade",
       "projectDesc": "For my senior capstone project, I decided to tackle the Raspberry Pi machine while exploring RetroPi, and the software used to explore classic arcade games through emulation. The practice use of the Raspberry Pi machines have always been an ongoing increase of productivity and capabilities and this instance is no different matter. There are arcade machines out there thanks to the Raspberry Pi for years and continued years to come. However, my product is a one of a kind, especially for its planned use when everything is completed. My project has shattered expectations in both Core 1 and Core 2 objectives and operations with increased productivity than originally planned. The project will continue to grow as time continues past this class and well into the future.",
       "keywords": "RetroPi, Portable Arcade Machine, Raspberry Pi",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1cGyuB2CSn0YNuXScOfsm3G2QgPgRcq5b",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cGyuB2CSn0YNuXScOfsm3G2QgPgRcq5b",
       "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=1cGyuB2CSn0YNuXScOfsm3G2QgPgRcq5b",
-        "https://drive.google.com/uc?export=view&id=1mew6KbswItROGXHgNBRYJ2hSoH1EucgX",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cGyuB2CSn0YNuXScOfsm3G2QgPgRcq5b",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mew6KbswItROGXHgNBRYJ2hSoH1EucgX",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1ZyjjBykdJPWdH0LonRkESb4vcOA3F3Cb",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ZyjjBykdJPWdH0LonRkESb4vcOA3F3Cb",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1harO0rkP3IUMEELbCnIO8Yhth16y5ABb",
-        "https://drive.google.com/uc?export=view&id=1VhDvop8M1MI2DUhdNUv0cwXbAmAWPVmJ"
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1harO0rkP3IUMEELbCnIO8Yhth16y5ABb",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VhDvop8M1MI2DUhdNUv0cwXbAmAWPVmJ"
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=17wHfg7g2gRjPssR_D82n15p0KOFH3nxX",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17wHfg7g2gRjPssR_D82n15p0KOFH3nxX",
       "contact": "https://www.linkedin.com/in/dakota-fannin21/"
     },
     {
@@ -131,16 +131,16 @@
       "projectTitle": "Virtual Networking",
       "projectDesc": "Virtual Networking is the now. This project I have created aims towards two important things. One being that small to mid-size businesses can incorporate these virtual environments into their networks which would save money on hardware, reduce hardware, reduce redundant wiring, and improve security in some cases. The second being this project also helps the viewer better understand what virtualization is and how it can be incorporated into networks.",
       "keywords": "Networking, Virtualization, Hypervisor, IP addressing, Port-forwarding",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
       "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
-        "https://drive.google.com/uc?export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
-        "https://drive.google.com/uc?export=view&id=1AvrNi2e8RDrUqRxU9BcURwfbjfzTQEtk",
-        "https://drive.google.com/uc?export=view&id=1SxHlgY31DXjLRNYHY7Gd9ATZ9Y1HJBCy"
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Ob-h79kV-aZT_u7s819aUfzlK2S69qXh",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1AvrNi2e8RDrUqRxU9BcURwfbjfzTQEtk",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SxHlgY31DXjLRNYHY7Gd9ATZ9Y1HJBCy"
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1Dbteov8uSTi5egwePY8jiQVxHgeD7nqP",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Dbteov8uSTi5egwePY8jiQVxHgeD7nqP",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1vUhbjuZ2fot_MQuBU1NMl-JzlRA9Z21G",
         null
       ],
       "brochure": null,
@@ -153,23 +153,23 @@
       "projectTitle": "Peace of Mind and Raspberry Pi",
       "projectDesc": "For my capstone project I want to use a Raspberry Pi and a webcam to create a surveillance camera. When the camera detects motion, the user is alerted by either phone notification or e-mail and can check the live feed. While there are similar products currently on the market I hope to create a do-it-yourself project that can drastically cut the cost if someone has the technical skills to do so. ",
       "keywords": "Security, Webcam, Motion",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Highest Dept Exit Exam Score":"https://technology.eku.edu"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
-        "https://drive.google.com/uc?export=view&id=1m6t1F8wE6YOuG2lxOTykxMZL88vTmxn4",
-        "https://drive.google.com/uc?export=view&id=1zPicHp2LsRB_QSSv60sxLZtzqVm1gn_d",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bHqH67otWj4I1EnOlRRhLW5au3UUVW-N",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1m6t1F8wE6YOuG2lxOTykxMZL88vTmxn4",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zPicHp2LsRB_QSSv60sxLZtzqVm1gn_d",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1lYCbL0IltUekVI9zudrP1trhVXF4tP1k",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1lYCbL0IltUekVI9zudrP1trhVXF4tP1k",
       "video": [
-        "https://drive.google.com/uc?export=view&id=10OhSQwubLWk1NdjncrELhrQ0PFREKdwz",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10OhSQwubLWk1NdjncrELhrQ0PFREKdwz",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1HVnqeIwb2pQCccGPQKV56OmgivCOaqbX",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HVnqeIwb2pQCccGPQKV56OmgivCOaqbX",
       "contact": "jeffrey_mills33@mymail.eku.edu"
     },
     {
@@ -179,23 +179,23 @@
       "projectTitle": "Moore Food, Less Worries",
       "projectDesc": "This project was inspired by Alex and Adam, who are past capstone students. I decided to take a crack at a project that was created to give a solution for the question: “Who will feed my cat when I’m not home?”. As my parents are getting older and are wanting to travel more, it has become a hassle to have someone come feed their cat. By having someone come feed their cat, it could lead to potential issues, for example stolen property and doors being left unlocked. My parents would greatly benefit for a product like this, so they do not have to worry when they are not home.\nThis project will allow for an automated way to feed the cat both on demand and on a schedule with the use of a Raspberry Pi. The Raspberry Pi runs a python code that is responsible for monitoring a Gmail account. When an email arrives with the expected subject “feed cats”, the cat feeder will dispense food. The use of a Raspberry Pi camera module will also be involved in allowing you to check in on your cat enjoying the food.",
       "keywords": "Raspberry Pi, Gmail, Camera, Pet feeder, Cats, SSH, Python",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
       "certificates": {
         "CompTIA A+": "https://www.comptia.org/certifications/a",
         "Winner, CST Advisory Committee": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
-        "https://drive.google.com/uc?export=view&id=1Zbksio8oFs6bzOxStLzUo3jGwpoJy0pM",
-        "https://drive.google.com/uc?export=view&id=1lwqGJNtOEq-17JI59lxBXUfPi4JNPLKH",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=184PGzzFjldZ7AlHPB78OHcEoTtiJBJOl",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Zbksio8oFs6bzOxStLzUo3jGwpoJy0pM",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1lwqGJNtOEq-17JI59lxBXUfPi4JNPLKH",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=12mM6sJ4lnBZtFyaAtPMmWp9citq28jTX",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12mM6sJ4lnBZtFyaAtPMmWp9citq28jTX",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1_bb_RwFIBm8aN0uWNHRmEQfWX5G2aE77",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_bb_RwFIBm8aN0uWNHRmEQfWX5G2aE77",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1w9I9Qdn8_PiN3Bx0XFtngf25iEQaczGI",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1w9I9Qdn8_PiN3Bx0XFtngf25iEQaczGI",
       "contact": "https://www.linkedin.com/in/-austinmoore-/"
     },
     {
@@ -205,23 +205,23 @@
       "projectTitle": "Home VPN Server",
       "projectDesc": "Having your own VPN sever is something that is very convenient and has usability beyond this project. For this project I was going to create a VPN sever using a Raspberry Pi and OpenVPN for the server software. Upon research I found a company called PiVPN in which you run a script to install OpenVPN. This greatly simplified the process of creating a VPN server and provided a graphical interface and prompt for install OpenVPN and all the features needed to create the VPN server.",
       "keywords": "VPN Server, OpenVPN, SSL",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
       "certificates": {
         "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
         "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
-        "https://drive.google.com/uc?export=view&id=1vOateKi8wVwnxKd9nV6pSlGEE-nI7Tc_",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KkLGlIzAOFIFNiaQOZEAgScZ0B53U7LF",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1vOateKi8wVwnxKd9nV6pSlGEE-nI7Tc_",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1sYKPIB-i3K0GGgS-N-wpm46wN-li5Lhd",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1sYKPIB-i3K0GGgS-N-wpm46wN-li5Lhd",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1YlzWtJIx8esyVBu5ZJ5kVblVyR3e4xZY",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1YlzWtJIx8esyVBu5ZJ5kVblVyR3e4xZY",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1eSGObB0ei73L0EXGI7fsz1uzeru-I-WX",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eSGObB0ei73L0EXGI7fsz1uzeru-I-WX",
       "contact": "nicholas.odaniel@outlook.com"
     },
     {
@@ -231,22 +231,22 @@
       "projectTitle": "Password Manager",
       "projectDesc": "As a possible solution for helping normal people in the constant security dilemma of gaining and typically using a keyword in the securest ways possible, password managers have become popular around the globe. Password managers adequately encrypt users' watchwords by using a master keyword or a security token. ",
       "keywords": "Python, GitHub, Password manager",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
-        "https://drive.google.com/uc?export=view&id=1TRDi5CJNbO-IsfsWBIREvL4X5f_PsuCZ",
-        "https://drive.google.com/uc?export=view&id=1UTtqquLwomDqqDQJBnLUhs8CQ3W7aLUH",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bUx3sFdHs9aKvTvNijT8uJyq4Yr92-Ou",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TRDi5CJNbO-IsfsWBIREvL4X5f_PsuCZ",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1UTtqquLwomDqqDQJBnLUhs8CQ3W7aLUH",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1U5ga8gwtL1X0o5WD7pyyOzr4WIoHXY2w",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1U5ga8gwtL1X0o5WD7pyyOzr4WIoHXY2w",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1tNNj3nuWcQ3rMGs4om-KYEfNOrU7YeCB",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1tNNj3nuWcQ3rMGs4om-KYEfNOrU7YeCB",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1IRdryXqyJnZNAjceLwpozJFzSz3de71J",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IRdryXqyJnZNAjceLwpozJFzSz3de71J",
       "contact": "https://www.linkedin.com/in/aakin-patel/"
     },
     {
@@ -256,24 +256,24 @@
       "projectTitle": "Shark Tracker Simulation: TinyDuino GPS Tracker",
       "projectDesc": "This project attempts to provide an educational GPS tracking device using a TinyDuino processor to simulate how ocean wildlife is researched out in the field. Key inspiration behind this endeavor is shark research, specifically how sharks are tracked with GPS tags and the data is processed. ",
       "keywords": "shark, GPS, tracking, ocean, educationa",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
       "certificates": {
         "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
         "Winner, CST Advisory Committee": "https://technology.eku.edu/",
         "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
-        "https://drive.google.com/uc?export=view&id=1pYt1i6iIs30R0EiTELbGg24FWW31Mj_1",
-        "https://drive.google.com/uc?export=view&id=1OdKQe0B1Uv8XZ6cBKkFXgGmxeutFiVxU",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cvTK0ZpJNxdriojoFL91pZfsm3bwXQNv",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pYt1i6iIs30R0EiTELbGg24FWW31Mj_1",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OdKQe0B1Uv8XZ6cBKkFXgGmxeutFiVxU",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1BhSI8hoXo1aH9b33mJVSvNwu2SPyVZHt",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1BhSI8hoXo1aH9b33mJVSvNwu2SPyVZHt",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1azth4ojw66kzWBVNWwpGMhr2n_cP-0PI",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1azth4ojw66kzWBVNWwpGMhr2n_cP-0PI",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1bMg2-07szkSbG1CKFZLPbOWZT0seM4HA",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bMg2-07szkSbG1CKFZLPbOWZT0seM4HA",
       "contact": "Seth_russell30@mymail.eku.edu"
     },
     {
@@ -283,23 +283,23 @@
       "projectTitle": "Raspberry Pi Home Security System",
       "projectDesc": "Home security systems are becoming more common as technology in our society advances. The want and need to be able to keep an eye on your home and your belongings is at an all time high. The only issue is these security systems can be very expensive. This is where the Raspberry Pi can come into play. For a relatively cheap price, anyone can take a Raspberry Pi and turn it into their very own home security system. This is what I set out to do with my project. As of now, I have been successful in creating a working home security camera. My core phase 1 was to get the Raspberry Pi 4 up and running, and download and install the MotionEyeOS onto the board. My core phase 2 was to build a custom case for the Pi so that it could be concealed. My extension phase was to configure the camera module to have motion detection, and to send an email with the video taken every time the camera took a video. I have been successful in completing all three of my phases.",
       "keywords": "Raspberry Pi 4, MotionEyeOS, Raspberry Camera Module, I.P. Address\n",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
       "certificates": {
         "Runner-up, CST Advisory Committee": "https://technology.eku.edu/",
         "Highest NET dept. exit exam score": "https://technology.eku.edu/" 
       },
       "images": [
-        "https://drive.google.com/uc?export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
-        "https://drive.google.com/uc?export=view&id=18aZnG5Sq0FU3ClQT1PEARVOItHLbaQcI",
-        "https://drive.google.com/uc?export=view&id=1uc58_N0-YuXLoMNlX0Vyl74btEzXZUjD",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1RodneCb1pPCfWaih6nGxEeSBIc4ToQcO",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18aZnG5Sq0FU3ClQT1PEARVOItHLbaQcI",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uc58_N0-YuXLoMNlX0Vyl74btEzXZUjD",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=18M476rGwsm1-_FM8l3aSyciqv01ef0AU",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18M476rGwsm1-_FM8l3aSyciqv01ef0AU",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1_JxyGS_nxY9ghg9bZ4PJIBJlNIMhEUAS",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_JxyGS_nxY9ghg9bZ4PJIBJlNIMhEUAS",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1BtNEV_jiLIzpX5_1Kb29NaOoMC2ByIFB",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1BtNEV_jiLIzpX5_1Kb29NaOoMC2ByIFB",
       "contact": "https://www.linkedin.com/in/matthew-d-sanders/"
     },
     {
@@ -309,20 +309,20 @@
       "projectTitle": "SEER Camera System",
       "projectDesc": "This project seeks to design and create a camera system that can detect and track motion using a Pixy2 camera module and Arduino microcontroller. With the use of the microcontroller the system can be used autonomously. It will have the capability to detect motion, color, and general shape. The foundation of this project is based on a Pixy camera with a built-in processor and image sensor paired with an Arduino microcontroller to run the vision software. The addition of a pan and tilt servomotor allows the camera system to orientate on motion and retain central focus of it. The Pixy2 camera module operates on software called PixyMon, which allows specific configurations to visual signatures. The Arduino Uno can be programmed to load and run code libraries on the Arduino IDE software.",
       "keywords": "Arduino, Pixy, Servomotor, PixyMon, Arduino IDE",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
       "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
-        "https://drive.google.com/uc?export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
-        "https://drive.google.com/uc?export=view&id=10iz7JzrvV2oC1XsDCp0XbJzLUjS-XV1P",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17SurYd2WzmFf9BnGKX3esA809aMxDdgE",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10iz7JzrvV2oC1XsDCp0XbJzLUjS-XV1P",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=12Tu73RWeOLXbmQK05Rb02UWSgeeNkGM2",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12Tu73RWeOLXbmQK05Rb02UWSgeeNkGM2",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1AXTx3F-Xg8tGYs2EzhHvyE3I6wAraxAF",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1AXTx3F-Xg8tGYs2EzhHvyE3I6wAraxAF",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1hNg7zn-5G2STL_c_OJpfBGI3wuV5caf8",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hNg7zn-5G2STL_c_OJpfBGI3wuV5caf8",
       "contact": "Nathaniel_Taylor27@mymail.eku.edu"
     },
     {
@@ -332,20 +332,20 @@
       "projectTitle": "Retro Arcade Mini",
       "projectDesc": "Video games are a modern pastime where people can go on adventures, explore new worlds, and create memories that can last a lifetime. However, being able to play older games in todays world can be a bit challenging. Due to Covid-19, arcades had struggled to stay in business by helping prevent the spread of the virus. Whether it is an original arcade game or one of the first home consoles, being able to start your own collection can take a lot of time, money, and space not to mention that it is difficult to find and play on original hardware.\nA solution to this problem is by building my own miniature arcade cabinet. By using a Raspberry Pi 3b+ and by downloading emulation software, I can play a variety of different games from multiple consoles. These games are either open sourced, meaning that it is free code that the developer of the game has given permission to download, or it is a game rom of a game that I currently own in my collection. After purchasing an arcade kit online and by finding the remaining parts as well, I was able to build a mini arcade machine that I can place on any surface and use traditional arcade controls to play these older games. \n",
       "keywords": "Raspberry Pi, Game Emulation, RetroPie, Arcade, Nostalgia",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
       "certificates": {"Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"},
       "images": [
-        "https://drive.google.com/uc?export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
-        "https://drive.google.com/uc?export=view&id=1Uu1lCWpTE9gmZRf1tUGbECqb31FMZI7U",
-        "https://drive.google.com/uc?export=view&id=1PSCqOaPThcvw1DI-ifSZ6W4xejtdoIEI",
-        "https://drive.google.com/uc?export=view&id=1HjdVSNKVdmvQvV-3ZfqYL2k-2VCPJrO-"
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1gOZqxB1iEN34CmlU70A9vpW7fOpMf8kv",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Uu1lCWpTE9gmZRf1tUGbECqb31FMZI7U",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1PSCqOaPThcvw1DI-ifSZ6W4xejtdoIEI",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HjdVSNKVdmvQvV-3ZfqYL2k-2VCPJrO-"
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1SGEtGEvdu-ePLRcCWHIrSjs6H4EWZFv5",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SGEtGEvdu-ePLRcCWHIrSjs6H4EWZFv5",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1aEC-hrY4ejUD-7ukZfttIN_heD47VyWZ",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aEC-hrY4ejUD-7ukZfttIN_heD47VyWZ",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1-YZBlZ3fCJCcvidwUebhek_XEcGZTXbL",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-YZBlZ3fCJCcvidwUebhek_XEcGZTXbL",
       "contact": "https://www.linkedin.com/in/jonathan-p-thompson/"
     },
     {
@@ -355,20 +355,20 @@
       "projectTitle": "Homelone -- Raspberry Pi Home Security",
       "projectDesc": "The use of home security has been implemented more over the years as technology has advanced, but the price of keeping your home secure has always been rather high. Having a safe household is comforting and needed as people spend most of their time at home with their families and loved ones. Being able to provide the safety for a cheaper price, and same reliability, makes things easier for everyone involved. I am proposing a cheaper version of the home security system with the same reliability as some companies out on the market already. Using the Raspberry Pi, a more compact and cheaper system, with the camera module and PIR sensor I am able to secure a home with notifications of any motion detected.",
       "keywords": "Raspberry Pi, Home Security, Sensor, Camera, Python",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=122TcXk_sJRCxsmk3gXxm2dRFfbWffZqI",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=122TcXk_sJRCxsmk3gXxm2dRFfbWffZqI",
       "certificates": null,
       "images": [
-        "https://drive.google.com/uc?export=view&id=122TcXk_sJRCxsmk3gXxm2dRFfbWffZqI",
-        "https://drive.google.com/uc?export=view&id=1_vksm-CsHrbiL5okqb-R7QXoKfgg5D-L",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=122TcXk_sJRCxsmk3gXxm2dRFfbWffZqI",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_vksm-CsHrbiL5okqb-R7QXoKfgg5D-L",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1TriZXnwnjfIwBwSR_vYaW8z1iN5qbKBI",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TriZXnwnjfIwBwSR_vYaW8z1iN5qbKBI",
       "video": [
-        "https://drive.google.com/uc?export=view&id=11V__HSoTPJE6fCSNP0Id7nr5vioVQaC_",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11V__HSoTPJE6fCSNP0Id7nr5vioVQaC_",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1eW2muW8F4B6O2kGLtf0vCQeL07anVesh",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eW2muW8F4B6O2kGLtf0vCQeL07anVesh",
       "contact": "nturn482@gmail.com"
     },
     {
@@ -378,20 +378,20 @@
       "projectTitle": "Wall-Eye, Third Person Back-Up Camera",
       "projectDesc": "The problem I am proposing to solve is the need for a better backup camera while backing/pulling into your garage. The perspective of the traditional rear-view camera doesn’t give you real feeling of depth and can make it hard to see how far you are from the wall. This causes some people to have to get out and see how far they are away from the wall and get back in and adjust, and then repeat if necessary.",
       "keywords": "Raspberry-Pi, Coding, Python",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
+      "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
       "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
       "images": [
-        "https://drive.google.com/uc?export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
-        "https://drive.google.com/uc?export=view&id=1OJ5xZ7g0l9dYr-uKJaT_uDcWOEF7r5Jp",
-        "https://drive.google.com/uc?export=view&id=1M-4WCUiJOrqg0kLbxW6d-Dy8qatmMZEe",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_UTCeX5_ODuyqI9gDAL6Ojzq0_-glfIp",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OJ5xZ7g0l9dYr-uKJaT_uDcWOEF7r5Jp",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1M-4WCUiJOrqg0kLbxW6d-Dy8qatmMZEe",
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1yw8PsgXf7AzSPi6aWPLR8Ct3dsXEyQDy",
+      "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yw8PsgXf7AzSPi6aWPLR8Ct3dsXEyQDy",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1vL7WN_8S0IL8xThObzyPJFvEsxiVtRpW",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1vL7WN_8S0IL8xThObzyPJFvEsxiVtRpW",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1cxNxNcjh3gyeTyRmpeBuogBDWUkG9LxR",
+      "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cxNxNcjh3gyeTyRmpeBuogBDWUkG9LxR",
       "contact": "Jeremy_wright@mymail.eku.edu"
     }
   ],
@@ -399,17 +399,17 @@
     "classPhoto": [
       {
         "title": "Class Photo",
-        "url": "https://drive.google.com/uc?export=view&id=1TRJf9QRHpaGbfb4_K7osH8lwpfmZYRoN",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TRJf9QRHpaGbfb4_K7osH8lwpfmZYRoN",
         "name": "2020-21 Graduates"
       },
       {
         "title": "Class Photo",
-        "url": "https://drive.google.com/uc?export=view&id=1uYIqfoDLgb3b3P9C6JySj-Usr6nzFzkg",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uYIqfoDLgb3b3P9C6JySj-Usr6nzFzkg",
         "name": "2020-21 Graduates"
       },
       {
         "title":"Class Photo",
-        "url": "https://drive.google.com/uc?export=view&id=1VFmvHU_r2YK1mlK3HqiL_sRbQP00iMrZ",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VFmvHU_r2YK1mlK3HqiL_sRbQP00iMrZ",
         "name":"2020-21 Graduates"
       }
   ],
@@ -417,7 +417,7 @@
       {
         "title": "2020-21 Outstanding Senior",
         "name": "Seth Russell",
-        "url": "https://drive.google.com/uc?export=view&id=1qwuCzNUXY_rmpduHlqRb4Fn4WRffJjjC"
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qwuCzNUXY_rmpduHlqRb4Fn4WRffJjjC"
       }
     ],
     "presenter": [],
