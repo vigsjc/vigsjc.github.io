@@ -8,7 +8,11 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {
+      "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+      "CompTIA Cloud Essentials+":"https://www.comptia.org/certifications/cloud-essentials",
+      "Atmae 2023 Conference Presenter":"https://www.atmae.org/page/2023ConferenceHighlights"
+      },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -31,7 +35,7 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {"Machine Tool Certification"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -54,7 +58,12 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {
+      "CompTIA Security+":"https://www.comptia.org/certifications/security",
+      "CompTIA Network+":"https://www.comptia.org/certifications/network",
+      "Microsoft Certified Security, Compliance, and Identity Fundamentals":"https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/",
+      "NOCTI IT Knowledge-based Workforce Competency"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -77,7 +86,11 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {
+      "CompTIA Network+":"https://www.comptia.org/certifications/network",
+      "CompTIA A+":"https://www.comptia.org/certifications/a",
+      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro",
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -238,7 +251,10 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {
+      "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
+      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -307,7 +323,9 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {
+      "ATMAE 2023 Conference Presenter":"https://www.atmae.org/events/EventDetails.aspx?id=1743842"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -330,7 +348,7 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": null,
+    "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
