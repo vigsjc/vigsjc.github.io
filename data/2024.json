@@ -89,7 +89,7 @@
     "certificates": {
       "CompTIA Network+":"https://www.comptia.org/certifications/network",
       "CompTIA A+":"https://www.comptia.org/certifications/a",
-      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro",
+      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -323,9 +323,7 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": {
-      "ATMAE 2023 Conference Presenter":"https://www.atmae.org/events/EventDetails.aspx?id=1743842"
-    },
+    "certificates": {"ATMAE 2023 Conference Presenter":"https://www.atmae.org/events/EventDetails.aspx?id=1743842"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
