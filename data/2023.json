@@ -103,7 +103,7 @@
    "projectDesc": "This capstone project involved the creation of a functional and cost-effective file storage  server using salvaged components. The objective was to keep the budget low while achieving  high functionality. To accomplish this goal, we assembled a functioning computer using  salvaged parts and installed Ubuntu Linux as the operating system. We then utilized Samba to set up a file server. Our approach allowed us to create a functional file storage server at a  significantly lower cost than purchasing new components. Additionally, the use of salvaged  components aligns with sustainable practices, making this project an eco-friendly solution for  individuals or small businesses seeking a cost-effective file storage solution. The project's success provides a practical solution for individuals or small businesses seeking a sustainable and cost-effective file storage solution.",
    "keywords": "Linux, Samba, Ubuntu",
    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10c6Bd5nlLhSYsK4-_974eDmvAntVftDv",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=17q5t9vmLAQ5GVDfCFAdcYy5E2YyGGZvo",
   	null,
@@ -172,7 +172,7 @@
    "projectDesc": "The purpose of this project was building a file sharing server using primarily a spare motherboard and other necessary components. The focus then was on installing and configuring the pfSense operating system on the server. The server was built to provide file sharing capabilities for a small to medium-sized network, and thus needed firewall coverage. The paper discusses the hardware and software requirements for the project, the steps involved in building and configuring the firewall, and the benefits of using pfSense security. The project demonstrates the feasibility of building a cost-effective and powerful firewall for a server using off-the-shelf components and open-source software.",
    "keywords": "pfSense, Firewall, Server",
    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1l0_ldtQPSQVcUCf-4BZXeT23fuKxf5_W",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1l4YLCjqm_WcjEJD7NIHqOJOxTN3FPbC9",
   	null,
@@ -195,7 +195,7 @@
    "projectDesc": "The objective of this capstone project is to see if a remote-controlled car can be built and  controlled through the use of a Raspberry Pi. In order to do this, we will use Raspberry Pi 3a  Plus connected to an L298N motor controller, which connects to two separate motors that are  connected to wheels. All of this will be mounted on a frame specifically designed for this project. The Raspberry Pi will be connected to a phone using a network connection through the use of a  MAC address. The Raspberry Pi will also be sending camera footage through Bluetooth back to  my personal computer. The phone will be used to send instructions to the motor controller  through the Raspberry Pi, which will then output those commands to the two individual motors  controlling the wheels to determine which direction the car itself will go.",
    "keywords": "Raspberry Pi, RC Car, Remote Control, Python",
    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=130VMFfIuQGJuTzxQHGy_QoSOxNrilTdO",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=130VMFfIuQGJuTzxQHGy_QoSOxNrilTdO",
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ahrV5svUTd3ZnFuujgwfdP_7xYebBbMn",
@@ -316,7 +316,7 @@
    "projectDesc": "The purpose of this project is to build a device that could accurately measure distance in feet and inches. I wanted to build a device that could be used by anyone trying to measure anything, from a small DIY project to how high can this drone fly in the air. To achieve this, an Arduino Uno has been used has the microcontroller to supply the code for the device (written in C++), an ultra-sonic sensor has been used to measure distance, an LCD display has been used to display the results of the ultra-sonic sensor, and two LED lights have been used to keep track of the measurements.",
    "keywords": "Arduino Uno, Ultra-Sonic Sensor, LCD Display, LED",
    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19CvxogXkluE7860tAfpSbbZglIQcfqPk",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=19CvxogXkluE7860tAfpSbbZglIQcfqPk",
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pv4fyPGVjYJ5kmaSDM0kT-Ag4ssjYlBy",
