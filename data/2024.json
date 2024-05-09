@@ -258,11 +258,12 @@
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qIP8Lt3N0gnh5n2c0aK64Kli48N6q3PB",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1R2-mhpazrtutah7rOjOkbszImIHhtoHE",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qIP8Lt3N0gnh5n2c0aK64Kli48N6q3PB",
+     
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1R2-mhpazrtutah7rOjOkbszImIHhtoHE",
     "video": [
       null,
       null
