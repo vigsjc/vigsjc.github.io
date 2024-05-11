@@ -5,9 +5,7 @@
     "firstName": "Alex",
     "lastName": "Richardson",
     "projectTitle": "IOT NETWORK SEPARATION USING OPNSENSE",
-    "projectDesc": "This project offers a simple, open-source, and affordable solution for securing IoT devices in homes or small offices.
-                  Inspired by the concept of an enterprise demilitarized zone (DMZ), it involves setting up two separate networks connected by a router/firewall. 
-                  Using OPNsense, an open-source router/firewall software, I created one network for everyday devices and another for IoT devices.",
+    "projectDesc": "This project offers a simple, open-source, and affordable solution for securing IoT devices in homes or small offices.",
     "keywords": "Open-Source,IoT,Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16EHpeZsGUsSzKZlPQOZt2RuXR5SHqwwp",
     "certificates": {
@@ -35,12 +33,7 @@
     "firstName": "Andrew",
     "lastName": "York",
     "projectTitle": "OPEN-SOURCE HOME MEDIA SERVER IMPLEMENTATION.",
-    "projectDesc": "my vision with my project is to outline an easy to use medium for
-                  central storage of files that gives the convenience of a streaming service, but without
-                  the need for paying for content that is not owned by the user. By doing this, I believe
-                  that the quality of media overall in the western market can be increased exponentially,
-                  and much more power will be returned to both individual artists and consumers of
-                  media.",
+    "projectDesc": "my vision with my project is to outline an easy to use medium for central storage of files that gives the convenience of a streaming service, but without the need for paying for content that is not owned by the user. ",
     "keywords": "Network Attached Storage,FTP,Linux Mint,TrueNAS Core",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {"Machine Tool Certification":"https://www.indeed.com/career-advice/career-development/machinist-certification"},
@@ -64,8 +57,7 @@
     "lastName": "Spence",
     "projectTitle": "POINT-TO-POINT BRIDGE FO BACKUP ISP.",
     "projectDesc": "This project, "Point-to-Point Bridge for Backup ISP," involves setting up "airFiber 60 HD" wireless bridges to provide a reliable
-                  backup internet connection between our two manufacturing sites, ABF and AFX. This project is critical as constant internet access is essential in manufacturing; interruptions can lead to significant operational delays and financial losses.",
-    "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, and Backup ISP Connection",
+                  backup internet connection between our two manufacturing sites, ABF and AFX.",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
       "CompTIA Security+":"https://www.comptia.org/certifications/security",
