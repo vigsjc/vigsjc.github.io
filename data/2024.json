@@ -33,7 +33,7 @@
     "firstName": "Andrew",
     "lastName": "York",
     "projectTitle": "OPEN-SOURCE HOME MEDIA SERVER IMPLEMENTATION.",
-    "projectDesc": "my vision with my project is to outline an easy to use medium for central storage of files that gives the convenience of a streaming service, but without the need for paying for content that is not owned by the user. ",
+    "projectDesc": " Description here",
     "keywords": "Network Attached Storage,FTP,Linux Mint,TrueNAS Core",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {"Machine Tool Certification":"https://www.indeed.com/career-advice/career-development/machinist-certification"},
@@ -56,8 +56,7 @@
     "firstName": "Anthony",
     "lastName": "Spence",
     "projectTitle": "POINT-TO-POINT BRIDGE FO BACKUP ISP.",
-    "projectDesc": "This project, involves setting up, airFiber 60 HD, wireless bridges to provide a reliable
-                  backup internet connection between our two manufacturing sites, ABF and AFX.",
+    "projectDesc": "Project Description will go here.",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
       "CompTIA Security+":"https://www.comptia.org/certifications/security",
