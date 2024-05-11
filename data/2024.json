@@ -7,8 +7,7 @@
     "projectTitle": "IOT NETWORK SEPARATION USING OPNSENSE",
     "projectDesc": "This project offers a simple, open-source, and affordable solution for securing IoT devices in homes or small offices.
                   Inspired by the concept of an enterprise demilitarized zone (DMZ), it involves setting up two separate networks connected by a router/firewall. 
-                  Using OPNsense, an open-source router/firewall software, I created one network for everyday devices and another for IoT devices.
-                  I repurposed a PC to run OPNsense, used a Raspberry Pi to represent an IoT device, and included an Ubiquiti UniFi 6 Lite access point for wireless connectivity.",
+                  Using OPNsense, an open-source router/firewall software, I created one network for everyday devices and another for IoT devices.",
     "keywords": "Open-Source,IoT,Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16EHpeZsGUsSzKZlPQOZt2RuXR5SHqwwp",
     "certificates": {
@@ -65,7 +64,7 @@
     "lastName": "Spence",
     "projectTitle": "POINT-TO-POINT BRIDGE FO BACKUP ISP.",
     "projectDesc": "This project, "Point-to-Point Bridge for Backup ISP," involves setting up "airFiber 60 HD" wireless bridges to provide a reliable
-                  backup internet connection between our two manufacturing sites, ABF and AFX. This project is critical as constant internet access is essential in manufacturing; interruptions can lead to significant operational delays and financial losses. The project aims to provide a seamless backup ISP connection to our main site (ABF).",
+                  backup internet connection between our two manufacturing sites, ABF and AFX. This project is critical as constant internet access is essential in manufacturing; interruptions can lead to significant operational delays and financial losses.",
     "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, and Backup ISP Connection",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
