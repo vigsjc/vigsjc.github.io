@@ -202,9 +202,9 @@
     "id": 202409,
     "firstName": "Emma",
     "lastName": "Koch",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectTitle": "Home Pentesting Lab.",
+    "projectDesc": "This project aims to provide at home pentesting experience for those interested in Cyber Security related topics. This pentesting lab consists of two virtual machines that use the Windows operating systems and Kali Linux.",
+    "keywords": "Pentesting,Cybersecurity,Hacking,Kali-Linux",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": null,
     "images": [
