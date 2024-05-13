@@ -35,12 +35,11 @@
     "lastName": "York",
     "projectTitle": "FILE STORAGE BASED ON OPEN-SOURCE SOFTWARE.",
     "projectDesc": "Project Description will go here.",
-    "keywords": "Network Attached Storage,FTP,Linux Mint,TrueNAS Core",
+    "keywords": "Network-Attached-Storage,FTP,Linux Mint,TrueNAS Core",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {"Machine Tool Certification":"https://www.indeed.com/career-advice/career-development/machinist-certification"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=150V7Sir8YaAfY3i_zSvlFoKdc4qnJAh5",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
