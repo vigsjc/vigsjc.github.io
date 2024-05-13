@@ -133,23 +133,23 @@
     "id": 202406,
     "firstName": "DeJon",
     "lastName": "Gaines",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
+    "projectTitle": "Exploring Digital Surveillance for Improved Workplace Productivity, Safety, and Security.",
+    "projectDesc": "This project explores the use of computer vision and digital surveillance for improving workplace productivity, safety, and security. The project develops a system that can detect and alert on workplace situations in real-time using AWS services and OpenCV algorithms. The system consists of four main components: GuardDuty, S3, Lambda, and EC2. ",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1suD4iyuVEOkdab4ZwpJ-CBDgljHfkFch",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1J8lk9Bo0Uo3UNgUhbC25ajm_CgIyoQ1G",
       null,
       null
     ],
-    "presentation": null,
+    "presentation":  "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Hg3EQyReITF-C3JX1ZMJLkFYhO00ujRy",
     "video": [
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JHesNvjMCB0k6Z5ao8YFLuKjvZCYP2c0",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I65I2a42gK82sRQF8iboKuSE0aJZYZVW",
     "contact": null
   },
   {
