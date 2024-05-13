@@ -111,7 +111,7 @@
     "firstName": "Connor",
     "lastName": "Bachinski",
     "projectTitle": "AIR MONITORING PI.",
-    "projectDesc": "Project Description will go here.",
+    "projectDesc": "The goal of this project is to create a small-scale air monitoring system for small, individual places such as an apartment or home. This would allow people wanting to monitor inside their home to do so easily. My intention for this project was to make something for my oldest brother, who has many indoor plants in his apartment as well as just having a kid with his fiance.",
     "keywords": "Raspberry-Pi,Sensors,Monitoring,Python",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pGZagmdJjzHJEcQWj98c9Z41zMLLSxeq",
     "certificates": null,
