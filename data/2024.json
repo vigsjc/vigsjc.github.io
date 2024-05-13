@@ -84,8 +84,8 @@
     "firstName": "Brody",
     "lastName": "Neeley",
     "projectTitle": "IMPLEMENTING CISCO INTO YOUR HOME NETWORK.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectDesc": "The main objective of this project is to show the advantages of using older networking hardware in your home and giving it a new lease on life. This will be done by setting up the hardware and preparing it for configuration. Then we will go through the process of entering the commands and tweaking them to your needs to get internet connectivity and I will demonstrate DHCP, VLANs, and switch stacking just to name a few. Finally, we will connect an access point for wireless connectivity to the network you build.",
+    "keywords": "Cisco, CommandLineInterface (CLI), PuTTY, Router, Switch, PoE",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
       "CompTIA Network+":"https://www.comptia.org/certifications/network",
