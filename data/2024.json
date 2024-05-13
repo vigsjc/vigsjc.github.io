@@ -179,24 +179,24 @@
     "id": 202408,
     "firstName": "Elizabeth",
     "lastName": "Linn",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "NeoNet LED Matrix.",
+    "projectDesc": "The motivation behind my project lies in the increasing demand for IoT devices as well as aesthetic lighting solutions that integrate with modern technology- such as smartphones. By harnessing the Raspberry Pi's processing power and networking capabilities, my LED matrix will become a versatile system that can be wirelessly controlled. Due to its difficult electronic construction and dependence on a Pi, I would say that my capstone falls most within the EET category of the major, as well as Computer Systems (specifically, microcontrollers).",
+    "keywords": "Microcontrollers,Programmable lighting,Customizability",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pchP8ivNf_4oWPJGjWdnxvC8Ka4Vizdj",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pchP8ivNf_4oWPJGjWdnxvC8Ka4Vizdj",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uPSWwk1w7RLjcDLpiiEZXYBWJL9d8akH",
     "video": [
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_WMBPGlWqABhklsEGfsRMh0qRVjxLFBp",
       null
     ],
-    "brochure": null,
-    "contact": null
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LKkUDL-r-JPMUmmDNe6EXQdUTkgCnceA",
+    "contact": "https://www.linkedin.com/in/elizabeth-l-b4b603203/"
   },
   {
     "id": 202409,
