@@ -5,8 +5,8 @@
     "firstName": "Alex",
     "lastName": "Richardson",
     "projectTitle": "IOT NETWORK SEPARATION USING OPNSENSE",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectDesc": "The motivation behind this project stems from the growing number of IoT devices and the potential security risks they pose (Statista, 2023). Given their inherent security vulnerabilities, separating them from personal devices like phones and laptops is crucial (IBM Technology, 2023). IoT devices such as smart TVs, thermostats, refrigerators, ovens, and network-enabled cameras belong on the dedicated IoT network. By doing so, users can enjoy enhanced security and peace of mind knowing both their personal and IoT devices are better protected.",
+    "keywords": "Open-Source, IoT, and Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16EHpeZsGUsSzKZlPQOZt2RuXR5SHqwwp",
     "certificates": {
       "CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
@@ -25,7 +25,8 @@
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18H32OSq0SSZfdbhsMWj9CVa6dVjoxMVS",
+
     "contact": null
   },
   {
