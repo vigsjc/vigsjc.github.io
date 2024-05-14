@@ -275,7 +275,7 @@
     "id": 202412,
     "firstName": "Matthew",
     "lastName": "Judd",
-    "projectTitle": "Project Title will go here.",
+    "projectTitle": "SERVER CLOUD BACKUP.",
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ESt-v-mmPSti5bH79j1E9YRYDvWtm1_i",
@@ -298,23 +298,23 @@
     "id": 202413,
     "firstName": "Matthew",
     "lastName": "Tingle",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Home Network Security System.",
+    "projectDesc": "The motivation for undertaking this project stems from the rising importance of home network security in modern households. With the increasing adoption of IoT devices and the proliferation of cyber threats, securing home networks has become a critical concern. The project aims to address these challenges by developing an automated security system that enhances security posture, enables real-time threat detection, and empowers users with greater control over their network security.",
+    "keywords": "Automated Home Network Security System,WI-FI Networks,Cybersecurity Threats,IoT",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hGlX2KeTTlSBP8nPCvrwNwEdpQ1PJs30",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hGlX2KeTTlSBP8nPCvrwNwEdpQ1PJs30",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cqmCx2ptKq4Y2Aqf74FeXeHkubRtJQpN",
     "video": [
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Fw4DzawLiRttvIVTHKYBt5N-cSk2M2pf",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bxHkU0ReU3mclq1r64yw24K616s_VD4b",
     "contact": null
   },
   {
