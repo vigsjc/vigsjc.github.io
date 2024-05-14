@@ -344,23 +344,23 @@
     "id": 202415,
     "firstName": "Ryan",
     "lastName": "Sheets",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "Sheets Network Attach Storage1.",
+    "projectDesc": "My project takes a repurposed computer and converts it into an affordable and reliable Network Attached Storage. This will allow for seamless file transfer across my home network. This solution arises from the growing number of files I need to be able to access on my network and on computers away from my network. This solution also arises from a desire to keep my information and data secure, avoiding processing and usage by large companies",
+    "keywords": "NAS, TrueNAS, Raid, Raspberry Pi",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
     "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
-    "presentation": null,
+    "presentation":"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1xI9B4cr4hJsvVofjKguOoAC2VTQiHBuB",
     "video": [
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1nY5ivjOnIZK7ZjBhinXaeG3X-lWO8vcW",
     "contact": null
   },
   {
