@@ -368,8 +368,8 @@
     "firstName": "Wesley",
     "lastName": "Ashby",
     "projectTitle": "SMART DOORBELL – RASPBERRY PI 4.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectDesc": "The goal of this project is to use a Raspberry Pi to build a smart doorbell with integrated features like motion detection, video streaming, and remote access. With the smart doorbell, users will be able to see live video and receive notifications on their mobile devices when someone approaches the door. Through the use of the Raspberry Pi's capabilities, this project provides a convenient and affordable way to improve home security and convenience.",
+    "keywords": "Raspberry Pi, smart doorbell,home security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": null,
     "images": [
@@ -383,7 +383,7 @@
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/uc?export=view&id=1G8kLi6SzDOJDdIdRat46ti3pUUId_U53",
     "contact": null
   },
   {
