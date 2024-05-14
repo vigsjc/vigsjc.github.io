@@ -321,23 +321,23 @@
     "id": 202414,
     "firstName": "Odin",
     "lastName": "Blevins",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "PiHole blocking ads",
+    "projectDesc": "There is an old problem that we have all been facing with the invention of digital media. The ever-intrusive advertisement. In the days of cable these advertisements were minutes long and never possible to bypass, but in the world of the Internet of Things this should have died. We’ve moved on but ads have gotten worse and worse. PiHole is an adblocking solution and remains opensource and for the people who’ve built it. PiHole is easy to install and manage with a minimal background in networking. ",
+    "keywords": "PiHole, Adblocking, Network Management, Firewalls, DNS, DHCP",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_AxsqcP1h-IYwR8H94LTkPQNOL0QLZpB",
     "certificates": {"ATMAE 2023 Conference Presenter":"https://www.atmae.org/events/EventDetails.aspx?id=1743842"},
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_AxsqcP1h-IYwR8H94LTkPQNOL0QLZpB",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1N9tCQpcPzgRolKE-Z-wX6twnq7goizEh",
     "video": [
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zC0G0koRsXERwoytf_rHmKQEWZ7vEy-7",
     "contact": null
   },
   {
