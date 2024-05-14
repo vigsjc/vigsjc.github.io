@@ -249,8 +249,8 @@
     "firstName": "Justin",
     "lastName": "Chitwood",
     "projectTitle": "HOME NETWORK SECURITY VIA DOCKER AND PI-HOLE.", 
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectDesc": "My capstone project is meant to increase network security on a home network. Most of the population within the United States uses internet at home, in fact 97.1% of the population uses internet (Petrosyan, 2023). This raises the question of how do users at home keep their networks secure? A simple and cost-effective way to increase your network security is by using PiHole, specifically in this case by running PiHole via a Docker container.",
+    "keywords": "Docker, PiHole, Network Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qIP8Lt3N0gnh5n2c0aK64Kli48N6q3PB",
     "certificates": {
       "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
@@ -268,8 +268,8 @@
       null,
       null
     ],
-    "brochure": null,
-    "contact": null
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1FJV238qw39dfMJjoTho3bjnBsKcIgKzA",
+    "contact": https://www.linkedin.com/in/justin-chitwood
   },
   {
     "id": 202412,
