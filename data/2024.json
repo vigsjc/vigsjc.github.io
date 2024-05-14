@@ -390,23 +390,23 @@
     "id": 202417,
     "firstName": "Zachery",
     "lastName": "Martin",
-    "projectTitle": "Project Title will go here.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+    "projectTitle": "ZacOfAllTrades.us.",
+    "projectDesc": "The core piece of my project is a ~10 year old laptop with upgraded RAM and a new SSD. This device with an attached 8TB HDD, is the main server for ZacOfAllTrades and it’s intranet. This network is to familiarize myself with Linux (Ubuntu server specifically). My end goal is to become a Network Architect, while that may be years down the line, I have a lot of work to do just to become an administrator. ",
+    "keywords": "Networking, Security, Familiarity",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jG48vBhdatobH7l7ysOPSgd-MlueYUq1",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jG48vBhdatobH7l7ysOPSgd-MlueYUq1",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null,
       null
     ],
-    "presentation": null,
+    "presentation":  "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1FVANHPamL1C6x_zYNRmvjsjSAtjsZGtv",
     "video": [
       null,
       null
     ],
-    "brochure": null,
+    "brochure":"https://drive.google.com/thumbnail?sz=w4000&export=view&id=12dI9mh5Ii4ef-aECDmMQKoCG8AvAliKc",
     "contact": null
   }
 ],
