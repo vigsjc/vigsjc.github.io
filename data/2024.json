@@ -8,11 +8,7 @@
     "projectDesc": "The motivation behind this project stems from the growing number of IoT devices and the potential security risks they pose (Statista, 2023). Given their inherent security vulnerabilities, separating them from personal devices like phones and laptops is crucial (IBM Technology, 2023). IoT devices such as smart TVs, thermostats, refrigerators, ovens, and network-enabled cameras belong on the dedicated IoT network. By doing so, users can enjoy enhanced security and peace of mind knowing both their personal and IoT devices are better protected.",
     "keywords": "Open-Source, IoT,Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16EHpeZsGUsSzKZlPQOZt2RuXR5SHqwwp",
-    "certificates": {
-      
-      "CompTIA Cloud Essentials+":"https://www.comptia.org/certifications/cloud-essentials",
-      "Atmae 2023 Conference Presenter":"https://www.atmae.org/page/2023ConferenceHighlights"
-      },
+    "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1N9elSTtGYVJAyUWEUgq_b257fhwt-1Nn",
 
@@ -61,12 +57,7 @@
     "projectDesc": "The primary technical challenge addressed in this project involves establishing a reliable backup internet service for our main site (ABF). The solution proposed includes the deployment of two airFiber 60 HD wireless bridges, connecting ABF and the secondary site, AFX. These bridges will enable a point-to-point network that serves as a backup ISP connection. At ABF, the bridge will link directly to a WAN port on the existing firewall, which is configured to automatically failover in the event the main WAN connection fails. Conversely, at AFX, the bridge will be connected to the main network switch, integrating the backup link into the broader network infrastructure. This setup not only ensures continuity of internet access at ABF but also leverages existing network capabilities at AFX to provide a seamless failover mechanism.",
     "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, Backup ISP Connection",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": {
-      "CompTIA Security+":"https://www.comptia.org/certifications/security",
-      "CompTIA Network+":"https://www.comptia.org/certifications/network",
-      "Microsoft Certified Security, Compliance, and Identity Fundamentals":"https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/",
-      "NOCTI IT Knowledge-based Workforce Competency":"https://www.nocti.org/wp-content/uploads/2020/09/Workforce-Competency-Credential-Flyer-2019-Web.pdf"
-    },
+    "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
@@ -89,11 +80,7 @@
     "projectDesc": "The main objective of this project is to show the advantages of using older networking hardware in your home and giving it a new lease on life. This will be done by setting up the hardware and preparing it for configuration. Then we will go through the process of entering the commands and tweaking them to your needs to get internet connectivity and I will demonstrate DHCP, VLANs, and switch stacking just to name a few. Finally, we will connect an access point for wireless connectivity to the network you build.",
     "keywords": "Cisco, CommandLineInterface (CLI), PuTTY, Router, Switch, PoE",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
-    "certificates": {
-      "CompTIA Network+":"https://www.comptia.org/certifications/network",
-      "CompTIA A+":"https://www.comptia.org/certifications/a",
-      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"
-    },
+    "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
