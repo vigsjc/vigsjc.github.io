@@ -58,7 +58,7 @@
     "firstName": "Anthony",
     "lastName": "Spence",
     "projectTitle": "POINT-TO-POINT BRIDGE FO BACKUP ISP.",
-    "projectDesc": "Project Description will go here.",
+    "projectDesc": "The primary technical challenge addressed in this project involves establishing a reliable backup internet service for our main site (ABF). The solution proposed includes the deployment of two airFiber 60 HD wireless bridges, connecting ABF and the secondary site, AFX. These bridges will enable a point-to-point network that serves as a backup ISP connection. At ABF, the bridge will link directly to a WAN port on the existing firewall, which is configured to automatically failover in the event the main WAN connection fails. Conversely, at AFX, the bridge will be connected to the main network switch, integrating the backup link into the broader network infrastructure. This setup not only ensures continuity of internet access at ABF but also leverages existing network capabilities at AFX to provide a seamless failover mechanism.",
     "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, Backup ISP Connection",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
