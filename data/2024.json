@@ -241,10 +241,7 @@
     "projectDesc": "My capstone project is meant to increase network security on a home network. Most of the population within the United States uses internet at home, in fact 97.1% of the population uses internet (Petrosyan, 2023). This raises the question of how do users at home keep their networks secure? A simple and cost-effective way to increase your network security is by using PiHole, specifically in this case by running PiHole via a Docker container.",
     "keywords": "Docker, PiHole, Network Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qIP8Lt3N0gnh5n2c0aK64Kli48N6q3PB",
-    "certificates": {
-      "Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
-      "TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"
-    },
+    "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VTc5Rc7nCbkmr-2jPZ5AicaceuGzjMQG",
           
@@ -336,7 +333,7 @@
     "projectDesc": "My project takes a repurposed computer and converts it into an affordable and reliable Network Attached Storage. This will allow for seamless file transfer across my home network. This solution arises from the growing number of files I need to be able to access on my network and on computers away from my network. This solution also arises from a desire to keep my information and data secure, avoiding processing and usage by large companies",
     "keywords": "NAS, TrueNAS, Raid, Raspberry Pi",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
-    "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
+    "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
