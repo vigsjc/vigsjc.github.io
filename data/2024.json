@@ -382,7 +382,7 @@
     "projectDesc": "The core piece of my project is a ~10 year old laptop with upgraded RAM and a new SSD. This device with an attached 8TB HDD, is the main server for ZacOfAllTrades and it’s intranet. This network is to familiarize myself with Linux (Ubuntu server specifically). My end goal is to become a Network Architect, while that may be years down the line, I have a lot of work to do just to become an administrator. ",
     "keywords": "Networking, Security, Familiarity",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jG48vBhdatobH7l7ysOPSgd-MlueYUq1",
-    "certificates": null,
+    "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jG48vBhdatobH7l7ysOPSgd-MlueYUq1",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
