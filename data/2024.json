@@ -58,7 +58,7 @@
     "firstName": "Anthony",
     "lastName": "Spence",
     "projectTitle": "POINT-TO-POINT BRIDGE FO BACKUP ISP.",
-    "projectDesc": "The primary technical challenge addressed in this project involves establishing a reliable backup internet service for our main site (ABF). The solution proposed includes the deployment of two "airFiber 60 HD" wireless bridges, connecting ABF and the secondary site, AFX. These bridges will enable a point-to-point network that serves as a backup ISP connection.",
+    "projectDesc": "Project Description will go here.",
     "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, Backup ISP Connection",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
     "certificates": {
@@ -75,7 +75,7 @@
     ],
     "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wPnizKoIzPMDJ7JogBqpyXmrQtWRdXfE",
     "video": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ARgEmXgHBTJZPf4WnnovZz2IWBNAo-QK",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1EuEDbUstMm6154fjsBz3xBnN-3UjL-yZ",
       null
     ],
     "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XFxj4bfcSJGQBVIet_-_FlGknc9qh7km",
@@ -125,7 +125,7 @@
     ],
     "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VvtaXIeI679sY53aQDIuRcFo6YJm6Yde",
     "video": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11Lj0gO_X9O9aBDRley8Fn7_PpefTY8co",
+      null,
       null
     ],
     "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11li19uz-MK0Vd1leiH-ege2eZAMiPnRT",
