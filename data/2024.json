@@ -58,6 +58,8 @@
     "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
+      null,
       null
     ],
     "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wPnizKoIzPMDJ7JogBqpyXmrQtWRdXfE",
@@ -79,6 +81,8 @@
     "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
+      null,
       null
     ],
     "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bornGWOEaZqTCpAf8CCXFk7FxOP_yrpz",
@@ -99,6 +103,7 @@
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pGZagmdJjzHJEcQWj98c9Z41zMLLSxeq",
     "certificates": {"TestOut Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"},
     "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pGZagmdJjzHJEcQWj98c9Z41zMLLSxeq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pGZagmdJjzHJEcQWj98c9Z41zMLLSxeq",
       null
     ],
@@ -185,6 +190,7 @@
     "certificates": {"CompTIA Security+":"https://www.comptia.org/certifications/security"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1gqCoPIY-bPqeu85Zo66-L4woykogduYq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
       null
     ],
     "presentation":"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1boeByzOCb8zASfM0A16uF3WwQ_61Vx5w",
@@ -248,6 +254,8 @@
     "certificates": null,
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ESt-v-mmPSti5bH79j1E9YRYDvWtm1_i",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
+      null
     ],
     "presentation": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pV9i5u2psfMnTlgMjtczbxELdCr_QQaF",
     "video": [
