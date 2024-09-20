@@ -8,7 +8,9 @@
     "projectDesc": "The motivation behind this project stems from the growing number of IoT devices and the potential security risks they pose (Statista, 2023). Given their inherent security vulnerabilities, separating them from personal devices like phones and laptops is crucial (IBM Technology, 2023). IoT devices such as smart TVs, thermostats, refrigerators, ovens, and network-enabled cameras belong on the dedicated IoT network. By doing so, users can enjoy enhanced security and peace of mind knowing both their personal and IoT devices are better protected.",
     "keywords": "Open-Source, IoT,Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1WXqq_UJqZ18eAzH0xRfj0AQYDC2TURxN",
-    "certificates": null,
+    "certificates": {"CompTIA Security+":"https://www.comptia.org/certifications/it-fundamentals",
+      "CompTIA Cloud+":"https://www.comptia.org/certifications/cloud"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1N9elSTtGYVJAyUWEUgq_b257fhwt-1Nn",
 
@@ -208,7 +210,7 @@
     "id": 202410,
     "firstName": "Josiah",
     "lastName": "Sgro",
-    "projectTitle": "Project Title will go here.",
+    "projectTitle": "OFFLINE ARDUINO LOCKING SYSTEM",
     "projectDesc": "In a world where technology is always around us and in some ways connected to us, it’s good to be able to disassociate from our devices sometimes. We aren’t always able to instantaneously interact with our surroundings, especially in our own homes and in some cases even at work. Having a system that can be automated to protect you without needing to have your full undivided attention can be, even just a small, feeling of freedom from the internet. The Offline Arduino Locking System aims to do just that, protecting without the weight of feeling always wired in.",
     "keywords": "Arduino, security, offline",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13Qqdk5N5077Yb81hVIg13mZWqctzuj9R",
@@ -218,9 +220,9 @@
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/uc?export=view&id=136OP4qUSbJkR9LgdoHNf1LHUFv3EKLaQ",
     "video": [
-      null,
+      "https://www.youtube.com/shorts/47OSWksNNSQ",
       null
     ],
     "brochure": null,
