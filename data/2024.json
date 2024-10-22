@@ -45,7 +45,7 @@
     ],
     "presentation": "https://drive.google.com/uc?export=view&id=1VROTS_bQcMILsuizm8oIzSoR68YNMeGY",
     "video": [
-      null,
+      "https://www.youtube.com/watch?v=mWebfSyLzKM",
       null
     ],
     "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1l9bEQtovaPx6D5K4db-2_bQYIv7EtTfI",
@@ -292,7 +292,7 @@
     "projectDesc": "The motivation for undertaking this project stems from the rising importance of home network security in modern households. With the increasing adoption of IoT devices and the proliferation of cyber threats, securing home networks has become a critical concern. The project aims to address these challenges by developing an automated security system that enhances security posture, enables real-time threat detection, and empowers users with greater control over their network security.",
     "keywords": "Automated Home Network Security System,WI-FI Networks,Cybersecurity Threats,IoT",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hGlX2KeTTlSBP8nPCvrwNwEdpQ1PJs30",
-    "certificates": null,
+    "certificates": {"Computer Tech Basics":"Computer Tech Basics"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hGlX2KeTTlSBP8nPCvrwNwEdpQ1PJs30",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -315,7 +315,9 @@
     "projectDesc": "There is an old problem that we have all been facing with the invention of digital media. The ever-intrusive advertisement. In the days of cable these advertisements were minutes long and never possible to bypass, but in the world of the Internet of Things this should have died. We’ve moved on but ads have gotten worse and worse. PiHole is an adblocking solution and remains opensource and for the people who’ve built it. PiHole is easy to install and manage with a minimal background in networking. ",
     "keywords": "PiHole, Adblocking, Network Management, Firewalls, DNS, DHCP",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_AxsqcP1h-IYwR8H94LTkPQNOL0QLZpB",
-    "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
+    "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+      "ATMAE 2023 Presenter":"https://www.atmae.org/page/2023ConferenceHighlights"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_AxsqcP1h-IYwR8H94LTkPQNOL0QLZpB",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
@@ -338,7 +340,7 @@
     "projectDesc": "My project takes a repurposed computer and converts it into an affordable and reliable Network Attached Storage. This will allow for seamless file transfer across my home network. This solution arises from the growing number of files I need to be able to access on my network and on computers away from my network. This solution also arises from a desire to keep my information and data secure, avoiding processing and usage by large companies",
     "keywords": "NAS, TrueNAS, Raid, Raspberry Pi",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
-    "certificates": null,
+    "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oor33ia4jL20lAcmWk64ZkO_WpbCZ4Pi",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
