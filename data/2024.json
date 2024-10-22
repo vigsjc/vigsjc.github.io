@@ -61,7 +61,7 @@
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17makwGN3C-ZqRick4q-KvhKBRBA55mE3",
     "certificates": {"CompTIA Security+":"https://www.comptia.org/certifications/security",
       "Microsoft Certified":"https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification",
-      "Network +": "Network +" 
+      "CompTIA Network +": "https://www.comptia.org/certifications/network" 
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
@@ -84,7 +84,10 @@
     "projectDesc": "The main objective of this project is to show the advantages of using older networking hardware in your home and giving it a new lease on life. This will be done by setting up the hardware and preparing it for configuration. Then we will go through the process of entering the commands and tweaking them to your needs to get internet connectivity and I will demonstrate DHCP, VLANs, and switch stacking just to name a few. Finally, we will connect an access point for wireless connectivity to the network you build.",
     "keywords": "Cisco, CommandLineInterface (CLI), PuTTY, Router, Switch, PoE",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
-    "certificates": null,
+    "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network",
+      "CompTIA A+":"https://www.comptia.org/certifications/a",
+      "TestOutRouting and Switching Pro Certification": "https://w3.testout.com/pro-certifications/routing-and-switching-pro" 
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HnwDWN8MkACh5gcPi0PEfseNtxzMu-H-",
       null,
