@@ -269,7 +269,7 @@
     "projectDesc": "Having on-premises servers has its benefits, but it also comes with inherited risks. While the ability to access your data and your software is sped up compared to the cloud, it does place the risk of losing the data solely on the company. This is why having a backup and recovery solution is detrimental to your business. For years my employer has paid money to an outside source to setup and manage these backup solutions. I wanted to take on the responsibility of setting up a new solution in which we save a substantial amount of money. For this reason, I chose to set up a cloud backup solution and a cheaper local backup solution to ensure we are always protecting the data. I researched and found software called VEEAM that can be used to set up, and manage complete backups of the servers and data we have on them. I paired this with a cloud environment called Wasabi and a local NAS called Synology. These two storage solutions helped simplify and successfully accomplish my new backup and recovery solution.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ESt-v-mmPSti5bH79j1E9YRYDvWtm1_i",
-    "certificates": null,
+    "certificates": {"MCSA Windows Server"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ESt-v-mmPSti5bH79j1E9YRYDvWtm1_i",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq",
