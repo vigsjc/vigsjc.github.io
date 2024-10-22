@@ -31,7 +31,7 @@
    "projectDesc": "What is a NAS? A Network Attached Storage is a network device that allows network  users to connect to itself to use the device’s local storage. Linux, MacOS, and Windows users  can map the location of the NAS device via the device’s IP address. Once the NAS device’s  location is mapped the user can use the NAS storage as if it was attached to the user’s system  locally. In this capstone project, I installed the TrueNAS OS onto old, refurbished hardware to  create an open-source NAS device. Looking back, the project was quite successful considering  that I established connection to the server via Windows user interface, implemented media server functionality, and was able to create/secure remote access outside of the given NAS network.",
    "keywords": "Open-Source, NAS, TrueNAS, Plex, Nextcloud",
    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1GI4mn4eDXTzGFBSg0v9Vk4HRjh3F_qFu",
-   "certificates": null,
+   "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=1GI4mn4eDXTzGFBSg0v9Vk4HRjh3F_qFu",
   	"https://drive.google.com/thumbnail?sz=w4000&export=view&id=19Jn9QpCOx4LtJAbj_jG_5SZF3Y5t_Zdp",
