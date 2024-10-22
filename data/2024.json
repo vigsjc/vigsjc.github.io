@@ -36,7 +36,7 @@
     "keywords": "Network-Attached-Storage,FTP,Linux Mint,TrueNAS Core",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19pBBU2J87mpB1EzSd1s4yFUraR7H7zKr",
     "certificates": {"CompTIA IT Fundamentals (ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
-    "Machine Tool Certification":"Machine Tool Certification"
+      "Machine Tool Certification":"Machine Tool Certification"
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=150V7Sir8YaAfY3i_zSvlFoKdc4qnJAh5",
@@ -60,8 +60,8 @@
     "keywords": "Wireless Bridging, Network Redundancy, Failover Configuration, Point-to-Point, Backup ISP Connection",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17makwGN3C-ZqRick4q-KvhKBRBA55mE3",
     "certificates": {"CompTIA Security+":"https://www.comptia.org/certifications/security",
-    "Microsoft Certified":"https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification",
-    "Network +": "Network +" 
+      "Microsoft Certified":"https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification",
+      "Network +": "Network +" 
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11pL77PR9JpQvA0RQX22jboleUHMgMbYK",
