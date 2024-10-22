@@ -132,7 +132,9 @@
     "projectDesc": "This project explores the use of computer vision and digital surveillance for improving workplace productivity, safety, and security. The project develops a system that can detect and alert on workplace situations in real-time using AWS services and OpenCV algorithms. The system consists of four main components: GuardDuty, S3, Lambda, and EC2. ",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1J8lk9Bo0Uo3UNgUhbC25ajm_CgIyoQ1G",
-    "certificates": null,
+    "certificates": {"Data Center Certified Associate":"https://certref.com/information-technology/data-center-certified-associate",
+      "ITIL":"ITIL"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1J8lk9Bo0Uo3UNgUhbC25ajm_CgIyoQ1G",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1suD4iyuVEOkdab4ZwpJ-CBDgljHfkFch",
