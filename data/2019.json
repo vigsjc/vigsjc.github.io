@@ -7,7 +7,7 @@
    "projectTitle": "Modified Fender 5E3 Deluxe Clone Vacuum Tube Guitar Amp Project",
    "projectDesc": "The project includes the design and development of a vacuum tube guitar amp. This project is completely hand built and hand wired, including the aluminum amp chassis, circuit board, design/layout of components, and the wood cabinets to enclose the amp and speaker. The amp uses tube rectification, and employs a push-pull (Class AB) power amp section. The design is based on a Fender Deluxe 5E3 model amp circa 1957, but is updated to include modern safety features and functionality. The amp is also designed to allow for post-tube-preamp analog-digital signal conversion for processing in an external laptop computer, followed by digital-analog signal conversion which is then fed into the tube power amp section. The amp has been tested for safety as well as proper operation, tone, and usability. Special attention was given to safety, both in operation as well as in future repair and maintenance, due to the extremely high AC and DC voltages and large capacitors found in such a vacuum tube circuit.",
    "keywords": "Vacuum tube, tube rectifier, analog audio amplification, analog electronics",
-   "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17iePxzndzattgG3K6LH3Gw1IeUYiWvZa",
+   "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=ZCWb6pPbUyHpN_ib9Bl72rVG-6uoZp_",
    "certificates": {
      "CWTS":"https://www.cwnp.com/certifications/cwts", 
      "CompTIA A+":"https://www.comptia.org/certifications/a"
