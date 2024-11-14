@@ -33,21 +33,21 @@
    "projectTitle": "Feeding Frenzy Automated Cat Feeder",
    "projectDesc": "Automation can benefit people and an endless number of ways. I have always had a fascination with automation and eliminating the need for human oversight or labor in tasks. These tasks can be large scale such as factory and manufacturing environments as well as small tasks in everyday household chores. In this project I was aiming to automate the feeding of my cat Mira. The problem I have found with these products on the market are there price and functionality. I could not find one that fit what I was looking for and wanted to create my own.To create this project I used a microcomputer, in this case a raspberry pi, and connected it to a servo motor. I designed code that allows for the scheduling of a specified amount of food to be dispensed at the times you set. This is housed in a custom made frame that protects the wires, devices, and motor.",
    "keywords": "Automation, non-continous servo motor, Raspberry Pi",
-   "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
+   "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eiXPIcjX0tKBbsJmH0z2Y6O4zEs0vCyy",
    "certificates": {
      "CompTIA Network+":"https://www.comptia.org/certifications/network"
    },
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eiXPIcjX0tKBbsJmH0z2Y6O4zEs0vCyy",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1ad_gq-gqypi6ZTF7HFki9cZBBGOk77d2",
+   "presentation": "https://drive.google.com/uc?export=view&id=1qPSwhZq78DCn4kpr5ldRDhLS2VwfAoEU",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1v_dQACxwWOLqP8a3TftfIUMzVVKdINpk",
+      "https://drive.google.com/uc?export=view&id=1qGigAHPzmN7BWOVFDi6-AwEmetOju24g",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
+   "brochure": "https://drive.google.com/uc?export=view&id=1eiXPIcjX0tKBbsJmH0z2Y6O4zEs0vCyy",
    "contact": "alexander_rally@mymail.eku.edu"
 },
  {
@@ -57,22 +57,22 @@
    "projectTitle": "All-in-one Computer Network",
    "projectDesc": "Through the use of Electronics, Networking, and computer systems an All-In-One Computer Network has been created to provide a single device to improve small business cyber systems. Since small businesses have little resources to maintain adequate cyber systems, security is often neglected. As more systems are becoming digital it is ever important for businesses to adjust to this reality. Using the open source router software Pfsense, the use of intrusion detection and firewall features are available. Also, using Docker containerization the use of multiple applications on a single server is possible. Providing a smart switch with VLAN network segmentation capabilities allows for further control of a network. In developing this project anyone, including businesses, can have a turn-key network in a single case. 3D modeling and printing may be used to easily develop and prototype a single case for an All-In-One Network. In developing this project anyone, including businesses, can have a turn-key network in a single case. Overall, there are several areas in which small business networking could be improved through the effective use of cyber systems.",
    "keywords": "Docker, containerization, Pfsense, All-In-One, Turn-Key, Business, SBC, Single Board Computer, Security, Networking, Intrusion detection, E-commerce, NextCloud, Cloud, Linux, Smart Switch, Cyber Security",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1slmEJLFW0V31w_YQf5S4R4M2HiIDUuso",
+   "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
    "certificates": {
      "CompTIA Cloud Essentials":"https://www.comptia.org/certifications/cloud-essentials"
    },
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uMBTwnyBnTqOLG4rM_g7hsGIErYVsHhy",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
       null,
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1NaoP-4cgV1Fsulul3CCORT9amArCS14x",
+   "presentation": "https://drive.google.com/uc?export=view&id=1ad_gq-gqypi6ZTF7HFki9cZBBGOk77d2",
    "video": [
-      "https://drive.google.com/uc?export=view&id=10FEREUmNcZ9HKvn0aOnEnqox0xeHlShJ",
+      "https://drive.google.com/uc?export=view&id=1v_dQACxwWOLqP8a3TftfIUMzVVKdINpk",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1EfjXoKXZHXNPZrUuSVo6vZywtuhoj178",
+   "brochure": "https://drive.google.com/uc?export=view&id=1oChm0EtN1c-xvj9qnQHtbxoR6WyOGul-",
    "contact": "bakerae493@gmail.com"
 },
  {
