@@ -109,22 +109,21 @@
    "projectTitle": "Brian's Biometric Box",
    "projectDesc": "The purpose for this project is very simple, security. Safes can be expensive or easy to break into, so this project aims to be a cheap alternative. Since security is the focus, I decided to use a fingerprint scanner as a method of unlocking the safe. I planned to spend no more than $50 and ended up using $35 since I already had most of the pieces. This safe has the purpose of securing the contents placed inside by the creator and whoever else they would like to have access using an Arduino, a magnetic lock, and the fingerprint sensor. It also uses opensource software from the Arduino manufacturer for programming.",
    "keywords": "Arduino, Safe, Magnetic Lock, Fingerprint scanner",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1mb0CP3nkPe4H2qNpkXXBXQ45QjiwZlon",
    "certificates": {
      "2nd Highest dept. exit exam score":"https://technology.eku.edu/"
    },
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1GdysOjMnT4lyx78tGx6Pqw3mFQG5s7ts",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bciYFCCSO85zXTPs_fnvJsvqWflVl7JN",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mb0CP3nkPe4H2qNpkXXBXQ45QjiwZlon",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1o-THaudE5GqDCxRSeWV94fQIHr-pOhCs",
+   "presentation": "https://drive.google.com/uc?export=view&id=1GPYhyta9xqcWnAV0XCCm7sNG65Z_B-tI",
    "video": [
-      "https://drive.google.com/uc?export=view&id=14YYErcnioXnIZqHusNx3jotflYJkDrWW",
+      "https://drive.google.com/uc?export=view&id=11PWdTWFja_dkxnugEVWDoWMXEvkrzMka",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1LX5UF1RsDxBP-ug2FtWPxvSzSqFts05k",
+   "brochure": "https://drive.google.com/uc?export=view&id=1mb0CP3nkPe4H2qNpkXXBXQ45QjiwZlon",
    "contact": "brian_preece3@mymail.eku.edu"
 },
  {
