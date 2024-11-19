@@ -336,15 +336,14 @@
    "projectTitle": "Using a Raspberry Pi for Network Protection and Data Collection",
    "projectDesc": "The overall objective of this project is to allow a home or small business owner to be able to monitor their network and for them to be able to observe trends in their network. The project will be using a Raspberry Pi as the delivery vehicle for the monitoring of network traffic, location of where traffic is originating from and where the traffic is going. The security provided by the Pi can also serve as another layer in the “defense in depth” concept which was laid out in other coursework for this degree. Also, this concept could be scaled up to allow for the monitoring of larger networks or as a company expands into new offices or hardware. Specialized security tools will be used for generating reports which can be used to make an informed decision about what the next steps should be in securing the network and what risks the users need to be aware of. This project could also be used to provide early detection for risks associated with out-of-date software or uninstalled patches to the operating systems on the network that anti-virus or anti-malware products may not yet be updated to detect.",
    "keywords": "Raspberry Pi, Network Defense, Open source software, security, network monitoring",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1826n7P2GAOzDjoXqeXkRhRKLYURsL2nj",
    "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1R_PSKxU7HRCj7B9jCSQh8240is3uhFSt",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1CDEv_iseOjIxGUFtb02y5qq7WQ0kYdmw",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1826n7P2GAOzDjoXqeXkRhRKLYURsL2nj",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1xH746dglW3aiUk2vUWN_VBLLYmmXH9vn",
+   "presentation": "https://drive.google.com/uc?export=view&id=1826n7P2GAOzDjoXqeXkRhRKLYURsL2nj",
    "video": [
       null,
       null
@@ -359,17 +358,15 @@
    "projectTitle": "Pi Lock",
    "projectDesc": "A problem facing many computer users is the thought of unauthorized access. In addition to the possibility of a malicious user accessing your files and data, you may not even be aware that any activity has taken place. That is why I introduced the PiLock. The PiLock, using an ultrasonic sensor, detects a person’s distance from a computer, and if the person is too close, the Raspberry Pi will restart and shutdown, then prompting for a user’s password upon restart. Before its shutdown procedure, the RaspberryPi sends an email to the user stating that an intruder has been detected.",
    "keywords": "Raspberry Pi, Ultrasonic Sensor, SMTP, Security",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1LgHAcM9fDmV_F89EV_5vsA-V9ujJjraK",
    "certificates": null,
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zko7HAk-qe36yXrN6n3jemjsqjrZ_lPp",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1QdjpzgXVbfjAi6RnOHXKUlxgKGm1vZzE",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LgHAcM9fDmV_F89EV_5vsA-V9ujJjraK",
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1bM2uR3XgjWgHp2aFNaaIEXt0Y51QlNBr",
+   "presentation": "https://drive.google.com/uc?export=view&id=1LgHAcM9fDmV_F89EV_5vsA-V9ujJjraK",
    "video": [
-      "https://drive.google.com/uc?export=view&id=19LiHGDKk63CzkBaqjxEuoh8uvg1sbnzo",
+      "https://drive.google.com/uc?export=view&id=1CtWLxf7nxj3uuDWPnvHUH0ooySKlZnKu",
       null
    ],
    "brochure": null,
