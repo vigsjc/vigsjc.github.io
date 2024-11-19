@@ -314,20 +314,19 @@
    "projectTitle": "Air Quality Essentials: Arduino based HVAC Diagnostic System",
    "projectDesc": "The issue addressed by this project was the fact that a lot of HVAC companies and their clients waste a lot of time, money and resources when it comes to their HVAC systems and their maintenance.My main purpose was to build adevice that would make an HVAC unit more self-sufficient and reliable using and Arduino based anemometer system. A significant amount of time was spent researchingArduino systems along with HVAC usage. I also researched how weather stations used anemometers for wind measurements.I was able to build a functioning device that tracks wind speed and average wind speed in a HVAC system. By using these two measurements I can determine the health of the overall system.",
    "keywords": "HVAC, Arduino, self-sufficient, Anemometer",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1qZBQgQjVpEHroBk30OODas8FTAfIIrMB",
    "certificates": null,
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JiO5Qo3DnUj-dmpE14fB_5snjLl7rz-f",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1guR3ldNJzhUDzWioDey8pl8_Nz6wBEVl",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qZBQgQjVpEHroBk30OODas8FTAfIIrMB",
       null,
       null
    ],
-   "presentation": null,
+   "presentation": "https://drive.google.com/uc?export=view&id=1bi_d8EVIrF5P8UeRS3XIxdFFRZj8YpmD",
    "video": [
       null,
       null
    ],
-   "brochure": null,
+   "brochure": "https://drive.google.com/uc?export=view&id=1qZBQgQjVpEHroBk30OODas8FTAfIIrMB"
    "contact": "jonathan_ferrell@mymail.eku.edu"
 },
  {
