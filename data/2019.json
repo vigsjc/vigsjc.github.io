@@ -204,17 +204,16 @@
    "projectTitle": "Ubuntu Database Server Utilizing MySQL",
    "projectDesc": "This project was designed with the intention of developing an inexpensive option for database storage and management for small businesses or private individuals. With these constraints in mind, it was decided that virtualization of the server using VirtualBox was desired in order to minimize construction and operation costs. The server itself is loaded with the open source Linux distribution, Ubuntu Server 18.04 and installed with MySQL Server to add database functionality. Database management is achieved using MySQL Workbench, chosen for its extremely effective usage paired with MySQL Server.",
    "keywords": "Linux, Ubuntu Server 18.04, MySQL Server, MySQL Workbench",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1yl5vH8UNgXSB9TZYL522o1pKed-wBwuV",
    "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1sW43b9MB0zSr7AgXqG1h9OXvQ_IK31t5",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17oKGThN72Hjtuz5lnfK4koAFXp1HoTWv",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yl5vH8UNgXSB9TZYL522o1pKed-wBwuV",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=10_yYiqQ3TsS6eCbK-sKmAik2ZJ9NHtXX",
+   "presentation": "https://drive.google.com/uc?export=view&id=1yl5vH8UNgXSB9TZYL522o1pKed-wBwuV",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1RNMh1jsF55MMWWGtPJ5USHGZxOc_D1HY",
+      "https://drive.google.com/uc?export=view&id=1r4GLkO0gaKx_DMN4KpLRo4rbe2__o1hd",
       null
    ],
    "brochure": "https://drive.google.com/uc?export=view&id=1XAd41BAVbE3--Ix0BvuX_7hg8B1JkKJu",
