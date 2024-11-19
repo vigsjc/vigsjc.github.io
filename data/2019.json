@@ -246,17 +246,16 @@
    "projectTitle": "Harnessing the Power of the Sun",
    "projectDesc": "For my project I have created a basic charge solar panel system. This system in its most basic form consists ofthe means to harness energy from the sun and store in a battery(DC power), and convert this energy into 120 volt AC power to power most normal in home electronic devices.The will help to reduce the cost of using grid power. However in its current state my solar system is very limited in the amount of energy is can store, and its output once stored. So to assist with these limitation, using an Allen Bradley PLC I have created a program that will monitor the state of charge of the battery and automatically switch between using the solar energy and the existing grid energy, with the hope that I can utilize the solar energy to reduce my monthly grid electric bill.",
    "keywords": "Solar panel, PLC, grid power",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1Xr51aU9BOEpqAzAZI-zEXYEyyUEgJ1Og",
    "certificates": {"2nd Highest dept. exit exam score":"https://technology.eku.edu/"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1YI7UMNtOa0cIElRPFml0AoGHRExHt94P",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19Xd-NttV6vskjGB_rxh2sT8HckJcpNUi",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Xr51aU9BOEpqAzAZI-zEXYEyyUEgJ1Og",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=11KOAqOXO-vjgfea-V1lls42nb729LE7v",
+   "presentation": "https://drive.google.com/uc?export=view&id=1Xr51aU9BOEpqAzAZI-zEXYEyyUEgJ1Og",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1j_kxIwvOpCXPn5lGo2_lBCo2ePBS7zQk",
+      "https://drive.google.com/uc?export=view&id=1uY56fVCEcswm87hUsRPA4b-zMAPzaVJo",
       null
    ],
    "brochure": null,
