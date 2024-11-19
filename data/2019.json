@@ -423,20 +423,19 @@
    "projectTitle": "Raspberry Pi 3 FM Transmitter",
    "projectDesc": "The goal of this project is to become well versed within Raspberry Pi 3 and to improve my LInux skills by creating a FM transmitter. By utilizing the Raspbian operating system and coding found on the internet, I am creating my own in-home FM transmitter. The goal is to be able to broadcast some sort of transmission across a specific frequency and receive that transmission with a hand-held FM receiver. Ultimately, the plan is to make this design efficient enought that it can be done remotely from an outside network by utilizing a VPN in the future.",
    "keywords": "FM transmissions, AM transmissions, VHF, attenuation, Raspberry Pi",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1qu1jZNrs1SCIANZwFdbXFJhdRHJe7637",
    "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pwR9x-SpX7egFKsBttKGqYRzaOe4GmlL",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1YbLlI2CORgy8h97YyUbQcQagEiekxMA3",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qu1jZNrs1SCIANZwFdbXFJhdRHJe7637",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1xaSlo4sakIwcPH5amb1kYC9CCfX1zheZ",
+   "presentation": "https://drive.google.com/uc?export=view&id=1W1Hwa_Y7VBa01srxejNDhGxzV0dRqRjc",
    "video": [
-      "https://drive.google.com/uc?export=view&id=13wbNyaOw5eYJPkOS3ty6AZZnlEy3ZosW",
+      "https://drive.google.com/uc?export=view&id=1CoaxH_zYkzP6Uny15-bkCUJO6QkQhtoX",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1BM6Ik6w4_gxm1pZP3m1rYOyj7ItOf303",
+   "brochure": "https://drive.google.com/uc?export=view&id=1qu1jZNrs1SCIANZwFdbXFJhdRHJe7637",
    "contact": "richard_clark100@mymail.eku.edu"
 },
  {
