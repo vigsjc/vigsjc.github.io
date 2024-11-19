@@ -33,24 +33,24 @@
       "projectTitle": "Arduino Based Power Meter",
       "projectDesc": "The purpose of this project was to create a circuit which could read the load voltage and current from a device and properly present the data through three different methods: through a directly attached display that would present the voltage, current, power, and energy used by any load measured; through data being written on an SD card that could then be used to construct graphs in popular spreadsheet software such as Microsoft Excel; and remotely by transmitting the measured values over Ethernet to a Google Sheets file that would automatically update as new data is received, all using the Arduino platform. My primary purpose for this project was to create a circuit that could be used to test the indicated voltage and current values of a device and be able to easily read this information in a variety of ways and be able to understand the various properties of a devices voltage and current draw. The secondary purpose was to expand my understanding of Arduino programming and to learn how to properly communicate with online services like Google without requiring human input (hitting keys on a keyboard or mouse). For the draft version of this the results for the first core have met my expectations and have allowed me a way to properly read a load's voltage and current as well as take the data and create graphs in Microsoft Excel pulled from a SD card.",
       "keywords": "Electronics, Raspberry PI, Measuring Implement Creation, Data Handling",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1AvkO9P_b5CDbkEYSK7b3cqjqH3fnubRA",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1esSM5Hi_LHGiDJ9sn8ZBrTa-_EIkKEi7",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Second Highest dept. exit exam score 2017-18": "https://technology.eku.edu/",
         "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1AvkO9P_b5CDbkEYSK7b3cqjqH3fnubRA",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1esSM5Hi_LHGiDJ9sn8ZBrTa-_EIkKEi7",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1dfVtNGc73hCoKV3o5GbPRx8C5-n99GSM",
+      "presentation": "https://drive.google.com/uc?export=view&id=1ARGEjInXPWsyss7qwvHnvYsaEvnjFowD",
       "video": [
-        "https://drive.google.com/uc?export=view&id=15MXHK0dtoEHRUCP65Aovj5d0RL9RPYn9",
+        "https://drive.google.com/uc?export=view&id=1LC36VdHlEnVN-MVEPJ2xZgBQXBe3cOay",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1NH4Jd1BRUj7EkNiDG5LG-vohkr0m1i44",
+      "brochure": "https://drive.google.com/uc?export=view&id=1esSM5Hi_LHGiDJ9sn8ZBrTa-_EIkKEi7",
       "contact": "aaronktn@gmail.com"
     },
     {
