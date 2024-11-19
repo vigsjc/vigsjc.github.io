@@ -7,23 +7,23 @@
       "projectTitle": "Raspberry Pi Security Cameras",
       "projectDesc": "The problem I am addressing with this project is the need for security cameras around one's property. Security cameras can be expensive but with Raspberry pi's it can be a cheap and fun setup to create. This system allows you to monitor anywhere you would like by simply accessing the IP address of each Raspberry Pi. It includes motion activation and night vision so that you do not use up all your hard drive space recording nothing and so that the cameras can see at night. Each camera is fully customizable once logged into the secure website via the IP addresses from each Pi.",
       "keywords": "Raspberry Pi, Security, Camera, Motion Activation",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1u_sODSkJbvOnmSf-MW1HtLMuTGT35HMj",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Qwv0tQuHkC8eAX-MAiBjB86tQGCh0sK8",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1u_sODSkJbvOnmSf-MW1HtLMuTGT35HMj",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Qwv0tQuHkC8eAX-MAiBjB86tQGCh0sK8",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=17j26sJvx0miLIEG8x0FiSx3fw8R0khTb",
+      "presentation": "https://drive.google.com/uc?export=view&id=15HUlKjXEZtwvZCn8szki7LRd8ESZgQBS",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1fpTLzvpOMwLqa4k4l-dfPlzHGBrjuxhD",
+        "https://drive.google.com/uc?export=view&id=1V5cEVm-wC0gBzJntMfWzvUk8BTMXUKcP",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1jhXqLaWcRTYPv5LVeWNHKRvg5-vNb_nr",
+      "brochure": "https://drive.google.com/uc?export=view&id=1Qwv0tQuHkC8eAX-MAiBjB86tQGCh0sK8",
       "contact": "aahubbs@gmail.com"
     },
     {
