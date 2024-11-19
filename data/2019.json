@@ -178,24 +178,23 @@
    "projectTitle": "Handyman Tool Tracker",
    "projectDesc": "This project is defined by an inventory application written in C# that is protected against SQL injection on user input. The purpose of this project is to perform all basic inventory maintenance functions such as add, remove, search, and edit items in order to keep track of an inventory of either games, books, or tools. Another aspect of the purpose of the project is to prevent malicious users from affecting the database in negative ways though SQL injection. This means a malicious user cannot drop tables or select information they are not supposed to. Prevention of SQL injection is an often looked over aspect, but it is very important as it is one of the most common attack types in cybersecurity and database security.",
    "keywords": "Inventory, C#, MySQL, SQL Injection, Visual Studio, Database",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1McV5NEYKOMqEB7BSCHvEp6BEjnh_TtR4",
    "certificates": {
      "CompTIA A+":"https://www.comptia.org/certifications/a", 
      "Strata IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals", 
      "Highest dept. exit exam score":"https://technology.eku.edu/"
    },
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wcpjPIdr8tQaZ3l9Pyyb-kC2ubTXyHdk",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zVXTsvHBxwhqZloRy5ckslSONLdyGX34",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1McV5NEYKOMqEB7BSCHvEp6BEjnh_TtR4",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1uy7CO3sAV_GTFfc__lHehb0nEB89uzfC",
+   "presentation": "https://drive.google.com/uc?export=view&id=1TYGnyKmL24K-rm_pop4nqL6IiM91DL7m",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1XoMRYJAr3is8yrTPhdkOgct9C2uj8OVU",
+      "https://drive.google.com/uc?export=view&id=1ba-wr6uI-cfcm54TZ9nPOkPU6WtO-E5t",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1pyEEcrEV7UziJcDdrro_hyFGaaYC1Cn5",
+   "brochure": "https://drive.google.com/uc?export=view&id=1McV5NEYKOMqEB7BSCHvEp6BEjnh_TtR4",
    "contact": "caleb_caudill53@mymail.eku.edu"
 },
  {
