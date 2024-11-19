@@ -226,20 +226,19 @@
    "projectTitle": "Arduino \\\"Tron\\\"\\\" Bike",
    "projectDesc": "The technical problem approached in this Capstone project is the safety of bicycling at night time. Bicyclists, professional or hobbyists, must take extra precautions when riding at darker hours, wearing reflective gear and installing reflective panels on their bicycle. This project aims to provide a clearer signal to everyone on the road that the cyclist is present. Using an Arduino Mega 2560, a 1M strip of LEDs, and an Infrared Receiver/Remote, this project creates a safe and clear sign to motorists that there is a cyclist in their vicinity, hopefully reducing the amount of accidents that can happen during a night-time ride.",
    "keywords": "Arduino, Bicycle, Safety, Infrared, Receiver, Remote, LED, Battery",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=13ESaa8ecGQLNnxfDKB5XqddrVPAZPpwF",
    "certificates": {"CompTIA IT Fundamentals":"https://www.comptia.org/certifications/it-fundamentals"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17bNJwPgKSLpKyjj48PZByL_UjZcKy6zJ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Lu1uCAj_bX7_ObGYp0YUMRr16Wu-nLbh",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ESaa8ecGQLNnxfDKB5XqddrVPAZPpwF",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=16BPNHdweaw22X1aLPiOxHDJSsujGPl6J",
+   "presentation": "https://drive.google.com/uc?export=view&id=1jGGHJ3CLLjBginnJW57viLtx5-RYhcGS",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1546ukcu7jV6vU-qKJwIoq7_U_h1N2ZJ-",
+      "https://drive.google.com/uc?export=view&id=1kneceE--5RadjDX4lxDupmYAPTOgoD38",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=17sgKYdccskEJIBuUWGxMnxGNRLDMw_W_",
+   "brochure": "https://drive.google.com/uc?export=view&id=13ESaa8ecGQLNnxfDKB5XqddrVPAZPpwF",
    "contact": "evan_martin46@mymail.eku.edu"
 },
  {
