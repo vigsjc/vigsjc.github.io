@@ -511,20 +511,18 @@
    "projectTitle": "Applied Pi: Network Services Using Raspberry Pi",
    "projectDesc": "Cloud storage, for remote data backups, subscriptions can be a hassle. One has to deal with expenses dependent on amount of storage and the duration of the subscription, as well as issues arising from privacy laws that differ from location to location. But, by having a personal cloud server, one is in control of who has access to the data and where the data is located; and if working from a business standpoint, all important data can be backed up into a secure location completely managed in-house. The issue that arises from this method of storage though is that it has to be able to be built and maintained for a lower cost than a subscription based service and be remotely accessible while retaining security during transmissions. In order to accomplish this the task, I turned to the use of two Raspberry Pis. One Raspberry Pi will act as a cloud server and the other will act as a VPN server. The VPN will encrypt all the data being transmitted to and from the cloud storage server to ensure the security of the data.",
    "keywords": "Raspberry Pi, VPN, OpenVPN, cloud server, NextCloud, secure tunnel",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1uQsEyNMwbFon-3_S4ePgNgfLzc8mBqc2",
    "certificates": {"CompTIA Network+":"https://www.comptia.org/certifications/network"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1fOxDRitCj7yvIC7C9Ue4fIroCM9d1Sgq",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13zS0T8FHW228U1Xbzoy37ERw8rHqj4Sb",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uQsEyNMwbFon-3_S4ePgNgfLzc8mBqc2",
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1LQeWGjzyJve_vaLlc2wtUGd9_6HMNNEt",
+   "presentation": "https://drive.google.com/uc?export=view&id=1vT9iewJOhpQpf3wZOOSuMxjT6fq626A5",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1A5slu9__OjhUN5-Yct6Hbkp2HTprWUE8",
+      "https://drive.google.com/uc?export=view&id=1MCkpgKshmUheE67hucdssM9j4ELbOcW0",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1tsrbCb1yaxPkJ_JzT6ICMxzOOPHhEwDr",
+   "brochure": "https://drive.google.com/uc?export=view&id=1uQsEyNMwbFon-3_S4ePgNgfLzc8mBqc2",
    "contact": "tony.sanzone@live.com"
 },
  {
