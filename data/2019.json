@@ -379,20 +379,19 @@
    "projectTitle": "Pi Security: A Simpler and Inexpensive Home Security System",
    "projectDesc": "The purpose of this project was to create a simple and inexpensive security system able to give the big guys a run for their money. With skills in electronics and programming, it is possible to create a security system that rivals those that are considered the best and main stream in security systems. This project aims to create a security system for a one-time cost of roughly $100. The system should be able to do everything the main stream rival can do if it is to be considered as a serious competition. So, this device will have the ability to inform about security breaches and also be able to provide real-time surveillance.\\nThe device chosen to accomplish all these functions was a Raspberry Pi, a small linux-based computer. This small PC allows amateurs and even professionals to play with and recreate electronic devices and also learn how to program them.\\nWith the PI, it is also possible to use sensors to detect changes in temperature, humidity, sounds, proximity, control robots, use as a server, and even turn on live streams required for a home security system.",
    "keywords": "Raspberry pi, Home security, Cheap security systems, Do it yourself security systems.",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1JlxuK1OAaUzb3BzW-blEYKDTLfitmA0m",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1EQkWyYFW1fHl9gTv1BvIZ84GD6m41kMB",
    "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17zvbzSUW5_0FzTx36w-dEAQlho2sxCFw",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1DZNL5PJ6Ch8DIm4arVIL6xWexiIp00px",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1EQkWyYFW1fHl9gTv1BvIZ84GD6m41kMB",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1HrIjNeGHiq34_SyNdv5KMkoeEHYD2GFw",
+   "presentation": "https://drive.google.com/uc?export=view&id=1QSWrmFKAVZhAjiymhNXUe2SRSvZr8wR8",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1e-grJDaaWNts2efNcdXYC3SmOX6sXDi3",
+      "https://drive.google.com/uc?export=view&id=1DjwuM0mqQyJ2-OI1i383R-3E0Zr9YwF2",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1kvpImUa8OL5AYJMXl9RvTPjh95btibCn",
+   "brochure": "https://drive.google.com/uc?export=view&id=1EQkWyYFW1fHl9gTv1BvIZ84GD6m41kMB",
    "contact": "lazim.sharar@gmail.com"
 },
  {
