@@ -155,12 +155,10 @@
    "projectTitle": "Retro Gaming Console",
    "projectDesc": "The capstone project consists of my own adaptation of a retro gaming console. My goal is to create a device that can emulate classic gaming consoles to relive youryounger years of gaming. The concept involves use of a Raspberry Pi 3 encased in a miniature SNES console, either bought online or 3D printed, using a software called RetroPie. The skills needed for this project are gained from self-gained knowledge/research outside of class as well as a variety of courses in EET from Eastern Kentucky University’s NET program. The finished product should allow the user to install and play any classic video game ROM from a large selection of emulation software. However, the goal for this project is to imitate the SNES.",
    "keywords": "RetroPi, Raspberry Pi 3, classic/retro, SNES, console",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1yR0EzX8dddp6KNdLRRh3nCV-CHP-HOII",
    "certificates": {"CompTIA A+": "https://www.comptia.org/certifications/a"},
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bYyZ1C42rv_eqG5kv6D7arnFFOj7pwZ1",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TGwVW23xYjxRNTfvmHWIF07bQHcCYZiU",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yR0EzX8dddp6KNdLRRh3nCV-CHP-HOII",
       null
    ],
    "presentation": "https://drive.google.com/uc?export=view&id=1qbKIGRvSh0UF1nNOGrappV6a3TX64xYs",
