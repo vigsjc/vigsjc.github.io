@@ -401,20 +401,19 @@
    "projectTitle": "Bluetooth Controlled Power Outlet",
    "projectDesc": "This project is the creation of a universal Bluetooth controlling feature for any powered device. Any electrical device that simply plugs into the wall can now be controlled via Bluetooth with the steps taken from my design. All easily controlled in app on your smart device. The app controls the Arduino, which in turn, opens and closes the power to the outlet. The result of this is easy control over any device that plugs into an outlet.",
    "keywords": "Bluetooth, Arduino, Power Outlet",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1Sh3Uoz7CUI9126pm4x4nYMYljUtaoygS",
    "certificates": null,
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1NzMMNjWlin28kpCz_HHDpLijR3d1NzDG",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1YXwG_wHD5zuCNJSc5-56727ITNewc2rW",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Sh3Uoz7CUI9126pm4x4nYMYljUtaoygS",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=1cFd3s0rq-vBxer62TqE2-nF1r1QIJcv_",
+   "presentation": "https://drive.google.com/uc?export=view&id=1FgDw_IkLX3kuk7LQEy56JrJRgYwzopne",
    "video": [
       null,
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1ISTxcDYU8fJEiaxO3G00N9VhDNMQJLRB",
+   "brochure": "https://drive.google.com/uc?export=view&id=1Sh3Uoz7CUI9126pm4x4nYMYljUtaoygS",
    "contact": "matthrew_erwin1@mymail.eku.edu"
 },
  {
