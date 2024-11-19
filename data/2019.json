@@ -133,20 +133,19 @@
    "projectTitle": "Wireless Deadbolt Controlled by Arduino",
    "projectDesc": "The problem that I wanted to address was the cost of implementing an in-home security solution. For this project, I went with creating a wireless door lock using an ArduinoMega, servo motor,Bluetooth module,and an android smart phone. Many other door locks that perform the same cost upwards of $100and over, but theproject that I created costed much less, roughly $75. It canbe made even cheaper by being more space efficient, such as using an Arduino Uno and a smaller breadboard.",
    "keywords": "Arduino, Security, Wireless, Deadbolt",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1cHhO6xsxPdNo84jRAJoGwuxwU16DzXWc",
    "certificates": null,
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1crtlPHlVmQgz8tjsIybmcNC4lrveZyHa",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pjnqJ4LoA8h_dnJXlbNbJ5aCY-Vu3J6A",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cHhO6xsxPdNo84jRAJoGwuxwU16DzXWc",
       null,
       null
    ],
-   "presentation": "https://drive.google.com/uc?export=view&id=11inNPVfBvqgTUJIiwVbRuRWwPp6CHEHT",
+   "presentation": "https://drive.google.com/uc?export=view&id=1cK8-vYPGmuLoAFJcH0RMFKX1xbyqeV6s",
    "video": [
-      "https://drive.google.com/uc?export=view&id=1GgnvRuk7V8z1Ntf6nr-PvEOnO56AGkww",
+      "https://drive.google.com/uc?export=view&id=1T--cPhFYe3yT8ZO3Qr9pU32gBoHVY93x",
       null
    ],
-   "brochure": "https://drive.google.com/uc?export=view&id=1E2SrHsYrbFnQhCV2sF2u6473ZbAjsKkj",
+   "brochure": "https://drive.google.com/uc?export=view&id=1cHhO6xsxPdNo84jRAJoGwuxwU16DzXWc",
    "contact": "bryan_labicki@mymail.eku.edu"
 },
  {
