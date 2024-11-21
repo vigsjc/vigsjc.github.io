@@ -508,22 +508,22 @@
       "projectTitle": "Windows Domain Lab",
       "projectDesc": "The purpose of this project was to create a domain network offering security and extra features for more functionality and better emulation of a real business network. The setup was to have a networks with all clients virtualized with a gateway running PFsense and an IDS such as Snort. It contained essential servers such as DHCP and a DNS server along with each having one domain controller. In addition the network will have some penetration testing done to ensure some basic security The primary OS's include Windows Server 2016, Windows 10, PFsense, and Kali Linux.",
       "keywords": "VPN, IPS, Snort, Kali, Linux, Windows Server, Server, DHCP, RADIUS, DNS, Security.",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1awPSAxrH5iPKXVe1r4bSO9EcQZZvH8wP",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=13mK19jiRNWu-nRXZIk3Uk4St6YDqDBEY",
       "certificates": {
           "CompTIA Network+": "https://www.comptia.org/certifications/network"
        },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1awPSAxrH5iPKXVe1r4bSO9EcQZZvH8wP",
-        null,
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13mK19jiRNWu-nRXZIk3Uk4St6YDqDBEY",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1n9XaOrpI2h5qANJ4R7zX_MqcdBLvbdaU",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1b4FMJ_BfdcvnW__fLooJe8kWg1GqpPY0",
+      "presentation": "https://drive.google.com/uc?export=view&id=15o3HNLYWHlSinZj5lTJqiaND8WxGXPwD",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1zCsDtbMTmfdJVfTS-582CbtddrQm9LXd",
+        "https://drive.google.com/uc?export=view&id=1oE2y_-mofLE7q7PSZHHHzVKWOssmxym8",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1cpvYnH2Dxbx3a9tg_wY6vymGVJkT-9ZA",
+      "brochure": "https://drive.google.com/uc?export=view&id=1AlJ8vUR7VGng-iIKnTw-mfmTKbzFrTtq",
       "contact": "patrick_ladd1@mymail.eku.edu"
     },
     {
