@@ -383,20 +383,23 @@
       "projectTitle": "Your Internet Enabled Worry-Free Coffee Maker",
       "projectDesc": "The goal in mind with this project was to take an everyday routine and make it more efficient. The first thing some people start out their day with is a cup of fresh coffee. Automating a coffee pot was something that could make mornings easier for those whom drink it quick frequently. I had experience working with Raspberry Pi's and my existing knowledge in JavaScript helped write the code that would be necessary to control the moving parts. I mainly focused on researching ways to my coffee pot small enough to replace an existing coffee pot. The automating the amount of water needed for a brew was successful and worked great. The water container was also designed to look ascetically pleasing. I am satisfied with being able to control the water required for a fresh pot of coffee and with the overall look of the project. Being able to remotely control the machine along with its pleasant design is a great accomplishment so far. I plan on designing and implementing a coffee grind dispenser to truly automate the entire coffee brewing process.",
       "keywords": "Coffee, Smart Coffee Machine, Automation, Programming",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1KNNt3ZlgPbw-y1rUbhrkQsZHYyGfTVDt",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1VYAT2I83VZh4teeRjDdwB-xCpKmjN4kh",
       "certificates": {
         "Dr. Glen Kleine CB&T Capstone Winner": "https://technology.eku.edu/",
         "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KNNt3ZlgPbw-y1rUbhrkQsZHYyGfTVDt",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1VYAT2I83VZh4teeRjDdwB-xCpKmjN4kh",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1U_Vg8j_w8WE8HVp-_3tmSN_NskRuqzEP",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1fH_buPuFrSnPFMy3bfjpuMWVyIIuCh36",
+        "https://drive.google.com/thumbnail?sz=w4000&exportt=view&id=1iKC4-TnqmjwbR-PHheuEAJt-AyxAU52a"
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=15YJzKwGqBqo1q5WrNy-rEicgTJ9D3Ndc",
+      "presentation": "https://drive.google.com/uc?export=view&id=12a1cqOODBk_KjelCB0LrFMq44to796Gw",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1ITarRNKikp1MDagT6rRbNTlLC79as4IA",
-        "https://drive.google.com/uc?export=view&id=1QcDGMhEqBEAmdhoYt9NMuFtCcxPvFZlo"
+        "https://drive.google.com/uc?export=view&id=1Lpu4AR_3qHrwUhTwV7PPQuUlD2rrky-U",
+        "https://drive.google.com/uc?export=view&id=1N8xUX8QmHx6Bo1H8fe8yC31vK9dsi1jR"
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1KNNt3ZlgPbw-y1rUbhrkQsZHYyGfTVDt",
+      "brochure": "https://drive.google.com/uc?export=view&id=1oTsVj3PPISTEo30ZrHn1u5D6qaKzqZNN",
       "contact": "maciasjgarcia@gmail.com"
     },
     {
