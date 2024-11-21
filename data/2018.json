@@ -85,7 +85,7 @@
       "projectTitle": "The Hunger Master: A Raspberry PI Based Pet Feeder",
       "projectDesc": "The problem I have taken on to fix in one that I am sure that many people all over the world suffer with. This project will service everyone from the elderly and disabled to people who are tired of their pets waking them up every morning to be fed. This project will be used to feed one to three small pets such as cats or small dogs. There is one main unit that houses the power supplies and the speaker for the unit, that unit then breaks out to a control board that can support up to two more feeders. The feeders are configurable, and the user can change how much food will be dispensed, how many times a day the pets will be fed, and what times of the they would like them to be fed. Each unit holds enough food to be able to feed one pet for approximately a week.",
       "keywords": "Automatic, User Configurable, Easy, Accessible, Convenient",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1CoBAevKZ12IBxttcCyarIQpFiZgK5Jst",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ez7JzDKxHAK6fI28BaxeuyIgzMGN5_Yg",
       "certificates": {
         "CompTIA A+": "https://www.comptia.org/certifications/a",
         "Certificate of Merit (NET Advisory Committee)": "https://technology.eku.edu/"
@@ -96,12 +96,12 @@
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1bC62xjVzRFtO4Z8Am6AXvq6WUuIMcYbn",
+      "presentation": "https://drive.google.com/uc?export=view&id=1bZp9aqeAaUxUQ_E6p7szgWPqILI7uN2b",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1_eyp83MhZtZKMn0z5mGwWHKK2ahIMF8G",
+        "https://drive.google.com/uc?export=view&id=1yiRf4jxbt_KxdPsy4kvdz9seD2D7708A",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=15OvyIowvvFXYZsWUqKMQ0aP5pKwqyqDD",
+      "brochure": "https://drive.google.com/uc?export=view&id=1ez7JzDKxHAK6fI28BaxeuyIgzMGN5_Yg",
       "contact": "polivchak.alex@gmail.com"
     },
     {
