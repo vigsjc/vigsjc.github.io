@@ -606,22 +606,22 @@
       "projectTitle": "The EZ-Feeder",
       "projectDesc": "The EZ-Feeder has been a thought of mine for a few years. It wasn't easy, and it challenged my skill set and I needed to expand my knowledge of electronics, carpentry, circuitry, and computing. I utilized a raspberry Pi 3B, with a nema 17 stepper motor and A4988 controller chip. I then wired two 6v batteries in series to power the motor. Lastly, I created a wooden housing compartment for holding all the individual components. The EZ-Feeder is designed to be used remotely. Once the pi is powered on and connected to a LAN connection, whether wireless or wired, simply SSH into the pi and execute the code. Once executed the pi will turn the motor the specified number of steps, thus filling the pet(s) bowl.",
       "keywords": "Raspberry PI, Automation, 3D Printing, Control Over IP",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1pG3waAZJTdzlqfh_iPvzUQLGhDA5491y",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=19wg5nBWGfWqG6yvAHIt-M8XXPms6GOXp",
       "certificates": {
         "CompTIA IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pG3waAZJTdzlqfh_iPvzUQLGhDA5491y",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19wg5nBWGfWqG6yvAHIt-M8XXPms6GOXp",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1J6aAOH79GzL-aVcfqeIVji31YqBFGPuV",
+      "presentation": "https://drive.google.com/uc?export=view&id=17AonA12w12tXNUgjHM81mWqjNpxrEvQm",
       "video": [
-        "https://drive.google.com/uc?export=view&id=15Z1zisAtGqJQ_nThtMJEvTdyFm3iHrBk",
+        "https://drive.google.com/uc?export=view&id=16oafpOHxGnLVhelOl3A1ChLciWlUFfbK",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1T2sVZulEu6VCm841M-9r2SjuJzpvJZfZ",
+      "brochure": "https://drive.google.com/uc?export=view&id=19wg5nBWGfWqG6yvAHIt-M8XXPms6GOXp",
       "contact": "william_mello@mymail.eku.edu"
     }
   ],
