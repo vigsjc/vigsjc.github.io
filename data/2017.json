@@ -324,22 +324,22 @@
       "projectTitle": "Fresh and Local Florida",
       "projectDesc": "The overall issue that my project attempts to alleviate is that there are no web applications that aid in the purchase and distribution of local food products in the state of Florida. The purpose of my project was to aid individuals in the state of Florida in obtaining fresh produce, seafood, and other food products from their local state; without relying heavily on foreign food sources. Most of the time I spent on the project was trying to understand what the different folders within a tree in the project's directory structure were supposed to do (their overall purpose and what code goes in the directory), along with what different strings of code's functionality (such as posting data or running a server instance) were being implemented into my project. In the end, I constructed a login page with validation along with a simple chat application that I plan to implement in various areas of my application in the near future.",
       "keywords": "web development, JavaScript, Socket.io, bootstrap, CSS, directory, server, (MongoDB, Express.js, Angular, Node.js - MEAN stack)",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1HlHxQY_w0IGie6KHo6PjrCsrupQqskCT",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1l0Vsk3vBFNuqysrcF_BnFbR5XW_0TBhK",
       "certificates": {
         "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HlHxQY_w0IGie6KHo6PjrCsrupQqskCT",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1l0Vsk3vBFNuqysrcF_BnFbR5XW_0TBhK",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1ZQ8bhB6qL7Aei30Vi7JdpTEPRE3Y5Eoc",
+      "presentation": "https://drive.google.com/uc?export=view&id=1nlhu3wO3RvpiLbwt7-TeehrdF3aCc49q",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1xyE1y78IAn3ZIUJdtOmpVkexS-h3CvcD",
+        "https://drive.google.com/uc?export=view&id=1yE7lBAaL3on1aeIJENZWoPvSnddX3PY0",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=15xMHqbBAfseFaEhP2UVFHqu2Dqgzlhvu",
+      "brochure": "https://drive.google.com/uc?export=view&id=1l0Vsk3vBFNuqysrcF_BnFbR5XW_0TBhK",
       "contact": "treavord@gmail.com"
     },
     {
