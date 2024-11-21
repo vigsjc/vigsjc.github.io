@@ -132,22 +132,22 @@
       "projectTitle": "Motion Controlled Servo Motors",
       "projectDesc": "The project is a simple one that only has three major parts to it. The objective of this project is to design an program a circuit that will accept input signals from a device much like a motion sensor or other trigger device. This objective is needed because this project is a small stepping stone into a larger project that is roughly five years in the making. The main core functionality is have a servo motor be programmed and follow a specified code to follow when an input device tells the servo to activate.",
       "keywords": "Servo motor, Raspberry Pi, sensor",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=11G3-xUSypCVLMpD__kXh2SnK6Xh0CK8y",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1XvOiGA6XmNRVzCtitrbTJOXiM863MTVl",
       "certificates": {
         "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11G3-xUSypCVLMpD__kXh2SnK6Xh0CK8y",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XvOiGA6XmNRVzCtitrbTJOXiM863MTVl",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1vDls5UrAdwrxr0enm2wZUjbemwAMCtIf",
+      "presentation": "https://drive.google.com/uc?export=view&id=15ta9UZtzkblrF1K1-In0YPB6h7o5XftI",
       "video": [
         null,
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1M73-r8j6Ww4kndmtrrDWLtfb2IxQmSna",
+      "brochure": "https://drive.google.com/uc?export=view&id=1XvOiGA6XmNRVzCtitrbTJOXiM863MTVl",
       "contact": "dylankeller1995@gmail.com"
     },
     {
