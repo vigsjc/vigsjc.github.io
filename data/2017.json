@@ -352,14 +352,13 @@
       "profilePicture": "https://drive.google.com/uc?export=view&id=1_xxCWI2MVpOq9UznXYk3-sVno-cKa5YV",
       "certificates": null,
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_xxCWI2MVpOq9UznXYk3-sVno-cKa5YV",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1MbNr0Ersems3afldOAJvhjAPrWgxSCqC",
+      "presentation": "https://drive.google.com/uc?export=view&id=1yoUSIdkK8JUoq2tEKKe7KiKTsAcn70mI",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1EBU-oRDdn6IV2H5OGZV00bgaCcP9gNfh",
+        "https://drive.google.com/uc?export=view&id=1wGOJtXYh4yc_BHtOAPYKhYadDCtvb8dB",
         null
       ],
       "brochure": null,
@@ -372,23 +371,23 @@
       "projectTitle": "Autonomous Media Management, Acquisition, and Playback",
       "projectDesc": "The purpose of this project was to demonstrate a reliable, and affordable method of acquiring television and movie media through the internet as an alternative to the exorbitant price of cable tv. My primary purpose of this project was to create a media server by which content that I already owned could be placed, in digital form, onto a network share and then streamed within my household on various devices. The secondary purpose was to create a system of services which would not only acquire items which were requested, but be intuitive enough to gather future episodes or shows without user input and make them readily available on the server. The results of this project met and potentially exceed my expectations because I created a working media server which is not only accessible in my home, but also anywhere with access to the internet allowing me to stream my media outside of my home on my devices.",
       "keywords": "media server, media management, media acquisition, Usenet, plex",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=11qt-qIrgxCTpzq6o4MjDidpRzzGMsKRp",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=107jA3KexNttDD9PTag3RhwL_KTOja6TH",
       "certificates": {
         "CompTIA Network+": "https://www.comptia.org/certifications/a",
         "Highest NET dept. exit exam score 2017-2018": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11qt-qIrgxCTpzq6o4MjDidpRzzGMsKRp",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=107jA3KexNttDD9PTag3RhwL_KTOja6TH",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1g6JEvCdx8XrnCbPBsCe_4ZbZj17RqfBb",
+      "presentation": "https://drive.google.com/uc?export=view&id=17nsJsX8bBTSEk1BzZhDF8eqzaun9GtbK",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1sxsOx_J4V8ow5qzF85QsU01skNjhzlrd",
+        "https://drive.google.com/uc?export=view&id=1qJmWD8WYW-Y4_scukXvzjgTAgUSj0SYE",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1qHRyQulPe2mDh_ZIeZp1J1-ka9UaPFUj",
+      "brochure": "https://drive.google.com/uc?export=view&id=107jA3KexNttDD9PTag3RhwL_KTOja6TH",
       "contact": "wsbrookshier@mymail.eku.edu"
     }
   ],
