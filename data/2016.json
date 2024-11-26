@@ -280,23 +280,23 @@
       "projectTitle": "GPS Pi",
       "projectDesc": "When one doesn’t want to burn through their phone’s battery or invest in a standalone GPS device, there’s making your own GPS device. With the ubiquity of GPS Navigation on Smartphone devices, it only makes sense for one to want to make this a standalone device so that it won’t waste valuable battery life from their phone. Most standalone GPS devices don’t have live traffic updates or their maps are old. Worse still, standalone GPS devices often times use a subscription service to keep maps up to date. This project aims to create a standalone device using a Raspberry Pi 2 that’s kept up to date as frequently as the user wishes and won’t use up a smartphone’s battery to keep geolocation running.",
       "keywords": "Raspberry Pi, GPS, Portable, Standalone",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1ueQdCj8UtUug4ue1DFUXUJWz1tzyQcRN",
       "certificates": {
         "CompTIA Strata IT Fundamentals": "https://www.comptia.org/certifications/it-fundamentals",
         "Second Highest BS(NET) Exit Exam Score 2015-16": "https://technology.eku.edu/"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Xp_JGpasxlcNDpPA-rQPG2kt76QtL6PZ",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ueQdCj8UtUug4ue1DFUXUJWz1tzyQcRN",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1HtNPlqF1N4Qmz1ftCtDVkvAwPb2tD4eM",
+      "presentation": "https://drive.google.com/uc?export=view&id=1h68RYKEZ_euMrYAbZOpHmX3VXcOfpEfR",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1Kv8CJaj5p3Nt2uWO0N0aqd8_mi1n9ZBj",
+        "https://drive.google.com/uc?export=view&id=1OqZUWQRunEFHa_hisNXGu0flfHxeMIpC",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1rjAmJr1r2AaRHc6hk84GUmjnq845m1Kx",
+      "brochure": "https://drive.google.com/uc?export=view&id=1ueQdCj8UtUug4ue1DFUXUJWz1tzyQcRN",
       "contact": "jd.miracle2@gmail.com"
     },
     {
