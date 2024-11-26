@@ -329,22 +329,22 @@
       "projectTitle": "Secure Lab: Creating a Cisco 3550 VLSM Network",
       "projectDesc": "This project was created to gain a greater understanding of the intricacies of Cisco networking technologies as well as gain skill in performing wiring of Ethernet cable. I also have gained proficiency in backup, deletion and installation of new Cisco firmware. The main goal to be achieved was to create a secure home office network though the use of a Cisco Catalyst 3550 switch. The use of VLANs, access lists, port security, Secure Shell, DHCP and personal firewall configuration have resulted in a very secure network. Upon the completion of this project I have concluded that the results are pleasing. I was able to confirm the networking of all devices was optimal and rules put in place for security were working as designed.",
       "keywords": " Cisco, Catalyst, Layer 3, switching technologies, Ethernet, network security, office network, cabling, routing technologies, VLAN, interVLAN routing, 3550",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=14NZjzUDajFCtuHBh-2jcQG2jeitVeWL9",
       "certificates": {
         "Cisco Interconnecting Cisco Network Devices 1": "https://learningnetwork.cisco.com/s/ccna"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19N98T4r3p652W-_EtwNjzD6qkzACW24O",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14NZjzUDajFCtuHBh-2jcQG2jeitVeWL9",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1QJygnjPyiQv-2IgvK0JdLRnhLf5nDjFG",
+      "presentation": "https://drive.google.com/uc?export=view&id=11EpZfpR6EpwKIE2b6ke2DFPg8cnh5Nho",
       "video": [
-        "https://drive.google.com/uc?export=view&id=15xDNAjOoOBF_EoLAFxfY6U8xqAT6mM8N",
+        "https://drive.google.com/uc?export=view&id=17ogs2BW3YhCwISrvLfS6vBwlm3502-oo",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1uq8YF4Uc8QLwzcpxMOvnUQ1mMqG-Tfb9",
+      "brochure": "https://drive.google.com/uc?export=view&id=14NZjzUDajFCtuHBh-2jcQG2jeitVeWL9",
       "contact": "lucas.maupin@eku.edu"
     },
     {
