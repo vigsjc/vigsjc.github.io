@@ -393,19 +393,19 @@
       "projectDesc": "In this project, I covered the issue of enabling security on the go when you may be on an unfamiliar network with your mobile device or your laptop. The problem I discovered would be finding a device that I could create that would be secure, cost-effective and user friendly to achieve an added layer of security for the user. I achieved this goal by implementing these components, Raspberry Pi 2, a home/local network with internet access, Raspbian (Debian lite), OpenVPN with Easy RSA, and other peripherals such as cables, keyboard etc. I prepared the Raspberry Pi 2 with Raspbian, configured my home network, configured the Pi for SSH access, and installed and configured OpenVPN and Easy RSA. I performed commands that would generate certificates and keys for the server and the client, or the device to be using the server. Once this was completed, I generated OpenVPN profiles that contained the client keys and server certificate along with the server information. Finally, I transferred the profile to the device with the installed client OpenVPN application and successfully connected the Pijacker Preventer.",
       "keywords": "Virtual Private Networking, OpenVPN, Raspberry Pi, Easy RSA, Security",
       "certificates": null,
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1J47IilPW3wvhdv0KLS2b8sPMlJevsIZf",
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ImoSjSMCFCLABSmSN8i1IS7XwkAGxf2g",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1J47IilPW3wvhdv0KLS2b8sPMlJevsIZf",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1S4hgPhw-A3Y09PzKUsL82kNdhX3eQk9M",
+      "presentation": "https://drive.google.com/uc?export=view&id=1OUjO-i_yAKOOpz91JLh1bagyG64xtJo4",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1WAFpcT3c2kAOygVlBUp010OzpbGtJ015",
+        "https://drive.google.com/uc?export=view&id=1CA1W7Tx5iSfu9LbevFh9wer3LpEEObyx",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1OV3G_9kugawPuJQk4x2dJJrIqCTHtSql",
+      "brochure": "https://drive.google.com/uc?export=view&id=1J47IilPW3wvhdv0KLS2b8sPMlJevsIZf",
       "contact": "david_rufty@mymail.eku.edu"
     },
     {
