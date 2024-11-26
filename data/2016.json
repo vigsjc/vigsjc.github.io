@@ -501,22 +501,22 @@
       "projectTitle": "The Sinking Ship: A real life application and understanding of the buffer overflow exploit",
       "projectDesc": "This resource is an undertaking to discover the inner working’s of an exploit technique known as a buffer overflow. The buffer overflow takes advantage of computer software in order to gain access to unintended data that is stored in a computer system’s RAM (Random Access Memory). The technique is the result of discovering how the computer processor needs to break down operations for the success of the computer system. The basic operation is when the user requests a computer program to be executed, the program will be pulled from the hard drive and then be stored into the system’s RAM. The buffer overflow, however, will take advantage of the systematic ordering of computer code execution. This technique will allow a user to hijack when and what kind code will be executed next.",
       "keywords": "The Stack, Vulnerability, Register, Assembly, Exploit",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1uDaTFWe9wx-WYAB22Fgbcw78bPF6rwk2",
       "certificates": {
         "CompTIA Security+": "https://www.comptia.org/certifications/security"
       },
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10i4BDcKBl4BHz9NmPrDJ9yEGRa61W-Cn",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1uDaTFWe9wx-WYAB22Fgbcw78bPF6rwk2",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1XlPUbXrh3NMtskpp9ByuraYXHffU6YnM",
+      "presentation": "https://drive.google.com/uc?export=view&id=1d5scbr2KrnifwHKILbta7sfe9Op5ke-G",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1NOLw0nZAAsZ4WYUzroF6bQTrhIhqGrJ2",
+        "https://drive.google.com/uc?export=view&id=1eJc7v6OkPwqDqbqsr7WtO9pkMVjj1Ymg",
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1JCMRy7TU43hl_C2LfU3WLM9G9gtGVjhy",
+      "brochure": "https://drive.google.com/uc?export=view&id=1uDaTFWe9wx-WYAB22Fgbcw78bPF6rwk2",
       "contact": "zachary_bol@mymail.eku.edu"
     }
   ],
