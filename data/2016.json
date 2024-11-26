@@ -306,15 +306,15 @@
       "projectTitle": "The Claw Alert Feline Training Assistant",
       "projectDesc": "The issue addressed by this project was the need to train my cat Jinx to stop scratching the arm of my couch. My main purpose was to build a pressure sensitive alarm circuit using piezo sensors and incorporate an Arduino device to notify me when Jinx was scratching my furniture. The alarm circuit diagrams were readily available and easy to construct. Learning to write program code for the Arduino was very time consuming and I had to downscale the entire project so I would have a working prototype for the final presentation. I was able to complete the scaled down prototype and I plan to complete this project and improve upon it in the near future.",
       "keywords": "alarm, circuit, piezo, Arduino, program code",
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
+      "profilePicture": null,
       "certificates": null,
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qkq9mBnH0R-HMKXnnnSLaY3eERc2zOWY",
+        null,
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1tAfcejvTv6IBzQNMgBM9Ds_apGgijCJd",
+      "presentation": "https://drive.google.com/uc?export=view&id=1be-MVtpIi49a1hEO1_CXBNFpdG5T8k-k",
       "video": [
         null,
         null
