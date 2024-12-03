@@ -104,17 +104,17 @@
       "projectDesc": "The goal of this project was to come up with a solution to a lack of media availability. This solution should include a way to legally acquire television shows along with streaming downloaded media. My proposed solution was to create a DVR system and to setup a media server in order to stream my media. The DVR was created by modifying a desktop computer with a capture card to interface with an incoming TV signal while using Windows Media Center to manage and initiate recordings. After a lot of research on what type of media server to download, Plex was determined to be the best option due to the flexibility, price, and streaming options. In order to manage my server away from home, I chose to install TeamViewer as my remote desktop tool.",
       "keywords": "Plex Media Server, Windows Media Center, TeamViewer, DVR",
       "certificates": null,
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1Q3la7DLwJzcPlE4pC87uRB9EXLD3b3Wn",
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Q3la7DLwJzcPlE4pC87uRB9EXLD3b3Wn",
         null,
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1DbJMrffNWMjUXkVNlgh9y2fiaF3VWyUj",
-      "brochure": "https://drive.google.com/uc?export=view&id=1Gf9hSDQowMyZ8BBnBgXzrIOVzAPxZDOc",
+      "presentation": "https://drive.google.com/uc?export=view&id=10PsKBpInhr2gpvrOsypzSsHSPV-H-Rf0",
+      "brochure": "https://drive.google.com/uc?export=view&id=1Q3la7DLwJzcPlE4pC87uRB9EXLD3b3Wn",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1IEv0Rw4yt3Pocvw4uYfAraB6wallYeOJ",
+        "https://drive.google.com/uc?export=view&id=1xEK5MWjYy5Fki8_bNkFNug9LqnQvUKWk",
         null
       ],
       "contact": "Jared_Powell62@mymail.eku.edu"
