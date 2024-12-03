@@ -340,17 +340,17 @@
         "certificates": {
           "CompTIA A+": "comptia.org/certifications/a"
         },
-        "profilePicture": "https://drive.google.com/uc?export=view&id=11FEfk0Cnl1foCCItI3Y4U8FtFjftLxer",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1nq-PYA58IK4CGHwndZ7DhHLcIHubStO6",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11FEfk0Cnl1foCCItI3Y4U8FtFjftLxer",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1nq-PYA58IK4CGHwndZ7DhHLcIHubStO6",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1U1EEJpQTGYC4IHTvLlYMWi2xbjOWDWPF",
-        "brochure": "https://drive.google.com/uc?export=view&id=1_9GRtl9kYebSEiO6IEGBI5d5Qagy9a1Q",
+        "presentation": "https://drive.google.com/uc?export=view&id=1H-RTtYeyUxlw6VeWtk33RwFB7LN0eq1D",
+        "brochure": "https://drive.google.com/uc?export=view&id=1nq-PYA58IK4CGHwndZ7DhHLcIHubStO6",
         "video": [
-          "https://drive.google.com/uc?export=view&id=1PH4fTTchVqVmliG-HKckZH78f4Rv9ESA",
+          "https://drive.google.com/uc?export=view&id=1jeKqbZfYx7xkYRzdbIMKXEGu48WzXR9J",
           null
         ],
         "contact": "steven_white75@gmail.com"
@@ -363,17 +363,17 @@
         "projectDesc": "The main focus of this document is to outline the solution and steps taken to establish a fully functional home network for a new home. In order for the project to be considered successful it must provide a LAN for several users who want both wired and wireless connections, have network services within the router/firewall, provide for centralized data storage and backup, and also provide for an easy to use and easy to control, affordable home media center. The scope of the project includes using preexisting PC hardware for use in a router setup using the openly available software Smoothwall, desktop switches, a wireless access point for wireless data transfer, parting out a custom PC to build for use as a NAS - capitalizing on the open source FreeNAS software - and using a Raspberry PI as a networked media center device. In this project, the NAS (Network Attached Storage) device can hold many different pieces of data such as document backup, media storage like music, photos, and movies for the Pi, as well as whole disk image backups. In order to control the Pi after initial setup, an iPad should be configured as a remote control.",
         "keywords": "PC hardware, Smoothwall Express 3.0, Raspberry Pi, OpenELEC, Raspbmc, XBMC, Wireless Access Point, switch, backup, iPad",
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=10EKS5thZN_9Ypi6xCoXV2PqiJSvL2wiq",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1icyTyVfjg679l4CP6UdfYxpOyovp-PFt",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10EKS5thZN_9Ypi6xCoXV2PqiJSvL2wiq",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1icyTyVfjg679l4CP6UdfYxpOyovp-PFt",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1_cVBSWE_cItZoLfvxo09SM4r5hCgwbTQ",
-        "brochure": "https://drive.google.com/uc?export=view&id=1XVYViehlY5zJ2GYoduFh9oVBRHWTeUJ2",
+        "presentation": "https://drive.google.com/uc?export=view&id=1Y8u__EDdFT3FqWZyZnSkkPxD0cU_Wdkp",
+        "brochure": "https://drive.google.com/uc?export=view&id=1icyTyVfjg679l4CP6UdfYxpOyovp-PFt",
         "video": [
-          "https://drive.google.com/uc?export=view&id=10VNzJBQbHBbINZT51gt6_PK43UuBPqiv",
+          "https://drive.google.com/uc?export=view&id=1jSJsS67mug6iyAq1a09OOW3xUrV1LRhU",
           null
         ],
         "contact": "twardr@gmail.com"
@@ -386,17 +386,17 @@
         "projectDesc": "This project involves the learning process of web design while having very little experience with it. Throughout the process of building my website I learned a great many things. First and foremost I learned how to use a program called Wordpress. Wordpress is a piece of software that was created to allow every day users to make and manage blogs. Now the software has evolved to the point that you can make just about any kind of website you’d like. In my educational adventure I used widgets, theme editors, php, css, html, and the GUI to design, tweak, and produce a functional ecommerce website from the ground up. I found that some things I thought to be extremely difficult were made rather easy by this software. On the other hand I also found that some of the simplest of things, like getting pictures to line up correctly, were quite complicated by the nature of the interface.",
         "keywords": "web design, Wordpress, theme editors, widgets, ecommerce",
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1O29drqCWlzlPFUkosArfx1yxCNbbXUcJ",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1E3nk_9II69IFlFmMrZXDUr_Nx6rHHZDM",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1O29drqCWlzlPFUkosArfx1yxCNbbXUcJ",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1E3nk_9II69IFlFmMrZXDUr_Nx6rHHZDM",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=15-ADgYsaHRLb1bq5FLB4s-4oVryhFrrm",
-        "brochure": "https://drive.google.com/uc?export=view&id=16i_DDinmc9AIgetfrOcD5QMphlZae-Ug",
+        "presentation": "https://drive.google.com/uc?export=view&id=1rgCS1saMxJiJmWkBUMxYV44gSCBQKhNJ",
+        "brochure": "https://drive.google.com/uc?export=view&id=1E3nk_9II69IFlFmMrZXDUr_Nx6rHHZDM",
         "video": [
-          "https://drive.google.com/uc?export=view&id=1I14xXkOtlffzv6B3aSjR5zrf_zWl7m11",
+          "https://drive.google.com/uc?export=view&id=1sBzxqQA95gHWx8CZn7nRD-6AVMu60Jhi/",
           null
         ],
         "contact": "thomas_miller68@mymail.eku.edu"
@@ -409,18 +409,19 @@
         "projectDesc": "RFID based security systems have major flaws in their system designs and therefore aren’t as secure as people think they are. The main problem with RFID based security systems deals with how they work. Most of these systems use cards that people swipe; as long as your card is valid you get access. However, someone could easily steal someone’s card and then they are suddenly the ones with access to everything inside. To solve this problem I have developed an RFID based security system with an extra layer of protection involved.",
         "keywords": "RFID, security, microcontroller(s), Arduino, electronic, electric door system, Secure access control",
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1L6po9XQ_9wEltdMJs7qRuVOlCa5bpHiR",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=17PkWMMzP6KRAv150zq9Q1IxfXl2zpZA5",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1L6po9XQ_9wEltdMJs7qRuVOlCa5bpHiR",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17PkWMMzP6KRAv150zq9Q1IxfXl2zpZA5",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1rUvdEBmuFogkD5yt7yc1Hx52EVb1myAp",
-        "brochure": "https://drive.google.com/uc?export=view&id=1n8jXPZzeZAt8vFZtl1tCOOUeu1xKPCrb",
+        "presentation": "https://drive.google.com/uc?export=view&id=1ENZbokOv2_yjo9m38hp4bfv6DYgmzRoD",
+        "brochure": "https://drive.google.com/uc?export=view&id=17PkWMMzP6KRAv150zq9Q1IxfXl2zpZA5",
         "video": [
-          "https://drive.google.com/uc?export=view&id=1-5SBDMTlsv6aaFeBfzcNSNBzkkUVCugS",
-          "https://drive.google.com/uc?export=view&id=1-5SBDMTlsv6aaFeBfzcNSNBzkkUVCugS"
+          "https://drive.google.com/uc?export=view&id=1V7FRYPH2g_qO55bpxsMq3UWmK4MbbX2i",
+          "https://drive.google.com/uc?export=view&id=1RlQqZoTUL8UVA-OLiniY-NK06T7oXS8s",
+          "https://drive.google.com/uc?export=view&id=13KDLYunm9t8Zs12T7yeZos3Yfa0Ps3y-"
         ],
         "contact": "tommy_long22@mymail.eku.edu"
       }
