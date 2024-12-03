@@ -681,9 +681,9 @@
       "projectDesc": "The intention of this project id to create a cloud storage server that can be accessed wirelessly through the Internet, allowing its user to both manage the cloud storage device and its files on the server. This project aims reduce the need to keep track of and carry around external medias such as flash drives and external hard drives by providing the user with a means to wirelessly access their needed information form their very own cloud server. This will also give the user a strong alternative to third party cloud service tools such as Drop Box, One Drive, and iCloud by giving the user complete control over their cloud storage. The implementation of this project will utilizing a Raspberry Pi 2 microcomputer with a micro SD card, an external hard drive, a Wi-Fi USB Adapter, a modem or router, a USB hub, a NOOBs OS img, and the ownCloud software. The implementation of this project will be broken down into several phases including: disk formatting, OS and server software installation, setting up ownCloud, and testing the system.",
       "keywords": "Raspberry Pi, media server, cloud storage, ownCloud, cloud security",
       "certificates": null,
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1LRzAN5Cty32nH1Zp3bk1MOniFX--XICr",
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1lnMGNIji-b8C6XKh1dyZF0r7gYEwJ6A5",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LRzAN5Cty32nH1Zp3bk1MOniFX--XICr",
         "nul",
         null,
         null
@@ -693,7 +693,7 @@
         null,
         null
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1bdh-JxTfkxDGwmk9nEAf-b17g957vj_H",
+      "brochure": "https://drive.google.com/uc?export=view&id=1LRzAN5Cty32nH1Zp3bk1MOniFX--XICr",
       "contact": "tyler_parsley@mymail.eku.edu"
     },
     {
@@ -704,19 +704,19 @@
       "projectDesc": "To automate a phone charger to switch off through the combination of a piezo sensor and a circuit connected to an Arduino. I learned a lot about the Piezo element, Arduino, Arduino programs, batteries, chargers, relays, types of LED’s, op-amp & comparator circuits, voltmeters, and taking advantage of smaller circuits.",
       "keywords": "Piezo element, Arduino, batteries, chargers, relays, circuits",
       "certificates": null,
-      "profilePicture": "https://drive.google.com/uc?export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
+      "profilePicture": "https://drive.google.com/uc?export=view&id=1k-dfvaHdTedfiSoqp9picAFoR3IL4LZf",
       "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1cZbk5MlmeeeS3fF74Qg782gt8bRwidEt",
+        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k-dfvaHdTedfiSoqp9picAFoR3IL4LZf",
         "nul",
         null,
         null
       ],
-      "presentation": "https://drive.google.com/uc?export=view&id=1xIESw4XzfkrI1lejdnCgFlfH1WOS_Ncq",
+      "presentation": "https://drive.google.com/uc?export=view&id=1vH3gIlr4SFaFJwT4ajfzfSdkSIgeAGbk",
       "video": [
-        "https://drive.google.com/uc?export=view&id=1T9ZBppsnuEgNY1ve8JhhA4bm90eGHGx9",
-        null
+        "https://drive.google.com/uc?export=view&id=1LWIZAv9u3bKv3zbKnmnIi2H85nDW80ad",
+        "https://drive.google.com/uc?export=view&id=120myNyj7TmguuJoakLt-_RxAJ5IeBT7f",
       ],
-      "brochure": "https://drive.google.com/uc?export=view&id=1r4k0jnLXw0XxTMFpvlaQoy5xVeuHZtSV",
+      "brochure": "https://drive.google.com/uc?export=view&id=1k-dfvaHdTedfiSoqp9picAFoR3IL4LZf",
       "contact": "tell2wdgordon@gmail.com"
     },
     {
