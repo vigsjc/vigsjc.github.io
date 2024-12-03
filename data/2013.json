@@ -176,17 +176,17 @@
         "projectDesc": "The purpose of this paper is to give a solution for pet owners who need to control when their pets can go outside and to assist with the caregiving of their pets. Many pet owners stay very busy and can’t be at home enough to meet all the needs of their pet. An automated pet door would enable pets to gain some freedom and take care of themselves if they need to go outside to the bathroom or access other parts of the home. This project uses an Arduino Uno microcontroller that controls Infrared (IR) LEDs to sense the presence of a pet, which then signals a motor to raise the door, allowing the pet access outside or inside. It will also feature time-of-day security components as well as a buzzer to indicate that the door is in use. The Arduino can be used as a stand-alone system that can be very beneficial in serving the needs of pets and their owners.",
         "keywords": "Arduino Uno, C/C++ programming, open-source software, motor, buzzer, PIR motion sensor",
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1_nPwVZvkHxTAa7fkuuuIRf0VAquocT85",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ziOM2mk6mGd8IuYEN_rBPfGlvCEYRFLF",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_nPwVZvkHxTAa7fkuuuIRf0VAquocT85",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1vH64xx8IuEEhileUrUICG3sIHi_lmpXL",
-        "brochure": "https://drive.google.com/uc?export=view&id=1KKPkv_Qznfiy_b_Djh51gKrbU8mWYboX",
+        "presentation": "https://drive.google.com/uc?export=view&id=1uhoE_KZo7SMoPCzGSQxK5JM64aUIGRh5",
+        "brochure": "https://drive.google.com/uc?export=view&id=1_nPwVZvkHxTAa7fkuuuIRf0VAquocT85",
         "video": [
-          "https://drive.google.com/uc?export=view&id=1Tr_eNoQNIrOJJfu3uAqpJ0N7bvBuDx_i",
+          "https://drive.google.com/uc?export=view&id=1IVo-e3zIFg5w0BOV3Bg43-TPnGQbyfyd",
           null
         ],
         "contact": "joshua_montgomery30@mymail.eku.edu"
