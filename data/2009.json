@@ -31,18 +31,18 @@
         "projectDesc": "When most people think of rock climbing; ropes, harnesses, and high climbs come too thought. Many people have not heard of bouldering, and even fewer have heard of installing a bouldering wall in your attic. In order to help my friend capture images of his attic climbing I built a server, installed Windows Server 2003, a wireless NIC, a webcam, and software to detect motion and capture the images while he is climbing. The images are stored to an FTP folder which in turn is backed up over the network to a Linksys storage device. Since space is limited in the attic, only the server and webcam are there. The server is remotely managed by me using real VNC to turn on the webcam or whatever else I may need to do from my desktop downstairs.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1S5MiszirHoCeXzE8Ui6fSO6Ci5RziyeR",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=12AjScB8oqkyhJLNQguus0nY58eKGGnyP",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1S5MiszirHoCeXzE8Ui6fSO6Ci5RziyeR",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12AjScB8oqkyhJLNQguus0nY58eKGGnyP",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=11Vg6vni7fV7IBGLcLVz4I2hnK_e9CN3F",
+        "presentation": "https://drive.google.com/uc?export=view&id=12AjScB8oqkyhJLNQguus0nY58eKGGnyP",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1HkzWsqdm21GU9xSF5w2ZQ1qNDPtzhpx5",
-          "https://drive.google.com/uc?export=view&id=10PdF_Fi7yXPIKwiluOepwwgJGLFjFTC5"
+          "https://drive.google.com/uc?export=view&id=1vSze6ZbZGiGaMxnyOxk2yDf_8ydb8Qvb",
+          "https://drive.google.com/uc?export=view&id=1HZ8TEQoHhVgce0fgxcNYmNRVsj7Azh-u"
         ],
         "contact": "brandonpowell2@gmail.com"
       },
@@ -54,17 +54,17 @@
         "projectDesc": "The project is based on using home appliances and networking tools to make a homemade wireless antenna to gain as much signal for internet as possible. Sometimes USB adapters bought from a store do not reach the requirements that the owner or user prefer. One may be able to access the internet at one end of the home but not the other. This article will show how to implement household tools into a device that will help the signal of your store bought USB adapter. The use of the wok seemed natural, for it has a perfectly round and cupping shape that is used in antennas all over the world. The round cupping shape will bounce a signal inside the cupping toward the center where the USB adapter will be waiting for the reception.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1BHs2dUwsIqJwDb2Ui2vIIva8L8rHdB9x",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1LcjwnGKjNE9soMyJQgM5y2XfIiL0iwpE",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1BHs2dUwsIqJwDb2Ui2vIIva8L8rHdB9x",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LcjwnGKjNE9soMyJQgM5y2XfIiL0iwpE",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=182tMJZ-oMINcYqYdhdkkyHZrL-L0dC65",
+        "presentation": "https://drive.google.com/uc?export=view&id=1LcjwnGKjNE9soMyJQgM5y2XfIiL0iwpE",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1-pE6FxP4W0FccKJcuCUCI7Cemd5ORusC",
+          "https://drive.google.com/uc?export=view&id=1GQmyVQZ3PKVnOL68EJ9GQsSHEkYR04dM",
           null
         ],
         "contact": "chuckles82000@hotmail.com"
@@ -77,18 +77,18 @@
         "projectDesc": "This project is designed to test the functionality of Microsoft Windows Server 2008 and its software deployment features. Instead of purchasing Third-party software to remote deploy your software or desktop features; Windows Server 2008 has all of the necessary tools to accomplish such a goal. Server 2008 can install, upgrade, and remove software packages to and from computers or users using the group policy management configuration. Adding necessary roles to test the functionality and use features such as Windows Deployment Services is also taken into consideration. For limiting use of Third-party software in a Window environment, using Windows Server 2008 for deploying software and desktop imaging is your best option.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1v8jnJwoXZAb1jkoJ7EdzS_4h6LzxlmIG",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1Vd-wf5cdGAarpf6c_otuZZdbQqBM-kRR",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1v8jnJwoXZAb1jkoJ7EdzS_4h6LzxlmIG",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Vd-wf5cdGAarpf6c_otuZZdbQqBM-kRR",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1GcIBlFS-U62slrK-tL-KbRkiaQTRsdjQ",
+        "presentation": "https://drive.google.com/uc?export=view&id=1Vd-wf5cdGAarpf6c_otuZZdbQqBM-kRR",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1s8G6Wm8z4lP0aY8pcZtWNGAwHdqq0pnv",
-          "https://drive.google.com/uc?export=view&id=1h4GgJKL0k7SqJZd7NXmOskYyR8gWnQ42"
+          "https://drive.google.com/uc?export=view&id=1BZuPR2Mx6EjXh5HncIve2bjbAB0Z9eUX",
+          "https://drive.google.com/uc?export=view&id=1P00eFrq-VzrNXFppEr-Pq4TuGmir90Bw"
         ],
         "contact": "chrisrutherford_3@msn.com"
       },
@@ -100,18 +100,16 @@
         "projectDesc": "The purpose of this project was to take a pre-existing robotic work cell belonging to the Department of Technology and modify it. The work cell had SLC 500 PLCs that needed to be replaced with MicroLogix 1200 PLCs. This work cell had three separate PLC transfers to do. The code needed to be revamped also as the two types of PLCs use different inputs, outputs, internals, and timers. This presentation and paper will show the steps, problems, and solutions to this project.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1tq0dr9OmSuJnRSKcqbL9V5E1Sb0Ses2f",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1tq0dr9OmSuJnRSKcqbL9V5E1Sb0Ses2f",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1ovcKK87LD4KDkBb_oMInukW_sdw8d7C4",
+        "presentation": null,
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1c60rT0GrrUcy2tiyb1iajJP1un5AFKcm",
-          "https://drive.google.com/uc?export=view&id=1uX_Aj_Mete4ZcLOcLJfIxCyOMLoQtNUj"
+          null
         ],
         "contact": "cristy.jones@eku.edu"
       },
@@ -123,18 +121,18 @@
         "projectDesc": "Ever had a problem with people getting into places that they are not supposed to be? Ever had a thief come and take something that did not belong to them? With Danny’s Homeland Security System you will be able to have the peace of mind to know that your belongings and privacy are safer. The Security system alerts the user of any intrusion or motion detected within the field of view of the camera. The system sends an e-mail with the video attached so that even if the computer is taken, the video is still accessible; additionally an instant text message is sent to the user’s cell phone to make the user aware of the intruder as close to real time as possible.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=153bUVl1AS7M55jtJPYQE4-vtB3XnLvtG",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1kMttQMVZVqXbz5TgsaXLk9kizqRjQTHa",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=153bUVl1AS7M55jtJPYQE4-vtB3XnLvtG",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1kMttQMVZVqXbz5TgsaXLk9kizqRjQTHa",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=18pjLegJNqZafu00nAmFKs2dtxi7_qY3U",
+        "presentation": "https://drive.google.com/uc?export=view&id=1kMttQMVZVqXbz5TgsaXLk9kizqRjQTHa",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1f9zzVFpFpTdy9P142d-br1Z2sgggBjU4",
-          "https://drive.google.com/uc?export=view&id=1wmoatFp6goD1BodjdvNJJNbKW5rnGs8f"
+          "https://drive.google.com/uc?export=view&id=1vC55GE0poJE4HWUCWNu9aUwHgovLX_F6",
+          "https://drive.google.com/uc?export=view&id=1c4SkxclDBHDlB7G99ctzbeIcEpyb551x"
         ],
         "contact": "danny_butler18@eku.edu"
       },
@@ -146,18 +144,19 @@
         "projectDesc": "In todays world everything is a race to make the next thing easier. That is how everything is there was a time when you had to actually roll down your window manually or actually walk up stairs there were no such things as an elevator. Im a big fan of being lazy so I introduce to you the Lazy Man Visor. Why would you reach your arm all the way up and pull down a sunvisor when you can just push a button on the stearing wheel?",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1eckSd71Q7-wa_oT_63FyJZ6Wwq7i-gGW",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1xlpD27SoyBVnFDNZ5aSHCPwJgRwW8ARl",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eckSd71Q7-wa_oT_63FyJZ6Wwq7i-gGW",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1xlpD27SoyBVnFDNZ5aSHCPwJgRwW8ARl",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1MBIXMKKXqi7Y5Xq0HrlDzgg1qjo38fiQ",
+        "presentation": "https://drive.google.com/uc?export=view&id=1xlpD27SoyBVnFDNZ5aSHCPwJgRwW8ARl",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1OKsv0hdvp5xvymJ4CJJy6n0GC0YyvSXE",
-          "https://drive.google.com/uc?export=view&id=1fFWFLFyZDvmZKAf-hfliz2GIOI2O2sn1"
+          "https://drive.google.com/uc?export=view&id=1BWZKg5GM00pES6GMfykl5qFLDPNjwmhn",
+          "https://drive.google.com/uc?export=view&id=1WxfyxU0ARGcsA1CA0VmoLSMFrefY5IVl",
+          "https://drive.google.com/uc?export=view&id=1kcvYhkAZRcF8wH_3-oI-W1SvZ1SwVswg"
         ],
         "contact": null
       },
@@ -169,17 +168,17 @@
         "projectDesc": "I have built a robotic helper for those who cannot lift. Though I couldn't afford an actual version, I was able to build a prototype. All of this came about when I thought of things I would like...first thing, something to carry books. I have a very bad back and am not supposed to carry more than 10 pounds. With this, you can use a cell phone to control it and it would be able to carry things that you cannot.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1DasIZCVA1egFEfFYtspE4Jl-IAlrknhs",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1GCA5s_KDRXusTyQ-H_m47_1HMzFXepJ4",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1DasIZCVA1egFEfFYtspE4Jl-IAlrknhs",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1GCA5s_KDRXusTyQ-H_m47_1HMzFXepJ4",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=19gU7hGJc8R8KrzoIqfKi4mPRltQFYxP1",
+        "presentation": "https://drive.google.com/uc?export=view&id=1GCA5s_KDRXusTyQ-H_m47_1HMzFXepJ4",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1fy--B0RLfMlTrw5BKriYbUld-05xruZj",
+          "https://drive.google.com/uc?export=view&id=1p_OS8XDkfkqLlM_8g60j7VHOu_RqV62a",
           null
         ],
         "contact": "drteegarden@msn.com"
@@ -192,18 +191,19 @@
         "projectDesc": "Wireless technology usage is growing every day in business, industrial, and in the military. Humanity altogether needs personal ground security that can be remotely controlled through a computer using wireless technology. This can be as simple as a surveillance remote control robot or an advanced unmanned ground vehicle for military scouting/defending purposes. A temporary solution was found by buying an RC tank, wireless security camera, and motion sensor alarm. The camera allows for surveillance, and the motion detector provides security from intruders in an area. The tank is for warning and dispersing intruders by nonviolent or violent means. The current version supplies nonviolent means only. This capstone project is based off of a real military technology called an unmanned ground vehicle (UGV). Future improvements call for a bigger four foot model with titanium armor, a three hundred sixty degree motion detector, and tear gas or live ammo.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=167GGPoUWlsEt-QPd385t8uEveVsyjsXE",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1ArO6nnsZc_SE0QLYIXlaKt2zh4-eFMtV",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=167GGPoUWlsEt-QPd385t8uEveVsyjsXE",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ArO6nnsZc_SE0QLYIXlaKt2zh4-eFMtV",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1RMD7UvBQM8ieA4iKDHFoUIbNJtQBFtd3",
+        "presentation": "https://drive.google.com/uc?export=view&id=1ArO6nnsZc_SE0QLYIXlaKt2zh4-eFMtV",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1IhJUCGBXa2c3DmzvbPphdbdF8ribMmXB",
-          "https://drive.google.com/uc?export=view&id=1fOO-i7lMVYj-MVy1V2Nslygsh34NBzWu"
+          "https://drive.google.com/uc?export=view&id=1KTt6fE1rndWWINEZaUNdZmcGuYdZr5ha",
+          "https://drive.google.com/uc?export=view&id=1Sz9d1JkrZSaQ5S3mSwBjSxADT_NQCSyW",
+          "https://drive.google.com/uc?export=view&id=1gtVwI5V6KciZ13i6CPU_kfB6pB4ApMzx"
         ],
         "contact": "ggrock70@yahoo.com"
       },
@@ -215,18 +215,18 @@
         "projectDesc": "The purpose of this project was to take a pre-existing robotic work cell belonging to the Department of Technology and modify it. The PLC unit is reported not to be operating correctly and needs repairs. As part of the project it is part of the assignment is to have the mechanical and pneumatic portion of the unit working, as well as updating the PLC units.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1tDUV-_00Ahw4L-P2I-k2upqSO-3aO57J",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1slstkGMtk4o4xDAWl0qaaVJyEc3icYmX",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1tDUV-_00Ahw4L-P2I-k2upqSO-3aO57J",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1slstkGMtk4o4xDAWl0qaaVJyEc3icYmX",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1n03W2oMBp4nqknjphrRgG7xj2pmFMnFF",
+        "presentation": "https://drive.google.com/uc?export=view&id=1slstkGMtk4o4xDAWl0qaaVJyEc3icYmX",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1ra2nGV5Q4KZjPpaIVvLFMgGZY_JCtsg3",
-          "https://drive.google.com/uc?export=view&id=1JE56d0Uc75gJDS6T3p_PG8FexDC2DIqi"
+          "https://drive.google.com/uc?export=view&id=1a_Wn_4RVUcAXuZWB6iNY-AGEbbhv-4UK",
+          "https://drive.google.com/uc?export=view&id=19Bng7AeZ0sPk2IneYvgspFt3OH7M-6tP"
         ],
         "contact": "jeremy_hiler01@yahoo.com"
       },
@@ -238,18 +238,18 @@
         "projectDesc": "This project started out as a project for my Co-op job, but I decided to take it farther and go more in depth. The City’s website was not functioning well for the city nor was it helping the employees in any way. More information needs to be available for the public and a more user friendly site needs to be created. I created a new website for the city then allowed it to be viewed by the public as well as logged into by the city employees. This allowed the employees to get to forms online that they need without allowing the public shouldn't have access to them.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1hqq8jw-AyXyH7FZra28s7_mY76WVTCqV",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1XWFpX-XzTF1Iwoo6PS8YA2LNdLjSrBlC",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hqq8jw-AyXyH7FZra28s7_mY76WVTCqV",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XWFpX-XzTF1Iwoo6PS8YA2LNdLjSrBlC",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1twIkXJiFQqvGh5ViFOyXvex7c6Gjs6uQ",
+        "presentation": "https://drive.google.com/uc?export=view&id=1XWFpX-XzTF1Iwoo6PS8YA2LNdLjSrBlC",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1xvDlsXPnsR_7e0bpRWZsplxvM_c4Zz8i",
-          "https://drive.google.com/uc?export=view&id=1hPSsZUfFIF7YCQ5v5iDs9T4XZIye4Sqo"
+          "https://drive.google.com/uc?export=view&id=1vkQTHzZPv9I650dneZdBchY-9i8ZjcFe",
+          "https://drive.google.com/uc?export=view&id=1tmSHIf04uff9qJfDcXbOrQbvmAtVBymv"
         ],
         "contact": "kristin.clausing@gmail.com"
       },
@@ -261,18 +261,17 @@
         "projectDesc": "Allow blackout lights on the machines to be displayed on LED's in the mechanics area of the bowling alley. This will alert the mechanics of the bowling alley of problems eliminating wasted time for both the people bowling on the lane and also for the Guest Services worker who currently has to recieve the call and inform the mechanics of the problem.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Hnac-53lgcY3zd7sOa3Ws7XxX3JhcvX4",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Hnac-53lgcY3zd7sOa3Ws7XxX3JhcvX4",
+          null,
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1oOKvSRbMcEkejpj155OgwR4ZhcnMfmZx",
+        "presentation": null,
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1nsmR212FvbRu48WiBs6c7TMywTZOX_av",
-          "https://drive.google.com/uc?export=view&id=1d2dJ2ymYhhCwrhe0HE-Vid-6ajWbGwqg"
+          null
         ],
         "contact": "Mark_patterson18@gmail.com"
       },
@@ -307,17 +306,17 @@
         "projectDesc": "Whether it is for a long distance business meeting, long-distance learning, or communicating with family, video and audio communication have become a crucial part of everyday life in today’s fast-paced world. For my project I set out to research, design and configure a multimedia redistribution system for use in an educational or business environment. Equipment, including personal computers, servers and a portion of the local area network was provided by the Williamsburg Independent School District. I did most of my research physically away from the facility while I studied at Satakunta University of applied sciences in Pori, Finland. Because of this, remote access services had to be set up reliably. I successfully set up the distribution system in the Williamsburg school, allowing live video streams to be accessed internally by students and teachers. Externally archived video can also be accessed via the internet.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1rbjWfLqRiNEem3nAm6yyo8eXDDyrfdwe",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1-fpHQ-_9aYJSyNgTBm7uvRs-R6ETQGEa",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rbjWfLqRiNEem3nAm6yyo8eXDDyrfdwe",
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12CI3eBQwRHJpnKeir1fbM7-7fBVCNdBZ",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-fpHQ-_9aYJSyNgTBm7uvRs-R6ETQGEa",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-fpHQ-_9aYJSyNgTBm7uvRs-R6ETQGEa",
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1F6q2rWWd6ajOtH5jtmLriiBHzNvtyJ0c",
+        "presentation": "https://drive.google.com/uc?export=view&id=1-fpHQ-_9aYJSyNgTBm7uvRs-R6ETQGEa",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1gNxcHC2w2q0uL7MOCb0sJmK4EriOUEXA",
+          "https://drive.google.com/uc?export=view&id=1J0M7088CPB90uXwBQuXMn7dewOJbagCi",
           null
         ],
         "contact": "coepatrick@gmail.com"
@@ -330,18 +329,18 @@
         "projectDesc": "Arcade cabinets are often rebuilt and installed with emulators that can play almost any kind of arcade game. However, this is mostly done with Window-based systems. This project will take an old arcade cabinet and fit it with a PC, along with a monitor, running Xubuntu and MAME. Through this, we hope to show the versatility of Linux-based systems for applications beyond servers and other more well known uses.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Duacb-kekXidw-lN5QrA5T9Jai2fi1W_",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=19A7LyT7VmvDhZfxYPheUu6Uhr2em1u8i",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Duacb-kekXidw-lN5QrA5T9Jai2fi1W_",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19A7LyT7VmvDhZfxYPheUu6Uhr2em1u8i",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1iRWdb7ro44eKNWp-OFcQoloeEM0R92GP",
+        "presentation": "https://drive.google.com/uc?export=view&id=19A7LyT7VmvDhZfxYPheUu6Uhr2em1u8i",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1pPJZuuOh_o94BAK1fWR949WKaadohaN8",
-          "https://drive.google.com/uc?export=view&id=1FO5t7rStgRH1XA_Ed0GpywcBc86yyi5h"
+          "https://drive.google.com/uc?export=view&id=185X81DLUfcRVXuvxTjBkuR_ns_NXjjqR",
+          "https://drive.google.com/uc?export=view&id=1aySFBiY8b5uCT6V3T-cMhVLZ7HwI_ad6"
         ],
         "contact": "ryan.whallen@gmail.com"
       },
@@ -376,17 +375,17 @@
         "projectDesc": "My project is to design and implement a web-based system (School Webpage) within a public school system that would enable school administrators, teachers, and students to get online and check\\post school related topics. Administrators could post school news, events, and reminders to staff. Teachers could post classroom information, assignments for students, see upcoming important classroom events. Students would have to ability to retrieve/post assignments, discuss classroom material online with other students, and hopefully have the ability to check grades.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1rYxBNJI5EHahrYR8v1_ThGbg0vfQjXik",
+        "profilePicture": "https://drive.google.com/uc?export=view&id=1iOhdpeypc6ikT24v7cUwD_vD-Z0ktBvd",
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rYxBNJI5EHahrYR8v1_ThGbg0vfQjXik",
+          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1iOhdpeypc6ikT24v7cUwD_vD-Z0ktBvd",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1XayriJSxT7roLTcYTK-ogjcRvt00QMPz",
+        "presentation": "https://drive.google.com/uc?export=view&id=1iOhdpeypc6ikT24v7cUwD_vD-Z0ktBvd",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1xQoegvgiIkJdcSe3xGIvPqE6_kr2mQag",
+          "https://drive.google.com/uc?export=view&id=16kNqKl6VJQRUelGOnyfXJAQLxT90oMlg",
           null
         ],
         "contact": "w.turner19@yahoo.com"
