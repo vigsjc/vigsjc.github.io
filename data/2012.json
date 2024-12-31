@@ -185,17 +185,16 @@
         "projectDesc": "Using a Parallax Basic Stamp 2 microcontroller with a Parallax RFID reader I made a detection system. This system can determine whether the person entering is authorized by the RFID tag presented. If they open the door without an authorized tag there is an alert. If the tag is authorized but they leave the door open long enough it will also set off an alert.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1HpTR5wG34_UwJxhAQ3vw9RhtHwUGsp5x",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HpTR5wG34_UwJxhAQ3vw9RhtHwUGsp5x",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1D5tTA1ftnNDt2b-r-xH8s_x3BC-FNqrN",
+        "presentation": "https://drive.google.com/uc?export=view&id=1IEav7W_m38aEIlEpnwG3BH410R2toGRQ",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1pzvmX1kJRnDNO4K9jWC1mWlFsFjric4M",
+          "https://drive.google.com/uc?export=view&id=1isvJsbPbhohRt_UkdRTr2XeTQsRGUbxv",
           null
         ],
         "contact": "joshua_bosiljevac@mymail.eku.edu"
@@ -208,18 +207,17 @@
         "projectDesc": "Apple Remote Desktop is a very powerful yet simple tool anyone would like to have if they have Apple iMacs and MacBook’s in their network. It does what most remote desktop software products can do, except better. It has everything from software distribution, asset management, remote assistance, remote administration, and automation. I will refer Apple Remote Desktop as ARD just to save time and spacing. ARD is the preferred remote desktop tool at my office simply because it’s more flexible than any Windows based remote desktop. It allows us to do more things, easier. Another piece of my puzzle is a program called Alice. Alice is an object-oriented programming tool that’s designed to help beginning programmers create just about anything they want on their own. Alice has a drag and drop feature that helps the user drag certain lines of coding in order to manipulate an object whether it’s a person, animal, plane, boat, or a spaceship. You can also change the setting of your project to wherever you want. So if you want to recreate the Moon landing go ahead. It’s a pretty popular program just by looking at all the Youtube videos. What I’m trying to do with both of these products is I’m going to use ARD to distribute the Alice program to another iMac. I should be able to push out the entire Alice program to another machine and not have to install Alice from scratch.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1SzJo8hfV4qj_3990lYGFRz_tW_RnypsM",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SzJo8hfV4qj_3990lYGFRz_tW_RnypsM",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1Nzr3el2FLOQF7IqKW3yDtbEsS1IetnAg",
+        "presentation": "https://drive.google.com/uc?export=view&id=1LYFE07OwjvaPa_DpA_bAuKlSKjloPYUk",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1NDYpUppDo0uZ20A1hrM6IsmjtiQ5bC3_",
-          "https://drive.google.com/uc?export=view&id=1L7TAiuGfe7upwEUQZXq50Dpbd_4NTuPl"
+          "https://drive.google.com/uc?export=view&id=1KNPjBQ_XJ9Zc3q6nlKK11OScmIF_sao6",
+          "https://drive.google.com/uc?export=view&id=1GxAhLR7o3xnygdDwu6Vot2roDgA_llSq"
         ],
         "contact": "josh.paige@hotmail.com"
       },
@@ -231,17 +229,16 @@
         "projectDesc": "The goal of this project is to develop an application that helps drivers locate a parking spot even before they arrive at the actual parking area. To achieve this, I planned to utilize three of our latest technologies: microcontrollers, the Internet, and smartphones.",
         "keywords": null,
         "certificates": {"CompTIA A+":"https://www.comptia.org/certifications/a"},
-        "profilePicture": "https://drive.google.com/uc?export=view&id=10e1kISypwLVaYmi9-aTnrOSxBsJ0KMnI",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10e1kISypwLVaYmi9-aTnrOSxBsJ0KMnI",
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1B5kgAxaoOjPhwOVo1zNcduWth3cUBU12",
+
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=13j7F6TfJlRGBwl4bXVqXjaOf7OCuWHqh",
+        "presentation": "https://drive.google.com/uc?export=view&id=1mJiPGh3g6W_HwbrfJ9ISlWzZZrOqVUYH",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1k9gbXi5LgrToVozGu1Xc-74BIlxAVSr-",
+          "https://drive.google.com/uc?export=view&id=13GMGIemqGQ3BIiieQbh8KswArEakk2Rp",
           null
         ],
         "contact": "lvinny24@hotmail.com"
