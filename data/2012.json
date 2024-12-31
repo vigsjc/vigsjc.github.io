@@ -329,18 +329,17 @@
         "projectDesc": "The problem faced in this project is the need for a more secured place for anyone who wants to store their web pages on, along with all their data. This would cut down on the cost of storage of their web pages, and allow them ease of mind knowing where they have stored their information is in a secured network. I proposed to build a server from the parts I have ordered, and create a web server using the Internet Information Services Manager inside Windows Seven Home Premium. After building the server, I will secure the local network with a router, and a Linux based Untangle server.",
         "keywords": null,
         "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts/"},
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1i00KgCIe4fdaduCR1CcVyC4GAKRfQWcw",
+        "profilePicture":null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1i00KgCIe4fdaduCR1CcVyC4GAKRfQWcw",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=10OWaExwxiBRqQfKAJAj3XQs_JxTajKZq",
+        "presentation": "https://drive.google.com/uc?export=view&id=1xX7d2USWe0PHp8W9kWJCfjDqvzhrWuX7",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1gJP0np2A7OSGHmPBEEeIteXga6BiF78A",
-          "https://drive.google.com/uc?export=view&id=1_GfXZ47NSzfDNgY52nzWZCIVSxzkwR3C"
+          "https://drive.google.com/uc?export=view&id=1YQbhtNtJzTl-2-JRe9Q7wM56YBL6-vYK",
+          "https://drive.google.com/uc?export=view&id=1K9oiov2yUg4nmnEdayVll5q972SWRfIy"
         ],
         "contact": "Stephendriddle@yahoo.com"
       },
@@ -352,17 +351,16 @@
         "projectDesc": "The “Automated Flooding Alert System” project utilizes a Vera II home automation controller interfaced to an Allen Bradley PLC via a wires door switch. In addition, the home automation controller has a PC and Web based Smart Phone interface. This project addresses early warning of sump pump failures, with a cell phone interface for remote control and warnings to the homeowner via text messaging. This proof of concept project explores the viability of home security and automation via a cell phone interface. These wireless technologies increase the affordability through less labor-intensive installations to older homes. The project ramifications extend to complete retrofits of older home’s mechanical, refrigeration, HVAC, plumbing, electrical, security, entertainment and supplies inventory and accounting functions in one seamless home computer managed system.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1_-V4OQCUElBy8E6FU43oCfrBoovoQMJu",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_-V4OQCUElBy8E6FU43oCfrBoovoQMJu",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1S1jM-HtLL8r9m30Jy0wslrfMkoda3fFw",
+        "presentation": "https://drive.google.com/uc?export=view&id=1MexcGKsTp_cYpMRX3sKm3agJFYKmuXgz",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1VvT9ldXBbBHZMYA4znDo0fxsQVYA5kYn",
+          "https://drive.google.com/uc?export=view&id=18RFwXtJfXnLQxRO8zzV8Mnj87LRTkoMR",
           null
         ],
         "contact": "Tether58@bellsouth.net"
@@ -382,11 +380,12 @@
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1US1pCTVQh3m6XTBswtjAhkpTXmfrKoCZ",
+        "presentation": "https://drive.google.com/uc?export=view&id=1LGbuRJye-Lm-SpTk57zqIn4Y55b_O0U_",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1ahaVtZORmaZQ8Q3fooA__F8qcBPot9SK",
-          "https://drive.google.com/uc?export=view&id=1vBK_JMr5AjqlwilSewH4De4uQU-uGRON"
+          "https://drive.google.com/uc?export=view&id=10OlnjMLeBc8oa5BAk443J2kkr-uqOece",
+          "https://drive.google.com/uc?export=view&id=11IaYoMQzdMoGoRCbalqVqQoaFhqThPqQ6",
+          "https://drive.google.com/uc?export=view&id=1BCDv4_RxWhHZKq9CyZewn6hYY77B12DD"
         ],
         "contact": "chronotrigger66 AT hotmail.com"
       }
