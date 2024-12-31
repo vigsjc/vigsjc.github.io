@@ -8,18 +8,16 @@
         "projectDesc": "In today’s society home and corporate networks are things that are commonplace. On one front, there are entire corporations built around providing server farms to other organizations as off-site hosting, while on the other side of the coin almost every household with an internet connection has a small network. In today’s ever expanding digital world, the demand for more servers and more logical space is soaring ever higher, while the physical space to house such servers is diminishing and demanding a high premium. A solution to this problem exists in virtualization, even the virtualization of entire server farms onto only a handful, or even a single physical server. I present that multiple logical servers can be established on a single physical server, and that these servers can load balance between themselves while sharing a common physical drive.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1jfgjfgcJX2z0Hi9fcSjHrlQ7x7CT46a7",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jfgjfgcJX2z0Hi9fcSjHrlQ7x7CT46a7",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1pJ3wEqc10MheZ7HsB1lheQaB_YkT8nvD",
+        "presentation": "https://drive.google.com/uc?export=view&id=1G1_QyP8lgy3oX99Q5j6e3QzK0rf3FBVq",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1JGklys12tqV7F9n4bsyxaJqNFUda6hxb",
-          null
+          "https://drive.google.com/uc?export=view&id=1fAbIGYTT2OSWu2akCTlMbn0lsFDXAFNb",
         ],
         "contact": "Clinton.a.jones@gmail.com"
       },
@@ -31,14 +29,13 @@
         "projectDesc": "How much money could you save if you done away with your electric bill? Even if you have a small home you still pay a substantial amount of money for electricity and the cost is going up everyday. My goal is to do away with that electric bill and put money back in my pocket for change. I'm sure you ask how are you going to do that? Solar energy my goal is to build solar panels to provide the electricity my home needs and to become grid free so that I do not have to rely on the electric company to provide my energy and pay there ridiculous prices that continue to rise everyday.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1xBElpEXStbwmVfRTowviFy7hg2BGgAhZ",
+        "profilePicture":null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1xBElpEXStbwmVfRTowviFy7hg2BGgAhZ",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1pVtm7LlhD2G50EiQssETRyMfjb0ETqP9",
+        "presentation": "https://drive.google.com/uc?export=view&id=1_6aktYxqU5xeECktAqKngPbQdnSXpwOK",
         "brochure": null,
         "video": [
           null,
@@ -54,14 +51,13 @@
         "projectDesc": "The idea of promoting green technology is very important to the future. The plan is to implement a website that entails everything green to do with technology. The use of existing technological gadgets to create fully functional systems is one aspect. For this particular site the motivation is to educate and provide a space to collaborate more efficient ideas. What kind of green thinker would one be if in fact they did not implement open source code? This is exactly why for many reasons including open source opportunity the site http://www.yola.com\" comes into play. It is a website that offers free sub domains and purchases of personal domains. Personally the domain ownership seems more professional in look and feel. It allows people to upload open source code, gadgets, and widgets to fit needs. It is crucially important to understand that efficiency is everything. There is definitely no reason to reinvent the wheel, if you will. The actual site is http://www.leangreenmachines.org \" it is an open place for green education and collaboration.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1pcFd2thodjMa1HP65QS66vSCbA8MNF9B",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcFd2thodjMa1HP65QS66vSCbA8MNF9B",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1yV60Wy12g56ZTti7JPvHfREAzz1qogdC",
+        "presentation": "https://drive.google.com/uc?export=view&id=1X91QBZ1ra64xCYzI7R7D41Nmo0KJr6BX",
         "brochure": null,
         "video": [
           null,
@@ -84,10 +80,10 @@
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=15MAKKRkKNqJlbVZvXNuVfg30Mcnk7wii",
+        "presentation": "https://drive.google.com/uc?export=view&id=1YKTBX7M_sKD_clhY8xDm4RBNLXYZU18t",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1MBdULBWQQMjvtIy3m4yl6YVtuVLVLMwi",
+          "https://drive.google.com/uc?export=view&id=1kIiPa14A6NtH9WtlzlLrIgRbVzTffU8x",
           null
         ],
         "contact": "derekbarton25@gmail.com"
@@ -102,7 +98,6 @@
         "certificates": null,
         "profilePicture": null,
         "images": [
-        "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dhIHvR-6e-6unG23D7tiW4dwcoWkUaIq"
           null,
           null,
           null,
@@ -124,17 +119,16 @@
         "projectDesc": "The general technical area my project is set in is Home Automation. I wanted to learn more about home automation to help my parents implement better security in their home as well as energy efficient technologies, data backup and file storage systems. The price of electricity and the importance of data backup is what encouraged me to take on this project. This project is of interest to me because I have never set up a file server before and I am interested in learning how to do that. This will expand my knowledge base of how to set up file servers, while helping my parents become more organized with their music, movies, pictures, and games. This will bring a more enjoyable home entertainment experience. My project is trying to solve the problem of disorganization with my parent's video, music, and text files. To solve these problems I set up Windows Home Server to help them stay organized and have easy access to their files anywhere.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1J7i4oCQQrdlQfliHd9UecPN3EEiSh61h",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1J7i4oCQQrdlQfliHd9UecPN3EEiSh61h",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1LAWOw4iDjXkUfRReDJ4ICO9B4YMaVs4R",
+        "presentation": "https://drive.google.com/uc?export=view&id=1II3kPA-KgCFBWxYtRS4WaxQcFf3HMNNF",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1vhFsjOhn6ECPKFjPjGTZMAH27Txkkuhp",
+          "https://drive.google.com/uc?export=view&id=1PPjI2YPFXMoFPuQoLUeKPEjKvCAR1RTw",
           null
         ],
         "contact": "jacob_singleton21@hotmail.com"
@@ -147,17 +141,16 @@
         "projectDesc": "AntiClick is a security application that increases the security of a windows based computer system from being accessed at all after the user log-on process has been completed. Unlike other user level security solutions AntiClick does not disable the keyboard or the mouse. Insead it uses a clear window to stop any form of interaction with computer and requires two user-defined buttons to bring up any of the other windows of the program. AntiClick also blocks all keyboard shortcuts that can be used to bypass the software with the exception of control-alt-delete; but it stops task manager from shutting down the program in a different way. AntiClick can also send a warning e-mail and/or text message on a user defined number of failed attempts at the anticlick password. Also included within the project is an administrator control panel and an installer.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1LEm3Nqg-cwLnlNwbRjBhfhcAk-D0Zg0s",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LEm3Nqg-cwLnlNwbRjBhfhcAk-D0Zg0s",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1AlKB1Yu9TA-HajkBwZriicVKNV1rborf",
+        "presentation": "https://drive.google.com/uc?export=view&id=1x8ksxJtCppJ3alc1jDAUiWh16AU7WCVl",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1AjvQR62yuJgH2M9SF3vjE0qu45XmI1x_",
+          "https://drive.google.com/uc?export=view&id=1C8XKADlhOSyWI2USq-dKHsKLuXFJ64A-",
           null
         ],
         "contact": "jason.petrey12@gmail.com"
@@ -170,18 +163,18 @@
         "projectDesc": "Ethernet is everywhere today and automation manufacturers are racing to see who can come up with the latest, greatest and fastest. And the manufacturing world is scrambling to keep up with the latest developments in Ethernet. However in the cost competitive world of manufacturing, throwing out old, perfectly functioning automation is simply unrealistic for some business owners. But at the same time they recognize that they have to begin to using devices with new technology like Ethernet. The creators of Modbus even recognized this and modified their protocol to be used by Ethernet, calling it Modbus-TCP. But how can businesses bridge the gap between their old serial Modbus devices and the new Modbus-TCP? That’s where the Modbus Gateway comes into play.\n\nA Modbus gateway allows for the seamless transfer of Modbus data between serial and Ethernet Modbus devices. Using the Modbus gateway, my project examines the steps needed to setup Modbus communications between a Modbus serial programmable logic controller (PLC) and a Honeywell temperature controller that uses Modbus-TCP. The PLC, which serves as the Modbus master, has two serial communication ports using RS-232 and a third serial port that uses RS-485. The PLC programming software contains the necessary Modbus instructions for sending (writing) and receiving (reading) data. The Honeywell temperature controller is the Modbus slave and responds to read/write requests from the PLC Modbus master. Limitations imposed by the Honeywell controller included access to only eleven data registers per read instruction and a minimum time delay of two hundred milliseconds between write instructions, which was accomplished with sequential delay timers in the PLC program.\n\nIn addition to reading and writing data between the Modbus devices, the PLC, through the use of its own internal program, needed to be able to control its outputs based on the data it requested from the temperature controller. At the same time the temperature controller maintained its independent control and monitoring of a heat source connected to its output. In my prototype the heat source is a soldering iron and a thermocouple attached to it to provide a temperature feedback to the Honeywell controller.\n\n\n\n\n",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1dTcoHjWRYZWCM4hQXiosM-pN4U2Kx7RB",
+        "profilePicture":null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dTcoHjWRYZWCM4hQXiosM-pN4U2Kx7RB",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1VhWjL80bblOvRnKoyGvzxAi3EOwwXIcw",
+        "presentation": "https://drive.google.com/uc?export=view&id=1RNuI-bAS-MI3-DoeItjPfNrSAMg3kLoH",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1SiMeEEoE8EUcOcuQBdSASB9EtUSBOoXq",
-          "https://drive.google.com/uc?export=view&id=1i3QEd-ElJ0BUJivLctg7K6czZYiwxTPp"
+          "https://drive.google.com/uc?export=view&id=1vL0FfysvTKLEPTKRGPD7hSrc_yMUFx52",
+          "https://drive.google.com/uc?export=view&id=1yTgN-lGJQtSw6ZXlqzeIS3yX3nz0nAGZ",
+          "https://drive.google.com/uc?export=view&id=1F2cudp2qILINTU4Af2UOSoWNTbaNYmmY"
         ],
         "contact": "jeffrey.poling@honeywell.com"
       },
@@ -193,17 +186,16 @@
         "projectDesc": "The goal of my project was to control a coffee pot using the X10 standard. I wanted to be able to turn the coffee pot on and off from my computer as well as set a specific time and date for the coffee pot to turn on and off.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1--mljjdksRh6Av61HoEC8lzUO2YvONZs",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1--mljjdksRh6Av61HoEC8lzUO2YvONZs",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=172MPHqW8kTHLUD793vCi80agywWxGEtS",
+        "presentation": "https://drive.google.com/uc?export=view&id=1mlyGU4yrliOt5dt4xjPTR141SFIgKueD",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1J50KxC5bsqNFzDsAnETiB2ZSZOncztKA",
+          "https://drive.google.com/uc?export=view&id=1w1-rJ97gU8W-LpBkLRRKylb668Ij4G8D",
           null
         ],
         "contact": "unixeternal1337@gmail.com"
@@ -216,18 +208,17 @@
         "projectDesc": "The administration of large computer labs whether in a small business, school, libraries or even a home environment are time-consuming to manage and troubleshoot. The hurdles of a large amount of daily users, and unknown internet traffic and virus’ can be a large problem. This is where being able to create a stable and up-to-date image and distribute it across the network to all the machines allows for easy administration. Once Norton Ghost has been used to apply the image to the entire lab, Deep Freeze can be activated to ensure that even with a large number of users, the system will remain safe and secure.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1S-s1qhed4Ma5tT3qkez9p3p_tSGZDT9A",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1S-s1qhed4Ma5tT3qkez9p3p_tSGZDT9A",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1qsKgdRhRaWrpEcpINl0XeeDIKrOMWDYa",
+        "presentation": "https://drive.google.com/uc?export=view&id=1Cfdr9tkYKsXr57srXmuuGWIMfgom5qwj",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1Glz-LNRdCix62w5oJ5tAxQV_Pppn3SZR",
-          "https://drive.google.com/uc?export=view&id=1qL993EJjuqYaX7xAOVHUM0NlC6B-hC0k"
+          "https://drive.google.com/uc?export=view&id=1fAfVkYeSzJ6F-VQA84-IXVHBR4VL0ujl",
+          "https://drive.google.com/uc?export=view&id=1PLJOY1d3I9fMyIKB0P8JLRbRQUrKm5dc"
         ],
         "contact": "kc2106522@gmail.com"
       },
@@ -239,18 +230,18 @@
         "projectDesc": "The start of a good sounding guitar tone rests primarily in the accurate tuning of the strings. The guitar is a very dynamic instrument in which the intonation of one string affects the intonation of all of the other strings. Beginners often have trouble tuning their instruments properly, and can not afford expensive self tuning guitars such as the Gibson Robot. A device that can automatically tune the strings accurately and which will work with any guitar without modification would be of great help to any guitarist looking for the perfect tune.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1zs-4UbVZNHwac2Vtq-pUmHl4lpLE_3-o",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zs-4UbVZNHwac2Vtq-pUmHl4lpLE_3-o",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1HTl3c-n6fnfjE8YAci3kAQSg5D_5-zll",
+        "presentation": "https://drive.google.com/uc?export=view&id=1aT5KOfQAD8MedP-Ns1rC4LQaGCHcckEW",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1r2Opdo_VIQIxFw6PyRtdCUX4O_q8NDSC",
-          "https://drive.google.com/uc?export=view&id=1r2Opdo_VIQIxFw6PyRtdCUX4O_q8NDSC"
+          "https://drive.google.com/uc?export=view&id=1bPoA7JJORPfVnbGU3iozhs2nwc0cJy_k",
+          "https://drive.google.com/uc?export=view&id=1PTciUZatZ-laI3K2PyjyOE5xGM1yzGMA",
+          "https://drive.google.com/uc?export=view&id=1R_rluaPm7Tg7nEHXrCjFc-eggS3LnytP"
         ],
         "contact": null
       },
@@ -262,17 +253,15 @@
         "projectDesc": "A guitarist can learn how to play a guitar over time. However, can that same guitarist learn how build both a guitar and the effects pedals that so often are used with electric guitars? The project has slowly expanded a hobby to include the details of an otherwise broad overview. Allowing the guitarist full understanding of the instrument and it's inter-workings along with the desire for expansion. Not to mention a cost cutting idea of constructing otherwise expensive effects devices out of scratch. This presentation will create some guidelines for recreation of this project.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1I8_R7xW3Y3mAvlyfkIrhzL34zLHp8Qng",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I8_R7xW3Y3mAvlyfkIrhzL34zLHp8Qng",
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15LsL2EGQ1aGN1XEJihlOHeGYjovKaIUL",
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1iWeOSOFv3WeOoimPy0RT_kTOL0k1XmhG",
+        "presentation": "https://drive.google.com/uc?export=view&id=1q1wAIVQRm8kVTNa_AM2cULdAd5pZXr-D",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1yiZwMShKaIznzoU-6w138IjllTgSaE9R",
+          "https://drive.google.com/uc?export=view&id=1FNhLV4QB_5Yqx5j-hdR5AvXn7WR3pNvZ",
           null
         ],
         "contact": "lzmw@hotmail.com"
