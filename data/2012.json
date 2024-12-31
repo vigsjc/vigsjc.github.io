@@ -98,17 +98,16 @@
         "projectDesc": "My project is titled Kinect Controlled PC. This project answers the question, what is a possible improvement the Microsoft Kinect camera can add to a PC? Through my research I learned that, the answer to that question, is quite a bit actually. My final project is just one idea I discovered. Using a Kinect camera I am able to use a PC, with limited functionality, with nothing but a Kinect camera. This shows great potential for people with disabilities, and is a great ease of access tool.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=18by9EvrwbehOLky_zGzRm1jf-CYw-9Y7",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18by9EvrwbehOLky_zGzRm1jf-CYw-9Y7",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1N3jFSSFr1yCYB_qRQKKytyHw6tsH6-No",
+        "presentation": "https://drive.google.com/uc?export=view&id=1VFxZzDzfxUb-xWwquwmoyFPtQwjvzfd9",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=10Opjic_w53LaOGVcp2o3aFgThS_Z72SC",
+          "https://drive.google.com/uc?export=view&id=1NXoHGoytnDGgRH_98UJeW2Pu65p1jxhC",
           null
         ],
         "contact": "george_schultz2@mymail.eku.edu"
@@ -121,17 +120,16 @@
         "projectDesc": "Within the Information Technology departments of modern workplaces, documentation has become an large issue. In many cases some businesses will hire outside companies to perform the task of installing and configuring a wireless network. In those cases the documentation, if any, pertaining to the configuration of the wireless network remains with the outside company. If a problem arises with improper or no documentation available, a 5 minute fix can take weeks to track down. With wireless technology becoming more common place within businesses the maintenance to maintain a functional network is crucial. The ability to have a handheld device that gives clear identification of information appears promising.",
         "keywords": null,
         "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
-        "profilePicture": "https://drive.google.com/uc?export=view&id=17JgvA0O_MNZJe5h4ropeMQoBvsCf4Oea",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17JgvA0O_MNZJe5h4ropeMQoBvsCf4Oea",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1Q77dJzqDeWCk5SIMyaX9_bb-z4QfFR2Q",
+        "presentation": "https://drive.google.com/uc?export=view&id=1BUUZgHtQhySrtYRMjNrLOBse-6fZkxYV",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1_I9E5UHh5ukGMWBC84Y5aR30qzJ9dOX_",
+          "https://drive.google.com/uc?export=view&id=1sXE0hO5cyRgjO4bp9MqZLKQFnPxBPV_I",
           null
         ],
         "contact": "Jlpoynter15@gmail.com"
@@ -144,17 +142,16 @@
         "projectDesc": "I set up a Windows server and secure wired and wireless network that would be typical for a small office / home office. I built the server computer, installed and configured Windows Server 2008 R2. I utilized Active Directory and created a Domain for my home network. I installed the RADIUS server and used it along with WPA2 to make my network secure.",
         "keywords": null,
         "certificates": {"CWTS":"https://www.cwnp.com/certifications/cwts"},
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1Ne4wBwiQTK3ao3GAbLcabadZwtloNRY0",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Ne4wBwiQTK3ao3GAbLcabadZwtloNRY0",
           null,
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1pW0Qrre3NtuEdeKyRyfWsPnjzwIashJO",
+        "presentation": "https://drive.google.com/uc?export=view&id=1wBIyMfToAUEOka05SWxsmalbxH74ozOZ",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=1MqA7ySPMjc0DX9IAUikEZ0B406yTCLph",
+          "https://drive.google.com/uc?export=view&id=1xRH2adKdSDCSy6MiESKHSJf5Nnd_2zN_",
           null
         ],
         "contact": "scarboni13@adelphia.net"
@@ -167,18 +164,16 @@
         "projectDesc": "The Arduino platform is a highly modifiable open-source piece of hardware, with a large and extensive supporting community. The Arduino’s ability to be used as an inexpensive environmental monitor is an aspect that is being utilized in many different projects from large programs such as the ‘Air Quality Egg’ and a plethora of individual projects. With this project I wanted to approach an area that I had little to no experience in, and to interact with the do-it-yourself community and work in that mindset. With the implementation of environmental sensors, and proper data analysis, it is possible to use these sensors to monitor how new environmental regulations are affecting the local environment –be it from monitoring electrical usage, water usage, air quality, temperature/humidity of indoor areas, or any number of potential data points. The scalability of the project is extensive, from a single person attempting to reduce their usage of resources to help the environment, to a city implementing multiple data points to measure air quality the ability and expandability of Arduino based sensors is boundless. This project utilizes the Arduino Uno R3, the Arduino Ethernet Shield, a DHT22 Temperature & Humidity sensor, and a selection of resistors and LEDs.",
         "keywords": null,
         "certificates": null,
-        "profilePicture": "https://drive.google.com/uc?export=view&id=1EbWohdIuV98RC4qnNfdnY5upQf5HP-IK",
+        "profilePicture": null,
         "images": [
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1EbWohdIuV98RC4qnNfdnY5upQf5HP-IK",
-          "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XQtzwfELMs4rQ9KsscTv-UCW-7ikbX8P",
           null,
           null
         ],
-        "presentation": "https://drive.google.com/uc?export=view&id=1VDUHicf0jp7xT9M-i5Zvbk15ns6vk2Lq",
+        "presentation": "https://drive.google.com/uc?export=view&id=1vTRdJX4kxXVGcyjBPCYLSHnFv26E0nGB",
         "brochure": null,
         "video": [
-          "https://drive.google.com/uc?export=view&id=15EtD3c7MrUiLUlATqA38L6Sf83Qhp1YJ",
-          "https://drive.google.com/uc?export=view&id=1WNhWarh5sY33JHqRB_Q03C618Q-93gR3"
+          "https://drive.google.com/uc?export=view&id=19O90tuBByNuu5GbvpBIl7S0vHoE_RLfP",
+          "https://drive.google.com/uc?export=view&id=1g_20I1tU58IrtIaaAHKY9_3q_Pgk-F7j"
         ],
         "contact": "joseph_walden7@mymail.eku.edu"
       },
