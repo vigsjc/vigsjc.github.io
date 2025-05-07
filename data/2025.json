@@ -714,4 +714,20 @@
       "group": "ga"
     }
   ]
+  
+  "other": {
+    "classPhoto": [
+      {
+        "title": "Class Photo",
+        "name": "Entire Class",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SjULkHIr8vQn-kuSrJnhiKoBmn2jY_nU"
+        
+      },
+    ],
+    "outstanding": [
+      
+    ],
+    "presenter": [],
+    "ga": []
+  }
 }
