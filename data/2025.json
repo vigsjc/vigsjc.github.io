@@ -690,31 +690,7 @@
     "brochure": null,
     "contact": null
   }
-],
-  "Class pictures and more": [
-    {
-        "title": "Class Photo",
-        "name": "Entire Class",
-        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SjULkHIr8vQn-kuSrJnhiKoBmn2jY_nU"
-        
-    },
-    {
-      "group": "classPhoto"
-    },
-    {
-      "group": "classPhoto"
-    },
-    {
-      "group": "outstanding"
-    },
-    {
-      "group": "presenter"
-    },
-    {
-      "group": "ga"
-    }
-  ]
-  
+], 
   "other": {
     "classPhoto": [
       {
