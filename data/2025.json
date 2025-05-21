@@ -666,7 +666,53 @@
     ],
     "brochure": null,
     "contact": null
+  },
+  {
+    "id": 20253,
+    "firstName": "Alex ",
+    "lastName": "Richardson",
+    "projectTitle": "Using Artificial Intelligence to Detect Anomalous Network Connections.",
+    "projectDesc": "This project aims to create a system that contains a trained AI model that will detect whether a network connection is normal or anomalous. Current solutions that provide a system like this are aimed at enterprises which leave out small to medium-sized businesses and hobbyists. These current solutions either require propriety hardware to be installed within the network or have a closed-source code that limits the creativity of the user. These solutions also have complex or undisclosed pricing which makes it unobtainable for small companies and hobbyists.\nThe project leverages many open-source software and easily obtainable hardware so it can either be recreated or deployed at various locations. Network connection data will be collected by Zeek, a network analysis software, moved to a central server, and processed by a trained AI model that was trained using the isolation forest model from the PyOD project. The collected connection data along with the AI’s inference on whether it is normal or anomalous will be loaded into an Elasticsearch index. The logs data loaded into this index will be used for visualization with Kibana so a user can see the AI’s decision and other useful information about the connection data.\nThis project is conducted in 3 phases which are divided into 2 cores and an extension. The first core will be to collect preliminary data, process it, and train the AI. The second core will be the consolidation of logs along with the AI’s decision into a database that is easily searchable. The extension will consist of using an open-source data visualization tool to create a single-pane-of-glass display.\nResearch like this has already been done at Arizona State University where a team of researchers trained an AI model using tagged datasets and evaluated how it performed once given a new dataset with known anomalies in it. The testing was successful only if the AI had been previously trained on those attack types.\nOnce the pipeline was fully set up, the system successfully processed the connection logs from start to finish, totaling 43,427 records. About 90 percent were marked as anomalies by the Isolation Forest model, which closely matches the fact that 80 percent of the dataset was synthetic attack traffic. The system produced usable results, even though some false positives were observed due to limited training data.\n",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1jC_h_qukizNj6r8wTRE9uKd9H_y-23Eg/preview",
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
   }
+  {
+    "id": 202532,
+    "firstName": "Justin ",
+    "lastName": "Chitwood",
+    "projectTitle": "Home Intrusion Detection System.",
+    "projectDesc": "Home networks are expanding at an exponential rate with a large number of devices being capable of sending and receiving data. Along with this, remote work has increased meaning a large number of people are using their work machines on their home network. These two combined create a large target for cybercriminals due to vast amounts of data that can be stolen. If a home network is compromised, cybercriminals could gain personal information such as banking information, usernames passwords etc. As for remote workers, cybercriminals could gain sensitive information related to work along with work usernames and passwords which could lead them to commit another attack.To counteract this growing risk, an Intrusion Detection System (IDS) can be used to monitor a home network and detect any potential malicious traffic. To do this, and to view the data effectively, Suricata can run alongside Elasticsearch, Kibana, and Fluent bit. Suricata, an open-source detection engine, acts as an Intrusion Detection System. Fluent bit is responsible for logging data from Suricata so that it can be stored and used. Elasticsearch and Kibana are responsible for creating a search engine to view data from Fluent Bit and for creating a visualization of that data to give better insight into the data. While all of these software’s are good on their own, this combination will allow for a highly customizable yet cost-effective solution that will allow for data to be visualized and stored so that any and all traffic can be analyzed effectively versus using each software independently of one another. To install all of these software’s, an old PC can be used with a Linux based operating system installed, in this case Linux Mint and an old monitor. Using an old PC and monitor allows for maximum cost savings. If potentially bad traffic is flagged, the user can view information relating to it and decide on whether to act on it or not..",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      null,
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
 ], 
   "other": {
     "classPhoto": [
