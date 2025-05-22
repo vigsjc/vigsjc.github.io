@@ -54,7 +54,7 @@
     "projectDesc": "Organizing events often involves juggling multiple tasks, from scheduling and budgeting to guest coordination and vendor management. This project proposes a web-based event planning platform enhanced by an AI assistant to streamline and simplify the entire process. The AI assistant serves as an intelligent event coordinator that can auto-populate details such as event name, date, guest list, tasks, and budget based on user input or past preferences. The solution leverages natural language processing and logic-based automation to generate tailored planning suggestions and reminders. By integrating interactive UI design with responsive, intelligent backend support, this project aims to reduce planning time, increase efficiency, and improve user experience in both personal and professional event planning scenarios.",
     "keywords": "AI assistant, event planning, automation, user experience, web application",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=163QUrySLsKillLVAf4_FM2DFYlbrHABW",
-    "certificates": {"Microsoft IT Support Specialist":null},
+    "certificates": {"Microsoft IT Support Specialist": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=163QUrySLsKillLVAf4_FM2DFYlbrHABW",
       null,
@@ -100,7 +100,7 @@
     "projectDesc": "This project addresses the growing need for secure, customizable, and efficient home infrastructures capable of meeting diverse technological demands. Utilizing a virtualization environment like VMware ESXi on Dell PowerEdge server and VMware vCenter for centralized host management, we can implement things like automation, robust network security, and comprehensive self-hosted services including media streaming, network video recording, and secure cloud storage. The result is a modular, scalable, and secure digital ecosystem suitable for home or small business environments.As technology continues to evolve, the demand for systems that can adapt and intelligently respond to user needs becomes increasingly critical. This project embraces that future by leveraging virtualization and automation to build a framework where services operate with minimal user intervention. As Katre and Rojatkar (2017) state, “The dream is a future in which data is communicated between devices and humans without relying on manual input of individual bytes” (p. 345). By integrating centralized management, data-driven decision-making, and customizable service layers, this infrastructure lays the groundwork for highly responsive, intelligent environments that blur the line between consumer convenience and enterprise-grade functionality.",
     "keywords": "Virtualization, Centralized Management, Automation, Security, Self-Hosting",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-r3aaXiaAdcEKGHXlJPal7MetRPTeEyn",
-    "certificates": {"URC Total Control Level 1 & 2 Certification":null},
+    "certificates": {"URC Total Control Level 1 & 2 Certification": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-r3aaXiaAdcEKGHXlJPal7MetRPTeEyn",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1L3soGM11AkCIVfep43GN5_qrKOVtRk59",
@@ -169,7 +169,7 @@
     "projectDesc": "The goal of this project was to create a self-hosted cloud storage system tailored for the needs of my hometown school system. Recognizing the growing importance of secure and accessible data storage, I envisioned a system that would allow students, teachers, and administrators to easily store, access, and collaborate on educational materials. By utilizing open-source technologies like Nextcloud and Docker, I set out to build a reliable, cost-effective solution that would empower the school system to manage its own data independently, while ensuring privacy and security. The project emphasizes the importance of local control over educational resources and aims to provide a scalable, user-friendly platform that can evolve alongside the school system's technological needs.",
     "keywords": "Cloud, Docker, Database,  Nextcloud, RAID, Software, Hardware",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
       null,
@@ -192,7 +192,7 @@
     "projectDesc": "Security is a paramount concern for homeowners and small businesses, driving the demand for advanced, affordable systems. Traditional security solutions often suffer from high false alarm rates and limited functionality. The “Smart AI- Powered Camera Intrusion System,” leverages artificial intelligence to provide real-time intrusion detection with reduced false alarms. The system integrated a Raspberry Pi 3b set up with AI-powered image recognition to distinguish human intruders from other sources of motion. The motivation for this project is to create a reliable, user-friendly, and cost-effective security solution for residential and small commercial settings. The system ensures real-time processing compliance with privacy laws and optimized power consumption. The anticipated outcome is a robust security system that meets modern users’ needs.",
     "keywords": "AI-Powered security, Intrusion detection, Home security, Raspberry Pi, Motion Detection, Image recognition, TensorFlow Lite, Real-time alerts, Cloud Storage, OpenCV, False Alarm reduction, Privacy Compliance, Cost-effective solution.",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yklGyItUKguBkc-XYwOfTftsSQufzkTd",
-    "certificates": {"TestOut Routing and Switching Pro":null},
+    "certificates": {"TestOut Routing and Switching Pro": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yklGyItUKguBkc-XYwOfTftsSQufzkTd",
       null,
@@ -215,8 +215,8 @@
     "projectDesc": "This capstone project tackles the growing demand for secure, cost-effective, self-managed IT infrastructure solutions tailored to personal users and small businesses. As reliance on cloud services increases, so does the concern over data privacy, operational costs, and service reliability. To address these challenges, this project presents a comprehensive self-hosted IT environment that leverages virtualization, containerization, encrypted remote access, and automated backup strategies. The system is built on enterprise-grade hardware using VMware ESXi to virtualize a Debian 12 environment, which hosts key services through Docker and Docker Compose. Core components include secure file storage with Nextcloud, encrypted VPN access via WireGuard, reverse proxy management through Nginx Proxy Manager, and web hosting protected by Cloudflare Tunnel.In addition, Veeam ONE provides robust data backup and disaster recovery capabilities, while Netdata enables real-time performance monitoring. This project serves as a scalable, practical model for secure, self-reliant IT systems—especially relevant for aspiring system administrators, cybersecurity professionals, and tech-savvy entrepreneurs.",
     "keywords": "Virtualization, Docker, WireGuard VPN, Cloudflare Tunnel, Veeam ONE,Self-Hosted Infrastructure, System Monitoring, Cybersecurity",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1POB4AtSK9t0FfusdLIr__cfu-nNu3Lcg",
-    "certificates": {"Google IT Support":null,
-      "Proofpoint Cybersecurity Leadershi":null},
+    "certificates": {"Google IT Support": null,
+      "Proofpoint Cybersecurity Leadershi": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1POB4AtSK9t0FfusdLIr__cfu-nNu3Lcg",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OtlPS97pln_ZDAXpH08ArztyLbEaWLqX",
@@ -239,7 +239,7 @@
     "projectDesc": "Many home networks rely on consumer-grade routers that offer limited control over network traffic, security, and customization. These routers often lack advanced features like detailed firewall rules, traffic monitoring, and integrated adblocking. My project addresses this issue by building a pfSense router box using open-source software and a repurposed PC. pfSense provides advanced networking capabilities such as customizable firewall rules, VPN support, and real- time monitoring. Additionally, I will integrate adblocking using tools like pfBlockerNG to enhance privacy and reduce unwanted web content across all connected devices. This solution gives full control over the network, improves performance, and increases overall security for my home environment.",
     "keywords": "pfSense, Router, Adblocking, Network Security, Firewall",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17hRjTTcekZYiBJmpfV4dxAbJpAScHqm_",
-    "certificates": {"CompTIA Network+":null},
+    "certificates": {"CompTIA Network+": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17hRjTTcekZYiBJmpfV4dxAbJpAScHqm_",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Ir79H73ud2FcdyXa6yoKkSW9q7ihRhyv",
@@ -262,7 +262,7 @@
     "projectDesc": "The practice of streaming games or media has been on the rise for a long time. Over 7.3 million channels go live on Twitch each month (Twitch Tracker, 2024) and the demand for increased storage has increased dramatically over the years with the amount of channels streaming. However, people are often unwilling to spend the additional money on additional storage or to upgrade their PCs to handle more storage. People also want an easy way of switching between their different HDMI source without having to constantly unplug and plug HDMI cables in constantly. This project aims to provide an alternative solution to the problem using Raspberry Pi and HDMI matrix switch. Currently the project all parts of the project has been implemented.",
     "keywords": "Raspberry Pi, Samba, HDMI Matrix switch, Operating System (OS)",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14W_F6uUZn7KL8jPuW1uY5NUY2X6SJ0VF",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14W_F6uUZn7KL8jPuW1uY5NUY2X6SJ0VF",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10bF-0nwuPu0DdFoHU0Bk1bhDPP-Gb7i-",
@@ -285,8 +285,8 @@
     "projectDesc": "The purpose of my capstone project is to provide an audio-visual communication solution for a learning environment. The lack of or the utilization of insufficient methods to convey digital information can disrupt the efficiency and effectiveness of many industries, including education, entertainment, business, and healthcare. Being able to share audio and video content with a large population of people can be accomplished using audio-visual systems and equipment. I hope to demonstrate an audio-visual system of my own making that accomplishes this goal, while demonstrating how efficient and effective these systems can be for any end-user.",
     "keywords": "audio-visual, A.V. rack, end-user",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zxXTJjp-WpAdl86eQynjhblC5N6v2hCB",
-    "certificates": {"Extron AV Associate"null,
-      "Extron Authorized Programmer":null},
+    "certificates": {"Extron AV Associate" null,
+      "Extron Authorized Programmer": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zxXTJjp-WpAdl86eQynjhblC5N6v2hCB",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12vRGOzt9RkZ0oKdW_alx0OWnpJ4PLap1",
@@ -309,7 +309,7 @@
     "projectDesc": "The idea of having a small, reliable cloud service to easily manage files from multiple different areas of the house, office, or anywhere is amazing. Not having to rely on paid services to quickly send files to other devices, while finding a use for that Raspberry Pi that has been sitting collecting dust is a fun, useful implementation that benefits everyone. However, there are some hoops needed to jump through before you can actually reap the benefits. These hoops include, but aren’t limited to, configuration of Raspberry Pi, setting up the necessary software for hosting the fileserver, and setting up two Factor Authentication (2FA).",
     "keywords": "Apache2, Raspberry Pi, ownCloud, Two Factor Authentication (2FA)",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19hvHWIS3FnFj48o5pSjuQ3diH9Fo8wvW",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19hvHWIS3FnFj48o5pSjuQ3diH9Fo8wvW",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aNDMkqlCwDPOwa2r4LIg35-uyJR2HIxc",
@@ -332,7 +332,7 @@
     "projectDesc": "This project aims to create a remotely accessible home server for the purposes of media streaming and filesharing. It integrates 3 key technologies: Raspberry Pi computing, Docker Engine containerization, and WireGuard VPN tunnels. All of these technologies come together to create a cohesive solution to the problem of media preservation.",
     "keywords": "Raspberry Pi, Docker, Portainer, WireGuard, VPN",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XYawd0CjSDC5svNa1DFekZb_p4AOh6OP",
-    "certificates": {"TestOut Routing and Switching Pro":null},
+    "certificates": {"TestOut Routing and Switching Pro": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XYawd0CjSDC5svNa1DFekZb_p4AOh6OP",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11KdkZleVYLn8u4kU4TIE1sTqw2WwiSMi",
@@ -355,7 +355,7 @@
     "projectDesc": "Whenever my parents or grandparents have computer issues, they call me because they do not understand how to fix them. My project aims to give them the ability to fix it themselves, along with an easier way to allow me to connect to their computer. The USB repair tool comes with a small toolset that solves simple issues with an easy to use UI, running entirely from PowerShell scripts.",
     "keywords": "PowerShell-1, USB repair tool-2, User Interface (UI)-3",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ey27U8ooi3-4K2KfyEmYw-LZr3sewq3F",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ey27U8ooi3-4K2KfyEmYw-LZr3sewq3F",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k1CrX6aDdj1dnc-In5QiZ6gzSc_qBobe",
@@ -378,7 +378,7 @@
     "projectDesc": "The usage of security cameras around the world has become commonplace, whether it's to use them as a protection device or to make sure that your employees are working. However, some of these cameras can cost an extreme amount of money, and on top of that, the software that they use could cost money as well. This project aims to make use of a Raspberry Pi to give smaller companies access to a camera that is not overpriced and is still able to do the things needed. There are even cameras that can track motion, whether it's human motion or motion in general. So far in my project, Core 1 and Core 2 have been successful. Core 1 provided proof of concept on setting up a brand-new OS on a new device that I had never set up before. Core 2 provided the full concept on using the Raspberry Pi as a full security camera. The extension phase implication remains dependent on time constraints.",
     "keywords": "Raspberry PI, OS (Operating System), Security Camera",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16DXM8tuP5I4Jhepxw7p-zl4rku-8xJjZ",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16DXM8tuP5I4Jhepxw7p-zl4rku-8xJjZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I2yZtmEhcHYsCbRIBBYeJAlpd8iFfnSa",
@@ -424,7 +424,7 @@
     "projectDesc": "The problem I intend to solve is the need to interact with a system. Creating an automated audio -visual(AV) system would make everything as hands-free as possible. Extron makes devices for this but it is not something I have available so I will be using Raspberry Pi for programming. Raspberry Pi also allows for much more freedom, giving me the ability to include more interaction if desired.",
     "keywords": "Raspberry Pi, Audio-Visual, Extron",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": {"Extron AV Associate":null},
+    "certificates": {"Extron AV Associate": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1QshmSiQJZqYacSSA2yp0B0MJSiB5rSkq",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jlS0bunL135K3UhZu8rzq9jeW83a-mtO",
@@ -447,7 +447,7 @@
     "projectDesc": "With subscription service prices rising and some even utilizing geo-locking to block family-shared accounts, I needed a way to remotely stream all of my content on any device. Since the hardware I owned was not very powerful, I also needed to make this streaming efficient. This content needed to be stored within a remotely accessible storage drive. Plex Media Server fulfills the hosting and streaming requirements for my content quite well. As for efficiency, Docker containers are extremely lightweight, only housing the necessary software to function properly. For remote storage, Samba shares and a web-GUI for file sharing accomplish this nicely.",
     "keywords": "Cloudflare, Ubuntu Server, Docker",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KDEERjvA4OGakoQiFRLXWLd46aSS_ml5",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KDEERjvA4OGakoQiFRLXWLd46aSS_ml5",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1sLUr1igvAKC8JLJZAuxcqJtyogCx_24c",
@@ -470,7 +470,7 @@
     "projectDesc": "The purpose of this project is to renovate and reuse an old computer of mine into a server computer where I can send files from my other computers for storage and organization. To do this, I will clean and configure my existing old windows pc and reinstall Mint Linux as its primary OS; then, I will connect the Linux server computer to a managed network switch wired via Ethernet cable to my router and two personal Windows computers. Once connected this home network system will allow for me to collect all my files in a singular, organized location with the additional benefit of having a centralized computer from which to manage my network by implementing safety procedures such as Network Access Control to create MAC-based rules per port, Make firewall rules via Linux to restrict incoming/outcoming traffic, and convert the Linux server into a local DNS/DHCP server.",
     "keywords": "Linux, Network, DHCP",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wl6MHvp8RDc-y5mvI9RoPXaD4lCo32Op",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wl6MHvp8RDc-y5mvI9RoPXaD4lCo32Op",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13MFq4yyDXiAGm73XNzsNX6c0J0T557MV",
@@ -585,7 +585,7 @@
     "projectDesc": "This project aims to create a solution to automating network security and detecting malicious attacks in packet data without having to rely on labeled datasets. The solution this project offers is to use an unsupervised machine learning model to identify patterns in packet features extracted from raw packet data files. Multiple scripts were used to parse the raw data, preprocess relevant fields in the data, scale the data, and apply a detection algorithm that identifies potential threats in network traffic.",
     "keywords": "Anomaly detection, unsupervised learning, Isolation Forest, PCAP, CSV",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1a8THNGkE_m9cy1wFTylSjdgiwi5jCRaI",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1a8THNGkE_m9cy1wFTylSjdgiwi5jCRaI",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1RmX2XOPtmtMo4vkPrE-PTwEeInlQRFj_",
@@ -608,7 +608,7 @@
     "projectDesc": "My father recently got his hands on a new desktop setup that he is trying to gather up peripherals for, however, he wants to try and keep things cheap with his setup as he doesn’t need to have high refresh rate high resolution displays for his secondary displays. I also made note of the significant number of laptops that we had that had some fault with them that prevented them from being effectively used and making them basically E-Waste. So we thought about potentially taking a few of the laptops and recycling them into displays for the both of us, or even a smart home info-display in the future to keep things inexpensive for a new monitor, and in the long run helping cut back on electronic waste that we would be producing.",
     "keywords": "Displays, Recycling, E-Waste",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qM4kvAD7MX6xEHTi0WtwpmpcwQeTSrlo",
@@ -631,7 +631,7 @@
     "projectDesc": "The Arduino Soil Moisture Detector addresses a growing need in agricultural and small-scale gardening environments: real-time, accurate soil moisture monitoring. This project implements a low-cost solution using an Arduino Uno, a soil moisture sensor, and an LCD screen to display data directly. The prototype monitors soil moisture levels, activates an alert (LED or relay for watering) when soil is too dry, and visually reports readings. The project is designed to help users efficiently manage water resources and ensure optimal plant health. Core 1 involved developing the sensor circuit and data acquisition. Core 2 added the LCD interface for user feedback. An optional extension includes relay-controlled irrigation.",
     "keywords": "Arduino, Soil Moisture, LCD Screen",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14gEq5Yo4UnJZMXpxlX2E_I-wHiL-cFBW",
-    "certificates": {"Google IT Support":null},
+    "certificates": {"Google IT Support": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14gEq5Yo4UnJZMXpxlX2E_I-wHiL-cFBW",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XcW_2ipPzH9mpOuiYrCQ3sSkPbH9hZ-P",
@@ -654,7 +654,7 @@
     "projectDesc": "Project Description will go here.",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": {"CompTIA IT Fundamentals (ITF+)":null},
+    "certificates": {"CompTIA IT Fundamentals (ITF+)": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
@@ -677,7 +677,8 @@
     "projectDesc": "This project aims to create a system that contains a trained AI model that will detect whether a network connection is normal or anomalous. Current solutions that provide a system like this are aimed at enterprises which leave out small to medium-sized businesses and hobbyists. These current solutions either require propriety hardware to be installed within the network or have a closed-source code that limits the creativity of the user. These solutions also have complex or undisclosed pricing which makes it unobtainable for small companies and hobbyists.\nThe project leverages many open-source software and easily obtainable hardware so it can either be recreated or deployed at various locations. Network connection data will be collected by Zeek, a network analysis software, moved to a central server, and processed by a trained AI model that was trained using the isolation forest model from the PyOD project. The collected connection data along with the AI’s inference on whether it is normal or anomalous will be loaded into an Elasticsearch index. The logs data loaded into this index will be used for visualization with Kibana so a user can see the AI’s decision and other useful information about the connection data.\nThis project is conducted in 3 phases which are divided into 2 cores and an extension. The first core will be to collect preliminary data, process it, and train the AI. The second core will be the consolidation of logs along with the AI’s decision into a database that is easily searchable. The extension will consist of using an open-source data visualization tool to create a single-pane-of-glass display.\nResearch like this has already been done at Arizona State University where a team of researchers trained an AI model using tagged datasets and evaluated how it performed once given a new dataset with known anomalies in it. The testing was successful only if the AI had been previously trained on those attack types.\nOnce the pipeline was fully set up, the system successfully processed the connection logs from start to finish, totaling 43,427 records. About 90 percent were marked as anomalies by the Isolation Forest model, which closely matches the fact that 80 percent of the dataset was synthetic attack traffic. The system produced usable results, even though some false positives were observed due to limited training data.\n",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": {"CompTIA: Cloud Essentials+"null,"IT Fundamentals (ITF+)":null},
+    "certificates": {"CompTIA: Cloud Essentials+": null,
+      "IT Fundamentals (ITF+)": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
@@ -700,8 +701,8 @@
     "projectDesc": "Home networks are expanding at an exponential rate with a large number of devices being capable of sending and receiving data. Along with this, remote work has increased meaning a large number of people are using their work machines on their home network. These two combined create a large target for cybercriminals due to vast amounts of data that can be stolen. If a home network is compromised, cybercriminals could gain personal information such as banking information, usernames passwords etc. As for remote workers, cybercriminals could gain sensitive information related to work along with work usernames and passwords which could lead them to commit another attack.To counteract this growing risk, an Intrusion Detection System (IDS) can be used to monitor a home network and detect any potential malicious traffic. To do this, and to view the data effectively, Suricata can run alongside Elasticsearch, Kibana, and Fluent bit. Suricata, an open-source detection engine, acts as an Intrusion Detection System. Fluent bit is responsible for logging data from Suricata so that it can be stored and used. Elasticsearch and Kibana are responsible for creating a search engine to view data from Fluent Bit and for creating a visualization of that data to give better insight into the data. While all of these software’s are good on their own, this combination will allow for a highly customizable yet cost-effective solution that will allow for data to be visualized and stored so that any and all traffic can be analyzed effectively versus using each software independently of one another. To install all of these software’s, an old PC can be used with a Linux based operating system installed, in this case Linux Mint and an old monitor. Using an old PC and monitor allows for maximum cost savings. If potentially bad traffic is flagged, the user can view information relating to it and decide on whether to act on it or not..",
     "keywords": "Keywords will go here",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": {"Google IT Support":null,
-      "TestOut Routing and Switching Pro":null},
+    "certificates": {"Google IT Support": null,
+      "TestOut Routing and Switching Pro": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
