@@ -31,7 +31,7 @@
     "projectDesc": "This project is about the importance of network segmentation. I did this by creating a network that uses network segmentation with the use of VLANs and used subnetting to make each VLAN have its own IP network. I also got each VLAN to connect to the internet using the NAT to translate IP address to match my isp modem and I used ACLs to control what IP address get through..",
     "keywords": "Network segmentation, NAT, ACL, VLANs, IP",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
-    "certificates": {"TestOut Routing and Switching Pro"},
+    "certificates": {"TestOut Routing and Switching Pro": null},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18gxKPwwn6a230DY8uNFwLODOsU3fmmqW",
