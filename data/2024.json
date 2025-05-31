@@ -179,7 +179,9 @@
     "projectDesc": "The motivation behind my project lies in the increasing demand for IoT devices as well as aesthetic lighting solutions that integrate with modern technology- such as smartphones. By harnessing the Raspberry Pi's processing power and networking capabilities, my LED matrix will become a versatile system that can be wirelessly controlled. Due to its difficult electronic construction and dependence on a Pi, I would say that my capstone falls most within the EET category of the major, as well as Computer Systems (specifically, microcontrollers).",
     "keywords": "Microcontrollers,Programmable lighting,Customizability",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pchP8ivNf_4oWPJGjWdnxvC8Ka4Vizdj",
-    "certificates": {"IT Fundamentals(ITF+)":"https://www.comptia.org/certifications/it-fundamentals"},
+    "certificates": {"IT Fundamentals(ITF+)":"https://www.comptia.org/certifications/it-fundamentals",
+    "Joint winner, 2024-25 Distinguished CST Senior Award": null
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pchP8ivNf_4oWPJGjWdnxvC8Ka4Vizdj",
       null,
