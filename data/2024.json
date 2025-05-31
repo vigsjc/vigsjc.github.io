@@ -157,7 +157,7 @@
     "projectDesc": "The objective of this project was to make an at-home device for people who are super into playing memory games such as Bop it or Simon Says Games. It also has been such a huge thing for people who are either stressed so there are many games that people buy on tiktok and amazon that are like this project. The way of doing it is the knowledge of making things with a breadboard and using Arduino devices to make it possible to make it. Within this project will acquire 2 Core phases and one extension phase to provide this project.",
     "keywords": "Arduino, Application, components",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pk0hAsrwlEipsNwzm0jtT9COc7XWplub",
-    "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support"},
+    "certificates": {"Google IT Support Professional":"https://www.coursera.org/professional-certificates/google-it-support"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11Wy0DdtAuSR_SmlJUz0po9lEvIEFqVC6",
       null,
@@ -248,7 +248,7 @@
     "projectDesc": "My capstone project is meant to increase network security on a home network. Most of the population within the United States uses internet at home, in fact 97.1% of the population uses internet (Petrosyan, 2023). This raises the question of how do users at home keep their networks secure? A simple and cost-effective way to increase your network security is by using PiHole, specifically in this case by running PiHole via a Docker container.",
     "keywords": "Docker, PiHole, Network Security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qIP8Lt3N0gnh5n2c0aK64Kli48N6q3PB",
-    "certificates": {"Google IT Support":"https://www.coursera.org/professional-certificates/google-it-support",
+    "certificates": {"Google IT Support Professional":"https://www.coursera.org/professional-certificates/google-it-support",
       "Routing and Switching Pro":"https://w3.testout.com/pro-certifications/routing-and-switching-pro"
     },
     "images": [
