@@ -8,19 +8,20 @@
     "projectDesc": "In this current era, where Music streaming is dominated by subscription services such as Spotify, Apple Music, and Amazon Music. This allows for the opportunity to find other solutions that give you more control, are cost-effective, and accessible. This is where the Raspberry Pi comes into play, a compact computer that is available at a low cost, that can be turned into your own Music Streaming Server. The challenge in this system consists of configuring the Raspberry Pi in a way that allows you to stream music that you have stored locally to other devices on your network, and having a user-friendly interface through an app. This project will include two core phases and an extension phase. Phase 1 will be the physical setup of the Raspberry Pi by flashing the operating system, connecting its peripherals, and finally turning it on and installing Plex, which is the media server software. Phase 2 will be the process of adding media and preparing external devices. And the extension phase will consist of installing a VPN for security features.",
     "keywords": "Virtual Private Network, Plex, Raspberry Pi",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ruf9cctxi11TeEU67PkjViRBMbEni9YZ",
-    "certificates": null,
+    "certificates": {"CourseCareers Information Technology": "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcoursecareers.com%2Foutline%2Fit-course&data=05%7C02%7Clokesh_eedara%40mymail.eku.edu%7Cfdb869c911db42d2af5708dd9fd48697%7Ce23043271af04dee83fbc1b2fd6db0bb%7C0%7C0%7C638842457603340920%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QSr7%2FHHZRVnFI8q1QMGXaUOFJ6nxrtRwPWXeKI9%2F2XQ%3D&reserved=0"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ruf9cctxi11TeEU67PkjViRBMbEni9YZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ABtpwFn4Hp1Du7npInn7x3FWOvxLza6M",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/12JGqw8diT3Fgoz21J3kZZTyUbH4HP07a/preview",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1j5DK0PE99nWVu2X0xcvR6A_1yxpHt3ZN/preview",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1a97k6WG6ooTu4N-Iy8mVxazbbzGcArEo/preview",
     "contact": null
   },
   {
