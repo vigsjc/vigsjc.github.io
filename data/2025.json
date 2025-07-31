@@ -703,13 +703,13 @@
     "id": 202529,
     "firstName": "Funmilola (Felicia)",
     "lastName": "Aiyeotan MS*",
-    "projectTitle": "TBA.",
-    "projectDesc": "Project Description will go here.",
-    "keywords": "Keywords will go here",
+    "projectTitle": "Raspberry Pi-based Video Surveillance System",
+    "projectDesc": " Within this project, I will be tackling a small section of security that has gradually become prevalent in our society today: the application of video surveillance systems as a means of protecting one’s assets and ensuring that the environment one wishes to survey is secured. The utilization of Raspberry Pi would serve as the backbone of this research, with the implementation of a video camera to help capture video footage. The project has three major phases. These include the assembly of the Raspberry Pi itself, the integration of the video camera onto the Raspberry Pi, and, lastly, the deployment of the system.  By using Raspberry Pi to carry out this project, it would serve as not only a scalable option but also an option that is accessible yet cost-effective for any user, regardless of their technological expertise, and capable of performing any form of surveillance when needed.",
+    "keywords": "Raspberry Pi, Video surveillance, Open CV, Pushover Notification.",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dnBl7IqocYWj0An48_xQxzMIEBDnON-O",
       null,
       null,
       null
