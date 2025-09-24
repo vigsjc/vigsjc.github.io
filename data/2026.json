@@ -1,1 +1,823 @@
-
+{
+  "studentData":[
+  {
+    "id": 202601,
+    "firstName": "firstname",
+    "lastName": "lastname",
+    "projectTitle": "title goes here",
+    "projectDesc": "Description goes here",
+    "keywords": "Key words goes here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      null,
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202527,
+    "firstName": "T. Alex",
+    "lastName": "Barger",
+    "projectTitle": "LAPTOP SCREEN RECYCLING.",
+    "projectDesc": "My father recently got his hands on a new desktop setup that he is trying to gather up peripherals for, however, he wants to try and keep things cheap with his setup as he doesn’t need to have high refresh rate high resolution displays for his secondary displays. I also made note of the significant number of laptops that we had that had some fault with them that prevented them from being effectively used and making them basically E-Waste. So we thought about potentially taking a few of the laptops and recycling them into displays for the both of us, or even a smart home info-display in the future to keep things inexpensive for a new monitor, and in the long run helping cut back on electronic waste that we would be producing.",
+    "keywords": "Displays, Recycling, E-Waste",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qM4kvAD7MX6xEHTi0WtwpmpcwQeTSrlo",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1na33C77jv_aylCBOtcYNsf1WHPTsdqB4/preview",
+    "video": [
+      "https://drive.google.com/file/d/15ByqToehJTADGyjvwXGhDXOvDkpM5X2g/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1tCtGw0SjiXMdTzw3r6iGw6LflF9yBkfx/preview",
+    "contact": null
+  },
+  {
+    "id": 202502,
+    "firstName": "Andrew",
+    "lastName": "Worley",
+    "projectTitle": "Network segmentation using VLANs.",
+    "projectDesc": "This project is about the importance of network segmentation. I did this by creating a network that uses network segmentation with the use of VLANs and used subnetting to make each VLAN have its own IP network. I also got each VLAN to connect to the internet using the NAT to translate IP address to match my isp modem and I used ACLs to control what IP address get through..",
+    "keywords": "Network segmentation, NAT, ACL, VLANs, IP",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
+    "certificates": {"TestOut Routing and Switching Pro": "https://w3.testout.com/pro-certifications/routing-and-switching-pro"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18gxKPwwn6a230DY8uNFwLODOsU3fmmqW",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1cibjFt5imdBU31yyuDmwfuGHkWBe2DXe/preview",
+    "video": [
+      "https://drive.google.com/file/d/1O8IeIXAnu4BmhidGqPy3IjgtjNsLRooh/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1naYpqxs43QHMiImcKbaHltBEFEXzbERH",
+    "contact": null
+  },
+  {
+    "id": 202503,
+    "firstName": "Branton",
+    "lastName": "Gilles",
+    "projectTitle": "Event Planning Website with AI Assistant.",
+    "projectDesc": "Organizing events often involves juggling multiple tasks, from scheduling and budgeting to guest coordination and vendor management. This project proposes a web-based event planning platform enhanced by an AI assistant to streamline and simplify the entire process. The AI assistant serves as an intelligent event coordinator that can auto-populate details such as event name, date, guest list, tasks, and budget based on user input or past preferences. The solution leverages natural language processing and logic-based automation to generate tailored planning suggestions and reminders. By integrating interactive UI design with responsive, intelligent backend support, this project aims to reduce planning time, increase efficiency, and improve user experience in both personal and professional event planning scenarios.",
+    "keywords": "AI assistant, event planning, automation, user experience, web application",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=163QUrySLsKillLVAf4_FM2DFYlbrHABW",
+    "certificates": {"Microsoft IT Support Specialist": null
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=163QUrySLsKillLVAf4_FM2DFYlbrHABW",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1yfFhqZgI-DKMiUGvPJUFkHWJ2SME8RW2/preview",
+    "video": [
+      "https://drive.google.com/file/d/1vtwfCP_GIw_RzclI9ToftB1Ce80enjcL/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1bPAS5xwW7xcUFcLbA-MGONPjOxjUlgq0/preview",
+    "contact": null
+  },
+  {
+    "id": 202504,
+    "firstName": "Brooke",
+    "lastName": "Giffen",
+    "projectTitle": "Raspberry Pi Camera Doorbell.",
+    "projectDesc": "The Raspberry Pi Motion-Detecting Doorbell project addresses the need for a cost-effective and intelligent home security solution capable of identifying visitor presence in real time. Traditional doorbells lack motion awareness and often rely on manual activation, limiting their effectiveness for modern security demands. This project proposes a smart doorbell system using a Raspberry Pi and a Passive Infrared (PIR) sensor to detect motion near a door. When motion is detected, the system can trigger alerts, log events, or activate additional components such as a camera or notification system. The integration of a Raspberry Pi provides flexibility for customization and automation, while the PIR sensor ensures efficient detection of human movement. This solution is scalable, energy-efficient, and offers a practical application of embedded systems and IoT principles. It demonstrates how inexpensive hardware can be used to enhance home monitoring without relying on high-end commercial systems.",
+    "keywords": "Raspberry Pi, PIR Sensor, Motion Detection, Smart Doorbell, Home Security Raspberry Pi Doorbell Camera System",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15FpFw2ct8rY6FYsbMEeabTZr1Dr8LW1D",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15FpFw2ct8rY6FYsbMEeabTZr1Dr8LW1D",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ykVVYboQnCSF_cl1i6JDHhBbNifGhKXe",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1OCilWkeoYoM9zpt48zHoOy9WT8-ZUJ7R/preview",
+    "video": [
+      "https://drive.google.com/file/d/13Y4dMbyik8HsVOSbF-nG5KP2QXD1ilHw/preview",
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202505,
+    "firstName": "Cason",
+    "lastName": "Miles",
+    "projectTitle": "Building a Digital Fortress.",
+    "projectDesc": "This project addresses the growing need for secure, customizable, and efficient home infrastructures capable of meeting diverse technological demands. Utilizing a virtualization environment like VMware ESXi on Dell PowerEdge server and VMware vCenter for centralized host management, we can implement things like automation, robust network security, and comprehensive self-hosted services including media streaming, network video recording, and secure cloud storage. The result is a modular, scalable, and secure digital ecosystem suitable for home or small business environments.As technology continues to evolve, the demand for systems that can adapt and intelligently respond to user needs becomes increasingly critical. This project embraces that future by leveraging virtualization and automation to build a framework where services operate with minimal user intervention. As Katre and Rojatkar (2017) state, “The dream is a future in which data is communicated between devices and humans without relying on manual input of individual bytes” (p. 345). By integrating centralized management, data-driven decision-making, and customizable service layers, this infrastructure lays the groundwork for highly responsive, intelligent environments that blur the line between consumer convenience and enterprise-grade functionality.",
+    "keywords": "Virtualization, Centralized Management, Automation, Security, Self-Hosting",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-r3aaXiaAdcEKGHXlJPal7MetRPTeEyn",
+    "certificates": {"URC total Control Level 1 certification": "https://www.av-export.com/events/urc-total-control-level-1-certification-virtual/",
+      "URC total Control Level 2 certification": "https://www.av-export.com/events/urc-total-control-level-2-certification-virtual-26/"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-r3aaXiaAdcEKGHXlJPal7MetRPTeEyn",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1L3soGM11AkCIVfep43GN5_qrKOVtRk59",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1D0iwb-x5xXzr2wg4ht01HcZUU-IaaOFD/preview",
+    "video": [
+      "https://youtu.be/XoMue5yZHuE",
+      null
+    ],
+    "brochure": "https://portfolio.milestech.org/brochure/",
+    "contact": null
+  },
+  {
+    "id": 202506,
+    "firstName": "Chance",
+    "lastName": "White",
+    "projectTitle": "Pi-Based Facial ID File Access Control.",
+    "projectDesc": "The technical challenge is to design a secure file access system on a Raspberry Pi that prevents unauthorized users from viewing sensitive files. The solution requires a two-layered security approach: first, the application itself should be protected with a password, and second, each file must require facial recognition authentication before it can be viewed. To achieve this, a Python- based launcher is implemented to prompt for a password before opening the file manager. Files are encrypted using the Fernet encryption module from the cryptography library, and a facial recognition system built with OpenCV and the face_recognition library is used to authenticate users before decrypting and displaying a file. This system enhances security by combining password protection, encryption, and biometric verification.",
+    "keywords": "Raspberry Pi, Facial Recognition, File Encryption, Python Security, User Authentication",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18Uu3VnlmCM1Cl-6f0HdyINSeK1kBD00t",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18Uu3VnlmCM1Cl-6f0HdyINSeK1kBD00t",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1CD65zJy9LBMDux46iDpTs5izBI_kx1Zi",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1AZq2mLCcysEd6kn6-yVhCwVAdYVjMaUK/preview",
+    "video": [
+      "https://drive.google.com/file/d/11tSlaO10InO1orkv5moXK03B_BObFOMQ/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/14U1-jLwJlLOfkbC5ma5k-6_iU1zpnB7d/preview",
+    "contact": null
+  },
+  {
+    "id": 202507,
+    "firstName": "B. Chase",
+    "lastName": "Lovins",
+    "projectTitle": "Private Cloud, No Strings Attached.",
+    "projectDesc": "Cloud storage solutions like Dropbox and Google Drive offer convenience but can present privacy concerns. This capstone project addresses this issue by self-hosting a secure and private cloud storage solution using Nextcloud on a home server. Core phases 1 and 2 have been completed successfully, with phase 1 establishing a working virtual environment using Proxmox and Debian, and phase 2 deploying Nextcloud through Docker containers. The extension phase will involve enhancing remote accessibility and further security measures, contingent on available time.",
+    "keywords": "Nextcloud, Proxmox, Docker",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1kJYVW280KopkUjxBkWzcbXKfc0IrsTN-",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1kJYVW280KopkUjxBkWzcbXKfc0IrsTN-",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ZBTyHtuS9INh3zkMK2i3DTSzGQeTPL1k",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1ctK3FtciB6YA_C5uMwQbv4uDa-zXKqMg/preview",
+    "video": [
+      "https://drive.google.com/file/d/1U9mLVdLJQRhr217Yp21CZjGogh0eUosN/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1lwvD6cIoKGaNuVxksW7D_ssS0JE3VdA-/preview",
+    "contact": null
+  },
+  {
+    "id": 202508,
+    "firstName": "Colin",
+    "lastName": "Kays",
+    "projectTitle": "The Self-Hosted Cloud Storage System.",
+    "projectDesc": "The goal of this project was to create a self-hosted cloud storage system tailored for the needs of my hometown school system. Recognizing the growing importance of secure and accessible data storage, I envisioned a system that would allow students, teachers, and administrators to easily store, access, and collaborate on educational materials. By utilizing open-source technologies like Nextcloud and Docker, I set out to build a reliable, cost-effective solution that would empower the school system to manage its own data independently, while ensuring privacy and security. The project emphasizes the importance of local control over educational resources and aims to provide a scalable, user-friendly platform that can evolve alongside the school system's technological needs.",
+    "keywords": "Cloud, Docker, Database,  Nextcloud, RAID, Software, Hardware",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1FZkaAQVP9PgS1Ag8kN_TvLeBjBJk9dTy/preview",
+    "video": [
+      "https://drive.google.com/file/d/1qU6tPXAwIH727h3sOdSac8sdYCHSStDA/preview",
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202509,
+    "firstName": "Diya",
+    "lastName": "Patel",
+    "projectTitle": "Smart AI Powered Camera Intrusion System.",
+    "projectDesc": "Security is a paramount concern for homeowners and small businesses, driving the demand for advanced, affordable systems. Traditional security solutions often suffer from high false alarm rates and limited functionality. The “Smart AI- Powered Camera Intrusion System,” leverages artificial intelligence to provide real-time intrusion detection with reduced false alarms. The system integrated a Raspberry Pi 3b set up with AI-powered image recognition to distinguish human intruders from other sources of motion. The motivation for this project is to create a reliable, user-friendly, and cost-effective security solution for residential and small commercial settings. The system ensures real-time processing compliance with privacy laws and optimized power consumption. The anticipated outcome is a robust security system that meets modern users’ needs.",
+    "keywords": "AI-Powered security, Intrusion detection, Home security, Raspberry Pi, Motion Detection, Image recognition, TensorFlow Lite, Real-time alerts, Cloud Storage, OpenCV, False Alarm reduction, Privacy Compliance, Cost-effective solution.",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yklGyItUKguBkc-XYwOfTftsSQufzkTd",
+    "certificates": {"TestOut Routing and Switching Pro": "https://w3.testout.com/pro-certifications/routing-and-switching-pro"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1yklGyItUKguBkc-XYwOfTftsSQufzkTd",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1KxqmdrxkA7hX0gUkqhYGihv5GNYeO6v4/preview",
+    "video": [
+      "https://drive.google.com/file/d/1IQqB2wBuxCMyAaN9oz9B1DvPJ1yFqeGo/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1DNGoWN1WxQnxmeBIKvTBEKWxbJIMavDZ/preview",
+    "contact": null
+  },
+  {
+    "id": 202510,
+    "firstName": "Elijah",
+    "lastName": "Neamtu",
+    "projectTitle": "Self - Hosted Infrastructure.",
+    "projectDesc": "This capstone project tackles the growing demand for secure, cost-effective, self-managed IT infrastructure solutions tailored to personal users and small businesses. As reliance on cloud services increases, so does the concern over data privacy, operational costs, and service reliability. To address these challenges, this project presents a comprehensive self-hosted IT environment that leverages virtualization, containerization, encrypted remote access, and automated backup strategies. The system is built on enterprise-grade hardware using VMware ESXi to virtualize a Debian 12 environment, which hosts key services through Docker and Docker Compose. Core components include secure file storage with Nextcloud, encrypted VPN access via WireGuard, reverse proxy management through Nginx Proxy Manager, and web hosting protected by Cloudflare Tunnel.In addition, Veeam ONE provides robust data backup and disaster recovery capabilities, while Netdata enables real-time performance monitoring. This project serves as a scalable, practical model for secure, self-reliant IT systems—especially relevant for aspiring system administrators, cybersecurity professionals, and tech-savvy entrepreneurs.",
+    "keywords": "Virtualization, Docker, WireGuard VPN, Cloudflare Tunnel, Veeam ONE,Self-Hosted Infrastructure, System Monitoring, Cybersecurity",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1POB4AtSK9t0FfusdLIr__cfu-nNu3Lcg",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
+      "Proofpoint Cybersecurity Leadership": "https://www.proofpoint.com/us/resources/webinars/cybersecurity-leadership-certification"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1POB4AtSK9t0FfusdLIr__cfu-nNu3Lcg",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OtlPS97pln_ZDAXpH08ArztyLbEaWLqX",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1NIrHpaycWJI13XOof3WCIVVlWq4pr2Gk/preview",
+    "video": [
+      "https://drive.google.com/file/d/1jAQ2fElG1saJMce-LUdfrOg2yJFeigF1/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1ccl25-81C52JLFR4qRACy7C7QMStljB8/preview",
+    "contact": null
+  },
+  {
+    "id": 202511,
+    "firstName": "Evan",
+    "lastName": "Thompson",
+    "projectTitle": "Thompson Routing.",
+    "projectDesc": "Many home networks rely on consumer-grade routers that offer limited control over network traffic, security, and customization. These routers often lack advanced features like detailed firewall rules, traffic monitoring, and integrated adblocking. My project addresses this issue by building a pfSense router box using open-source software and a repurposed PC. pfSense provides advanced networking capabilities such as customizable firewall rules, VPN support, and real- time monitoring. Additionally, I will integrate adblocking using tools like pfBlockerNG to enhance privacy and reduce unwanted web content across all connected devices. This solution gives full control over the network, improves performance, and increases overall security for my home environment.",
+    "keywords": "pfSense, Router, Adblocking, Network Security, Firewall",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17hRjTTcekZYiBJmpfV4dxAbJpAScHqm_",
+    "certificates": {"CompTIA Network+": "https://www.comptia.org/certifications/network"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=17hRjTTcekZYiBJmpfV4dxAbJpAScHqm_",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Ir79H73ud2FcdyXa6yoKkSW9q7ihRhyv",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1JuMEOgRKOQtuheYb04FO_DlTMtuGBxHI/preview",
+    "video": [
+      "https://drive.google.com/file/d/1S1x9CqtIozlq_cmK0qG91wu8HkZgfr4S/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1QmpeNkGiH6clj4OgJTG5aTKoyA8N5jlT/preview",
+    "contact": null
+  },
+  {
+    "id": 202512,
+    "firstName": "S. Garrett",
+    "lastName": "Mudd",
+    "projectTitle": "Streamers Delight: A NAS and HDMI switch controller.",
+    "projectDesc": "The practice of streaming games or media has been on the rise for a long time. Over 7.3 million channels go live on Twitch each month (Twitch Tracker, 2024) and the demand for increased storage has increased dramatically over the years with the amount of channels streaming. However, people are often unwilling to spend the additional money on additional storage or to upgrade their PCs to handle more storage. People also want an easy way of switching between their different HDMI source without having to constantly unplug and plug HDMI cables in constantly. This project aims to provide an alternative solution to the problem using Raspberry Pi and HDMI matrix switch. Currently the project all parts of the project has been implemented.",
+    "keywords": "Raspberry Pi, Samba, HDMI Matrix switch, Operating System (OS)",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14W_F6uUZn7KL8jPuW1uY5NUY2X6SJ0VF",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14W_F6uUZn7KL8jPuW1uY5NUY2X6SJ0VF",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=10bF-0nwuPu0DdFoHU0Bk1bhDPP-Gb7i-",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1QbGXeMjrh0uJQk6kJNt6z_pzIb5-gqLK/preview",
+    "video": [
+      "https://drive.google.com/file/d/1HQkIMDrNlZ2tMkw6QTIbHPb9AKnmRBRp/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1Mpesd3Czt8ts2d27cs2Xy3tG52lhGuOG/preview",
+    "contact": null
+  },
+  {
+    "id": 202513,
+    "firstName": "Gunnar",
+    "lastName": "Jones",
+    "projectTitle": "Constructing an A.V. Rack for a Classroom Deployment.",
+    "projectDesc": "The purpose of my capstone project is to provide an audio-visual communication solution for a learning environment. The lack of or the utilization of insufficient methods to convey digital information can disrupt the efficiency and effectiveness of many industries, including education, entertainment, business, and healthcare. Being able to share audio and video content with a large population of people can be accomplished using audio-visual systems and equipment. I hope to demonstrate an audio-visual system of my own making that accomplishes this goal, while demonstrating how efficient and effective these systems can be for any end-user.",
+    "keywords": "audio-visual, A.V. rack, end-user",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zxXTJjp-WpAdl86eQynjhblC5N6v2hCB",
+    "certificates": {"Extron AV Associate": "https://www.extron.com/article/avassociate",
+      "Extron Authorized Programmer": "https://www.extron.com/article/eaprogrammer",
+      "Runner-up, 2024-25 Distinguished CST Senior Award": null
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1zxXTJjp-WpAdl86eQynjhblC5N6v2hCB",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12vRGOzt9RkZ0oKdW_alx0OWnpJ4PLap1",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1rTLg86EL0zhsX_2z03ORVnachmKIserl/preview",
+    "video": [
+      "https://drive.google.com/file/d/1EGUWIWwVEoAjglTOntYfpKJw1xKiTqAy/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/15d1JrN8CMBfZ-ulL4GVh2UsrS-1R1iCn/preview",
+    "contact": null
+  },
+  {
+    "id": 202514,
+    "firstName": "Jakhi",
+    "lastName": "Turner",
+    "projectTitle": "RASPBERRY PI FILE SERVER.",
+    "projectDesc": "The idea of having a small, reliable cloud service to easily manage files from multiple different areas of the house, office, or anywhere is amazing. Not having to rely on paid services to quickly send files to other devices, while finding a use for that Raspberry Pi that has been sitting collecting dust is a fun, useful implementation that benefits everyone. However, there are some hoops needed to jump through before you can actually reap the benefits. These hoops include, but aren’t limited to, configuration of Raspberry Pi, setting up the necessary software for hosting the fileserver, and setting up two Factor Authentication (2FA).",
+    "keywords": "Apache2, Raspberry Pi, ownCloud, Two Factor Authentication (2FA)",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19hvHWIS3FnFj48o5pSjuQ3diH9Fo8wvW",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=19hvHWIS3FnFj48o5pSjuQ3diH9Fo8wvW",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aNDMkqlCwDPOwa2r4LIg35-uyJR2HIxc",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1tzGTL3Pb7_BvYCjqQfQyr_vxr3Vs1LMA/preview",
+    "video": [
+      "https://drive.google.com/file/d/1ta_tJkYlt7cDqfL_oGNvRfRQ8GqKQ91P/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1cn-tTR10onZrAa8OUmbYDEBgOwsxw70W/preview",
+    "contact": null
+  },
+  {
+    "id": 202515,
+    "firstName": "James(Jay)",
+    "lastName": "Thacker",
+    "projectTitle": "Remotely Accessible Home Server.",
+    "projectDesc": "This project aims to create a remotely accessible home server for the purposes of media streaming and filesharing. It integrates 3 key technologies: Raspberry Pi computing, Docker Engine containerization, and WireGuard VPN tunnels. All of these technologies come together to create a cohesive solution to the problem of media preservation.",
+    "keywords": "Raspberry Pi, Docker, Portainer, WireGuard, VPN",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XYawd0CjSDC5svNa1DFekZb_p4AOh6OP",
+    "certificates": {"TestOut Routing and Switching Pro": "https://w3.testout.com/pro-certifications/routing-and-switching-pro",
+      "Nominee, 2024-25 Distinguished CST Senior Award": null
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XYawd0CjSDC5svNa1DFekZb_p4AOh6OP",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=11KdkZleVYLn8u4kU4TIE1sTqw2WwiSMi",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1txEPeJu2XTb7ooY4eErZzzGfMhdIJXOY/preview",
+    "video": [
+      "https://drive.google.com/file/d/1nIb5xO30pJT7oLvlEhekkZvTMHUZc4Vz/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1WCh88Y0OZg08mOoKPeJHT4q7vh6J-KG5/preview",
+    "contact": null
+  },
+  {
+    "id": 202516,
+    "firstName": "Jordan",
+    "lastName": "Clark",
+    "projectTitle": "USB REPAIR TOOL.",
+    "projectDesc": "Whenever my parents or grandparents have computer issues, they call me because they do not understand how to fix them. My project aims to give them the ability to fix it themselves, along with an easier way to allow me to connect to their computer. The USB repair tool comes with a small toolset that solves simple issues with an easy to use UI, running entirely from PowerShell scripts.",
+    "keywords": "PowerShell-1, USB repair tool-2, User Interface (UI)-3",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ey27U8ooi3-4K2KfyEmYw-LZr3sewq3F",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ey27U8ooi3-4K2KfyEmYw-LZr3sewq3F",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k1CrX6aDdj1dnc-In5QiZ6gzSc_qBobe",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1CesKjLeQYTVI4TXDBIwFHoo5Sakv4lHB/preview",
+    "video": [
+      "https://drive.google.com/file/d/1ydq5JmGQLUvdOm1I2clnZF2_ho7dyuwO/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/13e9LNQSfT1qeK7o6XrFZWxTK7tQBKIUp/preview",
+    "contact": null
+  },
+  {
+    "id": 202517,
+    "firstName": "Joshua",
+    "lastName": "Griffin",
+    "projectTitle": "Raspberry PI Security Camera.",
+    "projectDesc": "The usage of security cameras around the world has become commonplace, whether it's to use them as a protection device or to make sure that your employees are working. However, some of these cameras can cost an extreme amount of money, and on top of that, the software that they use could cost money as well. This project aims to make use of a Raspberry Pi to give smaller companies access to a camera that is not overpriced and is still able to do the things needed. There are even cameras that can track motion, whether it's human motion or motion in general. So far in my project, Core 1 and Core 2 have been successful. Core 1 provided proof of concept on setting up a brand-new OS on a new device that I had never set up before. Core 2 provided the full concept on using the Raspberry Pi as a full security camera. The extension phase implication remains dependent on time constraints.",
+    "keywords": "Raspberry PI, OS (Operating System), Security Camera",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16DXM8tuP5I4Jhepxw7p-zl4rku-8xJjZ",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16DXM8tuP5I4Jhepxw7p-zl4rku-8xJjZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I2yZtmEhcHYsCbRIBBYeJAlpd8iFfnSa",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1DSAN6aSgPQPk9TjIzUyoSc1YqRGiseZo/preview",
+    "video": [
+      "https://drive.google.com/file/d/1IdAMLTDNPHTq8sARIhcE-gIloi7pF0Hq/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1adJ38fSqyXbeYry5TLJDHK3-mXV43Gag/preview",
+    "contact": null
+  },
+  {
+    "id": 202519,
+    "firstName": "Landen",
+    "lastName": "Brittain",
+    "projectTitle": "ArtemisAI.",
+    "projectDesc": "AI is a tool that is able to support multiple functions and aid with the most confusing of tasks. This reason is why the capstone project is creating an AI using JavaScript. While using multiple Application Programmable Interfaces(APIs), this AI would be able to accept both Voice and Text as an input while providing a Voice, Text, or Image as an output. These APIs were chosen as a way to maximize efficiency for other projects later in time.",
+    "keywords": "JavaScript, API, AI",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1q5j_PtxrPPRtba9FyBHWoJgRaqGQf9Ag",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1q5j_PtxrPPRtba9FyBHWoJgRaqGQf9Ag",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1brOx4hZKS3LI9n5YDGBBKYmj8LwG1pVc/preview",
+    "video": [
+      "https://drive.google.com/file/d/1u00Px9HybRW_9oo8hwL_NeEJ-IeySpmx/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1cP6AwBMWJOISt9o0oefNz2o6hLb3DwiZ/preview",
+    "contact": null
+  },
+  {
+    "id": 202520,
+    "firstName": "Luke",
+    "lastName": "Payne",
+    "projectTitle": "AUTOMATING AN AV SYSTEM.",
+    "projectDesc": "The problem I intend to solve is the need to interact with a system. Creating an automated audio -visual(AV) system would make everything as hands-free as possible. Extron makes devices for this but it is not something I have available so I will be using Raspberry Pi for programming. Raspberry Pi also allows for much more freedom, giving me the ability to include more interaction if desired.",
+    "keywords": "Raspberry Pi, Audio-Visual, Extron",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": {"Extron AV Associate": "https://www.extron.com/article/avassociate",
+      "Nominee, 2024-25 Distinguished CST Senior Award": null
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1QshmSiQJZqYacSSA2yp0B0MJSiB5rSkq",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1jlS0bunL135K3UhZu8rzq9jeW83a-mtO",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1ns0AYlmgGng2aRntBeXomuUC3skTuNb4/preview",
+    "video": [
+      null,
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1nnY28YQYg1fCfa40IFvPAOOeG3XDhTE2/preview",
+    "contact": null
+  },
+  {
+    "id": 202521,
+    "firstName": "R. Mickey",
+    "lastName": "Ward",
+    "projectTitle": "Cloudflare Self-Hosting",
+    "projectDesc": "With subscription service prices rising and some even utilizing geo-locking to block family-shared accounts, I needed a way to remotely stream all of my content on any device. Since the hardware I owned was not very powerful, I also needed to make this streaming efficient. This content needed to be stored within a remotely accessible storage drive. Plex Media Server fulfills the hosting and streaming requirements for my content quite well. As for efficiency, Docker containers are extremely lightweight, only housing the necessary software to function properly. For remote storage, Samba shares and a web-GUI for file sharing accomplish this nicely.",
+    "keywords": "Cloudflare, Ubuntu Server, Docker",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KDEERjvA4OGakoQiFRLXWLd46aSS_ml5",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1KDEERjvA4OGakoQiFRLXWLd46aSS_ml5",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1sLUr1igvAKC8JLJZAuxcqJtyogCx_24c",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1BL3mrG2ElWqxh0WHDIYgMtuEYBAnLxuw/preview",
+    "video": [
+      "https://drive.google.com/file/d/1b3VSklM95FFn6IQEydIpVQDj_JYBG8T7/preview",
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202522,
+    "firstName": "Nick",
+    "lastName": "McCarty",
+    "projectTitle": "Home Convenience Network.",
+    "projectDesc": "The purpose of this project is to renovate and reuse an old computer of mine into a server computer where I can send files from my other computers for storage and organization. To do this, I will clean and configure my existing old windows pc and reinstall Mint Linux as its primary OS; then, I will connect the Linux server computer to a managed network switch wired via Ethernet cable to my router and two personal Windows computers. Once connected this home network system will allow for me to collect all my files in a singular, organized location with the additional benefit of having a centralized computer from which to manage my network by implementing safety procedures such as Network Access Control to create MAC-based rules per port, Make firewall rules via Linux to restrict incoming/outcoming traffic, and convert the Linux server into a local DNS/DHCP server.",
+    "keywords": "Linux, Network, DHCP",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wl6MHvp8RDc-y5mvI9RoPXaD4lCo32Op",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1wl6MHvp8RDc-y5mvI9RoPXaD4lCo32Op",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13MFq4yyDXiAGm73XNzsNX6c0J0T557MV",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1X0J64oGgp_GIfaw0rm8DYfgcRX2livxK/preview",
+    "video": [
+      "https://drive.google.com/file/d/1pMEMsawpvdKxDh-rPHX7zk55Z9OtzV5w/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1C2t6n0EGcLmJ6Hrye1ZnVAPa9oMV3gPH/preview",
+    "contact": null
+  },
+  {
+    "id": 202523,
+    "firstName": "Parker",
+    "lastName": "Morgan",
+    "projectTitle": "File Transfer Server using Raspberry Pi.",
+    "projectDesc": "This project aims to develop a personal file transfer server using a Raspberry Pi 5. The goal is to provide a secure, low-cost, and scalable alternative to cloud-based storage. The system allows local network file transfers via SSH and will eventually support external storage and VPN capabilities. This setup provides a useful tool for individuals needing a private and customizable data storage solution.",
+    "keywords": " Raspberry Pi, SSH, file server, secure storage, personal cloud",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IkxLzclKk47teEoBgtKg0eMKed3pKgIa",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IkxLzclKk47teEoBgtKg0eMKed3pKgIa",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1FWkHnHEVJJPzBnfl4CXYLxq0Y7nzLqDA",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1ZlcptKa5wdtLNfkxvpBJUqXEGRQgnzfX/preview",
+    "video": [
+      "https://drive.google.com/file/d/1dmtMtBn5VtHk8HwvRqNNcC9GSKMbTwvq/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/15VBoDKlrTRDJkUd6ekPBWJbJOQYBk_Qj/preview",
+    "contact": null
+  },
+  {
+    "id": 202530,
+    "firstName": "Raven",
+    "lastName": "Dean",
+    "projectTitle": "Network Visualization using Grafana.",
+    "projectDesc": "The growing complexity and scale of homelab networks demand robust observability to ensure reliability, security, and performance. This project implements and exposes a cost-effective, self-hosted monitoring stack by leveraging open-source tools within a Debian VM on Proxmox. In the core phase, Prometheus and Grafana OSS scrape and visualize metrics from OpenWRT routers, Proxmox VE hosts, and Pi-hole instances using HTTPS-backed exporters and community dashboards, providing real-time insights into system health. Grafana’s alerting engine is configured with custom rules, contact points, and webhook notifications to detect anomalies and dispatch timely alerts. To securely expose monitoring externally, a WireGuard VPN tunnel links a Proxmox-hosted LXC to an OVHCloud VPS, where Docker-based Nginx Proxy Manager with Let’s Encrypt certificates delivers a TLS-protected reverse-proxy interface.",
+    "keywords": "Grafana, Prometheus, Network Observability, WireGuard VPN, Reverse Proxy, Self-hosted, Virtualization, Alerting & Notifications, Let's Encrypt.",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HcCNZDZ3OdO5j9MICAWzKecUULj1fkSJ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HcCNZDZ3OdO5j9MICAWzKecUULj1fkSJ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ROi4N_m7deITFknFti612GANEmGNq6_I",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1E5NkBKKi-8H2H36NU4E5RwsVTPe_sN9Y",
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/157Pml-TBMkEjCgKNWj4X_ju5pSANYsri/preview",
+    "video": [
+      "https://www.youtube.com/watch?v=2Ip0Z2kw8ks",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1MVw2ej6XIC6lM3OAteusjQ7qlt_6QhHf/preview",
+    "contact": null
+  },
+  {
+    "id": 202524,
+    "firstName": "Ryan",
+    "lastName": "Raikes",
+    "projectTitle": "HACKINTOSH – VINTAGE MAC RESTORATION.",
+    "projectDesc": "In our digital age there exists a great disparity between electronics and other fields of engineering, for while buildings and structures remain for decades and even centuries, and finely crafted jewelry and furniture will outlive your grandchildren, the humble circuit board has a life quite similar to that of the electrons in which it is designed to manipulate, i.e. fleeting. Old computers are like time capsules of wonderful progress made in such short periods of time. Though they are easily considered obsolete and exotic in just a few short years, and one may be tempted to dispose of them as has become all too common within our culture, these machines will never be made again and never will be experienced again. If we were to carelessly let them fall the wayside, we would lose some of our most fantastic, albeit historic, achievements as a species. Antique technology, (e.g. Cathode Ray Tubes, Floppy Disks, etc.) deserves to be preserved for future generations to fully understand the history of our manipulation of electrons.My project revolves around taking a dusty thirty-year-old Apple Macintosh LC 575 from the attic of an old school and bringing it back to life again. A variety of ‘Phases’ have been executed in this project, (e.g. Core Phase 1 – ‘Restore Basic Functions’, and Core Phase 2 – ‘Replace & Reinstall’). A large portion of the project, and most of the second ‘Phase’ was to build an alternative device and replace the broken SCSI drive in order that full functionality may be restored. There was also an Extension Phase, (i.e. involving the upgrading of other regular hardware to higher specifications) that ended up in surprise, being a requirement to fully complete Phase 2. I accomplished my goal ultimately, and with my own blood and sweat have not left the silicon to be found wanting. The computer functions fully and is upgraded beyond its original specifications.",
+    "keywords": "Macintosh, Cathode Ray Tube, SCSI",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OBIaKcT5DBdyOayTcjr_i3I9EopwmHjD",
+    "certificates": {"Nominee, 2024-25 Distinguished CST Senior Award": null,
+      "Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1OBIaKcT5DBdyOayTcjr_i3I9EopwmHjD",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1RjGgDUTMrHmX6QuZWD_hMDMv_tQeq4IO/preview",
+    "video": [
+      "https://youtu.be/NTjolUrjgdg?si=lEcXqLqJNbyjSaMP",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1neuRLEC-aRbthaliRIXmm9c8s62wxEP0/preview",
+    "contact": null
+  },
+  {
+    "id": 202525,
+    "firstName": "Seth",
+    "lastName": "Hackbarth",
+    "projectTitle": "pfSense Router: Securing Your Home’s Network.",
+    "projectDesc": "The problem that I am trying to solve with my senior capstone project is that my home network has no way of securing itself. Like most home networks, my home only has a modem, two Wi-Fi routers and a wireless access point, with nothing filtering packets. So, my proposed solution was to install a pfSense router which would filter the traffic between the modem and the Wi-Fi router that gets the internet. As pfSense by itself is just a firewall, I decided to install many of its packages to further the security of my home’s network. Some the packages I plan on installing are Snort, OpenVPN, and pfBlockerNG. Snort is an Intrusion Prevention System, or IPS, and the way I have it set up is that it is monitoring all the traffic that made it past the firewall and blocking in. OpenVPN will give me access to my pfSense router from anywhere, allowing me to reset it if needed or to help troubleshoot a problem that my parents might be having while I’m away. Finally, pfblockerNG is a package that can blacklist IP’s and DNS servers, and an application of this package is that it can be used as a adblocker.",
+    "keywords": "Network Security, Filtering, VPN, Virtual Private Network",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14tnZeu7adXDWdWL_yoppvcJwY3obs4CJ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14tnZeu7adXDWdWL_yoppvcJwY3obs4CJ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1BzswqAYt6puejeT9AMloTk9Kc0XDE-yq",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1GOCqJrym6UZ0DO4LmIzkqjmRtQLbWJla/preview",
+    "video": [
+      "https://drive.google.com/file/d/1mL27btnU6z6r2-Ub8EyGgvC6hPcgwvec/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1bjxnNQWsMO4DBKu0EMwoh8FzqqxwUUzk/preview",
+    "contact": null
+  },
+  {
+    "id": 202526,
+    "firstName": "Tarek",
+    "lastName": "Addarrat",
+    "projectTitle": "Packet Hunt.",
+    "projectDesc": "This project aims to create a solution to automating network security and detecting malicious attacks in packet data without having to rely on labeled datasets. The solution this project offers is to use an unsupervised machine learning model to identify patterns in packet features extracted from raw packet data files. Multiple scripts were used to parse the raw data, preprocess relevant fields in the data, scale the data, and apply a detection algorithm that identifies potential threats in network traffic.",
+    "keywords": "Anomaly detection, unsupervised learning, Isolation Forest, PCAP, CSV",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1a8THNGkE_m9cy1wFTylSjdgiwi5jCRaI",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1a8THNGkE_m9cy1wFTylSjdgiwi5jCRaI",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1RmX2XOPtmtMo4vkPrE-PTwEeInlQRFj_",
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1VHttekBdDVpfGVQhQyp5TcVWvSMFbutc/preview",
+    "video": [
+      "https://youtu.be/XoMue5yZHuE",
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202528,
+    "firstName": "William",
+    "lastName": "DeBord",
+    "projectTitle": "Arduino Soil Moisture Detector.",
+    "projectDesc": "The Arduino Soil Moisture Detector addresses a growing need in agricultural and small-scale gardening environments: real-time, accurate soil moisture monitoring. This project implements a low-cost solution using an Arduino Uno, a soil moisture sensor, and an LCD screen to display data directly. The prototype monitors soil moisture levels, activates an alert (LED or relay for watering) when soil is too dry, and visually reports readings. The project is designed to help users efficiently manage water resources and ensure optimal plant health. Core 1 involved developing the sensor circuit and data acquisition. Core 2 added the LCD interface for user feedback. An optional extension includes relay-controlled irrigation.",
+    "keywords": "Arduino, Soil Moisture, LCD Screen",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14gEq5Yo4UnJZMXpxlX2E_I-wHiL-cFBW",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
+      "Joint winner, 2024-25 Distinguished CST Senior Award": null
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14gEq5Yo4UnJZMXpxlX2E_I-wHiL-cFBW",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XcW_2ipPzH9mpOuiYrCQ3sSkPbH9hZ-P",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1CSR6FN_JjBJaJRF-uso-buNguAjJMpW0",
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1XBS-fOb7isGJKDhGoq0h7eTzTp8XfLaF/preview",
+    "video": [
+      "https://drive.google.com/file/d/1QUuRZwDF8jSt1cq_vv2sJtsnZwLP6Ahu/preview",
+      null
+    ],
+    "brochure": "https://drive.google.com/file/d/1ALrdNwQozJKnS-vDhI9P1FleuUbqNndi/preview",
+    "contact": null
+  },
+  {
+    "id": 20253,
+    "firstName": "Alex ",
+    "lastName": "Richardson MS*",
+    "projectTitle": "Using Artificial Intelligence to Detect Anomalous Network Connections.",
+    "projectDesc": "This project aims to create a system that contains a trained AI model that will detect whether a network connection is normal or anomalous. Current solutions that provide a system like this are aimed at enterprises which leave out small to medium-sized businesses and hobbyists. These current solutions either require propriety hardware to be installed within the network or have a closed-source code that limits the creativity of the user. These solutions also have complex or undisclosed pricing which makes it unobtainable for small companies and hobbyists.\nThe project leverages many open-source software and easily obtainable hardware so it can either be recreated or deployed at various locations. Network connection data will be collected by Zeek, a network analysis software, moved to a central server, and processed by a trained AI model that was trained using the isolation forest model from the PyOD project. The collected connection data along with the AI’s inference on whether it is normal or anomalous will be loaded into an Elasticsearch index. The logs data loaded into this index will be used for visualization with Kibana so a user can see the AI’s decision and other useful information about the connection data.\nThis project is conducted in 3 phases which are divided into 2 cores and an extension. The first core will be to collect preliminary data, process it, and train the AI. The second core will be the consolidation of logs along with the AI’s decision into a database that is easily searchable. The extension will consist of using an open-source data visualization tool to create a single-pane-of-glass display.\nResearch like this has already been done at Arizona State University where a team of researchers trained an AI model using tagged datasets and evaluated how it performed once given a new dataset with known anomalies in it. The testing was successful only if the AI had been previously trained on those attack types.\nOnce the pipeline was fully set up, the system successfully processed the connection logs from start to finish, totaling 43,427 records. About 90 percent were marked as anomalies by the Isolation Forest model, which closely matches the fact that 80 percent of the dataset was synthetic attack traffic. The system produced usable results, even though some false positives were observed due to limited training data.\n",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": {"CompTIA: Cloud Essentials+": "https://www.comptia.org/certifications/cloud-essentials",
+      "CompTIA Security+": "https://www.comptia.org/certifications/it-fundamentals"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1jC_h_qukizNj6r8wTRE9uKd9H_y-23Eg/preview",
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202529,
+    "firstName": "Funmilola (Felicia)",
+    "lastName": "Aiyeotan MS*",
+    "projectTitle": "Raspberry Pi-based Video Surveillance System",
+    "projectDesc": " Within this project, I will be tackling a small section of security that has gradually become prevalent in our society today: the application of video surveillance systems as a means of protecting one’s assets and ensuring that the environment one wishes to survey is secured. The utilization of Raspberry Pi would serve as the backbone of this research, with the implementation of a video camera to help capture video footage. The project has three major phases. These include the assembly of the Raspberry Pi itself, the integration of the video camera onto the Raspberry Pi, and, lastly, the deployment of the system.  By using Raspberry Pi to carry out this project, it would serve as not only a scalable option but also an option that is accessible yet cost-effective for any user, regardless of their technological expertise, and capable of performing any form of surveillance when needed.",
+    "keywords": "Raspberry Pi, Video surveillance, Open CV, Pushover Notification.",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dnBl7IqocYWj0An48_xQxzMIEBDnON-O",
+      null,
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202532,
+    "firstName": "Justin ",
+    "lastName": "Chitwood MS*",
+    "projectTitle": "Home Intrusion Detection System.",
+    "projectDesc": "Home networks are expanding at an exponential rate with a large number of devices being capable of sending and receiving data. Along with this, remote work has increased meaning a large number of people are using their work machines on their home network. These two combined create a large target for cybercriminals due to vast amounts of data that can be stolen. If a home network is compromised, cybercriminals could gain personal information such as banking information, usernames passwords etc. As for remote workers, cybercriminals could gain sensitive information related to work along with work usernames and passwords which could lead them to commit another attack.To counteract this growing risk, an Intrusion Detection System (IDS) can be used to monitor a home network and detect any potential malicious traffic. To do this, and to view the data effectively, Suricata can run alongside Elasticsearch, Kibana, and Fluent bit. Suricata, an open-source detection engine, acts as an Intrusion Detection System. Fluent bit is responsible for logging data from Suricata so that it can be stored and used. Elasticsearch and Kibana are responsible for creating a search engine to view data from Fluent Bit and for creating a visualization of that data to give better insight into the data. While all of these software’s are good on their own, this combination will allow for a highly customizable yet cost-effective solution that will allow for data to be visualized and stored so that any and all traffic can be analyzed effectively versus using each software independently of one another. To install all of these software’s, an old PC can be used with a Linux based operating system installed, in this case Linux Mint and an old monitor. Using an old PC and monitor allows for maximum cost savings. If potentially bad traffic is flagged, the user can view information relating to it and decide on whether to act on it or not..",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
+      "TestOut Routing and Switching Pro": "https://w3.testout.com/pro-certifications/routing-and-switching-pro"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      null,
+      null,
+      null
+    ],
+    "presentation": "https://drive.google.com/file/d/1AjeyAmFX9fqPWXdhG3skaOI6ERVY8q97/preview",
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  },
+  {
+    "id": 202529,
+    "firstName": "Odin",
+    "lastName": "Blevins MS*",
+    "projectTitle": "TBA.",
+    "projectDesc": "Project Description will go here.",
+    "keywords": "Keywords will go here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mh2hrWySt-_UYzIsZKTuRfbnd7jEJd7N",
+    "certificates": {"CompTIA IT Fundamentals (ITF+)": "https://www.comptia.org/certifications/it-fundamentals"
+    },
+    "images": [
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mh2hrWySt-_UYzIsZKTuRfbnd7jEJd7N",
+      null,
+      null,
+      null
+    ],
+    "presentation": null,
+    "video": [
+      null,
+      null
+    ],
+    "brochure": null,
+    "contact": null
+  }
+], 
+  "other": {
+    "classPhoto": [
+      {
+        "title": "Class Photo",
+        "name": "Entire Class",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SjULkHIr8vQn-kuSrJnhiKoBmn2jY_nU"
+      },
+      {
+        "title": "Students Photo",
+        "name": "Spring-Summer Graduates",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1_aE4Uo-i_jo3GgFNvyAULuj-br5Xadna"
+      },
+      {
+        "title": "Students Photo",
+        "name": "Fall Graduates",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13LcVGCRAE-Nkq9WpG2M9DkXAHvQhZIhG"
+      },
+      {
+        "title": "Anthony Friend",
+        "name": "CST Advisory Committee",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LkF04Gqv2JR3xIOu8A22B2MsiFp6OefS"
+      },
+      {
+        "title": "Jeremy Adams",
+        "name": "CST Advisory Committee",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pjA5XOna-2K_EzSQWK3Io86CCSeNMead"
+      },
+      {
+        "title": "Ryan Lewis",
+        "name": "CST Advisory Committee",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1PHSkme4KqbvUyomH_Ku6SSzkQb4CvNZY"
+      },
+      {
+        "title": "Odin Blevins",
+        "name": "Graduate Assistant of the Year 2024-2025",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oeVWFZjqaoEcR68mmOz_ysUp5_woITCb"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Celebration",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1PRD0S8T2KXL3Bz974oNw5OA4kyTqWdRw"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Celebration",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I5KB2n7c8DhEtGVpv_gwf-J9MZFVB_9u"
+      }
+    ]
+  }
+}
