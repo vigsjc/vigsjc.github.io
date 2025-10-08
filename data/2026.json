@@ -30,20 +30,20 @@
     "projectTitle": "title goes here",
     "projectDesc": "description goes here",
     "keywords": "key words goes here",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1hjBwtrGqTCDbrDcY4gzFyrciOAlRnOUZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qM4kvAD7MX6xEHTi0WtwpmpcwQeTSrlo",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
       null
     ],
-    "presentation": "https://drive.google.com/file/d/1na33C77jv_aylCBOtcYNsf1WHPTsdqB4/preview",
+    "presentation": null,
     "video": [
-      "https://drive.google.com/file/d/15ByqToehJTADGyjvwXGhDXOvDkpM5X2g/preview",
+      null,
       null
     ],
-    "brochure": "https://drive.google.com/file/d/1tCtGw0SjiXMdTzw3r6iGw6LflF9yBkfx/preview",
+    "brochure": null,
     "contact": null
   },
   {
