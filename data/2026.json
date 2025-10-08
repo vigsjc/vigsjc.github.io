@@ -186,23 +186,22 @@
   },
   {
     "id": 202508,
-    "firstName": "Colin",
-    "lastName": "Kays",
-    "projectTitle": "The Self-Hosted Cloud Storage System.",
-    "projectDesc": "The goal of this project was to create a self-hosted cloud storage system tailored for the needs of my hometown school system. Recognizing the growing importance of secure and accessible data storage, I envisioned a system that would allow students, teachers, and administrators to easily store, access, and collaborate on educational materials. By utilizing open-source technologies like Nextcloud and Docker, I set out to build a reliable, cost-effective solution that would empower the school system to manage its own data independently, while ensuring privacy and security. The project emphasizes the importance of local control over educational resources and aims to provide a scalable, user-friendly platform that can evolve alongside the school system's technological needs.",
-    "keywords": "Cloud, Docker, Database,  Nextcloud, RAID, Software, Hardware",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
-    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
-    },
+    "firstName": "firstname",
+    "lastName": "lastname",
+    "projectTitle": "title goes here",
+    "projectDesc": "description goes here",
+    "keywords": "key words goes here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1pcM4oDeE6nGFcKFgqz5Z6B7oLhb5Bmfh",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
       null
     ],
-    "presentation": "https://drive.google.com/file/d/1FZkaAQVP9PgS1Ag8kN_TvLeBjBJk9dTy/preview",
+    "presentation": null,
     "video": [
-      "https://drive.google.com/file/d/1qU6tPXAwIH727h3sOdSac8sdYCHSStDA/preview",
+      null,
       null
     ],
     "brochure": null,
