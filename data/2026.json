@@ -48,26 +48,25 @@
   },
   {
     "id": 202502,
-    "firstName": "Andrew",
-    "lastName": "Worley",
-    "projectTitle": "Network segmentation using VLANs.",
-    "projectDesc": "This project is about the importance of network segmentation. I did this by creating a network that uses network segmentation with the use of VLANs and used subnetting to make each VLAN have its own IP network. I also got each VLAN to connect to the internet using the NAT to translate IP address to match my isp modem and I used ACLs to control what IP address get through..",
-    "keywords": "Network segmentation, NAT, ACL, VLANs, IP",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
-    "certificates": {"TestOut Routing and Switching Pro": "https://w3.testout.com/pro-certifications/routing-and-switching-pro"
-    },
+    "firstName": "firstname",
+    "lastName": "lastname",
+    "projectTitle": "title goes here",
+    "projectDesc": "description goes here",
+    "keywords": "key words goes here",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15yeYPRHVtXsgUi1Sub7jDY8GgJLDZYCX",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18gxKPwwn6a230DY8uNFwLODOsU3fmmqW",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       null,
       null
     ],
-    "presentation": "https://drive.google.com/file/d/1cibjFt5imdBU31yyuDmwfuGHkWBe2DXe/preview",
+    "presentation": null,
     "video": [
-      "https://drive.google.com/file/d/1O8IeIXAnu4BmhidGqPy3IjgtjNsLRooh/preview",
+      null,
       null
     ],
-    "brochure": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1naYpqxs43QHMiImcKbaHltBEFEXzbERH",
+    "brochure": null,
     "contact": null
   },
   {
