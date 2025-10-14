@@ -21,7 +21,7 @@ var capstoneData;
     function getUrlData() {
         var dynamicData = {};
         return $.ajax({
-            url: "https://vigsjc.github.io/data/2026.json",
+            url: "https://vigsjc.github.io/data/2027.json",
             type: "get",
             data: dynamicData
         });
