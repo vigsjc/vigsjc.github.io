@@ -82,14 +82,14 @@
    "projectTitle": "Seven Layer Cisco Security: CCNA Security Physical and Virtual L",
    "projectDesc": "The issue addressed by this project is making an effective physical lab to prepare for the CCNA Security certification exam. The goals in taking on this project were to expand skills and knowledge related to network security with an emphasis on securing Cisco routers, Cisco switches, and Cisco Adaptable Security Appliances (ASAs) more commonly referred to simply as firewalls.",
    "keywords": "Cisco, CCNA, Security, ASA, Firewall, Network Hardening, Home Lab, Packet Tracer",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1D01dDFuCVGp49esVoKDfvTRoJSklI3IZ",
    "certificates": {
      "CCNA":"https://www.cisco.com/c/en/us/training-events/trainin-certifications/certifications/associate/ccna-routing-switching.html",
      "CCENT":"https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccent.html", 
      "CompTIA A+":"https://www.comptia.org/certifications/a"
    },
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aM2mns8fHtG5EMcZuHVKDytwCAp1aIWX",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1D01dDFuCVGp49esVoKDfvTRoJSklI3IZ",
       null,
       null,
       null
@@ -488,10 +488,10 @@
    "projectTitle": "Implementation of an OpenFlow Switching Security Solution via the Zodiac FX",
    "projectDesc": "The nature of IT is ever in constant flux with new technologies and practices replacing the old. Staying at the forefront of this ever advancing wave is crucial in adapting to the unique demands imposed upon IT infrastructure both in terms of internal and external forces. One of the most defining advancements for networking devices is that of Software Defined Networking.\\nUnique in the fact that management and control is held by a centralized controller, SDN seeks to alter the traditional IT paradigm. OpenFlow, a recently released network protocol serves as the de facto spearhead to this revolution, having been adopted already in production environments despite its relative infancy.\\n\\nThe Zodiac FX as a device is a prototyping switch that utilized SDN through OpenFlow in order to allow enthusiast and research driven individuals opportunity to experiment and develop applications without more traditional, costly networking equipment.\\nIn exploration of SDN and OpenFlow as a potential source of in-built security, I seek the construction of a simple network prototype consisting of a small handful of host machines utilizing the Zodiac FX.\\n\\nDivided into a multi-phase schedule the project is oriented around a two core methodology with the proposal of a pre-meditated extension; each core representing a standalone state of the project wholly capable of existing within its own right. The first of these cores representing a stable state through which the Zodiac FX is configured and capable of handling closely monitored, or even simulated traffic. The second introducing its role as a security device, most notably as the network’s standing firewall – were previously simulated traffic is brought into a hand tailored network through which this performance may be monitored. The final, optional, extension further expanding upon the network serviced by the device – through the introduction of a second Zodiac FX, and the implementation of a wireless access point.\\nKeywords: OpenFlow, Zodiac FX, Open Source, Network Security",
    "keywords": "OpenFlow, Zodiac FX, Open Source, Network Security",
-   "profilePicture": "https://drive.google.com/uc?export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
+   "profilePicture": "https://drive.google.com/uc?export=view&id=1bOiUgughT4MjhyyGuAvdZ8WDxR-LyIDX",
    "certificates": null,
    "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1MzjR5Ts91wN63st2iWVkGFZFeKxIEz-g",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bOiUgughT4MjhyyGuAvdZ8WDxR-LyIDX",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1BMXXE1veznuAjgYnDXj-FtDIdFgP6gNm",
       null,
       null
