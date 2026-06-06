@@ -52,9 +52,9 @@
     "id": 202603,
     "firstName": "Kaleb",
     "lastName": "Hale",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Wearable LED Visor",
+    "projectDesc": "The project as implemented uses LED matrix technology alongside an Arduino Nano to create a convincing facsimile of a fictional species for cosplay purposes. Project implementation will consist of two major core phases alongside one extension phase adding additional functionality to the final product. The project includes EET and CSC competencies and requires beginner soldering skills, including surface mount soldering as part of visor assembly.",
+    "keywords": "LEDs, Arduino, SMT Soldering",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
@@ -69,7 +69,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/kaleb-hale-82b981306/"
   },
   {
     "id": 202604,
