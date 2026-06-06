@@ -313,11 +313,12 @@
     "id": 202614,
     "firstName": "Brice",
     "lastName": "Pirkle",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Reppy: AI Native Field Operations Platform for Door to Door Sales Teams",
+    "projectDesc": "Reppy is a mobile first Progressive Web App (PWA) designed for door to door sales representatives in verticals such as roofing, solar, and pest control. The platform addresses a significant gap in the sales technology market: existing Customer Relationship Management (CRM) software was built for office based managers, not for field reps working from their phones on doorsteps. Reppy provides an integrated suite of tools including real time door logging with address autocomplete, a live team map with color coded outcomes, team chat with Supabase Realtime, and a private AI coaching thread for each representative powered by Claude (Anthropic). The roofing specific tools include a Pre knock Briefing that fetches 12 months of real storm event data from the XWeather API and generates a neighborhood briefing using AI, and a Damage Scanner that analyzes roof photos using Claude vision to produce structured damage reports. The application is deployed on Cloudflare Pages and uses Supabase for authentication, database management, and real time subscriptions. This report documents the design decisions, implementation results, and technical challenges encountered during the full semester development of the project.",
+    "keywords": "Progressive Web App, Door-to-door sales, AI sales tools, Supabase, Cloudflare Pages",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -330,7 +331,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/brice-pirkle3/"
   },
   {
     "id": 202615,
