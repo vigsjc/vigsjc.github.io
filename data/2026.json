@@ -243,9 +243,9 @@
     "id": 202611,
     "firstName": "Bailey",
     "lastName": "Nichols",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "NoPhish: A Browser-Based Anti-Phishing Extension",
+    "projectDesc": "Phishing attacks remain one of the most common cybersecurity threats on the web, exploiting deceptive URLs and social engineering techniques to trick users into revealing sensitive information. Many users, especially non-technical individuals, struggle to identify malicious links before interacting with them, which increases the risk of credential theft and data compromise. This project, NoPhish, proposes a lightweight Firefox browser extension that analyzes user-submitted URLs and provides a real-time risk assessment score. The system uses rule-based logic to evaluate structural and behavioral characteristics of URLs, such as HTTPS usage, domain legitimacy, URL length, and suspicious patterns like IP-based addresses or excessive subdomain complexity. The extension also generates clear, user-friendly explanations to help users understand why a link may be considered safe or unsafe. The goal of NoPhish is to improve cybersecurity awareness and provide accessible, immediate phishing detection without requiring technical expertise or external system dependencies.",
+    "keywords": "Phishing detection, Browser extension, Cybersecurity, URL analysis, Rule-based logic",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
@@ -260,15 +260,15 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/bailey-nichols-839156407/"
   },
   {
     "id": 202612,
     "firstName": "Colson",
     "lastName": "Nichols",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Arduino Reaction Time Game",
+    "projectDesc": "The purpose of this project is to apply foundational concepts in electronics and programming to create an interactive game that measures two users’ response time to determine a winner. Specifically, my Arduino based reaction time game built using a breadboard. Throughout this progress phase, the focus has been on assembling core hardware components, including LEDs, push buttons, and a buzzer, and integrating them with Arduino code to produce accurate timing and feedback. Challenges encountered so far include debugging wiring inconsistencies, refining timing logic, and ensuring reliable user input detection. These troubleshooting issues have provided valuable opportunities for growth and understanding in both hardware and software systems. \nThe timing measurements are functioning as intended, along with the push buttons, the buzzer, and the lights that signal the user when to go. The primary technical problem addressed In this project is designing and implementing a fully functional reaction time game using an Arduino and a breadboard based circuit. This involves coordinating both hardware and software to create an engaging and responsive system. Challenges included integrating multiple components such as LEDs, push buttons, and a buzzer, as well as developing accurate code that controls timing, user input, and game logic in a fun but seamless way. The proposed solution is to build a structured Arduino program that manages the sequence of events, triggering a visual cue, detecting a response from either user, then determining the winner by whoever pushed their button first. By combining organized wiring with efficient coding, the system is able to function as an interactive game that measures and displays reaction time performance.",
+    "keywords": "Reaction game, Arduino",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
@@ -283,7 +283,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/colson-nichols-471240411/"
   },
   {
     "id": 202613,
