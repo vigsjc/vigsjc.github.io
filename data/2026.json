@@ -195,11 +195,13 @@
     "id": 202609,
     "firstName": "Hayden",
     "lastName": "Melton",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Raspberry Pi Smart Mirror (MagicMirror²) with LAN Remote Management",
+    "projectDesc": "This capstone project includes the design, implementation, and testing of a Raspberry Pi-powered smart mirror that delivers an at-a-glance information dashboard through a two-way mirror and provides browser-based remote management over a local area network. The technical problem addressed is the lack of a consolidated, hands-free daily information display that can be maintained without requiring physical access to the embedded computer or monitor controls. The solution uses a Raspberry Pi 4 running MagicMirror² open-source software with modules for time and date, local weather, New York Times news headlines, U.S. holidays, and rotating daily quotes. A wall-mounted picture-frame enclosure houses a disassembled 27-inch monitor behind a tempered-glass two-way mirror. Remote administrative functions including system reboot, application restart, display power control, module toggling, and brightness adjustment-are provided by the MMM-Remote-Control module and accessible from any device connected to the same campus Wi-Fi network. Automated cron jobs manage a daily display schedule (on at 0630, off at 2130) and a nightly reboot for stability. The project was completed in three phases: physical assembly and baseline software (Core 1), remote management and automation (Core 2), and reliability hardening with documentation (Extension). Testing confirmed boot-to-dashboard times under one minute, consistent automation scheduling, and reliable remote-control functionality across multiple LAN devices. The total project cost was approximately $362.94.",
+    "keywords": "Smart mirror, Raspberry Pi, MagicMirror², Remote management, Home automation",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity",
+      "2025-26 CST Distinguished Senior Award": "https://www.eku.edu/stem/computer-science-and-information-technology/bs-cyber-systems-technology/"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
