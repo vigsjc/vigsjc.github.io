@@ -337,11 +337,14 @@
     "id": 202615,
     "firstName": "Pablo",
     "lastName": "Russo",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Windows Defender Malware Alerts to iPhone using nfty",
+    "projectDesc": "This project presents a system that converts Windows Defender security events into real-time push notifications using nfty. The goal was to improve malware alert visibility by notifying users instantly on a mobile device without manually checking system logs. The system uses Task Scheduler to monitor Windows Defender events and trigger notifications. Initial testing showed inconsistent results when relying only on Event ID 1116 (malware detection). This was resolved by implementing a custom XML filter to monitor multiple event IDs, including 1116, 1117(action taken), and 1118(action failed), improving reliability across different detection scenarios. The design was further simplified by using inline PowerShell commands instead of separate script files. Notifications were enhanced to include the computer name and username for better context.Testing with the EICAR file (commonly used malware triggering file) confirmed that alerts are triggered reliably, typically during file creation rather than execution. The final system is lightweight, cost-effective, and effective for real-time malware alerting.",
+    "keywords": "Windows Defender, ntfy, push notifications, malware detection, Task Scheduler",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity",
+      "CompTIA Tech+": "https://www.comptia.org/en-us/certifications/tech/",
+      "Microsoft certified Azure Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -354,7 +357,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/pabl0russ0/"
   },
   {
     "id": 202616,
