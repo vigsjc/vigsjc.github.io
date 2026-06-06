@@ -75,9 +75,9 @@
     "id": 202604,
     "firstName": "Aaron",
     "lastName": "Harding",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Homemade VPN Using a DNS Server and Raspberry Pi 5",
+    "projectDesc": "I have always used a VPN once I knew the dangers that could be lurking withing the vast annals of the internet, most people who do use a VPN like me purchase a service like McAfee, NordVPN, and many others that can assure safety and responsibility for your data. However, the thought came to me, why should I have to pay for a VPN when the option to make my own stands before me, I can save money, know what is happening and where my data is going all from the comfort of my own home. Thus, I set out to create my own VPN where by learning the process I can use Wire Guard, learn to configure my router to port forward, and create a dedicated DNS server all to fill the need of internet safety. So I set out and studied to create my capstone project, the creation of a VPN using a DNS server and port forwarding my router using a Raspberry Pi 5.",
+    "keywords": "VPN, DNS server, Port forwarding, Raspberry Pi",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
