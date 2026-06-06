@@ -289,11 +289,12 @@
     "id": 202613,
     "firstName": "Emerence",
     "lastName": "Niyonsaba",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Design and Implementation of a Basic Home Network",
+    "projectDesc": "This capstone project focuses on the design and implementation of a basic home network using both simulation and physical equipment. Many home networks are not properly configured, which can lead to slow performance, connection issues, and security risks. The problem addressed in this project is how to create a reliable, secure, and well-organized network that supports multiple devices. To solve this problem, the network was first designed and tested using Cisco Packet Tracer and then implemented using physical Cisco devices such as a router, switch, and wireless access point. The project is divided into three phases: Core 1 focuses on basic connectivity, Core 2 focuses on VLAN configuration for better organization and performance, and the Extension phase adds wireless connectivity and WPA2 security. The results show that the network successfully allows communication between devices while improving performance and security. This project demonstrates important networking concepts such as IP addressing, switching, VLANs, and wireless networking, and provides hands-on experience that can be applied in real-world IT environments.",
+    "keywords": "Home network, Cisco Packet Tracer, VLAN, Wireless networking, Network security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -306,7 +307,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/emerence-niyonsaba/"
   },
   {
     "id": 202614,
