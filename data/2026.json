@@ -147,11 +147,12 @@
     "id": 202607,
     "firstName": "Jesse",
     "lastName": "Lynd",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "PC Wi-Fi-Based Diagnostics Dashboard",
+    "projectDesc": "This project involves the development of a dedicated, standalone hardware diagnostics monitor for a desktop PC using a Raspberry Pi and a 7-inch display. The proposed solution extracts real-time telemetry data (CPU/GPU temperatures, RAM, and Storage usage) from a Windows host machine running ‘LibreHardwareMonitor’ and transmits it over a secure ‘Tailscale’ VPN tunnel. The data is rendered on the Raspberry Pi using a custom-built Python/Tkinter dashboard featuring live PC diagnostics. This eliminates the need to sacrifice main-monitor screen real estate for system monitoring during resource-intensive applications, and the need to spend any additional resources to run the diagnostics.",
+    "keywords": "Raspberry Pi, Python, Tkinter, LibreHardwareMonitor, Tailscale, Hardware diagnostics",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -164,7 +165,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/jesse-lynd-827581383/"
   },
   {
     "id": 202608,
