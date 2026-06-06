@@ -218,13 +218,16 @@
   },
   {
     "id": 202610,
-    "firstName": "Conner",
+    "firstName": "Connor",
     "lastName": "Mull",
     "projectTitle": "Solar Cell Arduino Clock",
     "projectDesc": "This project focuses on designing a solar-powered Arduino digital clock using a renewable energy source. The system integrates an Arduino microcontroller and an LCD display to maintain accurate time independently. Core phases include power system development and solar integration, while an extension adds user controls. The project demonstrates embedded systems and renewable energy applications.",
     "keywords": "Arduino, Solar, Digital Clock",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
+      "Microsoft 365 Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/fundamentals",
+      "Microsoft certified Azure Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
