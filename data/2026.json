@@ -171,11 +171,12 @@
     "id": 202608,
     "firstName": "Jacob",
     "lastName": "Mangas",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Proxy Server for Game Hosting",
+    "projectDesc": "For individuals looking to be able to play multiplayer games with their friends, it is not always easy. Many games offer server software that can be self-hosted from within one’s home, but the process required to set up and configure this server software is not always the most straightforward for the average user. The hardware requirements alone for self-hosting a game server tend to be a barrier to entry for this kind of multiplayer server as well. Because of this many gamers will pay a server hosting company to run the server for them using their compute resources. This project would aim to demonstrate how a game server hosting company could technically operate by having clients connect to a proxy server that can redirect users to their intended sub servers.",
+    "keywords": "Networking, IP Addressing, Service Hosting, Proxy Servers, DNS",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": null,
+    "certificates": {"CompTIA A+": "https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/"
+    },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -188,7 +189,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/jacob-mangas/"
   },
   {
     "id": 202609,
