@@ -102,7 +102,8 @@
     "projectDesc": "This capstone project addressed the problem of fragmented digital storage and unmanaged personal media collections by designing and implementing a centralized Network Attached Storage (NAS) system built around a Synology DS620slim platform. The final system was configured with two Samsung 870 EVO 4 TB solid-state drives in Synology Hybrid Redundant Array of Independent Disks (RAID) or (SHR), which stands for Synology Hybrid RAID. The SHR is Synology’s own RAID management system that works similarly to traditional RAID, but it is designed to be more flexible and easier to expand, especially when using drives of different sizes, is formatted with the B-tree file system (Btrfs). The NAS was upgraded with 8 GB of additional Crucial DDR3 memory (RAM). The platform was used to host Plex Media Server for local and remote streaming, while also acting as a controlled archive for Microsoft OneDrive and Google Drive through one-way cloud synchronization. A major technical challenge emerged when remote Plex access failed because the internet service provider placed the network behind Carrier-Grade NAT (CGNAT). That issue was resolved by obtaining a public IPv4 address and validating the WAN path required for remote connectivity. The project demonstrates applied knowledge in storage architecture, networking, system administration, media service deployment, and troubleshooting. Although the external Western Digital (WD) 24 TB backup layer storage drive was not fully activated by the end of the project, the design path for Hyper Backup and a broader 3-2-1 protection strategy was established. Overall, the completed work produced a stable, scalable, and realistic home data infrastructure platform that supports media streaming, cloud data preservation, and future backup expansion.",
     "keywords": "Network Attached Storage (NAS), Plex Media Server, Synology, cloud synchronization, SHR, Btrfs, Carrier-Grade NAT (CGNAT)",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
+    "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
+      "2025-26 CST Distinguished Senior Award": "",
     },
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
@@ -116,7 +117,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/matt-honaker/"
   },
   {
     "id": 202606,
