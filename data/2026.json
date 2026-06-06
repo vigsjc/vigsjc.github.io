@@ -388,9 +388,9 @@
     "id": 202617,
     "firstName": "Dominic",
     "lastName": "Schlarb",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "projectTitle": "Implementation of a Low-Cost, Scalable Voice over IP Communication System",
+    "projectDesc": "This project addresses the technical challenge of establishing a working communication system by designing and implementing a low-cost, scalable Voice over IP (VoIP) system using the FreePBX platform. The proposed solution provides a stable communication framework by deploying a central PBX server that manages routing between different endpoints, including a physical Grandstream GXP1625 IP phone and 2 mobile Zoiper softphone clients. The implementation process covers configuration steps, such as managing SIP registration, optimizing network signaling, and ensuring consistent device connectivity through a simple bridged connection. The final system demonstrates that an enterprise-grade VOIP communication system can be achieved with minimal investment, offering a reliable and adaptable model for a small business, personal home setup or any situation in which digital communication is needed in a small scope.",
+    "keywords": "VoIP, FreePBX, SIP, Telephony, Network Administration",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
@@ -405,15 +405,15 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/dominic-s-0a3028214/"
   },
   {
     "id": 202618,
-    "firstName": "Josiah",
-    "lastName": "Sgro",
-    "projectTitle": "title goes here",
-    "projectDesc": "description goes here",
-    "keywords": "key words goes here",
+    "firstName": "John",
+    "lastName": "Schumacher",
+    "projectTitle": "Raspberry Pico + Pi home security system",
+    "projectDesc": "This final capstone report documents the design and implementation of an affordable two-layer security prototype built with a Raspberry Pi 3 B+, a USB camera, MotionEye OS, a Raspberry Pi Pico 2 W, a PIR motion sensor, an LED, a buzzer, and a temporary disarm button. The problem addressed is the need for an accessible warning and deterrence layer for drawers, safes, or storage areas that may contain valuable or sensitive items. The first layer provides passive monitoring through a camera-based Raspberry Pi system configured for motion detection and email notification. The second layer provides active local deterrence through a Pico-controlled PIR sensor that activates an LED and buzzer when motion is detected. The extension adds a basic kill-switch/cooldown feature that allows the user to disarm the alarm temporarily so normal access does not cause constant false positives. The final implementation does not include the originally proposed AI detection and keypad password system, but it successfully demonstrates the major security theme: combining monitoring, alerting, and local deterrence into a low-cost prototype that can be improved in future versions.",
+    "keywords": "Raspberry Pi, Raspberry Pico, Motion Eye OS, PIR sensor, Micro Python, Home security",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
     "certificates": null,
     "images": [
@@ -428,7 +428,7 @@
       null
     ],
     "brochure": null,
-    "contact": null
+    "contact": "https://www.linkedin.com/in/john-schumacher/"
   },
   {
     "id": 202619,
