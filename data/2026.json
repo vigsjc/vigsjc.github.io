@@ -249,20 +249,20 @@
     "projectTitle": "NoPhish: A Browser-Based Anti-Phishing Extension",
     "projectDesc": "Phishing attacks remain one of the most common cybersecurity threats on the web, exploiting deceptive URLs and social engineering techniques to trick users into revealing sensitive information. Many users, especially non-technical individuals, struggle to identify malicious links before interacting with them, which increases the risk of credential theft and data compromise. This project, NoPhish, proposes a lightweight Firefox browser extension that analyzes user-submitted URLs and provides a real-time risk assessment score. The system uses rule-based logic to evaluate structural and behavioral characteristics of URLs, such as HTTPS usage, domain legitimacy, URL length, and suspicious patterns like IP-based addresses or excessive subdomain complexity. The extension also generates clear, user-friendly explanations to help users understand why a link may be considered safe or unsafe. The goal of NoPhish is to improve cybersecurity awareness and provide accessible, immediate phishing detection without requiring technical expertise or external system dependencies.",
     "keywords": "Phishing detection, Browser extension, Cybersecurity, URL analysis, Rule-based logic",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1UF-vdCUxV5_ECBmKJ9WCsUc0hWga1TDX",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1UF-vdCUxV5_ECBmKJ9WCsUc0hWga1TDX",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18jjWhzSezHC0KiZmMGg8nm7QI6lnYtVH",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1KpCHBicdX7TzJlZYS3_OaCRxffGjCNpE/view",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1gc4fr--OWDRJukejDC9wuHG3t4MoVufS/view",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1Lu-f-ExEc9KCLCsk2gB2P7nzHwFGoiLm/perview",
     "contact": "https://www.linkedin.com/in/bailey-nichols-839156407"
   },
   {
