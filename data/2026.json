@@ -31,21 +31,21 @@
     "projectTitle": "Airflow Filtration Monitoring System Using Raspberry Pi and Differential Pressure Sensing",
     "projectDesc": "The Airflow Filtration Monitoring System (AFMS) is a Raspberry Pi–based prototype that measures differential pressure across a residential HVAC filter and translates the resulting data into simple operating states. The technical problem addressed by the project was the lack of a low-cost and practical method for determining whether a filter is operating normally or becoming restricted based on measured airflow conditions rather than calendar-based replacement or visual inspection alone. The implemented solution used a Raspberry Pi 4, a Sensirion SDP810-125Pa differential pressure sensor, pressure tubing, and Python-based monitoring logic to classify the HVAC system as SYSTEM OFF, OK, or FILTER RESTRICTED. Testing was performed on a residential forced-air system in three conditions: blower off, normal operation with the installed clean filter, and a simulated restricted condition created with an added dirty filter. The measured results were used to define prototype thresholds of below 5 Pa for SYSTEM OFF, 5–72 Pa for OK, and above 72 Pa for FILTER RESTRICTED. After the sensing and classification core was validated, the project was expanded into a full Core 3 phase that added a color-coded live interface, reduced-frequency CSV logging, daily summary reporting, a Streamlit dashboard, restricted-condition email alerts, direct Google Drive backup, and scheduled monitor automation using systemd timers.In its final form, the AFMS met and in several areas exceeded the original minimum viable goals. The prototype successfully demonstrated that differential pressure sensing can provide a practical maintenance signal for HVAC filter monitoring while remaining approachable, low cost, and educationally valuable. A proposed new extension phase is also defined in this report to show how the current prototype could be hardened for field deployment through a permanent enclosure, power-loss resilience, and broader validation across multiple HVAC systems.",
     "keywords": "Raspberry Pi, Differential pressure sensor, HVAC filter monitoring, Airflow restriction, Condition-based maintenance",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Piwd2nZaZ1xFY1V409K9CP-DwfWAPYzW",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Piwd2nZaZ1xFY1V409K9CP-DwfWAPYzW",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1WMyq6ENz-LJiAroOzMuQpFx1ThYED2IB",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/10R0QpA9cqs0LaSK_pjbnIJO-dsLHoemD/preview",
     "video": [
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1UlXSZQ4eIlKcwsyRnWlgoMR-ZY57BhkO/preview",
     "contact": "https://www.linkedin.com/in/jonathan-ferrell-a5b752183"
   },
   {
@@ -55,17 +55,17 @@
     "projectTitle": "Wearable LED Visor",
     "projectDesc": "The project as implemented uses LED matrix technology alongside an Arduino Nano to create a convincing facsimile of a fictional species for cosplay purposes. Project implementation will consist of two major core phases alongside one extension phase adding additional functionality to the final product. The project includes EET and CSC competencies and requires beginner soldering skills, including surface mount soldering as part of visor assembly.",
     "keywords": "LEDs, Arduino, SMT Soldering",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1MIOk-GcMJRZ7llFcOP0lY3XOXY28JZkv",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1MIOk-GcMJRZ7llFcOP0lY3XOXY28JZkv",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1saa-ug4SCVHxzub6gayUTqsLSMXVsR3n",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1H80f2RyVDRNgS5EXzt1K08aSNzyToxVw/preview",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1AJ4MHDHr9v7BWxG9_Ri0Xjby1CUMLDcz/preview",
       null
     ],
     "brochure": null,
