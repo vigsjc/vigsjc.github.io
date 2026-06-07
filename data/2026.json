@@ -484,10 +484,40 @@
 ], 
   "other": {
     "classPhoto": [
-      {
+{
         "title": "Class Photo",
         "name": "Entire Class",
-        "url": null
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1HMJxsW_sonIkR0tWTM-8lIfltFLoO_GU"
+      },
+      {
+        "title": "Students Photo",
+        "name": "Spring-Summer Graduates",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IrLe0GCEGB0E6wjBp1RUDfUsu8Y2EJCZ"
+      },
+      {
+        "title": "Students Photo",
+        "name": "Fall Graduates",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1q8ob4AtvoqJQuOzFDdmqSfLLVALrcGQn"
+      },
+      {
+        "title": "CST advisory member Stephen Crump (on the right) with Matthew and Brice",
+        "name": "CST Advisory Committee",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LkF04Gqv2JR3xIOu8A22B2MsiFp6OefS"
+      },
+      {
+        "title": "Jacob Townsend",
+        "name": "Nominee, EKU Student Worker of Year 2025-2026",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1oeVWFZjqaoEcR68mmOz_ysUp5_woITCb"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Celebration",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rRtF9B7X1qUpfrhlwgekwD3Jl-30_OoB"
+      },
+      {
+        "title": "Class Photo",
+        "name": "Celebration",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I-q6UNEdTNpTnrjZkB6vJ588pA89scbn"
       }
     ]
   }
