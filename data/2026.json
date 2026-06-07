@@ -198,22 +198,22 @@
     "projectTitle": "Raspberry Pi Smart Mirror (MagicMirror²) with LAN Remote Management",
     "projectDesc": "This capstone project includes the design, implementation, and testing of a Raspberry Pi-powered smart mirror that delivers an at-a-glance information dashboard through a two-way mirror and provides browser-based remote management over a local area network. The technical problem addressed is the lack of a consolidated, hands-free daily information display that can be maintained without requiring physical access to the embedded computer or monitor controls. The solution uses a Raspberry Pi 4 running MagicMirror² open-source software with modules for time and date, local weather, New York Times news headlines, U.S. holidays, and rotating daily quotes. A wall-mounted picture-frame enclosure houses a disassembled 27-inch monitor behind a tempered-glass two-way mirror. Remote administrative functions including system reboot, application restart, display power control, module toggling, and brightness adjustment-are provided by the MMM-Remote-Control module and accessible from any device connected to the same campus Wi-Fi network. Automated cron jobs manage a daily display schedule (on at 0630, off at 2130) and a nightly reboot for stability. The project was completed in three phases: physical assembly and baseline software (Core 1), remote management and automation (Core 2), and reliability hardening with documentation (Extension). Testing confirmed boot-to-dashboard times under one minute, consistent automation scheduling, and reliable remote-control functionality across multiple LAN devices. The total project cost was approximately $362.94.",
     "keywords": "Smart mirror, Raspberry Pi, MagicMirror², Remote management, Home automation",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12lMdbpxXCuAz3zoP2b6iw_WTLcujBYlg",
     "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity",
       "2025-26 CST Distinguished Senior Award": "https://www.eku.edu/stem/computer-science-and-information-technology/bs-cyber-systems-technology/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=12lMdbpxXCuAz3zoP2b6iw_WTLcujBYlg",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1u7G5I2OvV6ueJB_PBssFWn0hY6ekXNuS",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rhfpY6leb_gPS9gMplNOIH2BPWvb1-eU",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Rs115NgY3iLV-19pEPqKnBCSb3rxPsnD"
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1PE5EFFP3VnEeOGX7ZNOPr8Kvf9fLDYak/preview",
     "video": [
-      null,
+      "https://www.youtube.com/watch?v=p1F9y9yUx9U",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1LrkxpuYYDAfiib_zeAi5oWSfX5k6t9Qd/preview",
     "contact": "https://www.linkedin.com/in/hayden-s-melton"
   },
   {
@@ -505,11 +505,6 @@
         "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1F7R178NXYkfnWjWJAMJnvNrRiEUyRVZB"
       },
       {
-        "title": "Jacob Townsend",
-        "name": "EKU Student Worker of Year Nominee (in the center)",
-        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LJqmS-C26YVOIIRXkgIIGPtxeEuXInDX"
-      },
-      {
         "title": "Class Photo",
         "name": "Celebration",
         "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rRtF9B7X1qUpfrhlwgekwD3Jl-30_OoB"
@@ -523,6 +518,17 @@
         "title": "Class Photo",
         "name": "Celebration",
         "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I-q6UNEdTNpTnrjZkB6vJ588pA89scbn"
+      },
+      {
+        "title": "Hayden Melton and Matthew Honaker",
+        "name": "CST Distinguished Seniors 2025-26",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TI-czX7R0q3UJGvW3cpt6GdYOekEMfZQ"
+      }
+      ,
+      {
+        "title": "Jacob Townsend",
+        "name": "EKU Student Worker of Year 20256-26 Nominee (in the center)",
+        "url": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1LJqmS-C26YVOIIRXkgIIGPtxeEuXInDX"
       }
     ]
   }
