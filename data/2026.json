@@ -7,12 +7,12 @@
     "projectTitle": "Demonstrating SDN-Based Attack Isolation and Response in a Mininet VM",
     "projectDesc": "This capstone project utilizes the Mininet emulation platform and the OpenFlow protocol to demonstrate the effectiveness of Software-Defined Networking (SDN) in isolating cyber threats. By centralizing network intelligence, the project addresses the limitations of traditional hardware-based defenses, which often cause collateral damage to legitimate traffic during mitigation. The implementation was executed in two core phases: Phase 1 focused on the deployment of a virtualized network and the simulation of a high-volume UDP flood attack, while Phase 2 utilized real-time telemetry and manual flow-rule injection to neutralize the attack at the source switch. The results validate that a software-driven approach provides the fine-grained control necessary to preserve network availability for innocent users while maintaining a robust defensive posture against volumetric threats.",
     "keywords": "Mininet, OpenFlow, Software-Defined Networking (SDN)",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bEnIU2kalbCvJzVinN_i0suWXdFJEoSG",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bEnIU2kalbCvJzVinN_i0suWXdFJEoSG",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1koLZ59U0vyoq586p0WWS7QQGBPuAZn_k",
       null,
       null
     ],
