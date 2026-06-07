@@ -106,17 +106,17 @@
       "2025-26 CST Distinguished Senior Award": "https://www.eku.edu/stem/computer-science-and-information-technology/bs-cyber-systems-technology/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1GbmEzZa9UPe05VuGb3I6293MSPEY_a7r",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=15G_IQw5kwEqHEcheWCaGSqr_NpBDZ5z9",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1M05tZc0xKRdJCLjJzUIL0ig7UX5eqxbo",
       null
     ],
     "presentation": null,
     "video": [
-      null,
-      null
+      "https://www.youtube.com/watch?v=C0-M7_d-AJc",
+      "https://www.youtube.com/watch?v=Am_8iMPYa60"
     ],
-    "brochure": null,
+    "brochure": https://drive.google.com/file/d/12m7U2lIvIkM-DRSLItywbeiThrSRi75c/preview,
     "contact": "https://www.linkedin.com/in/matt-honaker"
   },
   {
@@ -126,19 +126,19 @@
     "projectTitle": "Arduino MIDI Pedal Board",
     "projectDesc": "This capstone project addresses the challenge of creating a cost effective, customizable foot-controlled system for managing digital audio workstation (DAW) functions in live guitar performance. Traditional MIDI foot controllers are often expensive and lack flexibility for specific user workflows. The proposed solution is a DIY Arduino based MIDI pedal board that allows the user to control playback of backing tracks, record, and loop guitar audio, and provide LED feedback synchronized with DAW. The system integrates hardware (Arduino Leonardo, footswitches, LEDs) with software (Reaper DAW) and Arduino IDE to create a responsive and reliable control interface. The project demonstrates how low-cost electronics and MIDI communication can be combined to replicate and enhance commercial solutions. This project has been completed, and it is fully tested and functional.",
     "keywords": "Arduino, MIDI, Digital Audio Workstation (DAW)",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1C-MYiSN8wg-14lWdf1TWVFBCTBT3aKrS",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1C-MYiSN8wg-14lWdf1TWVFBCTBT3aKrS",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=118qWBRApGT9NIWVnVZ_GmBzPHFepQt5I",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=16hq3-NXXsmxovD-cG3KsfKAz86K5u018",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18ekLbBeFE9kvLsmOnuBFLwWjEBbUUgKL"
     ],
     "presentation": null,
     "video": [
-      null,
-      null
+      "https://drive.google.com/file/d/1RRYGM5ZzTLwKOHBdcYPTMDV1o5PqhfXc/preview",
+      "https://drive.google.com/file/d/1qajy_f-sm44bWetxRPg_0Xjl-eBlTypx/preview"
     ],
     "brochure": null,
     "contact": "https://www.linkedin.com/in/mason-little-"
@@ -475,7 +475,7 @@
     ],
     "presentation": null,
     "video": [
-      null,
+      "https://www.youtube.com/watch?v=bqs_PAg0z2A",
       null
     ],
     "brochure": null,
