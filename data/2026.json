@@ -78,17 +78,17 @@
     "projectTitle": "Homemade VPN Using a DNS Server and Raspberry Pi 5",
     "projectDesc": "I have always used a VPN once I knew the dangers that could be lurking withing the vast annals of the internet, most people who do use a VPN like me purchase a service like McAfee, NordVPN, and many others that can assure safety and responsibility for your data. However, the thought came to me, why should I have to pay for a VPN when the option to make my own stands before me, I can save money, know what is happening and where my data is going all from the comfort of my own home. Thus, I set out to create my own VPN where by learning the process I can use Wire Guard, learn to configure my router to port forward, and create a dedicated DNS server all to fill the need of internet safety. So I set out and studied to create my capstone project, the creation of a VPN using a DNS server and port forwarding my router using a Raspberry Pi 5.",
     "keywords": "VPN, DNS server, Port forwarding, Raspberry Pi",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I7boxW5ImtFodj97-33HrhuhZWu6vw3k",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I7boxW5ImtFodj97-33HrhuhZWu6vw3k",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dOQqrhmPuui8y_K3e4GS0EXYpFWeo3li",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1b7076ZCZ7MbyW6KJtnwLcdxKGXx4ZKtZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1el7NQf16enkmqi86fwbd0NItFxuGCr9r"
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1JTM5H0Z5G8EmEWzVtgor57y0SDb6Wj7u/view",
     "video": [
-      null,
+      "https://www.youtube.com/watch?v=PEqXLFaGMuI",
       null
     ],
     "brochure": null,
