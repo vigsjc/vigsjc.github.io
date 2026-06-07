@@ -150,18 +150,18 @@
     "projectTitle": "PC Wi-Fi-Based Diagnostics Dashboard",
     "projectDesc": "This project involves the development of a dedicated, standalone hardware diagnostics monitor for a desktop PC using a Raspberry Pi and a 7-inch display. The proposed solution extracts real-time telemetry data (CPU/GPU temperatures, RAM, and Storage usage) from a Windows host machine running ‘LibreHardwareMonitor’ and transmits it over a secure ‘Tailscale’ VPN tunnel. The data is rendered on the Raspberry Pi using a custom-built Python/Tkinter dashboard featuring live PC diagnostics. This eliminates the need to sacrifice main-monitor screen real estate for system monitoring during resource-intensive applications, and the need to spend any additional resources to run the diagnostics.",
     "keywords": "Raspberry Pi, Python, Tkinter, LibreHardwareMonitor, Tailscale, Hardware diagnostics",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JIqkWRylhYX2G3pmBtthxuqJgjB0duem",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JIqkWRylhYX2G3pmBtthxuqJgjB0duem",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SXbvJQw9C14i847WNmqsE2u0uoHuNFfu",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1IH8T5F62SbL6TM5mQmET0DlqInkd-_SX",
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1VevCoZ_uRW5fF1d847gzwCyxDq3_2Ajb/preview",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1KS1-Y82waANLD2wZO0ybW-ELLwFalhjV/preview",
       null
     ],
     "brochure": null,
@@ -183,7 +183,7 @@
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "",
     "video": [
       null,
       null
