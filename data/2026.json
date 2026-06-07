@@ -174,14 +174,14 @@
     "projectTitle": "Proxy Server for Game Hosting",
     "projectDesc": "For individuals looking to be able to play multiplayer games with their friends, it is not always easy. Many games offer server software that can be self-hosted from within one’s home, but the process required to set up and configure this server software is not always the most straightforward for the average user. The hardware requirements alone for self-hosting a game server tend to be a barrier to entry for this kind of multiplayer server as well. Because of this many gamers will pay a server hosting company to run the server for them using their compute resources. This project would aim to demonstrate how a game server hosting company could technically operate by having clients connect to a proxy server that can redirect users to their intended sub servers.",
     "keywords": "Networking, IP Addressing, Service Hosting, Proxy Servers, DNS",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Z7eMh01Lcgo_yyOF9oDymH75twqSJnyk",
     "certificates": {"CompTIA A+": "https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Z7eMh01Lcgo_yyOF9oDymH75twqSJnyk",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1r_Yeka3O0RPfIGlYbDtHGCo5fgNA_zKj",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1vVvemvg9GRNg-qt8ir3Gg8ZoXumQwvDR",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1Xcg-YCiCPiGM5vv1t1Dbvnsk130VaJ4Z"
     ],
     "presentation": "https://drive.google.com/file/d/1sjnKRJlcgpWEGS81_NSEbfCqjK9k8-Yk/preview",
     "video": [
@@ -223,23 +223,23 @@
     "projectTitle": "Solar Cell Arduino Clock",
     "projectDesc": "This project focuses on designing a solar-powered Arduino digital clock using a renewable energy source. The system integrates an Arduino microcontroller and an LCD display to maintain accurate time independently. Core phases include power system development and solar integration, while an extension adds user controls. The project demonstrates embedded systems and renewable energy applications.",
     "keywords": "Arduino, Solar, Digital Clock",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qog-ykyVmZ-HTmezZNiaXjd-p9Bx-nmh",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate",
       "Microsoft 365 Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/fundamentals",
       "Microsoft certified Azure Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1qog-ykyVmZ-HTmezZNiaXjd-p9Bx-nmh",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mXyMGd07w6Ppwt0m1YmV-M5A8FqG9LBi",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1UOy2dUfAt5mNxm9vODGeA_1MmLj6M9yn",
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1LHcCVRu1xUZSA-nKMns26ScYrE6yompi/perview",
     "video": [
-      null,
-      null
+      "https://drive.google.com/file/d/17Snph1hKEamxyqKW8nlfBAxtKuVcGw4m/perview",
+      "https://drive.google.com/file/d/1-e2GVoodY36Mwl_oMX8Gd5sTupRwzSRH/view"
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1f0u1aqGmpDVqvVi4LntdSIhv0MgC00sd/perview",
     "contact": "https://www.linkedin.com/in/connor-mull-618983408"
   },
   {
