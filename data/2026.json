@@ -369,22 +369,22 @@
     "projectTitle": "Smart Home Network",
     "projectDesc": "This project documents the design, optimization, and performance evaluation of a modern Smart Home Network built around a Verizon 5G modem-router and a Linksys Wi-Fi 6E mesh system with three nodes. The network integrates a diverse set of smart and IoT devices, including 2.4 GHz and 5 GHz solar security cameras, a Canon wireless AIO printer-scanner, an iMac, a Windows PC, two Amazon Alexa Dots, an Alexa-enabled air conditioner, four Alexa smart light switches, an iPad, an iPhone, a WD My Cloud NAS, and a Deeper Connect Mini for decentralized private networking (DPN). \nA key focus of the project is upgrading the network to DPN and supporting the new 5 GHz solar cameras while maintaining stability across all devices. Network tuning included optimizing mesh node placement, reducing channel overlap, segmenting IoT traffic, and mitigating RF interference between 2.4 GHz and 5 GHz devices. The results demonstrate that a properly configured mesh Wi-Fi 6E system can unify a large mixed-protocol smart home environment, minimize collisions, and deliver reliable performance for both high-bandwidth devices and low-power IoT components.",
     "keywords": "Wi-Fi mesh, IoT, Decentralized Private Networking (DPN), Mixed-protocol smart hom",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k--7kBBNpNdXwE97VfgJXzosZ4WuTlmc",
     "certificates": {"Google Cybersecurity Professional (in progress)": "https://www.coursera.org/google-certificates/google-cybersecurity",
       "2025-26 CST Distinguished Senior Award nominee": "https://www.eku.edu/stem/computer-science-and-information-technology/bs-cyber-systems-technology/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k--7kBBNpNdXwE97VfgJXzosZ4WuTlmc",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=113CDxFdIAhlrgB0WI22ZOqUMWE0hGCy4",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1jiGcGUnOsBsJe3pMGe1IZxxor4Ela2K2/preview",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1Qyki7OnoVM3JcR9VmpQps3pId1gZWSrI/view",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1BNyLPaxeZeFS72Sx3PYMxSe555pElaZs/preview",
     "contact": "https://www.linkedin.com/in/alex-savelyeff-networking"
   },
   {
