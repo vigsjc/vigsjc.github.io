@@ -440,14 +440,13 @@
     "projectTitle": "Raspberry Pi Thermometer & Hygrometer: A Locally Hosted Environmental Monitor",
     "projectDesc": "This project addresses the lack of affordable, locally hosted environmental monitoring systems that provide accurate and customizable temperature and humidity data. Many existing solutions rely on cloud-based platforms, which limit user control and data ownership. This capstone project develops a Raspberry Pi–based system that collects environmental data using a DHT22 sensor, stores it locally in a database, and displays it through a web interface on a local network. \nThe system was successfully implemented and tested, demonstrating reliable data collection, storage, and real-time visualization. Results show that the system provides accurate environmental readings while maintaining low cost and full user control over data. The project emphasizes accessibility, security, and usability, while incorporating foundational networking and software development concepts.",
     "keywords": "Raspberry Pi, DHT22 sensor, Environmental monitoring, IoT, Local server",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eoKxPyH4EYFUbbteC0A2BIsjvEqIaSbl",
     "certificates": {"CompTIA A+": "https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1eoKxPyH4EYFUbbteC0A2BIsjvEqIaSbl",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1vGfCEb6e5SS83-UX1jPtfKuHos4-wlze",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1PI-rb1Sm2MnNa_KGvKmmnt3CengI6cxs"
     ],
     "presentation": null,
     "video": [
