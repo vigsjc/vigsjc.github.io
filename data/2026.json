@@ -394,11 +394,11 @@
     "projectTitle": "Implementation of a Low-Cost, Scalable Voice over IP Communication System",
     "projectDesc": "This project addresses the technical challenge of establishing a working communication system by designing and implementing a low-cost, scalable Voice over IP (VoIP) system using the FreePBX platform. The proposed solution provides a stable communication framework by deploying a central PBX server that manages routing between different endpoints, including a physical Grandstream GXP1625 IP phone and 2 mobile Zoiper softphone clients. The implementation process covers configuration steps, such as managing SIP registration, optimizing network signaling, and ensuring consistent device connectivity through a simple bridged connection. The final system demonstrates that an enterprise-grade VOIP communication system can be achieved with minimal investment, offering a reliable and adaptable model for a small business, personal home setup or any situation in which digital communication is needed in a small scope.",
     "keywords": "VoIP, FreePBX, SIP, Telephony, Network Administration",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JpAd6o_g4kfAUw9ZGOTCXdGxWbG9b9cp",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1JpAd6o_g4kfAUw9ZGOTCXdGxWbG9b9cp",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1aVUvr0EBAymYLE3nV7eybvxXWD0T7tYF",
       null,
       null
     ],
@@ -407,7 +407,7 @@
       null,
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1iHF7KQtIjXbrrNdz2CeanFU5MIXURH99/perview",
     "contact": "https://www.linkedin.com/in/dominic-s-0a3028214"
   },
   {
@@ -417,18 +417,18 @@
     "projectTitle": "Raspberry Pico + Pi home security system",
     "projectDesc": "This final capstone report documents the design and implementation of an affordable two-layer security prototype built with a Raspberry Pi 3 B+, a USB camera, MotionEye OS, a Raspberry Pi Pico 2 W, a PIR motion sensor, an LED, a buzzer, and a temporary disarm button. The problem addressed is the need for an accessible warning and deterrence layer for drawers, safes, or storage areas that may contain valuable or sensitive items. The first layer provides passive monitoring through a camera-based Raspberry Pi system configured for motion detection and email notification. The second layer provides active local deterrence through a Pico-controlled PIR sensor that activates an LED and buzzer when motion is detected. The extension adds a basic kill-switch/cooldown feature that allows the user to disarm the alarm temporarily so normal access does not cause constant false positives. The final implementation does not include the originally proposed AI detection and keypad password system, but it successfully demonstrates the major security theme: combining monitoring, alerting, and local deterrence into a low-cost prototype that can be improved in future versions.",
     "keywords": "Raspberry Pi, Raspberry Pico, Motion Eye OS, PIR sensor, Micro Python, Home security",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mhYYAFMbmKtKdyz7TmVmLLy_TLQFqeiu",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mhYYAFMbmKtKdyz7TmVmLLy_TLQFqeiu",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1SNDE7D0esigLMHc4tv977Ln3WSr8p2n8",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1dYHvJNl4Sn6YeM0cK67XkKy1otOoI6vB/perview",
     "video": [
-      null,
-      null
+      "https://drive.google.com/file/d/1_pOgQOhrK9lIYYCDFFBlikCgJFrFVDgo/perview",
+      "https://drive.google.com/file/d/1wo1gb-OQd6R--sgWUwpoFlCrFaNsmR23/perview"
     ],
     "brochure": null,
     "contact": "https://www.linkedin.com/in/john-schumacher"
