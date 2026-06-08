@@ -319,14 +319,14 @@
     "projectTitle": "Reppy: AI Native Field Operations Platform for Door to Door Sales Teams",
     "projectDesc": "Reppy is a mobile first Progressive Web App (PWA) designed for door to door sales representatives in verticals such as roofing, solar, and pest control. The platform addresses a significant gap in the sales technology market: existing Customer Relationship Management (CRM) software was built for office based managers, not for field reps working from their phones on doorsteps. Reppy provides an integrated suite of tools including real time door logging with address autocomplete, a live team map with color coded outcomes, team chat with Supabase Realtime, and a private AI coaching thread for each representative powered by Claude (Anthropic). The roofing specific tools include a Pre knock Briefing that fetches 12 months of real storm event data from the XWeather API and generates a neighborhood briefing using AI, and a Damage Scanner that analyzes roof photos using Claude vision to produce structured damage reports. The application is deployed on Cloudflare Pages and uses Supabase for authentication, database management, and real time subscriptions. This report documents the design decisions, implementation results, and technical challenges encountered during the full semester development of the project.",
     "keywords": "Progressive Web App, Door-to-door sales, AI sales tools, Supabase, Cloudflare Pages",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13sQBcLxSQgrtSS4inMi9qc-L4VxdOshL",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13sQBcLxSQgrtSS4inMi9qc-L4VxdOshL",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1t07AB8Y0I5Li2qH6hXlJcspiFpuRQQ9D",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1XztaFWA7ge2nND5RAoLdlcqMabylbGZ6",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1TUFRKeisY2r34Z8T8SEsnqbBqfwyOjCp"
     ],
     "presentation": null,
     "video": [
@@ -343,16 +343,16 @@
     "projectTitle": "Windows Defender Malware Alerts to iPhone using nfty",
     "projectDesc": "This project presents a system that converts Windows Defender security events into real-time push notifications using nfty. The goal was to improve malware alert visibility by notifying users instantly on a mobile device without manually checking system logs. The system uses Task Scheduler to monitor Windows Defender events and trigger notifications. Initial testing showed inconsistent results when relying only on Event ID 1116 (malware detection). This was resolved by implementing a custom XML filter to monitor multiple event IDs, including 1116, 1117(action taken), and 1118(action failed), improving reliability across different detection scenarios. The design was further simplified by using inline PowerShell commands instead of separate script files. Notifications were enhanced to include the computer name and username for better context.Testing with the EICAR file (commonly used malware triggering file) confirmed that alerts are triggered reliably, typically during file creation rather than execution. The final system is lightweight, cost-effective, and effective for real-time malware alerting.",
     "keywords": "Windows Defender, ntfy, push notifications, malware detection, Task Scheduler",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1WWp3Qk2BNtIp3-L4yxTYd2JFeI0Ijw7X",
     "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity",
       "CompTIA Tech+": "https://www.comptia.org/en-us/certifications/tech/",
       "Microsoft certified Azure Fundamentals": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1WWp3Qk2BNtIp3-L4yxTYd2JFeI0Ijw7X",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=18-USB-FZkELpKKkjkJhtPvjewc9wNSpE",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1djd88f3Ks3sSobU0Vw9ZV9dnm66TudyO",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1kQqbRXJpPNSE7-WyNo8NmSPOc0Phs6T2"
     ],
     "presentation": null,
     "video": [
