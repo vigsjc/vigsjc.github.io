@@ -272,11 +272,11 @@
     "projectTitle": "Arduino Reaction Time Game",
     "projectDesc": "The purpose of this project is to apply foundational concepts in electronics and programming to create an interactive game that measures two users’ response time to determine a winner. Specifically, my Arduino based reaction time game built using a breadboard. Throughout this progress phase, the focus has been on assembling core hardware components, including LEDs, push buttons, and a buzzer, and integrating them with Arduino code to produce accurate timing and feedback. Challenges encountered so far include debugging wiring inconsistencies, refining timing logic, and ensuring reliable user input detection. These troubleshooting issues have provided valuable opportunities for growth and understanding in both hardware and software systems. \nThe timing measurements are functioning as intended, along with the push buttons, the buzzer, and the lights that signal the user when to go. The primary technical problem addressed In this project is designing and implementing a fully functional reaction time game using an Arduino and a breadboard based circuit. This involves coordinating both hardware and software to create an engaging and responsive system. Challenges included integrating multiple components such as LEDs, push buttons, and a buzzer, as well as developing accurate code that controls timing, user input, and game logic in a fun but seamless way. The proposed solution is to build a structured Arduino program that manages the sequence of events, triggering a visual cue, detecting a response from either user, then determining the winner by whoever pushed their button first. By combining organized wiring with efficient coding, the system is able to function as an interactive game that measures and displays reaction time performance.",
     "keywords": "Reaction game, Arduino",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rpzz5XX_rWjmJ-e9-b-4ZrhjXD0pfK2_",
     "certificates": null,
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1rpzz5XX_rWjmJ-e9-b-4ZrhjXD0pfK2_",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1mckHKg7TiYotMBumGBdOP946ZZ6HfCJX",
       null,
       null
     ],
@@ -295,21 +295,21 @@
     "projectTitle": "Design and Implementation of a Basic Home Network",
     "projectDesc": "This capstone project focuses on the design and implementation of a basic home network using both simulation and physical equipment. Many home networks are not properly configured, which can lead to slow performance, connection issues, and security risks. The problem addressed in this project is how to create a reliable, secure, and well-organized network that supports multiple devices. To solve this problem, the network was first designed and tested using Cisco Packet Tracer and then implemented using physical Cisco devices such as a router, switch, and wireless access point. The project is divided into three phases: Core 1 focuses on basic connectivity, Core 2 focuses on VLAN configuration for better organization and performance, and the Extension phase adds wireless connectivity and WPA2 security. The results show that the network successfully allows communication between devices while improving performance and security. This project demonstrates important networking concepts such as IP addressing, switching, VLANs, and wireless networking, and provides hands-on experience that can be applied in real-world IT environments.",
     "keywords": "Home network, Cisco Packet Tracer, VLAN, Wireless networking, Network security",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bNTTB5ZqEDYX_1exPGj6z-V7pxnmHQyV",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      null,
-      null
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1bNTTB5ZqEDYX_1exPGj6z-V7pxnmHQyV",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ubYBb5YQ4lX5S6iI3rqzFkM6-G6ZHzc",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=14skGRDD41LMRTLBFQb3DgI017Wqif5F8",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1-VGicjHDq9acWY37U7z-pZddRJwehUjy"
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1JzoOlfrpHyaj-vv8Z9jYv_wfcPklcKnE/perview",
     "video": [
-      null,
+      "https://drive.google.com/file/d/1pdi37M7jmUhA03U90u1_qVC7YvZtPkfw/perview",
       null
     ],
-    "brochure": null,
+    "brochure": "https://drive.google.com/file/d/1fXYmyOzlwiw6uEen3W_iut8bd6Q5LStE/perview",
     "contact": "https://www.linkedin.com/in/emerence-niyonsaba"
   },
   {
