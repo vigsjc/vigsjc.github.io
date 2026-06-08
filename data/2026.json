@@ -463,16 +463,16 @@
     "projectTitle": "Pi-hole hosted on Free-Tier cloud resources",
     "projectDesc": "In my experience, ads and trackers are bothersome and intrusive, and VPNs that are free often come with downsides and lack of user control to compensate. My proposed solution is to create a setup in the cloud that can only be accessed through a VPN, in this case Wireguard. In this cloud stack, I will include Pi-hole, which acts as a DNS sinkhole which blocks requests towards domains/websites that service ads and trackers. It will also include Unbound, a recursive DNS server which reduces the reliance on third-party DNS servers. It uses docker containers in order to be as efficient as possible, and aims to be well within the limits of the free tier of any given cloud provider. For my project, the chosen provider is Oracle Cloud.",
     "keywords": "DNS, VPN, Containers, Cloud",
-    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+    "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1FkpQZamq2Pt2iSCR9xDjUK9oiB7KprOM",
     "certificates": {"Google IT Support Professional": "https://www.coursera.org/google-certificates/it-support-certificate"
     },
     "images": [
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
-      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=13ZcxYgOHDug9vyceWj3iKfn_TFis6AHZ",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1FkpQZamq2Pt2iSCR9xDjUK9oiB7KprOM",
+      "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1ZMWQJ5Azody7WGcx_WbMRxYpkBpc4HJj",
       null,
       null
     ],
-    "presentation": null,
+    "presentation": "https://drive.google.com/file/d/1fx4_vAueJ90HrzcR5oAvo5wE_-QlS4iU/perview",
     "video": [
       "https://www.youtube.com/watch?v=bqs_PAg0z2A",
       null
