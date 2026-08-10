@@ -79,7 +79,7 @@
     "projectDesc": "I have always used a VPN once I knew the dangers that could be lurking withing the vast annals of the internet, most people who do use a VPN like me purchase a service like McAfee, NordVPN, and many others that can assure safety and responsibility for your data. However, the thought came to me, why should I have to pay for a VPN when the option to make my own stands before me, I can save money, know what is happening and where my data is going all from the comfort of my own home. Thus, I set out to create my own VPN where by learning the process I can use Wire Guard, learn to configure my router to port forward, and create a dedicated DNS server all to fill the need of internet safety. So I set out and studied to create my capstone project, the creation of a VPN using a DNS server and port forwarding my router using a Raspberry Pi 5.",
     "keywords": "VPN, DNS server, Port forwarding, Raspberry Pi",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I7boxW5ImtFodj97-33HrhuhZWu6vw3k",
-    "certificates": null,
+    "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity"},
     "images": [
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1I7boxW5ImtFodj97-33HrhuhZWu6vw3k",
       "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1dOQqrhmPuui8y_K3e4GS0EXYpFWeo3li",
@@ -282,7 +282,7 @@
     ],
     "presentation": null,
     "video": [
-      "https://drive.google.com/drive/folders/1fq7AjzNRDhwxfdwWttT8A5o6f7zpUu-G/view",
+      "https://drive.google.com/file/d/1Lx-17iVpFjzuhVCDtmogaFfYK2vkH4kL/view",
       null
     ],
     "brochure": null,
@@ -370,7 +370,7 @@
     "projectDesc": "This project documents the design, optimization, and performance evaluation of a modern Smart Home Network built around a Verizon 5G modem-router and a Linksys Wi-Fi 6E mesh system with three nodes. The network integrates a diverse set of smart and IoT devices, including 2.4 GHz and 5 GHz solar security cameras, a Canon wireless AIO printer-scanner, an iMac, a Windows PC, two Amazon Alexa Dots, an Alexa-enabled air conditioner, four Alexa smart light switches, an iPad, an iPhone, a WD My Cloud NAS, and a Deeper Connect Mini for decentralized private networking (DPN). \nA key focus of the project is upgrading the network to DPN and supporting the new 5 GHz solar cameras while maintaining stability across all devices. Network tuning included optimizing mesh node placement, reducing channel overlap, segmenting IoT traffic, and mitigating RF interference between 2.4 GHz and 5 GHz devices. The results demonstrate that a properly configured mesh Wi-Fi 6E system can unify a large mixed-protocol smart home environment, minimize collisions, and deliver reliable performance for both high-bandwidth devices and low-power IoT components.",
     "keywords": "Wi-Fi mesh, IoT, Decentralized Private Networking (DPN), Mixed-protocol smart hom",
     "profilePicture": "https://drive.google.com/thumbnail?sz=w4000&export=view&id=1k--7kBBNpNdXwE97VfgJXzosZ4WuTlmc",
-    "certificates": {"Google Cybersecurity Professional (in progress)": "https://www.coursera.org/google-certificates/google-cybersecurity",
+    "certificates": {"Google Cybersecurity Professional": "https://www.coursera.org/google-certificates/google-cybersecurity",
       "2025-26 CST Distinguished Senior Award nominee": "https://www.eku.edu/stem/computer-science-and-information-technology/bs-cyber-systems-technology/"
     },
     "images": [
